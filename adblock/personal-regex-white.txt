@@ -1,0 +1,18 @@
+! Title: HaGeZi's Personal AdGuard RegEx Whitelist
+! Description: My personal regex blocklist for AdGuard Home / AdGuard DNS
+! Homepage: https://github.com/hagezi/dns-blocklists
+! Issues: https://github.com/hagezi/dns-blocklists/issues
+! License: https://github.com/hagezi/dns-blocklists/blob/main/LICENSE.md
+! Expires: Updated regularly
+! Syntax: AdGuard
+
+! White
+
+! Allow Referral Links
+@@/^clicks?\.[a-z0-9\-]*\./
+@@/^e?mails?(\-[a-z0-9]*)?\.[a-z0-9\-]*\./
+@@/^go(to)?\.[a-z0-9\-]*\./
+@@/^(news)?links?\.[a-z0-9\-]*\./
+@@/^redirect\.[a-z0-9\-]*\./
+@@/^target\.[a-z0-9\-]*\./
+@@/^open\.[a-z0-9\-]*\./
