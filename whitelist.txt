@@ -182,7 +182,8 @@ gateway.facebook.com
 i.instagram.com
 instagram.com
 lm.facebook.com
-mqtt-*.facebook.com
+mqtt*.facebook.com
+msgr*.facebook.com
 platform.instagram.com
 scontent-*.xx.fbcdn.net
 star*.facebook.com
@@ -219,6 +220,7 @@ android.clients.google.com
 apis.google.com
 appsbackup-pa.clients6.google.com
 appsbackup-pa.googleapis.com
+calendar.google.com
 clients*.google.com
 clientservices.googleapis.com
 commondatastorage.googleapis.com
@@ -254,6 +256,7 @@ ogs.google.com
 optimizationguide-pa.googleapis.com
 padlet-uploads.storage.googleapis.com
 people-pa.googleapis.com
+pki-goog.l.google.com
 play.google.com
 playmoviesdfe-pa.googleapis.com
 redirector.googlevideo.com
@@ -262,12 +265,15 @@ safebrowsing.googleapis.com
 semanticlocation-pa.googleapis.com
 sites.google.com
 suggestqueries.google.com
+suggestqueries.l.google.com
 supl.google.com
 support.google.com
 telephonyspamprotect-pa.googleapis.com
 userlocation.googleapis.com
 video-stats.l.google.com
+youtube-ui.l.google.com
 yt3.ggpht.com
+
 # Not used for tracking, metrics, analytics
 *.metric.gstatic.com
 
