@@ -7,7 +7,21 @@
 ! Syntax: AdGuard
 
 ! TikTok Fingerprinting
+||analytics*.tiktok.com^
+||ads*.tiktok.com^
+
+||log*.tiktok.com^
 ||log*.tiktokv.com^
+||log*.byteoversea.com^
 ||rtlog*.tiktokv.com^
+||rtlog*.byteoversea.com^
 ||xlog*.tiktokv.com^
+||xlog*.byteoversea.com^
 ||mon*.tiktokv.com^
+||mon*.byteoversea.com^
+
+||gecko*.tiktokv.com^
+||gecko*.byteoversea.com^
+||frontier*.tiktokv.com^
+||frontier*.byteoversea.com^
+||pitaya*.tiktokv.com^
