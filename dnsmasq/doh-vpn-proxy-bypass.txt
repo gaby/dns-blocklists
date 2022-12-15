@@ -4,10 +4,10 @@
 # Homepage: https://github.com/hagezi/dns-blocklists
 # Issues: https://github.com/hagezi/dns-blocklists/issues
 # Expires: Updated regularly
-# Last modified: 11 Dez 2022 23:49 UTC
-# Version: 2022.1211.2349.27
+# Last modified: 15 Dez 2022 23:49 UTC
+# Version: 2022.1215.2349.18
 # Syntax: DNSMasq
-# Domains: 1226
+# Domains: 1232
 #
 address=/0000a-fast-proxy.de/#
 address=/012proxy.ga/#
@@ -389,6 +389,7 @@ address=/freecanadavpn.com/#
 address=/freecavpn.com/#
 address=/freecloudvpn.com/#
 address=/freedevpn.com/#
+address=/freedomvpn.ga/#
 address=/freeeuroproxy.com/#
 address=/freehiddenvpn.gq/#
 address=/freeopenproxy.com/#
@@ -434,6 +435,7 @@ address=/geti2p.net/#
 address=/getlantern.org/#
 address=/getproxi.es/#
 address=/getusvpn.com/#
+address=/getvpn.info/#
 address=/gfwvpn.com/#
 address=/gizlibaglanti.com/#
 address=/privacydns.go6lab.si/#
@@ -559,6 +561,7 @@ address=/linkmefree.net/#
 address=/linkmetube.com/#
 address=/quickvpn.lipisoft.com/#
 address=/locaproxy.com/#
+address=/lookingglass.site/#
 address=/lopana.com/#
 address=/luminati.io/#
 address=/luminatinet.com/#
@@ -740,6 +743,7 @@ address=/privadovpn.com/#
 address=/privateinternetaccess.com/#
 address=/privatetunnel.com/#
 address=/privatevpn.com/#
+address=/pro-unblock.com/#
 address=/prointern.info/#
 address=/prostovpn.org/#
 address=/protonstatus.com/#
@@ -790,6 +794,7 @@ address=/proxyfor.eu/#
 address=/proxyfree.org/#
 address=/proxygogo.info/#
 address=/proxyhub.in/#
+address=/proxyisp.com/#
 address=/proxylistpro.com/#
 address=/proxyload.net/#
 address=/proxymaster.me/#
@@ -902,7 +907,9 @@ address=/smartydns.com/#
 address=/snowproxy.com/#
 address=/socks-proxy.net/#
 address=/free-vpn.en.softonic.com/#
+address=/softvpn.ml/#
 address=/spacevpn.io/#
+address=/spanproxy.com/#
 address=/sparklabs.com/#
 address=/doh-01.spectrum.com/#
 address=/doh-02.spectrum.com/#
@@ -1222,7 +1229,6 @@ address=/youtubeunblocked.live/#
 address=/youtubez.com/#
 address=/yui.cat/#
 address=/yxorproxy.com/#
-address=/zacebookpk.com/#
 address=/zalmos.com/#
 address=/zen44.com/#
 address=/zend2.com/#
