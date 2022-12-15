@@ -4,10 +4,10 @@
 ! Issues: https://github.com/hagezi/dns-blocklists/issues
 ! License: https://github.com/hagezi/dns-blocklists/blob/main/LICENSE.md
 ! Expires: Updated regularly
-! Last modified: 15 Dez 2022 18:40 UTC
-! Version: 2022.1215.1840.08
+! Last modified: 15 Dez 2022 19:53 UTC
+! Version: 2022.1215.1953.54
 ! Syntax: AdBlock
-! Domains: 25280
+! Domains: 25300
 !
 ||000webhostapp.com^
 ||004809f9da.com^
@@ -478,10 +478,6 @@
 ||prod.cm.publishers.advertising.a2z.com^
 ||bugsnag-event.monitor.core.app.alexa.a2z.com^
 ||notify.bugsnag.appstore.a2z.com^
-||ap-southeast-1.prod.pr.analytics.console.aws.a2z.com^
-||us-east-1.prod.pr.analytics.console.aws.a2z.com^
-||us-east-2.prod.pr.analytics.console.aws.a2z.com^
-||us-west-2.prod.pr.analytics.console.aws.a2z.com^
 ||metrics.client-eng.a2z.com^
 ||na.prod.pdss.paladin.a2z.com^
 ||insights.video.a2z.com^
@@ -3717,6 +3713,7 @@
 ||bigrourg.net^
 ||bigtus.com^
 ||bigwww.com^
+||bihnxhkl.ru^
 ||amptrack.bild.de^
 ||as.bild.de^
 ||data-861bbf2127.bild.de^
@@ -6372,6 +6369,7 @@
 ||ftrk.crazyegg.com^
 ||pagestates-tracking.crazyegg.com^
 ||sample.crazyegg.com^
+||sample-api-v2.crazyegg.com^
 ||script.crazyegg.com^
 ||tracking.crazyegg.com^
 ||user-event-tracker.crazyegg.com^
@@ -6381,6 +6379,7 @@
 ||crbbgate.com^
 ||crdefault.link^
 ||crealytics.com^
+||creasureeffe.club^
 ||s.createprintables.com^
 ||createsend.com^
 ||createsend1.com^
@@ -6500,6 +6499,7 @@
 ||ma-adx.ctrip.com^
 ||u.ctrip.com^
 ||crm.ws.ctrip.com^
+||ctripcorp.com^
 ||ctrmanager.com^
 ||xml.ctrtraffic.com^
 ||smetrics.ctshirts.com^
@@ -7765,6 +7765,7 @@
 ||deqwas.net^
 ||data-af9a061aaf.deraktionaer.de^
 ||deriv.com^
+||derotin.com^
 ||px.derstandard.at^
 ||metrics.dertour.de^
 ||data-ee807be806.derwesten.de^
@@ -8620,7 +8621,6 @@
 ||metrics.fidelity.com.edgekey.net^
 ||flashtalking.com.edgekey.net^
 ||metrics.hackerrank.com.edgekey.net^
-||dsa-sslv6.hispace.hicloud.com.edgekey.net^
 ||innovid.com.edgekey.net^
 ||insightexpressai.com.edgekey.net^
 ||i16-tb.isnssdk.com.edgekey.net^
@@ -8856,6 +8856,7 @@
 ||emlfiles1.com^
 ||emlfiles4.com^
 ||emltrk.com^
+||emlytics.me^
 ||emmiol.com^
 ||emoailtoo.com^
 ||emoha.com^
@@ -9475,6 +9476,7 @@
 ||fbgameworld.com^
 ||fbmedia-ckl.com^
 ||fbot.me^
+||fbrsoll.ru^
 ||fbthirdpartypixel.com^
 ||analyzer54.fc2.com^
 ||counter1.fc2.com^
@@ -11152,6 +11154,7 @@
 ||gussbkpr.website^
 ||cdn.gusto.com^
 ||ciszhp.gutefrage.net^
+||guteholzheizung.de^
 ||data-29b3ebc284.gutekueche.de^
 ||r.gutscheinmailer24.de^
 ||gvaq70s7he.ru^
@@ -11837,6 +11840,7 @@
 ||hunjoinz.pics^
 ||hunkal.com^
 ||hunter-recruitment.nl^
+||hunterdelivery.com^
 ||smetrics.huntington.com^
 ||ddata.huntingtonbank.com^
 ||ensighten.huntingtonbank.com^
@@ -12218,6 +12222,7 @@
 ||sdk.infiniadmp.com^
 ||xml.infinity-info.com^
 ||infinity-tracking.net^
+||inflameemanent.cam^
 ||engage-network.influencemobile.com^
 ||events.influencemobile.com^
 ||messaging.influencemobile.com^
@@ -12885,6 +12890,7 @@
 ||jomtingi.net^
 ||jonathanslandingnh.org^
 ||jonesarch.com^
+||jonsonsbabyy.com^
 ||ad.jorte.com^
 ||gnnkrz.josbank.com^
 ||t.jossandmain.com^
@@ -14024,6 +14030,7 @@
 ||analytics.livestream.com^
 ||detnmz.livestrong.com^
 ||livetrafficfeed.com^
+||livetus.com^
 ||liveupdt.com^
 ||liveyield.com^
 ||partners.liveyourtruth.com^
@@ -14180,6 +14187,7 @@
 ||lr-in.com^
 ||lr-ingest.io^
 ||info.lrqa.com^
+||lsassupdate.com^
 ||lsbebm.xyz^
 ||lsdm.co^
 ||www2.lseg.com^
@@ -16608,6 +16616,7 @@
 ||log.ohou.se^
 ||ohtctjiuow.com^
 ||oidaio.com^
+||oijlmxl.ru^
 ||ointmentaloofpincers.com^
 ||oipzyrzffum.ovh^
 ||ojooo.com^
@@ -18669,6 +18678,7 @@
 ||metrics.radissonhotelsamericas.com^
 ||images.global.radware.com^
 ||cdn.raekdata.com^
+||raferif.com^
 ||rageagainstthesoap.com^
 ||raidbossa.com^
 ||raidersfanteamshop.com^
@@ -19992,8 +20002,12 @@
 ||www2.servicedeskinstitute.com^
 ||servicedhunter.com^
 ||servicedpower.com^
+||servicedupdater.com^
+||servicegungster.com^
 ||servicesbooster.com^
+||serviceshelpers.com^
 ||servicetick.com^
+||serviceuphelper.com^
 ||serving-passthrough.com^
 ||serving-sys.com^
 ||servingcdn.net^
@@ -22113,6 +22127,7 @@
 ||smetrics.timeout.com^
 ||ugdcxl.timeout.com^
 ||tilanalytics.timesinternet.in^
+||timesshifts.com^
 ||n730.timesunion.com^
 ||metric.timewarnercable.com^
 ||metrics.timewarnercable.com^
@@ -22261,6 +22276,8 @@
 ||topsecurityservice.net^
 ||topservice-masters.com^
 ||topservicebooster.com^
+||topservicesbooster.com^
+||topservicesupdate.com^
 ||static.topsolutionsmedia.com^
 ||xml-v4.topsolutionsmedia.com^
 ||topsummerapps.net^
@@ -22274,6 +22291,7 @@
 ||torrent-protection.com^
 ||m1.torrenti.al^
 ||torrentz.eu^
+||torsdetinsup.com^
 ||toru0vane.com^
 ||toskmisway.com^
 ||totalexpert.com^
@@ -24186,6 +24204,7 @@
 ||smetrics.williams-sonoma.com^
 ||smetrics.wilson.com^
 ||trk.winaffiliates1.com^
+||windefens.com^
 ||windingnegotiation.com^
 ||window-updates-service.com^
 ||ceuswatcab01.blob.core.windows.net^
@@ -24222,6 +24241,7 @@
 ||winluckychance.com^
 ||winluckylinks.com^
 ||www2.winmarkglobal.com^
+||winsysteminfo.com^
 ||winsystemupdate.com^
 ||tracker.winudf.com^
 ||winwin7.com^
