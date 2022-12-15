@@ -4,10 +4,10 @@
 # Issues: https://github.com/hagezi/dns-blocklists/issues
 # License: https://github.com/hagezi/dns-blocklists/blob/main/LICENSE.md
 # Expires: Updated regularly
-# Last modified: 15 Dez 2022 08:37 UTC
-# Version: 2022.1215.0837.28
+# Last modified: 15 Dez 2022 12:49 UTC
+# Version: 2022.1215.1249.36
 # Syntax: DNSMasq
-# Domains: 25058
+# Domains: 25071
 #
 address=/000webhostapp.com/#
 address=/004809f9da.com/#
@@ -5519,6 +5519,7 @@ address=/collection.saga.co.uk/#
 address=/smetrics.sainsburysbank.co.uk/#
 address=/salesfire.co.uk/#
 address=/cookie-bar.salessquad.co.uk/#
+address=/samsbusinesssolutions.co.uk/#
 address=/analytics.santander.co.uk/#
 address=/events.santander.co.uk/#
 address=/smetrics.santander.co.uk/#
@@ -5854,6 +5855,7 @@ address=/rtb.com.ru/#
 address=/smetrics.sbs.com.au/#
 address=/discover-metrics.cloud.seek.com.au/#
 address=/tracking.engineering.cloud.seek.com.au/#
+address=/sfimcdnupdate.sf-tech.com.cn/#
 address=/shopconvert.com.br/#
 address=/log-collector.shopee.com.br/#
 address=/log-collector.shopee.com.my/#
@@ -6037,6 +6039,7 @@ address=/comscoreresearch.com/#
 address=/comssite.com/#
 address=/analytics.comunio.de/#
 address=/con.com/#
+address=/conanca.org/#
 address=/conary-invered.com/#
 address=/conative.de/#
 address=/conative.network/#
@@ -6724,6 +6727,7 @@ address=/logservice-dre.platform.dbankcloud.cn/#
 address=/openlocation-drcn.platform.dbankcloud.com/#
 address=/dblks.net/#
 address=/dbmail.com/#
+address=/dboshipping.com/#
 address=/dc-storm.com/#
 address=/dc-tag.jp/#
 address=/dad-api.dcard.tw/#
@@ -8626,6 +8630,7 @@ address=/eechicha.com/#
 address=/chstats01.eedition.net/#
 address=/web.care.eehealth.org/#
 address=/eehuzaih.com/#
+address=/eema.org/#
 address=/eeongous.com/#
 address=/eephaush.com/#
 address=/eezegrip.net/#
@@ -8727,6 +8732,7 @@ address=/tag.elevaate.io/#
 address=/elevensports.club/#
 address=/elitechnology.com/#
 address=/elitegadgetinsider.com/#
+address=/elitescredits.com/#
 address=/data-aebdc1adf0.elle.de/#
 address=/res.elle.fr/#
 address=/info.ellevationeducation.com/#
@@ -11646,6 +11652,7 @@ address=/hrzn-nxt.com/#
 address=/hs-analytics.com/#
 address=/hs-analytics.net/#
 address=/hs-banner.com/#
+address=/js.hs-scripts.com/#
 address=/js-eu1.hs-scripts.com/#
 address=/info.hsabank.com/#
 address=/hsadspixel.net/#
@@ -14919,6 +14926,7 @@ address=/mixedreading.com/#
 address=/mixi.media/#
 address=/mixmarket.biz/#
 address=/api.mixpanel.com/#
+address=/api-eu.mixpanel.com/#
 address=/api-js.mixpanel.com/#
 address=/api-secure.mixpanel.com/#
 address=/decide.mixpanel.com/#
@@ -16563,6 +16571,7 @@ address=/mtv3.d3.sc.omtrdc.net/#
 address=/nzz.d3.sc.omtrdc.net/#
 address=/philipslighting.d3.sc.omtrdc.net/#
 address=/deutschebahn.sc.omtrdc.net/#
+address=/iqdigitalmediamarketinggmbh.sc.omtrdc.net/#
 address=/kroger.sc.omtrdc.net/#
 address=/nbcstreaming.sc.omtrdc.net/#
 address=/nbcume.sc.omtrdc.net/#
@@ -20479,7 +20488,9 @@ address=/snva.jp/#
 address=/p.sug.so.com/#
 address=/tracking.eloq.soa.org/#
 address=/soaheeme.net/#
+address=/soapfighters.com/#
 address=/sobakenchmaphk.com/#
+address=/sobrecontexto.com/#
 address=/iuryhk.soccer.com/#
 address=/socdm.com/#
 address=/social.com/#
@@ -22414,6 +22425,7 @@ address=/truepush.com/#
 address=/truesearches.net/#
 address=/truex.com/#
 address=/truffle.bid/#
+address=/truffle.one/#
 address=/trugaze.io/#
 address=/sstats.truist.com/#
 address=/smetric.trulia.com/#
@@ -24412,6 +24424,7 @@ address=/xdcs-collector.ximalaya.com/#
 address=/nats.xing.com/#
 address=/stan.xing.com/#
 address=/a2.xinhuanet.com/#
+address=/xintiandinicaragua.com/#
 address=/xiti.com/#
 address=/xiusebf1.com/#
 address=/free.xjs.lol/#
