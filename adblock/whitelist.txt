@@ -260,6 +260,8 @@
 @@|geller-pa.googleapis.com^
 @@|geo3.ggpht.com^
 @@|geomobileservices-pa.googleapis.com^
+@@|gmail.com^
+@@|www.gmail.com^
 @@|gnpfesdk-pa.googleapis.com^
 @@|google.com^
 @@|www.google.com^
@@ -277,6 +279,7 @@
 @@|id.google.com^
 @@|id.google.de^
 @@|igapromomanager-pa.googleapis.com^
+@@|imap.gmail.com^
 @@|imasdk.googleapis.com^
 @@|inbox.google.com^
 @@|infinitedata-pa.googleapis.com^
@@ -324,8 +327,8 @@
 @@|support.google.com^
 @@|tasks-pa.googleapis.com^
 @@|telephonyspamprotect-pa.googleapis.com^
-@@|tools.l.google.com^
 @@|tools.google.com^
+@@|tools.l.google.com^
 @@|ulp1p-pa.googleapis.com^
 @@|update.googleapis.com^
 @@|userlocation.googleapis.com^
@@ -580,22 +583,15 @@
 @@|www.tg.dev^
 
 ! Twitch
-@@|ext-twitch.tv^
-@@|www.ext-twitch.tv^
-@@|jtvnw.net^
-@@|www.jtvnw.net^
-@@|live-video.net^
-@@|www.live-video.net^
-@@|ttvnw.net^
-@@|www.ttvnw.net^
-@@|twitch.map.fastly.net^
-@@|twitch.okta.com^
-@@|twitch.tv^
-@@|www.twitch.tv^
-@@|twitchcdn.net^
-@@|www.twitchcdn.net^
-@@|twitchsvc.net^
-@@|www.twitchsvc.net^
+@@||ext-twitch.tv^
+@@||jtvnw.net^
+@@||live-video.net^
+@@||ttvnw.net^
+@@||twitch.map.fastly.net^
+@@||twitch.okta.com^
+@@||twitch.tv^
+@@||twitchcdn.net^
+@@||twitchsvc.net^
 
 ! Twitter
 @@|ads.twitter.com^
@@ -651,8 +647,7 @@
 @@|www.whatsappbrand.com^
 
 ! XBox
-@@|xbox.com^
-@@|www.xbox.com^
+@@||xbox.com^
 @@||xboxab.com^
 @@||xboxab.net^
 @@||xboxlive.com^
@@ -1687,8 +1682,7 @@
 @@|track.aliexpress.com^
 
 ! REWE online Prospekt
-@@|bonialconnect.com^
-@@|www.bonialconnect.com^
+@@||bonialconnect.com^
 @@|content-media.bonial.biz^
 
 ! General support chat

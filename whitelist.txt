@@ -253,6 +253,7 @@ footprints-pa.googleapis.com
 geller-pa.googleapis.com
 geo3.ggpht.com
 geomobileservices-pa.googleapis.com
+gmail.com
 gnpfesdk-pa.googleapis.com
 google.com
 google.de
@@ -264,6 +265,7 @@ gvt3.com
 id.google.com
 id.google.de
 igapromomanager-pa.googleapis.com
+imap.gmail.com
 imasdk.googleapis.com
 inbox.google.com
 infinitedata-pa.googleapis.com
@@ -311,8 +313,8 @@ supl.google.com
 support.google.com
 tasks-pa.googleapis.com
 telephonyspamprotect-pa.googleapis.com
-tools.l.google.com
 tools.google.com
+tools.l.google.com
 ulp1p-pa.googleapis.com
 update.googleapis.com
 userlocation.googleapis.com
@@ -544,15 +546,15 @@ telesco.pe
 tg.dev
 
 # Twitch
-ext-twitch.tv
-jtvnw.net
-live-video.net
-ttvnw.net
-twitch.map.fastly.net
-twitch.okta.com
-twitch.tv
-twitchcdn.net
-twitchsvc.net
+*.ext-twitch.tv
+*.jtvnw.net
+*.live-video.net
+*.ttvnw.net
+*.twitch.map.fastly.net
+*.twitch.okta.com
+*.twitch.tv
+*.twitchcdn.net
+*.twitchsvc.net
 
 # Twitter
 ads.twitter.com
@@ -585,7 +587,7 @@ whatsapp.tv
 whatsappbrand.com
 
 # XBox
-xbox.com
+*.xbox.com
 *.xboxab.com
 *.xboxab.net
 *.xboxlive.com
@@ -1512,7 +1514,7 @@ baihe.com
 track.aliexpress.com
 
 # REWE online Prospekt
-bonialconnect.com
+*.bonialconnect.com
 content-media.bonial.biz
 
 # General support chat
