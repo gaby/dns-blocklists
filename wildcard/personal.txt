@@ -4,10 +4,10 @@
 # Issues: https://github.com/hagezi/dns-blocklists/issues
 # License: https://github.com/hagezi/dns-blocklists/blob/main/LICENSE.md
 # Expires: Updated regularly
-# Last modified: 16 Dez 2022 17:57 UTC
-# Version: 2022.1216.1757.04
+# Last modified: 16 Dez 2022 20:12 UTC
+# Version: 2022.1216.2012.34
 # Syntax: Domains Wildcard (DNSCrypt/YogaDNS/...)
-# Domains: 23538
+# Domains: 23535
 #
 *.000webhostapp.com
 *.004809f9da.com
@@ -13079,7 +13079,6 @@
 *.rad.live.com
 *.ssw.live.com
 *.watson.live.com
-*.player.stats.live-video.net
 *.liveadexchanger.com
 *.livebloggs.com
 *.liveburst.com
@@ -21226,8 +21225,6 @@
 *.twinrdack.com
 *.twinrdsrv.com
 *.twinrdsyn.com
-*.edge.ads.twitch.tv
-*.analytics.m7g.twitch.tv
 *.ads-api.twitter.com
 *.ads-bidder-api.twitter.com
 *.dns.twnic.tw
