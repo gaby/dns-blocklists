@@ -6,10 +6,117 @@
 ! Expires: Updated regularly
 ! Syntax: AdGuard
 
+! Ads
+||*met-vgwort-de.cdn.ampproject.org^
+
+! Amazon Device Metrics
+||d3p8zr0ffa9t17.cloudfront.net^
+||device-metrics-*.amazon.com^
+! ||dxz5jxhrrzigf.cloudfront.net^
+! ||web.diagnostic.networking.aws.dev^
+
+! Amazon Prime Video Telemetry
+||*telemetry.insights.video.a2z.com^
+
+! Amazon Sponsored Ads (firetv)
+||aviary.amazon.*^
+
+! Analytics / Tracker
+||demdex.net^
+||iocnt.de^
+||iocnt.net^
+||*analytics.chip.de^
+||*track.bild.de^
+||track*.sevensenders.com^
+||logentries.com^$important
+
+! Apple
+||*analytics-events.apple.com^
+||*feedbackws.icloud.com^
+||*metrics.apple.com^
+||*metrics.mzstatic.com^
+||api-adservices.apple.com^
+||iadsdk.apple.com^
+||metrics.icloud.com^
+||securemvt.apple.com^
+
+! Bugtracker
+||bugsnag.com^
+||crashlytics.com^
+||getsentry.com^
+||instabug.com^
+||sentry-cdn.com^
+||sentry.io^
+||bugs-notify.nordvpn.com^
+||*-bugs-*.rtl.de^
+||errortracking.deepl.com^
+
+! Google
+||*google-analytics.l.google.com^
+||*.analytics.google.com^
+||androidtvchannels-pa.googleapis.com^
+||androidtvwatsonfe-pa.googleapis.com^
+||app-measurement.com^
+||beacons*.gvt*.com^
+||crashlyticsreports-pa.googleapis.com^
+||firebaselogging-pa.googleapis.com^
+||fls.doubleclick.net^
+||fundingchoicesmessages.google.com^
+||g.doubleclick.net^
+||google-analytics.com^
+||googleadservices.com^
+@@||www.googleadservices.com^$important ! Referral Google search results
+||googleoptimize.com^
+||googlesyndication.com^
+||googletagservices.com^
+||pagead-googlehosted.l.google.com^
+||static.doubleclick.net^
+
+! Microsft Telemetry
+||*telemetry.officeapps.live.com^
+||events*.data.microsoft.com^
+||events*.data.msn.*^
+||measure.office.com^
+||pipe.aria.microsoft.com^
+||telemetry*.microsoft.com^
+||vortex*.data.microsoft.com^
+||watson*.microsoft.com^
+
+! Microsoft Tracker
+||adv-cloudfilse.azureedge.net^
+||app-fnsp-matomo-analytics-prod.azurewebsites.net^
+||cdnnwlive.azureedge.net^
+||clarity.ms^
+||fp-cdn.azureedge.net^
+||live-tfs-omnilytics.azurewebsites.net^
+||nlo-stl-web.azureedge.net^
+||pestcontrol-uc1.azureedge.net^
+||sdtagging.azureedge.net^
+||serviceschipotlecom.trafficmanager.net^
+
+! Netflix
+||beacon*.netflix.net^
+||customerevents*.netflix.com^
+||ichnaea*.netflix.com^
+
+! Popups
+7e1e8f3eba.com
+
+! Push Annoyances 
+||cleverpush.com^
+||mycleverpush.com^
+
+! Smart TV
+||alphonso.tv^
+||samba.tv^
+||flingo.tv^
+||log*.vewd.com^
+||tvping.com^
+||tvtelemetrie.com^
+
 ! TikTok Fingerprinting
 ||analytics*.tiktok.com^
 ||ads*.tiktok.com^
-
 ||log*.tiktok.com^
 ||log*.tiktokv.com^
 ||log*.byteoversea.com^
@@ -19,9 +126,13 @@
 ||xlog*.byteoversea.com^
 ||mon*.tiktokv.com^
 ||mon*.byteoversea.com^
-
 ||gecko*.tiktokv.com^
 ||gecko*.byteoversea.com^
 ||frontier*.tiktokv.com^
 ||frontier*.byteoversea.com^
 ||pitaya*.tiktokv.com^
+
+! Video Ads
+||cdn.zomap.de^
+||smartclip.net^
+
