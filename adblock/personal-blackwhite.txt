@@ -10234,7 +10234,6 @@
 ||goaserv.com^
 ||goasrv.com^
 ||goat.com^
-||goatcounter.com^
 ||chihuahua.gob.mx^
 ||segob.gob.mx^
 ||gobacktothefuture.biz^
@@ -32125,6 +32124,13 @@
 ! https://github.com/hagezi/dns-blocklists/issues/109
 @@|noip.at^
 @@|www.noip.at^
+
+! https://github.com/hagezi/dns-blocklists/issues/110
+@@|goatcounter.com^
+@@|www.goatcounter.com^
+
+! required to use Space Pool mobile app
+@@|api-mainnet.pool.space^
 
 ! Title: HaGeZi's White-/Allowlist Referral
 ! Description: This list unblocks affiliate & tracking referral links that appear in mails, search results etc.

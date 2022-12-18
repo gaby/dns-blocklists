@@ -2382,3 +2382,10 @@
 @@|noip.at^
 @@|www.noip.at^
 
+! https://github.com/hagezi/dns-blocklists/issues/110
+@@|goatcounter.com^
+@@|www.goatcounter.com^
+
+! required to use Space Pool mobile app
+@@|api-mainnet.pool.space^
+
