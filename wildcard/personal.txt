@@ -4,10 +4,10 @@
 # Issues: https://github.com/hagezi/dns-blocklists/issues
 # License: https://github.com/hagezi/dns-blocklists/blob/main/LICENSE.md
 # Expires: Updated regularly
-# Last modified: 18 Dez 2022 19:29 UTC
-# Version: 2022.1218.1929.48
+# Last modified: 19 Dez 2022 00:20 UTC
+# Version: 2022.1219.0020.20
 # Syntax: Domains Wildcard (DNSCrypt/YogaDNS/...)
-# Domains: 23791
+# Domains: 23792
 #
 *.000webhostapp.com
 *.004809f9da.com
@@ -2833,6 +2833,7 @@
 *.awprt.com
 *.tracker.awr.im
 *.awrcaverybrstuktdybstr.com
+*.te.ip-prod.aws-cbc.cloud
 *.track.ip-prod.aws-cbc.cloud
 *.gdpr-banner.awsmpsa.com
 *.awstats.cloud
@@ -3501,6 +3502,7 @@
 *.bitmedia.io
 *.bitmedianetwork.com
 *.analytics-ingress-global.bitmovin.com
+*.licensing.bitmovin.com
 *.bitonclick.com
 *.cod.bitrec.com
 *.analytics.bitrix.info
@@ -7864,7 +7866,6 @@
 *.async-px.dynamicyield.com
 *.async-px-eu.dynamicyield.com
 *.cdn.dynamicyield.com
-*.cdn-eu.dynamicyield.com
 *.em.dynamicyield.com
 *.px.dynamicyield.com
 *.px-eu.dynamicyield.com

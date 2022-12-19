@@ -4,10 +4,10 @@
 # Issues: https://github.com/hagezi/dns-blocklists/issues
 # License: https://github.com/hagezi/dns-blocklists/blob/main/LICENSE.md
 # Expires: Updated regularly
-# Last modified: 18 Dez 2022 19:29 UTC
-# Version: 2022.1218.1929.48
+# Last modified: 19 Dez 2022 00:20 UTC
+# Version: 2022.1219.0020.20
 # Syntax: Hosts
-# Domains: 72284
+# Domains: 72285
 #
 0.0.0.0 000webhostapp.com
 0.0.0.0 unitydeveloperhosting2018info.000webhostapp.com
@@ -10617,6 +10617,7 @@
 0.0.0.0 tracker.awr.im
 0.0.0.0 awrcaverybrstuktdybstr.com
 0.0.0.0 www.awrcaverybrstuktdybstr.com
+0.0.0.0 te.ip-prod.aws-cbc.cloud
 0.0.0.0 track.ip-prod.aws-cbc.cloud
 0.0.0.0 gdpr-banner.awsmpsa.com
 0.0.0.0 api.gdpr-banner.awsmpsa.com
@@ -12086,6 +12087,7 @@
 0.0.0.0 bitmedianetwork.com
 0.0.0.0 www.bitmedianetwork.com
 0.0.0.0 analytics-ingress-global.bitmovin.com
+0.0.0.0 licensing.bitmovin.com
 0.0.0.0 bitonclick.com
 0.0.0.0 www.bitonclick.com
 0.0.0.0 cod.bitrec.com
@@ -29228,7 +29230,6 @@
 0.0.0.0 async-px.dynamicyield.com
 0.0.0.0 async-px-eu.dynamicyield.com
 0.0.0.0 cdn.dynamicyield.com
-0.0.0.0 cdn-eu.dynamicyield.com
 0.0.0.0 em.dynamicyield.com
 0.0.0.0 px.dynamicyield.com
 0.0.0.0 px-eu.dynamicyield.com
