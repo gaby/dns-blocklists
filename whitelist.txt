@@ -1718,7 +1718,7 @@ tag.aticdn.net
 
 # Breaks https://support.xbox.com/en-US/
 # https://github.com/AdAway/adaway.github.io/issues/330
-statics-marketingsites-neu-ms-com.akamaized.net
+statics-marketingsites-*-ms-com.akamaized.net
 
 # Adult game site
 ero-labs.online
@@ -1834,7 +1834,7 @@ cdn.split.io
 sdk.split.io
 
 # Used by Origin for content delivery and others
-*.cdn*.optimizely.com
+*.cdn.optimizely.com
 
 # https://github.com/hagezi/dns-blocklists/issues/59#issuecomment-1312547506
 appsumo.com
