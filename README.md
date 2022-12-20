@@ -36,7 +36,7 @@
 | [Normal](#normal)       | 1021634<br>265505     | |   | = | X | X | P | X |
 | [Pro](#pro)              | 1215753<br>387573         | | = | X | X | X | P | X |
 | [Pro++](#proplus)    | 1313983<br>430717 | | ++ | X | X | X | P |  X |
-| [Ultimate](#ultimate)    | 1657409<br>557343 | ++ | X | X | X | X | X |  X |
+| [Ultimate](#ultimate)    | 1657408<br>557342 | ++ | X | X | X | X | X |  X |
            
 *X = contains the named lists in the column header*       
 *P = partially contains the named list in the column header*       
@@ -112,7 +112,7 @@
          
 *Stricter version of the Multi PRO++ blocklist. It may contain false positive domains that limit functionality. Therefore it should only be used by experienced users. Furthermore, an admin should be available to unblock incorrectly blocked domains. Reported false positive domains will be removed from the list!*
 
-**Entries:** *1657409 domains/hosts - 557343 compressed domains* | [Sources/Statistics](https://github.com/hagezi/dns-blocklists/blob/main/usedsources.md#ultimate)    
+**Entries:** *1657408 domains/hosts - 557342 compressed domains* | [Sources/Statistics](https://github.com/hagezi/dns-blocklists/blob/main/usedsources.md#ultimate)    
                                                 
 | Format | Link | Can be used for |
 |:-------|:-----|:----------------|
@@ -260,7 +260,7 @@
 ### ***Personal - My manually maintained blacklist*** <a name="personal"></a>
 *My personal blocklist, an extension for known blocklists. Blocks ads, trackers, native device trackers, badware and more. Not intended to be used as a standalone blocklist, it serves as a addition for other blocklists!*         
         
-**Entries:** *73534 domains/hosts - 24614 compressed domains*
+**Entries:** *73241 domains/hosts - 24580 compressed domains*
        
 | Format | Link | Can be used for |
 |:-------|:-----|:----------------|
