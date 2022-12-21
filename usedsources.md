@@ -140,7 +140,7 @@ For domain and host lists, additionally: matching/missing subdomains (see at the
 #### ULTIMATE
 [whitelisted domains](https://raw.githubusercontent.com/hagezi/dns-data-collection/main/data/ultimate-removed-white.txt) | [whitelisted referral domains](https://raw.githubusercontent.com/hagezi/dns-data-collection/main/data/ultimate-removed-referral.txt) | [dead domains](https://raw.githubusercontent.com/hagezi/dns-data-collection/main/data/ultimate-removed-dead.txt)
 ```
-1990481 total unique domains | 1646590 (83%) included | 1282 (0%) removed | 342609 (17%) dead
+2017369 total unique domains | 1649462 (82%) included | 1357 (0%) removed | 366550 (18%) dead
 
  Nr | Included | Dead | Removed | URL/File
   1 |      97% |   3% |      0% | oisd.domains.txt
@@ -218,23 +218,28 @@ For domain and host lists, additionally: matching/missing subdomains (see at the
  73 |      87% |  13% |      0% | https://raw.githubusercontent.com/DandelionSprout/adfilt/master/NorwegianExperimentalList%20alternate%20versions/NordicFiltersAdGuardHome.txt
  74 |      98% |   1% |      1% | https://gitlab.com/quidsup/notrack-annoyance-blocklist/-/raw/master/notrack-annoyance.txt
  75 |      98% |   1% |      1% | https://gitlab.com/quidsup/notrack-blocklists/raw/master/notrack-blocklist.txt
- 76 |      96% |   2% |      0% | ads-tracking-extension.txt
- 77 |      95% |   4% |      0% | https://raw.githubusercontent.com/Cats-Team/AdRules/main/ad-domains.txt
- 78 |      90% |   9% |      0% | https://anti-ad.net/easylist.txt
- 79 |      81% |  18% |      1% | https://raw.githubusercontent.com/bkrucarci/turk-adlist/master/hosts
- 80 |      71% |  27% |      3% | https://raw.githubusercontent.com/crazy-max/WindowsSpyBlocker/master/data/hosts/spy.txt
- 81 |      89% |  11% |      0% | https://raw.githubusercontent.com/nextdns/cname-cloaking-blocklist/master/domains
- 82 |      95% |   2% |      4% | https://raw.githubusercontent.com/nextdns/click-tracking-domains/main/domains
- 83 |     100% |   0% |      0% | black.list
- 84 |      97% |   0% |      3% | black.list.size
- 85 |     100% |   0% |      0% | ultimate.extension.domains
- 86 |     100% |   0% |      0% | apple.txt
- 87 |      97% |   1% |      3% | windows-office.txt
- 88 |      99% |   1% |      0% | huawei.txt
- 89 |     100% |   0% |      0% | native.tiktok.txt
- 90 |      98% |   2% |      0% | hoster.txt
- 91 |     100% |   0% |      0% | tif.txt
- 92 |     100% |   0% |      0% | pro.plus.txt
+ 76 |      86% |  14% |      0% | https://raw.githubusercontent.com/yourduskquibbles/webannoyances/master/ultralist.txt
+ 77 |      95% |   4% |      1% | https://raw.githubusercontent.com/migueldemoura/ublock-umatrix-rulesets/master/Hosts/ads-tracking
+ 78 |      82% |  17% |      0% | https://raw.githubusercontent.com/bongochong/CombinedPrivacyBlockLists/master/newhosts-final.hosts
+ 79 |      96% |   2% |      0% | ads-tracking-extension.txt
+ 80 |      95% |   4% |      0% | https://raw.githubusercontent.com/Cats-Team/AdRules/main/ad-domains.txt
+ 81 |      90% |   9% |      0% | https://anti-ad.net/easylist.txt
+ 82 |      81% |  18% |      1% | https://raw.githubusercontent.com/bkrucarci/turk-adlist/master/hosts
+ 83 |      97% |   3% |      0% | https://raw.githubusercontent.com/bigdargon/hostsVN/master/hosts
+ 84 |      98% |   2% |      0% | https://raw.githubusercontent.com/bigdargon/hostsVN/master/option/hosts-VN
+ 85 |      71% |  27% |      3% | https://raw.githubusercontent.com/crazy-max/WindowsSpyBlocker/master/data/hosts/spy.txt
+ 86 |      89% |  11% |      0% | https://raw.githubusercontent.com/nextdns/cname-cloaking-blocklist/master/domains
+ 87 |      95% |   2% |      4% | https://raw.githubusercontent.com/nextdns/click-tracking-domains/main/domains
+ 88 |     100% |   0% |      0% | black.list
+ 89 |      96% |   0% |      3% | black.list.size
+ 90 |     100% |   0% |      0% | ultimate.extension.domains
+ 91 |     100% |   0% |      0% | apple.txt
+ 92 |      97% |   1% |      3% | windows-office.txt
+ 93 |      99% |   1% |      0% | huawei.txt
+ 94 |     100% |   0% |      0% | native.tiktok.txt
+ 95 |      98% |   2% |      0% | hoster.txt
+ 96 |     100% |   0% |      0% | tif.txt
+ 97 |     100% |   0% |      0% | pro.plus.txt
 
 For domain and host lists, additionally: matching/missing subdomains (see at the bottom)
 ```
