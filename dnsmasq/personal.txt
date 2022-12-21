@@ -4,10 +4,10 @@
 # Issues: https://github.com/hagezi/dns-blocklists/issues
 # License: https://github.com/hagezi/dns-blocklists/blob/main/LICENSE.md
 # Expires: Updated regularly
-# Last modified: 20 Dez 2022 08:50 UTC
-# Version: 2022.1220.0850.19
+# Last modified: 21 Dez 2022 00:20 UTC
+# Version: 2022.1221.0020.48
 # Syntax: DNSMasq
-# Domains: 24580
+# Domains: 24583
 #
 address=/000webhostapp.com/#
 address=/0016.site/#
@@ -7589,7 +7589,7 @@ address=/mebed.dm-event.net/#
 address=/pebed.dm-event.net/#
 address=/webed.dm-event.net/#
 address=/dmanalytics1.com/#
-address=/dmdi.pl/#
+address=/pixel.dmdi.pl/#
 address=/stlog.d.dmkt-sp.jp/#
 address=/affiliate.dmm.com/#
 address=/stat.i3.dmm.com/#
@@ -14760,6 +14760,7 @@ address=/monsido.com/#
 address=/monstat.com/#
 address=/monsterofnews.com/#
 address=/monsy.com/#
+address=/montlusa.top/#
 address=/montrium.com/#
 address=/monu.delivery/#
 address=/info.moo.com/#
@@ -22421,6 +22422,7 @@ address=/vakkerlight.com/#
 address=/valassis.com/#
 address=/news.valawyersweekly.com/#
 address=/valerainingexplain.com/#
+address=/analytics.validitylabs.org/#
 address=/analytics.valiuz.com/#
 address=/engage.valley.com/#
 address=/valuad.cloud/#
@@ -23904,6 +23906,7 @@ address=/promotions.yahoo.com/#
 address=/analytics.query.yahoo.com/#
 address=/geo.query.yahoo.com/#
 address=/onepush.query.yahoo.com/#
+address=/ras.yahoo.com/#
 address=/readmo.yahoo.com/#
 address=/sombrero.yahoo.net/#
 address=/ssp.yahoo.com/#
