@@ -4,10 +4,10 @@
 # Homepage: https://github.com/hagezi/dns-blocklists
 # Issues: https://github.com/hagezi/dns-blocklists/issues
 # Expires: Updated regularly
-# Last modified: 15 Dez 2022 23:49 UTC
-# Version: 2022.1215.2349.18
+# Last modified: 22 Dez 2022 23:49 UTC
+# Version: 2022.1222.2349.54
 # Syntax: Hosts
-# Domains: 1347
+# Domains: 1342
 #
 0.0.0.0 0000a-fast-proxy.de
 0.0.0.0 012proxy.ga
@@ -465,7 +465,6 @@
 0.0.0.0 freecavpn.com
 0.0.0.0 freecloudvpn.com
 0.0.0.0 freedevpn.com
-0.0.0.0 freedomvpn.ga
 0.0.0.0 freeeuroproxy.com
 0.0.0.0 freehiddenvpn.gq
 0.0.0.0 freeopenproxy.com
@@ -511,7 +510,6 @@
 0.0.0.0 getlantern.org
 0.0.0.0 getproxi.es
 0.0.0.0 getusvpn.com
-0.0.0.0 getvpn.info
 0.0.0.0 gfwvpn.com
 0.0.0.0 gizlibaglanti.com
 0.0.0.0 privacydns.go6lab.si
@@ -640,7 +638,6 @@
 0.0.0.0 linkmetube.com
 0.0.0.0 quickvpn.lipisoft.com
 0.0.0.0 locaproxy.com
-0.0.0.0 lookingglass.site
 0.0.0.0 lopana.com
 0.0.0.0 luminati.io
 0.0.0.0 luminatinet.com
@@ -676,6 +673,7 @@
 0.0.0.0 myproxy.info
 0.0.0.0 myproxysite.org
 0.0.0.0 myunblocksites.com
+0.0.0.0 napps-1.com
 0.0.0.0 napps-2.com
 0.0.0.0 vpn.ncapi.io
 0.0.0.0 dns.aa.net.uk
@@ -837,9 +835,9 @@
 0.0.0.0 privateinternetaccess.com
 0.0.0.0 privatetunnel.com
 0.0.0.0 privatevpn.com
-0.0.0.0 pro-unblock.com
 0.0.0.0 prointern.info
 0.0.0.0 prostovpn.org
+0.0.0.0 vpn-api.proton.me
 0.0.0.0 protonstatus.com
 0.0.0.0 protonvpn.ch
 0.0.0.0 protonvpn.com
@@ -889,7 +887,6 @@
 0.0.0.0 proxyfree.org
 0.0.0.0 proxygogo.info
 0.0.0.0 proxyhub.in
-0.0.0.0 proxyisp.com
 0.0.0.0 proxylistpro.com
 0.0.0.0 proxyload.net
 0.0.0.0 proxymaster.me
@@ -1013,9 +1010,7 @@
 0.0.0.0 snowproxy.com
 0.0.0.0 socks-proxy.net
 0.0.0.0 free-vpn.en.softonic.com
-0.0.0.0 softvpn.ml
 0.0.0.0 spacevpn.io
-0.0.0.0 spanproxy.com
 0.0.0.0 sparklabs.com
 0.0.0.0 doh-01.spectrum.com
 0.0.0.0 doh-02.spectrum.com
