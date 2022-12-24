@@ -17112,7 +17112,6 @@
 ||performancehorizon.com^
 ||performancing.com^
 ||performax.cz^
-||performfeeds.com^
 ||www.geolocation.performgroup.com^
 ||spt.performgroup.com^
 ||perfunctoryfrugal.com^
@@ -18691,7 +18690,6 @@
 ||responservbzh.icu^
 ||responsetap.com^
 ||responsiveads.com^
-||static.cdn.responsys.net^
 ||restartad.com^
 ||smetrics.restaurant.com^
 ||trk.restaurant-hospitality.com^
@@ -33144,6 +33142,18 @@
 
 ! https://github.com/hagezi/dns-blocklists/issues/119
 @@|cdn-116.anonfiles.com^
+
+! https://github.com/hagezi/dns-blocklists/issues/120
+@@|assets.sitescdn.net^
+
+! oppo phone's app accounts such as wallet / my oppo will be forced to log out
+@@|client-uc.heytapmobi.com^
+
+! https://github.com/hagezi/dns-blocklists/issues/122
+@@|static.cdn.responsys.net^
+
+! https://github.com/hagezi/dns-blocklists/issues/122
+@@||performfeeds.com^
 
 ! Title: HaGeZi's White-/Allowlist Referral
 ! Description: This list unblocks affiliate & tracking referral links that appear in mails, search results etc.

@@ -2419,3 +2419,15 @@
 ! https://github.com/hagezi/dns-blocklists/issues/119
 @@|cdn-116.anonfiles.com^
 
+! https://github.com/hagezi/dns-blocklists/issues/120
+@@|assets.sitescdn.net^
+
+! oppo phone's app accounts such as wallet / my oppo will be forced to log out
+@@|client-uc.heytapmobi.com^
+
+! https://github.com/hagezi/dns-blocklists/issues/122
+@@|static.cdn.responsys.net^
+
+! https://github.com/hagezi/dns-blocklists/issues/122
+@@||performfeeds.com^
+
