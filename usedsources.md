@@ -142,7 +142,7 @@ For domain and host lists, additionally: matching/missing subdomains (see at the
 #### ULTIMATE
 [whitelisted domains](https://raw.githubusercontent.com/hagezi/dns-data-collection/main/data/ultimate-removed-white.txt) | [whitelisted referral domains](https://raw.githubusercontent.com/hagezi/dns-data-collection/main/data/ultimate-removed-referral.txt) | [dead domains](https://raw.githubusercontent.com/hagezi/dns-data-collection/main/data/ultimate-removed-dead.txt)
 ```
-2491774 total unique domains | 2169307 (87%) included | 1307 (0%) removed | 321160 (13%) dead
+2508610 total unique domains | 2173523 (87%) included | 1352 (0%) removed | 333735 (13%) dead
 
  Nr | Included | Dead | Removed | URL/File
   1 |      95% |   5% |      0% | oisd.domains.txt
@@ -236,7 +236,7 @@ For domain and host lists, additionally: matching/missing subdomains (see at the
  89 |      99% |   1% |      0% | huawei.txt
  90 |     100% |   0% |      0% | native.tiktok.txt
  91 |      98% |   2% |      0% | hoster.txt
- 92 |     100% |   0% |      0% | tif.txt
+ 92 |      99% |   1% |      0% | tif.txt
  93 |     100% |   0% |      0% | pro.plus.txt
 
 For domain and host lists, additionally: matching/missing subdomains (see at the bottom)
