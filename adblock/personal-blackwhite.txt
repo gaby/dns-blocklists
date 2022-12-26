@@ -11828,7 +11828,6 @@
 ||api.iterable.com^
 ||assets.iterable.com^
 ||js.iterable.com^
-||static.iterable.com^
 ||iteratehq.com^
 ||rabc1.iteye.com^
 ||itim.vn^
@@ -31813,6 +31812,9 @@
 
 ! https://github.com/hagezi/dns-blocklists/issues/127
 @@|tracking.post.japanpost.jp^
+
+! Images in Mails - e.g. NordVPN
+@@|static.iterable.com^
 
 ! Title: HaGeZi's White-/Allowlist Referral
 ! Description: This list unblocks affiliate & tracking referral links that appear in mails, search results etc.
