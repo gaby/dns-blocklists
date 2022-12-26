@@ -733,6 +733,7 @@ https://smokingwheels.github.io/Pi-hole/multiedit
 https://someonewhocares.org/hosts/hosts
 https://someonewhocares.org/hosts/zero/hosts
 https://stanev.org/abp/adblock_bg.txt
+http://stanev.org/abp/adblock_bg.txt
 https://threatfox.abuse.ch/downloads/hostfile
 https://urlhaus.abuse.ch/downloads/hostfile
 https://v.firebog.net/hosts/Admiral.txt
