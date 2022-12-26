@@ -1012,8 +1012,11 @@
 @@|production-cmp.isgprivacy.cbsi.com^
 
 ! Videos on 9news.com.au
-! *.api.brightcove.com
-@@|edge.api.brightcove.com^
+@@||api.brightcove.com^
+! edge.api.brightcove.com
+
+! Sky Sport
+! edge-auth.api.brightcove.com
 
 ! domain reseller
 @@|afternic.com^
@@ -2464,4 +2467,14 @@
 
 ! https://github.com/hagezi/dns-blocklists/issues/122
 @@||performfeeds.com^
+
+! Breaks LinkedIn
+@@||cdx.cedexis.net^
+
+! TSB Bank mobile banking app
+@@|check2.tsb.co.uk^
+@@|h-tsb.online-metrix.net^
+
+! https://github.com/hagezi/dns-blocklists/issues/127
+@@|tracking.post.japanpost.jp^
 
