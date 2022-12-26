@@ -22,7 +22,9 @@
 ! Amazon Sponsored Ads (firetv)
 ||aviary.amazon.*^
 
-! Analytics / Tracker
+! Analytics / Tracker / Privacy
+||cdn-*.onetrust.com^
+||delivery.consentmanager.net^
 ||demdex.net^
 ||iocnt.de^
 ||iocnt.net^
@@ -76,6 +78,7 @@
 ! Microsft Telemetry
 ||*telemetry.officeapps.live.com^
 ||events*.data.microsoft.com^
+||events*.data.trafficmanager.net^
 ||events*.data.msn.*^
 ||measure.office.com^
 ||pipe.aria.microsoft.com^
@@ -127,12 +130,18 @@
 ||xlog*.byteoversea.com^
 ||mon*.tiktokv.com^
 ||mon*.byteoversea.com^
+||mcs*.tiktok.com^
+||mcs*.tiktokv.com^
+||mssdk*.tiktok.com^
+||mssdk*.tiktokv.com^
+||mssdk*.byteoversea.com^
 ||gecko*.tiktokv.com^
 ||gecko*.byteoversea.com^
 ||frontier*.tiktokv.com^
 ||frontier*.byteoversea.com^
 ||pitaya*.tiktokv.com^
 
-! Video Ads
+! Video Ads / Tracking
 ||cdn.zomap.de^
 ||smartclip.net^
+||videostep.com^
