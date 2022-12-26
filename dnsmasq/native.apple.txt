@@ -4,10 +4,10 @@
 # Issues: https://github.com/hagezi/dns-blocklists/issues
 # License: https://github.com/hagezi/dns-blocklists/blob/main/LICENSE.md
 # Expires: Updated regularly
-# Last modified: 01 Dez 2022 08:02 UTC
-# Version: 2022.1201.0802.57
+# Last modified: 26 Dez 2022 15:18 UTC
+# Version: 2022.1226.1518.48
 # Syntax: DNSMasq
-# Domains: 15
+# Domains: 19
 #
 address=/api-adservices.apple.com/#
 address=/books-analytics-events.apple.com/#
@@ -19,6 +19,10 @@ address=/securemvt.apple.com/#
 address=/stocks-analytics-events.apple.com/#
 address=/supportmetrics.apple.com/#
 address=/weather-analytics-events.apple.com/#
+address=/books-analytics-events.news.apple-dns.net/#
+address=/notes-analytics-events.news.apple-dns.net/#
+address=/stocks-analytics-events.news.apple-dns.net/#
+address=/weather-analytics-events.news.apple-dns.net/#
 address=/acfeedbackws.icloud.com/#
 address=/feedbackws.icloud.com/#
 address=/metrics.icloud.com/#
