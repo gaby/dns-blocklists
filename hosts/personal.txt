@@ -4,10 +4,10 @@
 # Issues: https://github.com/hagezi/dns-blocklists/issues
 # License: https://github.com/hagezi/dns-blocklists/blob/main/LICENSE.md
 # Expires: Updated regularly
-# Last modified: 28 Dez 2022 13:53 UTC
-# Version: 2022.1228.1353.12
+# Last modified: 28 Dez 2022 20:44 UTC
+# Version: 2022.1228.2044.40
 # Syntax: Hosts
-# Domains: 74586
+# Domains: 74630
 #
 0.0.0.0 004809f9da.com
 0.0.0.0 www.004809f9da.com
@@ -8265,6 +8265,36 @@
 0.0.0.0 rcm.amazon.com
 0.0.0.0 devicemessaging.us-east-1.amazon.com
 0.0.0.0 ws.amazon.com
+0.0.0.0 at-us-east.amazon-adsystem.com
+0.0.0.0 cdn-a.amazon-adsystem.com
+0.0.0.0 imdb.amazon-adsystem.com
+0.0.0.0 ir-ca.amazon-adsystem.com
+0.0.0.0 ir-de.amazon-adsystem.com
+0.0.0.0 ir-fr.amazon-adsystem.com
+0.0.0.0 ir-in.amazon-adsystem.com
+0.0.0.0 ir-jp.amazon-adsystem.com
+0.0.0.0 ir-na.amazon-adsystem.com
+0.0.0.0 ir-uk.amazon-adsystem.com
+0.0.0.0 mads.amazon-adsystem.com
+0.0.0.0 ps-us.amazon-adsystem.com
+0.0.0.0 rcm-eu.amazon-adsystem.com
+0.0.0.0 rcm-fe.amazon-adsystem.com
+0.0.0.0 rcm-na.amazon-adsystem.com
+0.0.0.0 s.amazon-adsystem.com
+0.0.0.0 tk.amazon-adsystem.com
+0.0.0.0 vfw.amazon-adsystem.com
+0.0.0.0 vfw-us.amazon-adsystem.com
+0.0.0.0 vfw-us-west.amazon-adsystem.com
+0.0.0.0 wms-eu.amazon-adsystem.com
+0.0.0.0 wms-fe.amazon-adsystem.com
+0.0.0.0 wms-in.amazon-adsystem.com
+0.0.0.0 wms-na.amazon-adsystem.com
+0.0.0.0 ws-eu.amazon-adsystem.com
+0.0.0.0 ws-fe.amazon-adsystem.com
+0.0.0.0 ws-in.amazon-adsystem.com
+0.0.0.0 z-eu.amazon-adsystem.com
+0.0.0.0 z-in.amazon-adsystem.com
+0.0.0.0 z-na.amazon-adsystem.com
 0.0.0.0 cloudfront-labs.amazonaws.com
 0.0.0.0 ads-api-new-2052271615.ap-northeast-1.elb.amazonaws.com
 0.0.0.0 adserver-1277986481.ap-northeast-1.elb.amazonaws.com
@@ -8889,6 +8919,7 @@
 0.0.0.0 api.appcelerator.net
 0.0.0.0 www.appcelerator.com
 0.0.0.0 www.appcelerator.net
+0.0.0.0 in.appcenter.ms
 0.0.0.0 appclick.co
 0.0.0.0 www.appclick.co
 0.0.0.0 appcloudbox.net
@@ -10342,6 +10373,8 @@
 0.0.0.0 www.apptornado.com
 0.0.0.0 apptospace.com
 0.0.0.0 www.apptospace.com
+0.0.0.0 apptrace.com
+0.0.0.0 www.apptrace.com
 0.0.0.0 apptracker.stream
 0.0.0.0 www.apptracker.stream
 0.0.0.0 tracking.apptrackerlink.com
@@ -11471,6 +11504,7 @@
 0.0.0.0 avb123.backtory.com
 0.0.0.0 storage.backtory.com
 0.0.0.0 www.backtory.com
+0.0.0.0 events.backtrace.io
 0.0.0.0 backup-helper.com
 0.0.0.0 www.backup-helper.com
 0.0.0.0 backup-leader.com
@@ -36042,6 +36076,7 @@
 0.0.0.0 fcmatch.google.com
 0.0.0.0 fundingchoices.google.com
 0.0.0.0 fundingchoicesmessages.google.com
+0.0.0.0 crashlytics2.l.google.com
 0.0.0.0 pagead-googlehosted.l.google.com
 0.0.0.0 ssl-google-analytics.l.google.com
 0.0.0.0 static-doubleclick-net.l.google.com
@@ -43373,6 +43408,7 @@
 0.0.0.0 smetrics.loewshotels.com
 0.0.0.0 activate.loft.com
 0.0.0.0 smetrics.loft.com
+0.0.0.0 api.loganalytics.io
 0.0.0.0 logbor.com
 0.0.0.0 u.logbor.com
 0.0.0.0 www.logbor.com
@@ -47227,6 +47263,7 @@
 0.0.0.0 monkquestion.com
 0.0.0.0 www.monkquestion.com
 0.0.0.0 eulerian.monoprix.fr
+0.0.0.0 sny.monosnap.com
 0.0.0.0 monotonoustuneunderestimate.com
 0.0.0.0 www.monotonoustuneunderestimate.com
 0.0.0.0 smetrics.monsanto.com
@@ -50585,6 +50622,8 @@
 0.0.0.0 track.opentable.com
 0.0.0.0 track.opentable.de
 0.0.0.0 tracking.opentable.com
+0.0.0.0 opentelemetry.io
+0.0.0.0 www.opentelemetry.io
 0.0.0.0 opentracker.net
 0.0.0.0 gm02b.opentracker.net
 0.0.0.0 gm02f.opentracker.net
@@ -54928,6 +54967,7 @@
 0.0.0.0 qcinternal.io
 0.0.0.0 qclk.net
 0.0.0.0 www.qclk.net
+0.0.0.0 bugly.qcloud.com
 0.0.0.0 ios.bugly.qcloud.com
 0.0.0.0 log.qvb.qcloud.com
 0.0.0.0 qebuvi.xyz
@@ -56891,7 +56931,9 @@
 0.0.0.0 hb-t5u9.raps.ravm.tv
 0.0.0.0 smetrics.ray-ban.com
 0.0.0.0 sshhfy.ray-ban.com
+0.0.0.0 raygun.io
 0.0.0.0 cdn.raygun.io
+0.0.0.0 www.raygun.io
 0.0.0.0 rayjump.com
 0.0.0.0 20191018-fk.rayjump.com
 0.0.0.0 adx-tk.rayjump.com
@@ -60994,6 +61036,7 @@
 0.0.0.0 stats.signalayer.com
 0.0.0.0 t.signalayer.com
 0.0.0.0 www.signalayer.com
+0.0.0.0 cdn.signalfx.com
 0.0.0.0 community.service.signalr.net
 0.0.0.0 significantoperativeclearance.com
 0.0.0.0 www.significantoperativeclearance.com
@@ -70162,7 +70205,6 @@
 0.0.0.0 news-view-api.varzesh3.com
 0.0.0.0 video-view-api.varzesh3.com
 0.0.0.0 vasitron.ru
-0.0.0.0 www.vasitron.ru
 0.0.0.0 vasstycom.com
 0.0.0.0 kts.vasstycom.com
 0.0.0.0 vastroll.ru
@@ -70759,6 +70801,7 @@
 0.0.0.0 stats.vidyome.com
 0.0.0.0 vieldeold.xyz
 0.0.0.0 www.vieldeold.xyz
+0.0.0.0 sentry.vieon.vn
 0.0.0.0 vieon-tracking.vieon.vn
 0.0.0.0 ad.vietbao.vn
 0.0.0.0 vietdorje.com
@@ -73496,6 +73539,7 @@
 0.0.0.0 report.appmetrica.yandex.net
 0.0.0.0 zen.report.appmetrica.yandex.net
 0.0.0.0 rosenberg.appmetrica.yandex.net
+0.0.0.0 crash-reports.browser.yandex.net
 0.0.0.0 browser-updater.yandex.net
 0.0.0.0 bs.yandex.ru
 0.0.0.0 bs-meta.yandex.ru
