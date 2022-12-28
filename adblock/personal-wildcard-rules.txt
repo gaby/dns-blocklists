@@ -13,7 +13,12 @@
 ||adserver.*.yahoodns.net^
 ||production-adserver-*.amazonaws.com^
 
+! Amazon Shopping
+||amazon-adsystem.com^
+||unagi*.amazon.
+
 ! Amazon Device Metrics
+||mobileanalytics.*.amazonaws.com^
 ||d3p8zr0ffa9t17.cloudfront.net^
 ||device-metrics-*.amazon.com^
 ! ||dxz5jxhrrzigf.cloudfront.net^
@@ -23,7 +28,7 @@
 ||*telemetry.insights.video.a2z.com^
 
 ! Amazon Sponsored Ads (firetv)
-||aviary.amazon.*^
+||aviary.amazon.
 
 ! Analytics / Tracker / Privacy
 ||cdn-*.onetrust.com^
@@ -133,6 +138,7 @@
 ||log*.tiktokv.com^
 ||log*.snssdk.com^
 ||log*.byteoversea.com^
+||rtc-log*.tiktokv.com^
 ||rtlog*.tiktokv.com^
 ||rtlog*.snssdk.com^
 ||rtlog*.byteoversea.com^
