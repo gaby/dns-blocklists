@@ -124,7 +124,7 @@
 @@|smp-device-content.apple.com^
 @@|stats.gc.apple.com^
 @@|trackingshipment.apple.com^
-! Breaks Apple Watch update, stucks on "Search for update" - tested and approved
+! Breaks Apple Watch update, stucks on "Search for update"
 @@||xp.apple.com^
 
 ! Certificates
@@ -233,14 +233,19 @@
 @@||fbcdn.net^
 
 ! Github
-@@||ghcr.io^
-@@||github.com^
+@@|ghcr.io^
+@@|www.ghcr.io^
+@@|github.com^
+@@|www.github.com^
 @@|github.io^
 @@|www.github.io^
-@@||github.map.fastly.net^
-@@||githubapp.com^
-@@||githubassets.com^
-@@||gitlab.com^
+@@|github.map.fastly.net^
+@@|githubapp.com^
+@@|www.githubapp.com^
+@@|githubassets.com^
+@@|www.githubassets.com^
+@@|gitlab.com^
+@@|www.gitlab.com^
 @@|githubusercontent.com^
 @@|www.githubusercontent.com^
 @@|raw.githubusercontent.com^
@@ -498,13 +503,14 @@
 ! Sony (Playstation)
 @@|playstation.com^
 @@|www.playstation.com^
-@@||playstation.com.edgekey.net^
+@@|api.playstation.com.edgekey.net^
 ! playstation.com.ssl.d1.sc.omtrdc.net
 @@|playstation.net^
 @@|www.playstation.net^
 @@||playstation.net.edgekey88.net^
 @@||sonycoment.loris-e.llnwd.net^
-@@||sonyentertainmentnetwork.com^
+@@|sonyentertainmentnetwork.com^
+@@|www.sonyentertainmentnetwork.com^
 @@||sonyjpnpsg-1.hs.llnwd.net^
 
 ! Steam
@@ -682,7 +688,8 @@
 @@|www.whatsappbrand.com^
 
 ! XBox
-@@||xbox.com^
+@@|xbox.com^
+@@|www.xbox.com^
 @@||xboxab.com^
 @@||xboxab.net^
 @@||xboxlive.com^
