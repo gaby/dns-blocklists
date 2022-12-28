@@ -9,6 +9,9 @@
 ! Ads
 ||*met-vgwort-de.cdn.ampproject.org^
 ||cdn.scarabresearch.com^
+||pijama.*.elasticbeanstalk.com^
+||adserver.*.yahoodns.net^
+||production-adserver-*.amazonaws.com^
 
 ! Amazon Device Metrics
 ||d3p8zr0ffa9t17.cloudfront.net^
@@ -32,6 +35,10 @@
 ||*track.bild.de^
 ||track*.sevensenders.com^
 ||logentries.com^$important
+||collector-*.px-cloud.net^
+||collector-*.pxchk.net^
+||collector-*.px-cdn.net^
+||collector-*.perimeterx.net^
 
 ! Apple
 ||*analytics-events.apple.com^
@@ -117,21 +124,26 @@
 ||log*.vewd.com^
 ||tvping.com^
 ||tvtelemetrie.com^
+||collector-*.tvsquared.com^
 
 ! TikTok Fingerprinting
 ||analytics*.tiktok.com^
 ||ads*.tiktok.com^
 ||log*.tiktok.com^
 ||log*.tiktokv.com^
+||log*.snssdk.com^
 ||log*.byteoversea.com^
 ||rtlog*.tiktokv.com^
+||rtlog*.snssdk.com^
 ||rtlog*.byteoversea.com^
 ||xlog*.tiktokv.com^
+||xlog*.snssdk.com^
 ||xlog*.byteoversea.com^
 ||mon*.tiktokv.com^
 ||mon*.byteoversea.com^
 ||mcs*.tiktok.com^
 ||mcs*.tiktokv.com^
+||mcs*.snssdk.com^
 ||mssdk*.tiktok.com^
 ||mssdk*.tiktokv.com^
 ||mssdk*.byteoversea.com^
@@ -140,6 +152,7 @@
 ||frontier*.tiktokv.com^
 ||frontier*.byteoversea.com^
 ||pitaya*.tiktokv.com^
+||ib.snssdk.com^
 
 ! Video Ads / Tracking
 ||cdn.zomap.de^
