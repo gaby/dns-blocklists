@@ -4,10 +4,10 @@
 # Issues: https://github.com/hagezi/dns-blocklists/issues
 # License: https://github.com/hagezi/dns-blocklists/blob/main/LICENSE.md
 # Expires: Updated regularly
-# Last modified: 28 Dez 2022 20:44 UTC
-# Version: 2022.1228.2044.40
+# Last modified: 29 Dez 2022 00:38 UTC
+# Version: 2022.1229.0038.11
 # Syntax: DNSMasq
-# Domains: 25147
+# Domains: 25152
 #
 address=/004809f9da.com/#
 address=/00px.net/#
@@ -2049,6 +2049,8 @@ address=/g-images.amazon.com/#
 address=/mads.amazon.com/#
 address=/mads-eu.amazon.com/#
 address=/rcm.amazon.com/#
+address=/unagi-fe.amazon.com/#
+address=/unagi-na.amazon.com/#
 address=/devicemessaging.us-east-1.amazon.com/#
 address=/ws.amazon.com/#
 address=/at-us-east.amazon-adsystem.com/#
@@ -17292,6 +17294,7 @@ address=/ms-trackingapi.phenompeople.com/#
 address=/phialedamende.com/#
 address=/phicly.com/#
 address=/phicmune.net/#
+address=/phiefs.com/#
 address=/philacct.com/#
 address=/verify.philippineairlines.com/#
 address=/smetrics.marketing.philips-hue.com/#
@@ -19042,6 +19045,7 @@ address=/crumbs.robinhood.com/#
 address=/ads.roblox.com/#
 address=/client-telemetry.roblox.com/#
 address=/metrics.roblox.com/#
+address=/robotflowermobile.com/#
 address=/robsedgeone.com/#
 address=/robsedgeone.xyz/#
 address=/private.roche.com/#
@@ -19098,6 +19102,7 @@ address=/roolgage.com/#
 address=/smetrics.roomandboard.com/#
 address=/ropemoon.com/#
 address=/roq.ad/#
+address=/rorgoops.com/#
 address=/rosebudspeaks.com/#
 address=/rosiedaulos.com/#
 address=/rossel.tech/#
