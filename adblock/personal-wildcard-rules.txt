@@ -12,6 +12,7 @@
 ||cdn.scarabresearch.com^
 ||pijama.*.elasticbeanstalk.com^
 ||production-adserver-*.amazonaws.com^
+||iad*.dotomi.com^
 
 ! Amazon Shopping
 ||amazon-adsystem.com^
@@ -50,6 +51,7 @@
 ||f-log*.grammarly.io^
 ||app-analytics*.huami.com^
 |log-collector.shopee.
+||analytics*.clickdimensions.com^
 
 ! Apple
 ||*analytics-events.apple.com^
