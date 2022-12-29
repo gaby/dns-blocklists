@@ -25163,7 +25163,7 @@
 ||zzzperform.com^
 
 ! Title: HaGeZi's Personal AdGuard Wildcard Rules
-! Description: My personal wildcard rules for AdGuard Home / AdGuard DNS
+! Description: My personal wildcard rules to optimize the black & white list for AdGuard Home / AdGuard DNS
 ! Homepage: https://github.com/hagezi/dns-blocklists
 ! Issues: https://github.com/hagezi/dns-blocklists/issues
 ! License: https://github.com/hagezi/dns-blocklists/blob/main/LICENSE.md
@@ -25172,23 +25172,24 @@
 
 ! Ads
 ||*met-vgwort-de.cdn.ampproject.org^
+||adserver.*.yahoodns.net^
 ||cdn.scarabresearch.com^
 ||pijama.*.elasticbeanstalk.com^
-||adserver.*.yahoodns.net^
 ||production-adserver-*.amazonaws.com^
 
 ! Amazon Shopping
-||assoc-amazon.
 ||amazon-adsystem.com^
-||unagi*.amazon.
+||assoc-amazon.
+||fls*.amazon.
 ||mads*.amazon.
+||unagi*.amazon.
 
 ! Amazon Device Metrics
-||mobileanalytics.*.amazonaws.com^
-||d3p8zr0ffa9t17.cloudfront.net^
-||device-metrics-*.amazon.com^
 ! ||dxz5jxhrrzigf.cloudfront.net^
 ! ||web.diagnostic.networking.aws.dev^
+||d3p8zr0ffa9t17.cloudfront.net^
+||device-metrics-*.amazon.com^
+||mobileanalytics.*.amazonaws.com^
 
 ! Amazon Prime Video Telemetry
 ||*telemetry.insights.video.a2z.com^
@@ -25197,19 +25198,19 @@
 ||aviary.amazon.
 
 ! Analytics / Tracker / Privacy
+||*analytics.chip.de^
+||*track.bild.de^
 ||cdn-*.onetrust.com^
+||collector-*.perimeterx.net^
+||collector-*.px-cdn.net^
+||collector-*.px-cloud.net^
+||collector-*.pxchk.net^
 ||delivery.consentmanager.net^
 ||demdex.net^
 ||iocnt.de^
 ||iocnt.net^
-||*analytics.chip.de^
-||*track.bild.de^
-||track*.sevensenders.com^
 ||logentries.com^$important
-||collector-*.px-cloud.net^
-||collector-*.pxchk.net^
-||collector-*.px-cdn.net^
-||collector-*.perimeterx.net^
+||track*.sevensenders.com^
 
 ! Apple
 ||*analytics-events.apple.com^
@@ -25222,19 +25223,19 @@
 ||securemvt.apple.com^
 
 ! Bugtracker
+||*-bugs-*.rtl.de^
+||bugs-notify.nordvpn.com^
 ||bugsnag.com^
 ||crashlytics.com^
+||errortracking.deepl.com^
 ||getsentry.com^
 ||instabug.com^
 ||sentry-cdn.com^
 ||sentry.io^
-||bugs-notify.nordvpn.com^
-||*-bugs-*.rtl.de^
-||errortracking.deepl.com^
 
 ! Google
-||*google-analytics.l.google.com^
 ||*.analytics.google.com^
+||*google-analytics.l.google.com^
 ||androidtvchannels-pa.googleapis.com^
 ||androidtvwatsonfe-pa.googleapis.com^
 ||app-measurement.com^
@@ -25246,7 +25247,6 @@
 ||g.doubleclick.net^
 ||google-analytics.com^
 ||googleadservices.com^
-@@||www.googleadservices.com^$important
 ||googleoptimize.com^
 ||googlesyndication.com^
 ||googletagservices.com^
@@ -25256,8 +25256,8 @@
 ! Microsft Telemetry
 ||*telemetry.officeapps.live.com^
 ||events*.data.microsoft.com^
-||events*.data.trafficmanager.net^
 ||events*.data.msn.*^
+||events*.data.trafficmanager.net^
 ||measure.office.com^
 ||pipe.aria.microsoft.com^
 ||telemetry*.microsoft.com^
@@ -25290,41 +25290,41 @@
 
 ! Smart TV
 ||alphonso.tv^
-||samba.tv^
+||collector-*.tvsquared.com^
 ||flingo.tv^
 ||log*.vewd.com^
+||samba.tv^
 ||tvping.com^
 ||tvtelemetrie.com^
-||collector-*.tvsquared.com^
 
 ! TikTok Fingerprinting
-||analytics*.tiktok.com^
 ||ads*.tiktok.com^
+||analytics*.tiktok.com^
+||frontier*.byteoversea.com^
+||frontier*.tiktokv.com^
+||gecko*.byteoversea.com^
+||gecko*.tiktokv.com^
+||ib.snssdk.com^
+||log*.byteoversea.com^
+||log*.snssdk.com^
 ||log*.tiktok.com^
 ||log*.tiktokv.com^
-||log*.snssdk.com^
-||log*.byteoversea.com^
-||rtc-log*.tiktokv.com^
-||rtlog*.tiktokv.com^
-||rtlog*.snssdk.com^
-||rtlog*.byteoversea.com^
-||xlog*.tiktokv.com^
-||xlog*.snssdk.com^
-||xlog*.byteoversea.com^
-||mon*.tiktokv.com^
-||mon*.byteoversea.com^
+||mcs*.snssdk.com^
 ||mcs*.tiktok.com^
 ||mcs*.tiktokv.com^
-||mcs*.snssdk.com^
+||mon*.byteoversea.com^
+||mon*.tiktokv.com^
+||mssdk*.byteoversea.com^
 ||mssdk*.tiktok.com^
 ||mssdk*.tiktokv.com^
-||mssdk*.byteoversea.com^
-||gecko*.tiktokv.com^
-||gecko*.byteoversea.com^
-||frontier*.tiktokv.com^
-||frontier*.byteoversea.com^
 ||pitaya*.tiktokv.com^
-||ib.snssdk.com^
+||rtc-log*.tiktokv.com^
+||rtlog*.byteoversea.com^
+||rtlog*.snssdk.com^
+||rtlog*.tiktokv.com^
+||xlog*.byteoversea.com^
+||xlog*.snssdk.com^
+||xlog*.tiktokv.com^
 
 ! Video Ads / Tracking
 ||cdn.zomap.de^
@@ -31162,6 +31162,26 @@
 ! https://github.com/Perflyst/PiHoleBlocklist/issues/138
 @@|mas-ext.amazon.com^
 
+! Amazon Shopping (in-app links)
+@@|aax-*-retail-direct.amazon-adsystem.com^
+@@|aax-*-retail-direct.amazon.com^
+@@|aax-eu.amazon.ae^
+@@|aax-eu.amazon.co.uk^
+@@|aax-eu.amazon.com^
+@@|aax-eu.amazon.com.tr^
+@@|aax-eu.amazon.de^
+@@|aax-eu.amazon.es^
+@@|aax-eu.amazon.fr^
+@@|aax-eu.amazon.in^
+@@|aax-eu.amazon.it^
+@@|aax-eu.amazon.nl^
+@@|aax-eu.amazon.sa^
+@@|aax-eu.amazon.se^
+@@|aax-fe.amazon.co.jp^
+@@|aax-fe.amazon.com^
+@@|aax-fe.amazon.com.au^
+@@|aax-fe.amazon.sg^
+
 ! Amazon Video
 @@||aiv-cdn.net^
 @@||aiv-cdn.net.c.footprint.net^
@@ -31284,6 +31304,7 @@
 ! Facebook
 @@|*graph-video.facebook.com^
 @@|*graph.facebook.com^
+@@|*graph.fbpigeon.com^
 @@|*graph.instagram.com^
 @@|api.facebook.com^
 @@|chat-*.facebook.com^
@@ -33578,6 +33599,10 @@
 @@|majorgeeks.com^
 @@|www.majorgeeks.com^
 
+! https://github.com/hagezi/dns-blocklists/issues/133
+@@|stacksocial.com^
+@@|www.stacksocial.com^
+
 ! Title: HaGeZi's White-/Allowlist Referral
 ! Description: This list unblocks affiliate & tracking referral links that appear in mails, search results etc.
 ! Homepage: https://github.com/hagezi/dns-blocklists
@@ -33662,6 +33687,7 @@
 @@||s.click.aliexpress.com^
 @@||aax-*-retail-direct.amazon.com^
 @@||aax-eu.amazon.ae^
+@@||aax-eu.amazon.com^
 @@||aax-eu.amazon.de^
 @@||aax-eu.amazon.es^
 @@||aax-eu.amazon.fr^
@@ -33670,6 +33696,7 @@
 @@||aax-eu.amazon.nl^
 @@||aax-eu.amazon.sa^
 @@||aax-eu.amazon.se^
+@@||aax-fe.amazon.com^
 @@||aax-fe.amazon.sg^
 @@||assoc-redirect.amazon.com^
 @@||aax-*-retail-direct.amazon-adsystem.com^
