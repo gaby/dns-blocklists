@@ -25464,6 +25464,9 @@
 ||iocnt.net^
 ||logentries.com^$important
 ||track*.sevensenders.com^
+||f-log*.grammarly.io^
+||app-analytics*.huami.com^
+|log-collector.shopee.
 
 ! Apple
 ||*analytics-events.apple.com^
@@ -25549,6 +25552,8 @@
 ||samba.tv^
 ||tvping.com^
 ||tvtelemetrie.com^
+||collect*.myhomescreen.tv^
+||usage*.myhomescreen.tv^
 
 ! TikTok Fingerprinting
 ||ads*.tiktok.com^
@@ -31411,12 +31416,21 @@
 ! device-metrics-us-2.amazon.com
 ! device-metrics-us.amazon.com
 @@||acsechocaptiveportal.com^
+@@||execute-api.*.amazonaws.com^
+@@||gateway.devices.a2z.com^
+@@||ntp-fireos.com^
+@@|api*.amazonalexa.com^
+@@|arcus-*.amazon.com^
 @@|avs-alexa*.amazon.com^
+@@|dcape-*.amazon.com ^
+@@|dp-gw-*.amazon.com^
 @@|dxz5jxhrrzigf.cloudfront.net^
 @@|msh.amazon.co.uk^
+@@|prod.amazoncrl.com^
 @@|web.diagnostic.networking.aws.dev^
+! Hulu, possibly other services
 ! https://github.com/Perflyst/PiHoleBlocklist/issues/138
-@@|mas-ext.amazon.com^
+@@|mas-ext*.amazon.com^
 
 ! Amazon Shopping (in-app links)
 @@|aax-*-retail-direct.amazon-adsystem.com^
@@ -31611,6 +31625,7 @@
 @@||gstaticadssl.l.google.com^
 @@|accounts.google.com^
 @@|afs.googleusercontent.com^
+@@|ajax.googleapis.com^
 @@|analyticsinsights-pa.googleapis.com^
 @@|analyticssearch-pa.googleapis.com^
 @@|android-context-data.googleapis.com^
