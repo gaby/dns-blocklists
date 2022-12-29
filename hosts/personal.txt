@@ -4,10 +4,10 @@
 # Issues: https://github.com/hagezi/dns-blocklists/issues
 # License: https://github.com/hagezi/dns-blocklists/blob/main/LICENSE.md
 # Expires: Updated regularly
-# Last modified: 29 Dez 2022 17:23 UTC
-# Version: 2022.1229.1723.23
+# Last modified: 29 Dez 2022 21:34 UTC
+# Version: 2022.1229.2134.33
 # Syntax: Hosts
-# Domains: 75690
+# Domains: 75695
 #
 0.0.0.0 004809f9da.com
 0.0.0.0 www.004809f9da.com
@@ -7589,6 +7589,8 @@
 0.0.0.0 allyes.com
 0.0.0.0 almasirahnews.com
 0.0.0.0 www.almasirahnews.com
+0.0.0.0 almightypush.com
+0.0.0.0 www.almightypush.com
 0.0.0.0 almiwzli.org
 0.0.0.0 www.almiwzli.org
 0.0.0.0 alnuinkwintra.com
@@ -8356,6 +8358,7 @@
 0.0.0.0 fls-fe.amazon.sg
 0.0.0.0 fls-fe-opf.amazon.com
 0.0.0.0 fls-na.amazon.ca
+0.0.0.0 fls-na.amazon.com
 0.0.0.0 g-images.amazon.com
 0.0.0.0 mads.amazon.com
 0.0.0.0 mads-eu.amazon.com
@@ -8511,8 +8514,6 @@
 0.0.0.0 flipdish-cookie-consent.s3-eu-west-1.amazonaws.com
 0.0.0.0 inneractive-assets.s3-eu-west-1.amazonaws.com
 0.0.0.0 trafficfuelpixel.s3-us-west-2.amazonaws.com
-0.0.0.0 9w2zed1szg.execute-api.us-east-1.amazonaws.com
-0.0.0.0 bin5y4muil.execute-api.us-east-1.amazonaws.com
 0.0.0.0 mobileanalytics.us-east-1.amazonaws.com
 0.0.0.0 huq-query-loggers-california-3cec807da3e9dc0d.elb.us-west-1.amazonaws.com
 0.0.0.0 global.cmcs.service.amazonsilk.com
@@ -19228,8 +19229,6 @@
 0.0.0.0 w.chatlio.com
 0.0.0.0 chatntr.com
 0.0.0.0 ads.chaturbate.com
-0.0.0.0 chatwhatsapp.me
-0.0.0.0 www.chatwhatsapp.me
 0.0.0.0 chaubseet.com
 0.0.0.0 www.chaubseet.com
 0.0.0.0 chaussew.net
@@ -23652,7 +23651,6 @@
 0.0.0.0 stat.dealtime.com
 0.0.0.0 dearestimmortality.com
 0.0.0.0 www.dearestimmortality.com
-0.0.0.0 tracker.debiantestserver.de
 0.0.0.0 debitcrebit669.com
 0.0.0.0 cdn.debitcrebit669.com
 0.0.0.0 z.cdn.debitcrebit669.com
@@ -32459,6 +32457,7 @@
 0.0.0.0 rtb-lb-event-dx-adcloud-prod-us-east-1-tm.everesttech.net
 0.0.0.0 statsf-tm.everesttech.net
 0.0.0.0 sync-tm.everesttech.net
+0.0.0.0 evergage.com
 0.0.0.0 abercrombie.evergage.com
 0.0.0.0 bunnings.australia-3.evergage.com
 0.0.0.0 orientalland.australia-3.evergage.com
@@ -32591,6 +32590,7 @@
 0.0.0.0 worldtravelholdings.us-7.evergage.com
 0.0.0.0 venus.evergage.com
 0.0.0.0 westernunion.evergage.com
+0.0.0.0 www.evergage.com
 0.0.0.0 xome.evergage.com
 0.0.0.0 zumiez.evergage.com
 0.0.0.0 connect.news.evergreenhealth.com
@@ -32834,6 +32834,7 @@
 0.0.0.0 www.expmediadirect1.com
 0.0.0.0 expocaptcha.top
 0.0.0.0 www.expocaptcha.top
+0.0.0.0 exponea.com
 0.0.0.0 api.exponea.com
 0.0.0.0 api-bho.exponea.com
 0.0.0.0 api-bho-boohooman.exponea.com
@@ -32877,6 +32878,7 @@
 0.0.0.0 dnb-api.us.exponea.com
 0.0.0.0 msl-api.us.exponea.com
 0.0.0.0 cdn.us1.exponea.com
+0.0.0.0 www.exponea.com
 0.0.0.0 exponential.com
 0.0.0.0 expo9.exponential.com
 0.0.0.0 tags.expo9.exponential.com
@@ -54422,6 +54424,7 @@
 0.0.0.0 mond.post.ch
 0.0.0.0 d.post-gazette.com
 0.0.0.0 post-redirecting.com
+0.0.0.0 postaffiliatepro.com
 0.0.0.0 1stphorm.postaffiliatepro.com
 0.0.0.0 airhelp.postaffiliatepro.com
 0.0.0.0 artlist.postaffiliatepro.com
@@ -54446,6 +54449,7 @@
 0.0.0.0 sumup.postaffiliatepro.com
 0.0.0.0 thermoworks.postaffiliatepro.com
 0.0.0.0 ubiquiti.postaffiliatepro.com
+0.0.0.0 www.postaffiliatepro.com
 0.0.0.0 xeroshoes.postaffiliatepro.com
 0.0.0.0 aa.postbank.de
 0.0.0.0 at.postbank.de
@@ -67540,6 +67544,8 @@
 0.0.0.0 tisoomi-services.com
 0.0.0.0 www.tisoomi-services.com
 0.0.0.0 trust.titanhq.com
+0.0.0.0 titheddenials.com
+0.0.0.0 www.titheddenials.com
 0.0.0.0 titsandtits.com
 0.0.0.0 tiwhaiph.net
 0.0.0.0 tizermedias.com
@@ -72661,7 +72667,6 @@
 0.0.0.0 cdn.wbtrk.net
 0.0.0.0 geid.wbtrk.net
 0.0.0.0 www.wbtrk.net
-0.0.0.0 metrics-a.wbx2.com
 0.0.0.0 wbxsearch.com
 0.0.0.0 imp.wbxsearch.com
 0.0.0.0 www.wbxsearch.com
