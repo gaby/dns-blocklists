@@ -4,10 +4,10 @@
 ! Issues: https://github.com/hagezi/dns-blocklists/issues
 ! License: https://github.com/hagezi/dns-blocklists/blob/main/LICENSE.md
 ! Expires: Updated regularly
-! Last modified: 30 Dez 2022 09:39 UTC
-! Version: 2022.1230.0939.13
+! Last modified: 30 Dez 2022 21:23 UTC
+! Version: 2022.1230.2123.04
 ! Syntax: AdBlock
-! Domains: 26326
+! Domains: 26272
 !
 ||004809f9da.com^
 ||00px.net^
@@ -144,7 +144,6 @@
 ||a.1gr.cz^
 ||aa.1gr.cz^
 ||adsnot.1javguru.xyz^
-||b.1mm.fr^
 ||1mobile.com^
 ||1music-online.me^
 ||1news.io^
@@ -278,7 +277,6 @@
 ||kuaikan.netmon.360safe.com^
 ||stat.360safe.com^
 ||ini.update.360safe.com^
-||360tracking.fr^
 ||360yield.com^
 ||362728tdg.com^
 ||365dmp.com^
@@ -337,7 +335,6 @@
 ||ads.4ml.ir^
 ||4nbizac8.ru^
 ||cdn.4patientcare.com^
-||share.4patriots.com^
 ||4pu.com^
 ||4seeresults.com^
 ||4strokemedia.com^
@@ -458,6 +455,7 @@
 ||corporate.888.com^
 ||promo.888.com^
 ||888casino.com^
+||88993aaa.com^
 ||890m.com^
 ||897263tqs.com^
 ||899h3.xyz^
@@ -581,10 +579,7 @@
 ||aaxwall.com^
 ||ab.gl^
 ||ab1n.net^
-||ab5kk8trk.com^
 ||analytics.aba.com^
-||api.abacus.ai^
-||static.abacus.ai^
 ||abazelfan.com^
 ||campaign.abb.com^
 ||abbaspc.net^
@@ -638,7 +633,6 @@
 ||ac6ruv8t.ru^
 ||acacdn.com^
 ||cb-telemetry.academicmerit.com^
-||academie-stanislas.org^
 ||activate.academy.com^
 ||analytics.academy.com^
 ||insights.academy.com^
@@ -867,7 +861,6 @@
 ||addlnk.com^
 ||addoer.com^
 ||addoor.net^
-||tracking.addotline.com^
 ||addresseepaper.com^
 ||addroplet.com^
 ||stats.addsearch.com^
@@ -984,7 +977,6 @@
 ||aditserve.com^
 ||adivery.com^
 ||adizio.com^
-||adjetter.com^
 ||3d23226076bcb8f95d5b55ead6023369.adjns.com^
 ||adjoe.zone^
 ||adjust.io^
@@ -1266,7 +1258,6 @@
 ||adsfactor.net^
 ||adsfast.com^
 ||adsfcdn.com^
-||network.adsfin.pro^
 ||adsfirm.com^
 ||adsforcomputercity.com^
 ||adsgaga.com^
@@ -1678,7 +1669,6 @@
 ||bento.agoda.com^
 ||partners.agoda.com^
 ||sherpa.agoda.com^
-||agof.de^
 ||agoop.net^
 ||agorahtag.tech^
 ||agraffesalps.com^
@@ -1726,7 +1716,6 @@
 ||cent.ads.aimatch.com^
 ||bclays-ads.aimatch.com^
 ||cdn.aimatch.com^
-||cent-ads.aimatch.com^
 ||csfd-ads.aimatch.com^
 ||dgan-ads.aimatch.com^
 ||mafra-ads.aimatch.com^
@@ -1737,7 +1726,8 @@
 ||tngcicorzeu-ia.aimatch.com^
 ||tngcicplusp-ia.aimatch.com^
 ||tngcidmeup-ia.aimatch.com^
-||tngciodeeup-ia.aimatch.com^
+||tngcipdbusp-ia.aimatch.com^
+||tngcipegeup-ia.aimatch.com^
 ||vlm-ads.aimatch.com^
 ||aimediagroup.com^
 ||xml.aimkweb.com^
@@ -1876,6 +1866,7 @@
 ||ninja.akamaized.net^
 ||speee-ad.akamaized.net^
 ||uz-analysis.akamaized.net^
+||akhbarrasmi.com^
 ||atlas.r.akipam.com^
 ||akisinn.info^
 ||akisinn.site^
@@ -1931,7 +1922,6 @@
 ||umengcloud.com.gds.alibabadns.com^
 ||alibabaonline.com^
 ||zconfig.alibabausercontent.com^
-||g01.a.alicdn.com^
 ||aecpm.alicdn.com^
 ||afpmm.alicdn.com^
 ||appdownload.alicdn.com^
@@ -2353,7 +2343,6 @@
 ||analytics-egain.com^
 ||analytics-helper.com^
 ||analytics-s4.com^
-||analytics-shop.com^
 ||analyticsb2c.com^
 ||analyticsmsp.com^
 ||analyticsq1.com^
@@ -2449,7 +2438,6 @@
 ||anysearchmanager.com^
 ||anythinktech.com^
 ||anytrack.io^
-||anywhere.com^
 ||anywheresearch.com^
 ||infos.anz.com^
 ||anzu.io^
@@ -2518,7 +2506,6 @@
 ||sdk.appbrain.com^
 ||appcelerator.com^
 ||appcelerator.net^
-||in.appcenter.ms^
 ||appclick.co^
 ||appcloudbox.net^
 ||appcloudgoal.com^
@@ -2757,7 +2744,6 @@
 ||fpa-events.arstechnica.com^
 ||arswabluchan.com^
 ||telemetry.art19.com^
-||artdesmets.fr^
 ||y1.arte.tv^
 ||artfut.com^
 ||metrics.articulate.com^
@@ -2936,11 +2922,8 @@
 ||events.audioplace.me^
 ||auditioningborder.com^
 ||ad.auditude.com^
-||pcor11.manifest.auditude.com^
-||pcor13.manifest.auditude.com^
 ||audrte.com^
 ||design.aue.ae^
-||aufderwieden.wien^
 ||augailou.com^
 ||augrezoa.net^
 ||data-190087bcf9.augsburger-allgemeine.de^
@@ -3097,7 +3080,6 @@
 ||aykibra.cn^
 ||aylink.co^
 ||ayrtpmwuymzbbq.com^
-||ayudaappco.com^
 ||ayvcjvdfk.xyz^
 ||azalead.com^
 ||azalore.com^
@@ -3604,7 +3586,6 @@
 ||bestsafefast.com^
 ||pkimbc.bestsecret.com^
 ||tracker.bestshopping.com^
-||bestspecifics.com^
 ||bestsrv.de^
 ||besttoolbars.net^
 ||besttus.com^
@@ -3680,7 +3661,6 @@
 ||bidderstack.com^
 ||biddingx.com^
 ||bidence.net^
-||bideo-cdn.xyz^
 ||bidfilter.com^
 ||bidgear.com^
 ||bidio.pl^
@@ -3756,7 +3736,6 @@
 ||binancezh.sh^
 ||updates-s3.binaryage.com^
 ||analytics.binaryfortress.com^
-||binarypiano.com^
 ||bat.bing.com^
 ||c.bing.com^
 ||binomo.com^
@@ -4070,7 +4049,6 @@
 ||boyfriendlive.com^
 ||ads.boylesports.com^
 ||bp01.net^
-||bpiexpressoimobiliario.pt^
 ||apply.bpost.be^
 ||bewerben.bpost.be^
 ||hello.bpost.be^
@@ -4233,7 +4211,7 @@
 ||budvawshes.ru^
 ||budzcyka.ru^
 ||smetrics.buffalotracedistillery.com^
-||bugertor.com^
+||segment-api.buffer.com^
 ||api.bugfender.com^
 ||app.bugfender.com^
 ||collector.bughd.com^
@@ -4367,6 +4345,7 @@
 ||dimg10.c-ctrip.com^
 ||dimg11.c-ctrip.com^
 ||pic.english.c-ctrip.com^
+||file.c-ctrip.com^
 ||images3.c-ctrip.com^
 ||images4.c-ctrip.com^
 ||pages.c-ctrip.com^
@@ -4376,9 +4355,7 @@
 ||webresource.c-ctrip.com^
 ||youimg1.c-ctrip.com^
 ||cdn.c-i.as^
-||api.c-launcher.com^
 ||receive.client.c-launcher.com^
-||d.c-launcher.com^
 ||c-rings.net^
 ||c-rtb.com^
 ||adtrack.c-sharpcorner.com^
@@ -4557,7 +4534,6 @@
 ||sstats.cartoonnetwork.com^
 ||tdi.cartoonnetwork.com^
 ||sanalytics.cartoonnetworkhq.com^
-||ct10.cartoonsforus.com^
 ||carts.guru^
 ||cartstack.com^
 ||carvecakes.com^
@@ -4754,6 +4730,7 @@
 ||ceye.io^
 ||cf2020176f.com^
 ||smetrics.cfainstitute.org^
+||cfemedia.com^
 ||cfgr1.com^
 ||cfivfadtlr.com^
 ||cfjump.com^
@@ -4789,7 +4766,6 @@
 ||analytics.chase.com^
 ||midas.chase.com^
 ||sinmo.chasecenter.com^
-||chat4more.com^
 ||access.chathamfinancial.com^
 ||chatintr.com^
 ||w.chatlio.com^
@@ -4962,7 +4938,6 @@
 ||panelist.cint.com^
 ||panelistapi.cint.com^
 ||qps.cint.com^
-||sendgrid.cint.com^
 ||sw.cint.com^
 ||ys.cint.com^
 ||cintnetworks.com^
@@ -5234,7 +5209,6 @@
 ||appconfig.cmgdigital.com^
 ||cmgfeeds.cmgdigital.com^
 ||log1.cmpassport.com^
-||i.cmpnet.com^
 ||cmpro-clean.club^
 ||cmproclean.club^
 ||mms.cmpsky.com^
@@ -5527,7 +5501,7 @@
 ||media.pirtek.co.uk^
 ||ad.planbplus.co.kr^
 ||web.email.pmtonline.co.uk^
-||postman.co.kr^
+||polytama.co.id^
 ||ensighten.postoffice.co.uk^
 ||metrics.postoffice.co.uk^
 ||ads.priel.co.kr^
@@ -5928,7 +5902,6 @@
 ||onead.com.tw^
 ||onevision.com.tw^
 ||track.opentable.com.mx^
-||orangehandyman.com.au^
 ||log.oto.com.vn^
 ||deliver.oztam.com.au^
 ||count.pcauto.com.cn^
@@ -6221,7 +6194,6 @@
 ||content-square.net^
 ||contentabc.com^
 ||contentango.com^
-||ppp.contentdef.com^
 ||contentexchange.me^
 ||contentinsights.com^
 ||contentiq.com^
@@ -6313,7 +6285,6 @@
 ||smetrics.copart.com^
 ||lqpzdi.coppel.com^
 ||copperegg.com^
-||copperindia.org^
 ||secure.copy9loom.com^
 ||banners.copyscape.com^
 ||events-stream-svc.cordial.com^
@@ -6326,7 +6297,6 @@
 ||corepsh.top^
 ||locator1.corevm.com^
 ||corneey.com^
-||ng.corolskerret.com^
 ||monetize-api.coronalabs.com^
 ||stats.coronalabs.com^
 ||corpulentoverdoselucius.com^
@@ -6737,7 +6707,6 @@
 ||databerries.com^
 ||databrain.com^
 ||databreakers.com^
-||databridgemarketresearch.com^
 ||databssint.com^
 ||datacaciques.com^
 ||datacoral.io^
@@ -6844,7 +6813,6 @@
 ||dcmn.com^
 ||dcmn.io^
 ||dcynwezfon.com^
-||dd88trk.com^
 ||ddaqwhdlhor.com^
 ||yssads.ddc.com^
 ||ddhjxakewpp.com^
@@ -7000,7 +6968,6 @@
 ||aoa.demdex.net^
 ||aol.demdex.net^
 ||apollo.demdex.net^
-||applieddatafinance.demdex.net^
 ||appliedmaterials.demdex.net^
 ||aramarkservices.demdex.net^
 ||arm.demdex.net^
@@ -7050,7 +7017,6 @@
 ||biorad.demdex.net^
 ||bissell.demdex.net^
 ||blackbaud.demdex.net^
-||blackberry.demdex.net^
 ||bluemercury.demdex.net^
 ||bluestembrandsinc.demdex.net^
 ||bmc.demdex.net^
@@ -7071,7 +7037,6 @@
 ||brooksrunning.demdex.net^
 ||brownshoecompany.demdex.net^
 ||brp.demdex.net^
-||brunswick.demdex.net^
 ||bskyb.demdex.net^
 ||bupa.demdex.net^
 ||bureauofnationalaffairs.demdex.net^
@@ -7089,6 +7054,7 @@
 ||carlsonhotelinc.demdex.net^
 ||carmaxbusinessservicesllc.demdex.net^
 ||carters.demdex.net^
+||cathayunitedbank.demdex.net^
 ||cba.demdex.net^
 ||cbcca.demdex.net^
 ||cbsi.demdex.net^
@@ -7100,6 +7066,7 @@
 ||centenecorp.demdex.net^
 ||cfainstitute.demdex.net^
 ||changehealthcare.demdex.net^
+||changiairport.demdex.net^
 ||charlottesweb.demdex.net^
 ||charter.demdex.net^
 ||chartercorecable.demdex.net^
@@ -7241,12 +7208,13 @@
 ||fox.demdex.net^
 ||foxnet.demdex.net^
 ||foxnews.demdex.net^
+||fti.demdex.net^
 ||furniturecom.demdex.net^
-||g6.demdex.net^
 ||galiciabanco.demdex.net^
 ||gannett.demdex.net^
 ||gap.demdex.net^
 ||gates.demdex.net^
+||gbpackers.demdex.net^
 ||gehealthcare.demdex.net^
 ||genentech.demdex.net^
 ||generalmotorscorporation.demdex.net^
@@ -7256,10 +7224,8 @@
 ||globalspec.demdex.net^
 ||gm.demdex.net^
 ||gmglobalcorporatefunctions.demdex.net^
-||godiva.demdex.net^
 ||greendot.demdex.net^
 ||grupocortefiel.demdex.net^
-||grupomonge.demdex.net^
 ||gsk.demdex.net^
 ||gsmosaic.demdex.net^
 ||gsoneus.demdex.net^
@@ -7287,6 +7253,7 @@
 ||homedepot.demdex.net^
 ||homedepotca.demdex.net^
 ||homedepotmx.demdex.net^
+||homepointfinancial.demdex.net^
 ||honda.demdex.net^
 ||honeywellinternationalinc.demdex.net^
 ||horizonbcbsnj.demdex.net^
@@ -7304,9 +7271,11 @@
 ||hvmllc.demdex.net^
 ||hyundaimotor.demdex.net^
 ||ibd.demdex.net^
+||ibibo.demdex.net^
 ||ibm.demdex.net^
 ||icedhs.demdex.net^
 ||icicisecurities.demdex.net^
+||iglu.demdex.net^
 ||ihs.demdex.net^
 ||illuminainc.demdex.net^
 ||improvementdirect.demdex.net^
@@ -7315,13 +7284,11 @@
 ||infinitihelios-americas.demdex.net^
 ||informaglobalexhibitions.demdex.net^
 ||informatica.demdex.net^
-||infosys.demdex.net^
 ||ingbankslaski.demdex.net^
 ||ingbe.demdex.net^
 ||insight.demdex.net^
 ||insuranceservicesofficeinc.demdex.net^
 ||intelcorp.demdex.net^
-||intergamma.demdex.net^
 ||interlinebrandsinc.demdex.net^
 ||invescogroup.demdex.net^
 ||investorsbank.demdex.net^
@@ -7333,6 +7300,7 @@
 ||jaguar.demdex.net^
 ||jcpenney.demdex.net^
 ||jll.demdex.net^
+||jmfamily.demdex.net^
 ||jnl.demdex.net^
 ||johnhancockfinancialservices.demdex.net^
 ||joules.demdex.net^
@@ -7349,14 +7317,12 @@
 ||kpmgllp.demdex.net^
 ||kpnbv.demdex.net^
 ||lacounty.demdex.net^
-||laithwaiteswine.demdex.net^
 ||lakeshorelearningmaterials.demdex.net^
 ||landolakes.demdex.net^
 ||landsend.demdex.net^
 ||lazada.demdex.net^
 ||lazboy.demdex.net^
 ||lbrands.demdex.net^
-||lcbo.demdex.net^
 ||lch.demdex.net^
 ||legalandgeneral.demdex.net^
 ||lendio.demdex.net^
@@ -7372,6 +7338,7 @@
 ||liveareacx.demdex.net^
 ||lnkd.demdex.net^
 ||lotteshopping.demdex.net^
+||loyaltyone.demdex.net^
 ||lpl.demdex.net^
 ||ltdcommodities.demdex.net^
 ||lululemonathleticacanadainc.demdex.net^
@@ -7419,14 +7386,15 @@
 ||mohawk.demdex.net^
 ||moneypensions.demdex.net^
 ||monoprice.demdex.net^
+||monsanto.demdex.net^
 ||monster.demdex.net^
+||montrestudorsa.demdex.net^
 ||moodyscorp.demdex.net^
 ||moveinc.demdex.net^
 ||mscdirect.demdex.net^
 ||mscom.demdex.net^
 ||mtvn.demdex.net^
 ||musarubra.demdex.net^
-||myglamm.demdex.net^
 ||nab.demdex.net^
 ||nationalassociationofrealtors.demdex.net^
 ||nationalbankofcanada.demdex.net^
@@ -7464,17 +7432,19 @@
 ||novo.demdex.net^
 ||novobanco.demdex.net^
 ||novonordiskas.demdex.net^
+||nwfbr.demdex.net^
 ||nyulmc.demdex.net^
 ||ocbc.demdex.net^
 ||ocgoodwill.demdex.net^
 ||odfl.demdex.net^
 ||omes.demdex.net^
 ||omron.demdex.net^
-||orangetheory.demdex.net^
 ||otsuka.demdex.net^
+||p20190001.demdex.net^
 ||p20190002.demdex.net^
 ||pacificdentalservices.demdex.net^
 ||pacificlifersd.demdex.net^
+||palladiumhotelgroup.demdex.net^
 ||pandoraas.demdex.net^
 ||pandoramedia.demdex.net^
 ||partycitycorp.demdex.net^
@@ -7521,6 +7491,7 @@
 ||rate.demdex.net^
 ||rcwilley.demdex.net^
 ||reagroup-1.demdex.net^
+||redfcu.demdex.net^
 ||refinitiv.demdex.net^
 ||regions.demdex.net^
 ||reliantenergyretailservicesllc.demdex.net^
@@ -7528,15 +7499,14 @@
 ||renfe.demdex.net^
 ||republicservices.demdex.net^
 ||revolutionmessaging.demdex.net^
-||rics.demdex.net^
 ||riteaid.demdex.net^
+||rli.demdex.net^
 ||roadrunner.demdex.net^
 ||roche.demdex.net^
 ||rocketcentral.demdex.net^
 ||rockwell.demdex.net^
 ||rogers.demdex.net^
 ||roland.demdex.net^
-||rotary.demdex.net^
 ||royallondon.demdex.net^
 ||royalmail.demdex.net^
 ||rtve.demdex.net^
@@ -7556,20 +7526,19 @@
 ||samsunglevant.demdex.net^
 ||sanmar.demdex.net^
 ||santander.demdex.net^
+||sapient-uk.demdex.net^
 ||sargentofoods.demdex.net^
 ||sazerac.demdex.net^
 ||scb.demdex.net^
 ||schwab.demdex.net^
 ||scripps.demdex.net^
 ||scth.demdex.net^
-||seagate.demdex.net^
 ||sealedair.demdex.net^
 ||sears.demdex.net^
 ||securian.demdex.net^
 ||securityservicesfcu.demdex.net^
 ||senate.demdex.net^
 ||sephora.demdex.net^
-||serasaexperian.demdex.net^
 ||seven.demdex.net^
 ||sevenonemedia.demdex.net^
 ||shaw.demdex.net^
@@ -7577,6 +7546,7 @@
 ||shopperschoice.demdex.net^
 ||sii.demdex.net^
 ||simonmanagementassociates.demdex.net^
+||simpliifinancial.demdex.net^
 ||singtaonewscorp.demdex.net^
 ||siriusxmradioinc.demdex.net^
 ||siteone.demdex.net^
@@ -7607,12 +7577,14 @@
 ||stateofpennsylvania.demdex.net^
 ||stc.demdex.net^
 ||steelcase.demdex.net^
+||stenaline.demdex.net^
 ||stepstone.demdex.net^
 ||stericycle.demdex.net^
 ||stmicroelectronics.demdex.net^
 ||subaruofamerica.demdex.net^
 ||sundancecatalog.demdex.net^
 ||sunlifeassurance.demdex.net^
+||sunpharma.demdex.net^
 ||suntrustbanksinc.demdex.net^
 ||swa.demdex.net^
 ||swansonhealth.demdex.net^
@@ -7634,7 +7606,6 @@
 ||telstra.demdex.net^
 ||telus.demdex.net^
 ||tennessee.demdex.net^
-||tescobank.demdex.net^
 ||tescomobile.demdex.net^
 ||tfl.demdex.net^
 ||thebankofnewyorkmelloncorp.demdex.net^
@@ -7680,6 +7651,8 @@
 ||unitedhealthcareserv.demdex.net^
 ||unitedoverseasbanklimited.demdex.net^
 ||unitedstateslibraryofcongress.demdex.net^
+||univeservicebv.demdex.net^
+||unsw.demdex.net^
 ||uphe.demdex.net^
 ||ups.demdex.net^
 ||usaa.demdex.net^
@@ -7697,8 +7670,10 @@
 ||vfde.demdex.net^
 ||vgw.demdex.net^
 ||vikingrivercruisesinc.demdex.net^
+||vince.demdex.net^
 ||vineyardvines-1.demdex.net^
 ||virginatlantic.demdex.net^
+||virginmobileca.demdex.net^
 ||virtusa.demdex.net^
 ||visibleservices.demdex.net^
 ||visitqatar.demdex.net^
@@ -7730,10 +7705,12 @@
 ||wolterskluwer.demdex.net^
 ||woodmark.demdex.net^
 ||wowcher.demdex.net^
+||wrenchgroup.demdex.net^
 ||wyn.demdex.net^
 ||xero.demdex.net^
 ||ybs.demdex.net^
 ||yellowpagescomllc.demdex.net^
+||yrcworldwide.demdex.net^
 ||zacks.demdex.net^
 ||zimmer.demdex.net^
 ||zionsbancorp.demdex.net^
@@ -8578,7 +8555,6 @@
 ||eclkmpbn.com^
 ||eclkmpsa.com^
 ||ecn5.com^
-||ecocarservices.com^
 ||ecologieurbaine.net^
 ||ecomm.events^
 ||tracking.ecompare24.com^
@@ -8684,7 +8660,6 @@
 ||ednplus.com^
 ||edrone.me^
 ||edrubyglo.buzz^
-||eds4kids.com^
 ||chandpurcollege.edu.bd^
 ||crystalheights.edu.gh^
 ||smetrics.deakin.edu.au^
@@ -8755,7 +8730,6 @@
 ||egoi.site^
 ||egotizeoxgall.com^
 ||plugin-check.egret.com^
-||egwolz4g.com^
 ||ad-api.ehawk.com^
 ||ehealthcaresolutions.com^
 ||smetrics.ehealthinsurance.com^
@@ -8962,9 +8936,7 @@
 ||eptics.co^
 ||eqacypykxa.com^
 ||eqads.com^
-||alta.eqmob.com^
 ||api.eqmob.com^
-||sdk.eqmob.com^
 ||sawap.equifax.com^
 ||somnit.equinox.com^
 ||equiracing.fr^
@@ -9773,7 +9745,6 @@
 ||foremedia.net^
 ||foresee.com^
 ||foreseeresults.com^
-||collision.foresightfactory.co^
 ||way.forestv.best^
 ||awowwo.forever21.com^
 ||ssltools.forexprostools.com^
@@ -10044,7 +10015,6 @@
 ||g792337340.co^
 ||g792337342.co^
 ||g792337343.co^
-||g8mv2trk.com^
 ||g9508048080.co^
 ||g9706132415.co^
 ||g990421675.co^
@@ -10095,6 +10065,7 @@
 ||mormont.gamer-network.net^
 ||gamers-tab.xyz^
 ||ja.gamersky.com^
+||ja1.gamersky.com^
 ||ja2.gamersky.com^
 ||gamersterritory.com^
 ||trk.games-to-run123.com^
@@ -10209,6 +10180,7 @@
 ||aripaadee.hit.gemius.pl^
 ||b92adrs.hit.gemius.pl^
 ||blitzadbg.hit.gemius.pl^
+||cmeu.hit.gemius.pl^
 ||cmp.hit.gemius.pl^
 ||cmpl.hit.gemius.pl^
 ||cmtvnpl.hit.gemius.pl^
@@ -10285,6 +10257,7 @@
 ||odnoklgaru.hit.gemius.pl^
 ||olx.hit.gemius.pl^
 ||onet.hit.gemius.pl^
+||pcspbe.hit.gemius.pl^
 ||pcsppl.hit.gemius.pl^
 ||pcsptr.hit.gemius.pl^
 ||port80adge.hit.gemius.pl^
@@ -10311,6 +10284,7 @@
 ||ua.hit.gemius.pl^
 ||vbadbg.hit.gemius.pl^
 ||vkgaby.hit.gemius.pl^
+||vkgalv.hit.gemius.pl^
 ||wp.hit.gemius.pl^
 ||netpanel.gemius.pl^
 ||genbalar.com^
@@ -10384,10 +10358,6 @@
 ||app.getbeamer.com^
 ||push.getbeamer.com^
 ||event.getblue.io^
-||api.getblueshift.com^
-||cdn.getblueshift.com^
-||eu.getblueshift.com^
-||sptracking.getblueshift.com^
 ||getcarro.com^
 ||static.getchipbot.com^
 ||getclicky.com^
@@ -10440,6 +10410,7 @@
 ||getstat.net^
 ||getsurv2you.com^
 ||getsurv2youu.com^
+||getthisappnow.com^
 ||gettine.com^
 ||jhgwe.gettingcoolprizes.info^
 ||gettopple.com^
@@ -10569,6 +10540,7 @@
 ||glersakr.com^
 ||glia.com^
 ||pixel.gliacloud.com^
+||player.gliacloud.com^
 ||glimr.io^
 ||glimtors.net^
 ||glispa.com^
@@ -10670,7 +10642,6 @@
 ||adperf.go2cloud.org^
 ||alchemist.go2cloud.org^
 ||bvoffers-elb.go2cloud.org^
-||chameleonads.go2cloud.org^
 ||grammarly.go2cloud.org^
 ||rubylife.go2cloud.org^
 ||tabmo2018.go2cloud.org^
@@ -10699,8 +10670,6 @@
 ||t.goarmywestpoint.com^
 ||goaserv.com^
 ||goasrv.com^
-||emulatoros.goatcounter.com^
-||radon-games.goatcounter.com^
 ||stratops.goatcounter.com^
 ||imuvileon.gob.mx^
 ||segob.gob.mx^
@@ -10730,7 +10699,6 @@
 ||insights-collector.gog.com^
 ||gogfhq.xyz^
 ||goggle.com^
-||gogoanime.ar^
 ||digitalmarketing.gogsg.com^
 ||gogt.pw^
 ||beacon-fullpage-predictor.goguardian.com^
@@ -10824,7 +10792,6 @@
 ||federatedml-pa.googleapis.com^
 ||firebaselogging.googleapis.com^
 ||firebaselogging-pa.googleapis.com^
-||rhui.googlecloud.com^
 ||googlecommerce.com^
 ||googleinfo.se^
 ||googleoptimize.com^
@@ -10944,13 +10911,13 @@
 ||grecoi.xyz^
 ||gredraus.net^
 ||greedseed.world^
+||tor-exit.greektor.net^
 ||green-ads.net^
 ||green-red.com^
 ||greenadblocker.com^
 ||tms.hft.greenchef.com^
 ||greencuttlefish.com^
 ||smetrics.greendot.com^
-||ads.greengeeks.com^
 ||greengrowth.space^
 ||greenhomedispensary.us^
 ||greenlinknow.com^
@@ -11249,6 +11216,7 @@
 ||stat.headlines.pw^
 ||sv-static-lottery.headlines.pw^
 ||user.headlines.pw^
+||headusuallyopener.com^
 ||healte.de^
 ||health-line.me^
 ||healthcare-distribution.com^
@@ -11303,6 +11271,7 @@
 ||analytics.helpukrainewinwidget.org^
 ||helpzonecisco.com^
 ||hemailaccessonline.com^
+||hemingway-dries-i-207.site^
 ||hengared.com^
 ||hengared.xyz^
 ||henghost.com^
@@ -11321,9 +11290,10 @@
 ||smetrics.herbalife.com^
 ||herdcowhas.icu^
 ||track.hereisthemoment.com^
-||clean.api.hermesccloud.com^
 ||adv.herocraft.com^
 ||gamestats.herocraft.com^
+||dcdn.heroeswm.ru^
+||dcdn3.heroeswm.ru^
 ||metrics.heroku.com^
 ||ao-freegeoip.herokuapp.com^
 ||essential-apps-analytics.herokuapp.com^
@@ -11618,7 +11588,6 @@
 ||horzrb.com^
 ||hospitality-optimizer.com^
 ||host-file-host6.com^
-||hostadserver.com^
 ||hostanalytics.com^
 ||hostarama.ru^
 ||hostcontent.live^
@@ -11629,7 +11598,6 @@
 ||hot-mob.com^
 ||hot4k.org^
 ||hotelesestelar.com^
-||hotelkalingaindore.com^
 ||oms.hotels.com^
 ||affiliates.hotelscombined.com^
 ||hotjar.com^
@@ -11670,7 +11638,6 @@
 ||banner.hpmdnetwork.ru^
 ||adeng.hpplay.cn^
 ||conf.hpplay.cn^
-||image.hpplay.cn^
 ||imdns.hpplay.cn^
 ||pin.hpplay.cn^
 ||rp.hpplay.cn^
@@ -11710,7 +11677,7 @@
 ||tracking.hsn.com^
 ||xljqqe.hsn.com^
 ||hsoub.com^
-||m.hss2x.com^
+||hss2x.com^
 ||hsstatic.net^
 ||app.hstatic.net^
 ||stats.hstatic.net^
@@ -11774,6 +11741,7 @@
 ||smetrics.humana.com^
 ||analytics.humanautomation.ai^
 ||humanpresence.app^
+||humanz.com^
 ||humble-green.pro^
 ||sptrack.mailer.humblebundle.com^
 ||humiliating-tradition.pro^
@@ -11954,7 +11922,6 @@
 ||logconf.iflytek.com^
 ||adlog.ifood.tv^
 ||log.ifood.tv^
-||ifrype.com^
 ||events.ifunny.co^
 ||geoip.ifunny.co^
 ||logs.ifunny.co^
@@ -12127,7 +12094,6 @@
 ||inbenta.io^
 ||as.inbox.com^
 ||inboxdollars.com^
-||inbriefmn.com^
 ||inbudewr.com^
 ||incentivesnetwork.net^
 ||includemodal.com^
@@ -12174,7 +12140,6 @@
 ||api.infinario.com^
 ||skypicker-api.infinario.com^
 ||sygic-api.infinario.com^
-||infineink.com^
 ||track-e.infineon.com^
 ||xml.infinity-info.com^
 ||infinity-tracking.net^
@@ -12194,6 +12159,7 @@
 ||infopro-insight.com^
 ||infoprodata.com^
 ||zgody.infor.pl^
+||inforeporte.com^
 ||analytics.inform.com^
 ||smetrics.citeline.informa.com^
 ||pages.pharmaintelligence.informa.com^
@@ -12294,7 +12260,6 @@
 ||assets.instacart.com^
 ||content2.instacart.com^
 ||shoppers.instacartemail.com^
-||instafollowers.co^
 ||badges.instagram.com^
 ||install1nstall1.com^
 ||installads.net^
@@ -12383,7 +12348,6 @@
 ||hcjpbc.intouchweekly.com^
 ||intowow.com^
 ||intrack.ir^
-||track1.intrap.xyz^
 ||afp.intuit.com^
 ||intuitvisitorid.api.intuit.com^
 ||logging.api.intuit.com^
@@ -12435,7 +12399,6 @@
 ||kicker-relay.iocnt.net^
 ||mobbild-relay.iocnt.net^
 ||mobchefk-relay.iocnt.net^
-||mobfaz-relay.iocnt.net^
 ||mobfocus-relay.iocnt.net^
 ||mobhaz-relay.iocnt.net^
 ||mobippen-relay.iocnt.net^
@@ -12483,6 +12446,7 @@
 ||ip.ro^
 ||ip-176-31-15.eu^
 ||166.ip-51-254-101.eu^
+||ns346259.ip-94-23-27.eu^
 ||ip-label.net^
 ||ip2c.net^
 ||ip2c.org^
@@ -12511,7 +12475,6 @@
 ||ipromote.com^
 ||api.ipstack.com^
 ||iptrack.io^
-||ipuss.tv^
 ||metric.ipv6test.com^
 ||metric.ipv6test.net^
 ||ibd-as-api.iq.com^
@@ -12546,7 +12509,6 @@
 ||act.vip.iqiyi.com^
 ||iqm.com^
 ||iqoption.com^
-||iqtest.com^
 ||eloquatracking.iqvia.com^
 ||iqzone.com^
 ||ir3.xyz^
@@ -12571,7 +12533,6 @@
 ||ironsrc.mobi^
 ||iam-agof-app.irquest.com^
 ||irr.ru^
-||irray.net^
 ||fo.irrisoranemone.com^
 ||irs01.com^
 ||irs03.com^
@@ -12713,7 +12674,6 @@
 ||sjremetrics.java.com^
 ||javbucks.com^
 ||thescript.javfinder.xyz^
-||enter.javhd.com^
 ||jayapriya.com^
 ||jayde.com^
 ||jazzspeechlessarena.com^
@@ -12855,6 +12815,7 @@
 ||hybrid-prd.ad-prd.s.joyn.de^
 ||event-collector.prd.data.s.joyn.de^
 ||heartbeats.prd.data.s.joyn.de^
+||airtime.joyradio.cc^
 ||cdna.jpay.com^
 ||jpgtrk.com^
 ||jpivxtsxpkn.com^
@@ -12895,7 +12856,6 @@
 ||juicyads.in^
 ||juicyads.me^
 ||juicyads.rocks^
-||juicybigass.com^
 ||julkkoazfkh.com^
 ||jullyambery.net^
 ||julolecalve.website^
@@ -13160,6 +13120,7 @@
 ||affiliate.klook.com^
 ||log.klook.com^
 ||kloperd.com^
+||stats.klops.ru^
 ||kloshgriffe.com^
 ||kmotrack.xyz^
 ||cdn.kmplayer.com^
@@ -13272,8 +13233,6 @@
 ||live.ksapisrv.com^
 ||log-sdk.ksapisrv.com^
 ||push.ksapisrv.com^
-||sfaf1.ksapisrv.com^
-||sfaf2.ksapisrv.com^
 ||ulog.ksapisrv.com^
 ||upload.ksapisrv.com^
 ||wlog.ksapisrv.com^
@@ -13369,7 +13328,6 @@
 ||ads.kwanzoo.com^
 ||kwhenspokento.info^
 ||stat.kwikmotion.com^
-||kwpsurveys.com^
 ||kwtnhdrmbx.com^
 ||v1-c73e.kxcdn.com^
 ||yourbrand-18274.kxcdn.com^
@@ -13399,7 +13357,6 @@
 ||labaz.vip^
 ||lacertamobile.com^
 ||secure.lack4skip.com^
-||lacmp.net^
 ||lacquerreddeform.com^
 ||consent.ladbible.com^
 ||tracking.ladies.de^
@@ -13595,7 +13552,6 @@
 ||leokross.com^
 ||leonbetvouum.com^
 ||ads.leovegas.com^
-||cdn.leovegas.com^
 ||ntrfr.leovegas.com^
 ||lephaush.net^
 ||cmp.lepoint.fr^
@@ -13784,6 +13740,7 @@
 ||18lus0524edvcif1pa0hruc0e.litix.io^
 ||1ei965u9fpdb61fpmb3rtas34.litix.io^
 ||1enel4v72c5udpdu4cn2a2hva.litix.io^
+||1r1bp3vvkbn0o6es02kq9gl9i.litix.io^
 ||24178227f9e3310f8b5347d85.litix.io^
 ||247eda56317d1549491233a36.litix.io^
 ||26352olg2jjjab15qgl0a8uf8.litix.io^
@@ -13792,43 +13749,39 @@
 ||2qbjhhcl4u87btjbo7dh8vi2n.litix.io^
 ||32vtmk9u3aecvlbausimqhdaq.litix.io^
 ||3ba984e97504826ea2e8c5382.litix.io^
-||3edu9mqqr28n521ik6oovri48.litix.io^
+||3id255ooae02eldtnau8s8b52.litix.io^
 ||438b44e68a18a815aaf4aa6ab.litix.io^
 ||44ser87uhle6mo61s1qtpin7j.litix.io^
 ||4unal8ngvngjm07lj2q2umlc4.litix.io^
 ||54ldtktjsc6fk3fhafcel9c2b.litix.io^
 ||5b20h0l9rf3kum3ltq9jilbta.litix.io^
-||6327gbrtf6qvc0sr3gdtlj74f.litix.io^
 ||6dlptqu5djnku88lgp6hu8lqb.litix.io^
-||7rro99i9482rqqokaa3kuvgs4.litix.io^
 ||7s6qlatkdud7i2i55csqaa2j2.litix.io^
 ||9402786d1084727885d64ea82.litix.io^
 ||9agg7pld771p850mf45msngp3.litix.io^
 ||a3krscrg9223j3877578rth0l.litix.io^
-||b7d6e48b7461a61cb6e863a62.litix.io^
 ||bbh9mqlh0bi8si8rd8kc86qf7.litix.io^
 ||binph5o7ub3514q463qh26549.litix.io^
 ||bmtdo6asv4stimoo0un7ut7ig.litix.io^
 ||bqst82u23r97a7fuo892gfpn2.litix.io^
-||c603cae0cab019beb85f1c4c3.litix.io^
 ||ccaeea322a414470058de0624.litix.io^
 ||ccjnhnqfnvsr3otokvf59ns52.litix.io^
 ||cjiblt91fq0osjlpmhdts3lhd.litix.io^
 ||cke6uqsmhvkh11r7fsp7u6kpb.litix.io^
+||dasprsrc9l932o3us8cal6l62.litix.io^
 ||e0vemjple0l1luii7h5vlu5no.litix.io^
 ||ec83cce4c209447a2af3d62f2.litix.io^
 ||efhk2t8a9m6sgkaie52pqst6o.litix.io^
-||egf9lk467191v0c3spnlsuhvp.litix.io^
 ||elv3hoi61b0ag6rllfh01ihid.litix.io^
 ||f13b9be8b7851594e8da77ea2.litix.io^
 ||fg8vvsvnieiv3ej16jby.litix.io^
 ||fujb25n3e1b8blh1d3fv5nrpa.litix.io^
 ||h5cs0jtieua6e6rol7ep5ohlt.litix.io^
+||hbktgrc3ge3rvlqcgqkscjhev.litix.io^
 ||img.litix.io^
 ||inferred.litix.io^
 ||inqlnfvog763mmf771rou737u.litix.io^
 ||ir8g4jv6crgir51psbohtljnq.litix.io^
-||jmbijk0eln255ipga9o1tnkgo.litix.io^
 ||johjeanlv1k6mvj73mqjntbhj.litix.io^
 ||kamd8jpdbeekn8gapkqcupq14.litix.io^
 ||kv7q75l3m36fgqm3co1hoj583.litix.io^
@@ -13839,17 +13792,18 @@
 ||md0ig7ssl8unl2kpl0h6p0drn.litix.io^
 ||mg9e1615p9l3t8q9drt11bb2n.litix.io^
 ||nsna6odmb01c4io48kgq6keai.litix.io^
-||o74sa93uggv7uopf1q38duu9m.litix.io^
 ||patvvpcoptmck9ppdv4cl31bn.litix.io^
+||pfld0qg7tn2m958npaamp558n.litix.io^
 ||q867fmcb8kfo9oqm60q1rqm81.litix.io^
 ||qj80ht7s3v5q3tdg5116q2emi.litix.io^
 ||qv667vb4r2qhk1fn6svjj588o.litix.io^
+||rfmufjlteh0q1t7kkrs04auav.litix.io^
 ||sfrc0h2ursbel1jbo6s82jap5.litix.io^
-||sl88qoe7hagf6kt3pl848i079.litix.io^
 ||tb16k74rdoomqkj011camna48.litix.io^
 ||udo8kqf9tsneg0t116idg2afe.litix.io^
 ||ufod3d75lur0cd45htigvbl57.litix.io^
 ||ulj2m26mv65ff06mjk2g9umq4.litix.io^
+||vdjjvfnanbtsak6c0tsdv654c.litix.io^
 ||vfhbo3jsnvrutdkuee1akd0lj.litix.io^
 ||vfq2nsli1v76fglgdl9puq0cd.litix.io^
 ||litrefloored.com^
@@ -14061,9 +14015,7 @@
 ||lpgnaxon.com^
 ||smetrics.lpl.com^
 ||lporirxe.com^
-||am-lpcdn.lpsnmedia.net^
 ||ca-accdn.lpsnmedia.net^
-||lo-accdn.lpsnmedia.net^
 ||lo-lpcdn.lpsnmedia.net^
 ||cdn.lqm.io^
 ||h.lqm.io^
@@ -14258,7 +14210,6 @@
 ||sats.manager-magazin.de^
 ||manalyticshub.com^
 ||smetrics.mandg.com^
-||manga-news.com^
 ||log.mangaina.com^
 ||dct.mango-office.ru^
 ||mangoclone.com^
@@ -14274,7 +14225,6 @@
 ||maploco.com^
 ||dimensions.mappy.com^
 ||log.mappy.net^
-||maps-apple.date^
 ||mapsanddrivingdirectionstab.com^
 ||mapsassist.com^
 ||mapsdirectionsfor.me^
@@ -14341,7 +14291,6 @@
 ||smetrics.marriott.com^
 ||tms.marriott.com^
 ||smetrics.marriottvacationclub.com^
-||marsagri.com^
 ||app.marsello.com^
 ||tr.marsflag.com^
 ||marshal.com^
@@ -14395,7 +14344,6 @@
 ||events.matterport.com^
 ||mattingsolutions.co^
 ||affiliates.mature.eu^
-||affiliates.mature.nl^
 ||maturecodes.com^
 ||matyamyelia.com^
 ||mauchopt.net^
@@ -14692,12 +14640,10 @@
 ||counter.mgronline.com^
 ||imp.mgronline.com^
 ||fi-analytics.mgsn.it^
-||as.mgtv.com^
 ||da.mgtv.com^
 ||ott-v0-al.data.mgtv.com^
 ||ott.v1.data.mgtv.com^
 ||log.mgtv.com^
-||mobaliyun.res.mgtv.com^
 ||disp.titan.mgtv.com^
 ||engage.mhainc.com^
 ||smetrics.mhsindiana.com^
@@ -14723,7 +14669,6 @@
 ||analytics.michiganlottery.com^
 ||miciudadreal.es^
 ||micmitosas.top^
-||fidrzivu.micpn.com^
 ||prvsz4pe.micpn.com^
 ||microad.jp^
 ||microad.net^
@@ -15210,7 +15155,6 @@
 ||api-ad-callback.mobiuspace.net^
 ||mobivity.com^
 ||mobotoolpush.moboapps.io^
-||mobotoolpush.mobogenie.com^
 ||mobon.net^
 ||mobpowertech.com^
 ||mobpushup.com^
@@ -15430,7 +15374,6 @@
 ||msgf.net^
 ||msgose.com^
 ||mshago.com^
-||mskh.am^
 ||dn.msmstatic.com^
 ||ac3.msn.com^
 ||ads.msn.com^
@@ -15542,7 +15485,6 @@
 ||my-tracking.info^
 ||debs.my100bank.com^
 ||tmi.my529.org^
-||dc.api.my7v.com^
 ||myadmessenger.com^
 ||banners.myads.ge^
 ||myadx.net^
@@ -15705,7 +15647,6 @@
 ||poole-collector-prod.n3twork.com^
 ||atlas-endpoint.data.n8s.jp^
 ||info.naag.org^
-||info.naahq.org^
 ||naanalle.pl^
 ||naborutmyrq.top^
 ||nacontent.pro^
@@ -15721,7 +15662,6 @@
 ||d.nakanohito.jp^
 ||uh.nakanohito.jp^
 ||uh0.nakanohito.jp^
-||nakant.com^
 ||redtrack.nakedandthriving.com^
 ||nakirfettle.com^
 ||naleapprength.xyz^
@@ -15747,7 +15687,6 @@
 ||smetrics.napaonline.com^
 ||smetrics.napaprolink.com^
 ||napesropes.com^
-||applytics.napps-1.com^
 ||nappyattack.com^
 ||static.narrativ.com^
 ||io.narrative.io^
@@ -15974,6 +15913,7 @@
 ||pnrules.netcoresmartech.com^
 ||psegment.netcoresmartech.com^
 ||twa.netcoresmartech.com^
+||twabeta.netcoresmartech.com^
 ||wdc.netcoresmartech.com^
 ||netcrew-analysis.jp^
 ||analytics.netdirector.auto^
@@ -16029,7 +15969,6 @@
 ||seal.networksolutions.com^
 ||networld.hk^
 ||lp.netwrix.com^
-||netzathleten.de^
 ||netzathleten-media.de^
 ||track.netzero.net^
 ||wpm.neustar.biz^
@@ -16055,6 +15994,7 @@
 ||news-access.xyz^
 ||news-bit.com^
 ||news-bonuze.com^
+||news-bovido.cc^
 ||news-cajogo.cc^
 ||news-caloto.cc^
 ||news-cazefo.cc^
@@ -16150,6 +16090,7 @@
 ||nexac.com^
 ||nexage.com^
 ||nexeps.com^
+||analytics.nexon.com^
 ||ccpa.psg.nexstardigital.net^
 ||segment.psg.nexstardigital.net^
 ||next-pops.top^
@@ -16258,7 +16199,6 @@
 ||njih.net^
 ||nkscdn.com^
 ||rek.nktcdn.com^
-||pardot.nl.edu^
 ||nl00.net^
 ||web.northwestern.nm.org^
 ||nmanateex.top^
@@ -16394,7 +16334,6 @@
 ||ntl.cloud^
 ||ntualkentined.xyz^
 ||s.ntv.io^
-||share.ntv.io^
 ||ntvk1.ru^
 ||ntvpforever.com^
 ||ntvpinp.com^
@@ -16649,7 +16588,6 @@
 ||nbcume.sc.omtrdc.net^
 ||rewedigital.sc.omtrdc.net^
 ||geico.com.ssl.sc.omtrdc.net^
-||tataunistorelimited.sc.omtrdc.net^
 ||unitedparcelservice.sc.omtrdc.net^
 ||viacom.sc.omtrdc.net^
 ||vodafonetr.sc.omtrdc.net^
@@ -16738,9 +16676,9 @@
 ||eu-aa.online-metrix.net^
 ||h.online-metrix.net^
 ||h-2ql3c6py.online-metrix.net^
+||h-30fpzt2y.online-metrix.net^
 ||h-3z5dc3wi.online-metrix.net^
 ||h-6rj18la4.online-metrix.net^
-||h-7hs48cp7.online-metrix.net^
 ||h-87rxrdob.online-metrix.net^
 ||h-accurint.online-metrix.net^
 ||h-adp.online-metrix.net^
@@ -16749,32 +16687,32 @@
 ||h-api.online-metrix.net^
 ||h-apruvd.online-metrix.net^
 ||h-bangkokbank.online-metrix.net^
+||h-beachbody.online-metrix.net^
 ||h-bestbuy.online-metrix.net^
 ||h-bmo.online-metrix.net^
 ||h-bmoharris2.online-metrix.net^
-||h-bos.online-metrix.net^
 ||h-cco37scf.online-metrix.net^
 ||h-cdiscount.online-metrix.net^
 ||h-chase.online-metrix.net^
 ||h-citibank-hk.online-metrix.net^
+||h-citibank-in.online-metrix.net^
 ||h-citibank-mx.online-metrix.net^
+||h-citibank-sg.online-metrix.net^
 ||h-citibankonline.online-metrix.net^
 ||h-citidirect.online-metrix.net^
 ||h-citizensbankonline.online-metrix.net^
 ||h-citizenscommercial.online-metrix.net^
 ||h-cjwi5pjh.online-metrix.net^
-||h-coutts.online-metrix.net^
 ||h-cybersource.online-metrix.net^
 ||h-dell.online-metrix.net^
 ||h-dstssc.online-metrix.net^
 ||h-e04kqxof.online-metrix.net^
 ||h-ebay.online-metrix.net^
 ||h-ebay-kleinanzeigen.online-metrix.net^
-||h-emirates.online-metrix.net^
 ||h-fedex.online-metrix.net^
 ||h-fisglobal.online-metrix.net^
-||h-goldmanimd.online-metrix.net^
 ||h-goldmansachs2.online-metrix.net^
+||h-gumtree.online-metrix.net^
 ||h-gusto.online-metrix.net^
 ||h-halifax.online-metrix.net^
 ||h-hsbcmx.online-metrix.net^
@@ -16782,7 +16720,6 @@
 ||h-ibotta.online-metrix.net^
 ||h-iddataweb.online-metrix.net^
 ||h-instacart.online-metrix.net^
-||h-interacetransfer.online-metrix.net^
 ||h-k8vif92e-au.online-metrix.net^
 ||h-k8vif92e-av.online-metrix.net^
 ||h-k8vif92e-lulu.online-metrix.net^
@@ -16805,6 +16742,7 @@
 ||h-santanderbank.online-metrix.net^
 ||h-scotia.online-metrix.net^
 ||h-signifyd.online-metrix.net^
+||h-skrill.online-metrix.net^
 ||h-sofi.online-metrix.net^
 ||h-standardcharteredbank.online-metrix.net^
 ||h-svbconnect.online-metrix.net^
@@ -16874,7 +16812,6 @@
 ||opencoccoc.com^
 ||openfinancial.co^
 ||openfpcdn.io^
-||info.opengroup.org^
 ||openinstall.io^
 ||openli.com^
 ||openmarket.com^
@@ -16998,7 +16935,6 @@
 ||oremark.com^
 ||ad.org.vn^
 ||openx.angelsgroup.org.uk^
-||banner.org.ua^
 ||ivcbrasil.org.br^
 ||lsma.org.za^
 ||mediaathay.org.uk^
@@ -17349,7 +17285,6 @@
 ||peelaipu.xyz^
 ||secure.peep1alea.com^
 ||peer39.com^
-||netto.peerius.com^
 ||neweracap.peerius.com^
 ||sainsburysgroceries.peerius.com^
 ||thewhitecompany.peerius.com^
@@ -17437,6 +17372,7 @@
 ||peuraveric.com^
 ||peweesfluer.website^
 ||pexi.nl^
+||peyvandha.ir^
 ||pfuokfzm.org^
 ||swebanalytics.pgatour.com^
 ||pghub.io^
@@ -17600,6 +17536,7 @@
 ||analytics.plaid.com^
 ||planetpush.net^
 ||planscul.com^
+||plantengineering.com^
 ||filter.plarimoplus.com^
 ||xml.plarimoplus.com^
 ||bo-gtw-1.plarium.com^
@@ -17622,7 +17559,6 @@
 ||plauna.com^
 ||custom.plausible.io^
 ||plavxml.com^
-||playamo.com^
 ||prd-collector-anon.playbuzz.com^
 ||playerassist.com^
 ||playercdn.com^
@@ -17643,7 +17579,6 @@
 ||telemetry-console.api.playstation.com^
 ||payments.direct.playstation.com^
 ||playstream.media^
-||playsummer.eu^
 ||advapi.playtem.com^
 ||sdk.playtem.com^
 ||playtomic.com^
@@ -17824,14 +17759,11 @@
 ||pornoliks.com^
 ||stats.pornpics.com^
 ||aa.pornvideotop.com^
-||pornxxx.cyou^
 ||portalhc.com^
 ||portaltvto.com^
 ||sstats.portauthorityclothing.com^
 ||portbay.trade^
 ||portgame.website^
-||i.portland5news.com^
-||l.portland5news.com^
 ||poshhateful.com^
 ||poshukach.com^
 ||positiverefreshment.org^
@@ -17908,7 +17840,6 @@
 ||prehistoriceast.com^
 ||prelandappslab.com^
 ||smetrics.premera.com^
-||media.premierbetpartners.com^
 ||sis8.premieremoisson.com^
 ||smetrics.premierinn.com^
 ||premium18age.com^
@@ -17931,7 +17862,6 @@
 ||presstheme.me^
 ||prestsusie.com^
 ||presumeauthorizationcamping.com^
-||l.e.prettylittercats.com^
 ||hoseyy.prettylittlething.com^
 ||preventedcaptivate.com^
 ||preview-domain.com^
@@ -17990,7 +17920,6 @@
 ||att.productmadness.com^
 ||productserve.com^
 ||track.productsup.com^
-||widget.profeat.team^
 ||stats.proff.no^
 ||proffering.xyz^
 ||profitablecpmgate.com^
@@ -18088,6 +18017,7 @@
 ||prscripts.com^
 ||prstatics.com^
 ||prtc.net^
+||prtord.com^
 ||prtrackings.com^
 ||prudsys-rde.de^
 ||ip.prvtx.net^
@@ -18176,7 +18106,6 @@
 ||pubtm.com^
 ||pubtrack.co^
 ||pubwise.io^
-||pubx.co^
 ||pubyun.com^
 ||puckhunterrr.com^
 ||pudacasa.com^
@@ -18550,7 +18479,6 @@
 ||pap.qualityunit.com^
 ||dropbox.siteintercept.qualtrics.com^
 ||gov1.siteintercept.qualtrics.com^
-||na-vrt.siteintercept.qualtrics.com^
 ||si8k18tmwqnc9m5pp-bnsfrailwa.siteintercept.qualtrics.com^
 ||uniteddigital.siteintercept.qualtrics.com^
 ||www.siteintercept.qualtrics.com^
@@ -18564,16 +18492,16 @@
 ||zn02tpt6u7h6edezj-indeed.siteintercept.qualtrics.com^
 ||zn03au9s38eu0kn25-axa.siteintercept.qualtrics.com^
 ||zn03bx4n5mpp52ksl-gwlcx.siteintercept.qualtrics.com^
-||zn06xjqocj7gkelgu-quiktrip.siteintercept.qualtrics.com^
 ||zn083eh53tqqfbkpw-instamed.siteintercept.qualtrics.com^
-||zn08oslf6zfmaamnm-changevoc.siteintercept.qualtrics.com^
 ||zn08spfafx8il5ev8-allianz.siteintercept.qualtrics.com^
 ||zn097ucyqha0b5qpt-aramark.siteintercept.qualtrics.com^
+||zn09tjwjvephllacp-partnersatbooking.siteintercept.qualtrics.com^
 ||zn0anhpa0wwywyr14-uhg1.siteintercept.qualtrics.com^
 ||zn0bqic9wog1d95cx-amwater.siteintercept.qualtrics.com^
 ||zn0bumcmmhqgvusoe-ncci.siteintercept.qualtrics.com^
 ||zn0ccsrg9grqrxatc-springernature.siteintercept.qualtrics.com^
 ||zn0ceomejbf88epls-watersxdc.siteintercept.qualtrics.com^
+||zn0cmyihi33odmpy9-severntrent.siteintercept.qualtrics.com^
 ||zn0d4lngcjt30pwt3-sapinsights.siteintercept.qualtrics.com^
 ||zn0dmk48avjrwdys2-obe.siteintercept.qualtrics.com^
 ||zn0dr4viyiwobrnjf-hbpcorporatelearning.siteintercept.qualtrics.com^
@@ -18582,24 +18510,26 @@
 ||zn0emblpr2pdrmz9j-sapinsights.siteintercept.qualtrics.com^
 ||zn0f9kcwf61byxw8d-modahealth.siteintercept.qualtrics.com^
 ||zn0fcgtfbn7tv7jqw-redventures.siteintercept.qualtrics.com^
+||zn0feyon15oqdwcu1-compass.siteintercept.qualtrics.com^
 ||zn0fzbjuhlistjwrz-nihodoercomm.siteintercept.qualtrics.com^
-||zn0gkpz4fslksg4dv-sony.siteintercept.qualtrics.com^
 ||zn0gqf6esnidlsgf4-lightspeedhq.siteintercept.qualtrics.com^
 ||zn0gsrcbql2stgk3a-vistaprint.siteintercept.qualtrics.com^
+||zn0haelcl0dsrq7rk-texasroadhousehr.siteintercept.qualtrics.com^
 ||zn0hbsazgwqae33bs-excellus.siteintercept.qualtrics.com^
 ||zn0hfbsdbzmeke2iy-echoparkautomotive.siteintercept.qualtrics.com^
 ||zn0hfs2sccjjup6va-questdiagnostics.siteintercept.qualtrics.com^
 ||zn0ibm62qqk5svzrv-carefirst.siteintercept.qualtrics.com^
 ||zn0inwsvjyujqfobd-orlando.siteintercept.qualtrics.com^
-||zn0iszwdnuggepneu-colsubsidio.siteintercept.qualtrics.com^
 ||zn0ivwutl4pi7xjah-iggroup.siteintercept.qualtrics.com^
 ||zn0ixfofqz3wbuqxv-lloydsbankinggroup.siteintercept.qualtrics.com^
 ||zn0j2mtsfbxtjnbv4-gwlcx.siteintercept.qualtrics.com^
+||zn0jkjcycboetpmop-travelers.siteintercept.qualtrics.com^
 ||zn0jo5fsevp23jwwq-aicpa.siteintercept.qualtrics.com^
 ||zn0jp8v8patw9lupg-trdigital.siteintercept.qualtrics.com^
 ||zn0jtmt19qmkdyhms-radian.siteintercept.qualtrics.com^
 ||zn0k5r3kjjkydarnf-ssmhealth1.siteintercept.qualtrics.com^
 ||zn0k77zr4o6ihxl2z-wyndhamdestinations.siteintercept.qualtrics.com^
+||zn0kueuwdflykla6p-osuwmc.siteintercept.qualtrics.com^
 ||zn0kzdpb3dktlyauv-caleres.siteintercept.qualtrics.com^
 ||zn0kzhyvzat2rdyzv-uofeedback.siteintercept.qualtrics.com^
 ||zn0lco5bj8gr5an70-economist.siteintercept.qualtrics.com^
@@ -18618,10 +18548,12 @@
 ||zn0pptmov7gazlq3x-dukeenergyft.siteintercept.qualtrics.com^
 ||zn0pq1ns1ykkocdds-equifax.siteintercept.qualtrics.com^
 ||zn0q4mi3qffygcetl-mutualofamerica.siteintercept.qualtrics.com^
+||zn0q8obknsgfiji7p-tamedia.siteintercept.qualtrics.com^
 ||zn0qgd9somil2mny9-hsbcdigital.siteintercept.qualtrics.com^
 ||zn0rel8hvcwxpdcyt-constantcontact.siteintercept.qualtrics.com^
 ||zn0rllcixsl7p6fal-mckesson.siteintercept.qualtrics.com^
 ||zn0rpgfxyeoiso7vb-qvc.siteintercept.qualtrics.com^
+||zn0sc5oc6hvbvnybf-asurion.siteintercept.qualtrics.com^
 ||zn0thecsujsizknzd-geico.siteintercept.qualtrics.com^
 ||zn0thkghxrnxz30do-lightspeedhq.siteintercept.qualtrics.com^
 ||zn0tloujna2y3ywmr-catwebinsights.siteintercept.qualtrics.com^
@@ -18657,11 +18589,13 @@
 ||zn1odfrbossns1ikj-travismathew.siteintercept.qualtrics.com^
 ||zn1okxvh5mvvnsd3u-analogdevicescx.siteintercept.qualtrics.com^
 ||zn1qrzwycpfwsfxxt-sunlife.siteintercept.qualtrics.com^
+||zn1rychsxmn3nijs5-marriottvacationclub.siteintercept.qualtrics.com^
 ||zn1sxm57tosj5159h-hsbcdigital.siteintercept.qualtrics.com^
 ||zn1ttxdo6pi4mebp8-coursehero.siteintercept.qualtrics.com^
 ||zn1twtaofmuhgl74p-americanhomeshield.siteintercept.qualtrics.com^
 ||zn1wupqbzyftkeju9-keurig2.siteintercept.qualtrics.com^
 ||zn1wzbghjpci38c2o-ciscocx.siteintercept.qualtrics.com^
+||zn1x4ih3idyohoi3r-sls.siteintercept.qualtrics.com^
 ||zn1x4kpmb0i9wpz4f-unionbank.siteintercept.qualtrics.com^
 ||zn1xnfptpqhowr2hr-officedepoteurope.siteintercept.qualtrics.com^
 ||zn1y2ema5tlxxjvbo-nineresearch.siteintercept.qualtrics.com^
@@ -18670,19 +18604,19 @@
 ||zn1yw2wxqahrd8vui-healthline.siteintercept.qualtrics.com^
 ||zn1yyvawxuwmxevu1-netinspect.siteintercept.qualtrics.com^
 ||zn1z6ngdutm8gqq18-ocbc.siteintercept.qualtrics.com^
-||zn1z7nk7lrigyebik-qxm.siteintercept.qualtrics.com^
 ||zn1zcui8zxdmmcvvq-ehi.siteintercept.qualtrics.com^
 ||zn1zi3ktds6obejiq-colibrigroup.siteintercept.qualtrics.com^
 ||zn1zlzxvcevgyzunr-uhg1.siteintercept.qualtrics.com^
-||zn1zsiskqdqr94yja-youngliving.siteintercept.qualtrics.com^
 ||zn1zw3m3dlvzezje2-nineresearch.siteintercept.qualtrics.com^
 ||zn1zygp5fiqwqhkte-glic.siteintercept.qualtrics.com^
+||zn20tenrqrrivan42-floridabluelistens.siteintercept.qualtrics.com^
 ||zn20uuf1anjcqsbqu-healthallianceplan.siteintercept.qualtrics.com^
 ||zn23t9amtoapybpji-chopdigital.siteintercept.qualtrics.com^
 ||zn25zems9holyah93-quicken.siteintercept.qualtrics.com^
 ||zn2642ludd7fq5yld-johnmuirhealth.siteintercept.qualtrics.com^
 ||zn29leou5u7kcojq5-aiglife.siteintercept.qualtrics.com^
 ||zn29vqjhfqhcbipdf-tuigroup.siteintercept.qualtrics.com^
+||zn2a8fc74bymswu73-amerisourcebergencx.siteintercept.qualtrics.com^
 ||zn2aal59c9bbsvuxf-abbottnutrition.siteintercept.qualtrics.com^
 ||zn2aivs7co3v0epx3-lloydsbankinggroup.siteintercept.qualtrics.com^
 ||zn2avu5cwkccfqjt0-simplisafe.siteintercept.qualtrics.com^
@@ -18694,7 +18628,7 @@
 ||zn2froujczvx9d7qg-idme.siteintercept.qualtrics.com^
 ||zn2gan5dztsqrj2fo-newsy.siteintercept.qualtrics.com^
 ||zn2gjxqwgwhy9vof0-purchasingpower.siteintercept.qualtrics.com^
-||zn2hnvtl9hwq7ywhb-clarocolombia.siteintercept.qualtrics.com^
+||zn2h2zbmgyn1pqgpf-microsoftrecruiting.siteintercept.qualtrics.com^
 ||zn2icpaoutav49y4k-intuit.siteintercept.qualtrics.com^
 ||zn2lclvyzbtciqkic-nbacx.siteintercept.qualtrics.com^
 ||zn2lqzjzelu2sdykl-firstcitizensbank.siteintercept.qualtrics.com^
@@ -18704,14 +18638,14 @@
 ||zn2nindxpiwxmnnjn-fashionphile.siteintercept.qualtrics.com^
 ||zn2nnnmfxvuysv4y5-mlb.siteintercept.qualtrics.com^
 ||zn2nog2ukqhzqejkn-fmrpi.siteintercept.qualtrics.com^
+||zn2nxi4jiskavhibj-synchronysurvey.siteintercept.qualtrics.com^
 ||zn2ociattcowprqp4-fmrpi.siteintercept.qualtrics.com^
 ||zn2oe5wspeykcsnc9-ameriprisefinancial.siteintercept.qualtrics.com^
 ||zn2oeis0lnozumwtd-omega.siteintercept.qualtrics.com^
+||zn2rclsxhgx1etxl7-uhg1.siteintercept.qualtrics.com^
 ||zn2rdbq8r3zv6zwtp-parkerhannifin.siteintercept.qualtrics.com^
-||zn2rgxfqthjxieqsw-maricopacx.siteintercept.qualtrics.com^
 ||zn2rtgq6h2yqvzry1-lloydsbankinggroup.siteintercept.qualtrics.com^
 ||zn2smebvj9ehsyygp-15five.siteintercept.qualtrics.com^
-||zn2snsqgndethhc9m-workramp.siteintercept.qualtrics.com^
 ||zn2t0w4zvevry6nwx-asurion.siteintercept.qualtrics.com^
 ||zn2tbnxzsysy6zef7-regions.siteintercept.qualtrics.com^
 ||zn2tcehoxwhq6zgax-bose.siteintercept.qualtrics.com^
@@ -18722,6 +18656,7 @@
 ||zn37mptkltsyz3yj3-cbs.siteintercept.qualtrics.com^
 ||zn37spm9ccmvfv1mv-ameriprisefinancial.siteintercept.qualtrics.com^
 ||zn37woxthguzzvm0k-ancestrytrial.siteintercept.qualtrics.com^
+||zn38ckb08rrwfldh3-equifax.siteintercept.qualtrics.com^
 ||zn38ckb08rrwfldh3-teamknowhow.siteintercept.qualtrics.com^
 ||zn38ewlkstoc1b9zm-rbi.siteintercept.qualtrics.com^
 ||zn38kmxsyn4s1wiwv-caleres.siteintercept.qualtrics.com^
@@ -18736,6 +18671,7 @@
 ||zn3df7rqdpd4iiene-usbank.siteintercept.qualtrics.com^
 ||zn3dpyydxnqicchiy-degreed.siteintercept.qualtrics.com^
 ||zn3dtdyc8qsewhj6t-nidx.siteintercept.qualtrics.com^
+||zn3duqmdplh77njba-afgroup.siteintercept.qualtrics.com^
 ||zn3e15tv56scsjlce-healthline.siteintercept.qualtrics.com^
 ||zn3edajdvgwonv9nr-tmobilecx.siteintercept.qualtrics.com^
 ||zn3ehyunhgrnrixfo-lightspeedhq.siteintercept.qualtrics.com^
@@ -18743,6 +18679,7 @@
 ||zn3enbiwjzejgzfxq-deliveryhub.siteintercept.qualtrics.com^
 ||zn3enozuz6nnn9nkf-tribune.siteintercept.qualtrics.com^
 ||zn3eoctuu82gi4qup-lloydsbankinggroup.siteintercept.qualtrics.com^
+||zn3eqahkvbopetlcu-cityelectricsupply.siteintercept.qualtrics.com^
 ||zn3etdzvv330bnajr-expressscriptscx.siteintercept.qualtrics.com^
 ||zn3f0cuzq5h96deey-fifththirdbank.siteintercept.qualtrics.com^
 ||zn3f8e6tceotw1rnn-aholddelhaize.siteintercept.qualtrics.com^
@@ -18751,11 +18688,13 @@
 ||zn3gakx5kit5btfiz-geisinger.siteintercept.qualtrics.com^
 ||zn3gbcaiuig8q8whh-plantronicscx.siteintercept.qualtrics.com^
 ||zn3gccbbkzbefhqgi-redventures.siteintercept.qualtrics.com^
-||zn3jhcvho31gchlyg-upscx.siteintercept.qualtrics.com^
+||zn3ibrpkldazquxaq-consumerinfo.siteintercept.qualtrics.com^
 ||zn3jlighnzhjtq7xg-ehi.siteintercept.qualtrics.com^
 ||zn3jw5flovgiippnd-lloydsbankinggroup.siteintercept.qualtrics.com^
 ||zn3jzs0cp1zh0sf0o-americanhonda.siteintercept.qualtrics.com^
+||zn3k0ex8w7a2bzrkm-dishvoc.siteintercept.qualtrics.com^
 ||zn3kexpwrxes8tb4h-videotroncx.siteintercept.qualtrics.com^
+||zn3khnzhfta2pj47i-flmotorservices.siteintercept.qualtrics.com^
 ||zn3kiw5wekljvizs5-youngliving.siteintercept.qualtrics.com^
 ||zn3kkfeknqa3qhakt-carfax.siteintercept.qualtrics.com^
 ||zn3l3zeqe4193dwdc-jnjpx.siteintercept.qualtrics.com^
@@ -18778,6 +18717,7 @@
 ||zn3pkdk4bqxazdhqe-uhg1.siteintercept.qualtrics.com^
 ||zn3pksvqufnmyatgo-cetera.siteintercept.qualtrics.com^
 ||zn3puqykoce6ibirf-synchronysurvey.siteintercept.qualtrics.com^
+||zn3q2mahw0egrvhlx-iconhealth.siteintercept.qualtrics.com^
 ||zn3q9k3fzv645vjsz-alight.siteintercept.qualtrics.com^
 ||zn3qasgbusrkj74ue-labcorp.siteintercept.qualtrics.com^
 ||zn3qjty3cpuwzvp0y-logmeinvoc.siteintercept.qualtrics.com^
@@ -18793,6 +18733,7 @@
 ||zn3ry0o2hprcfl5vy-amerisourcebergencx.siteintercept.qualtrics.com^
 ||zn3sb0gdk8bl0bl54-spire.siteintercept.qualtrics.com^
 ||zn3shhevgopspvnix-legalandgeneral.siteintercept.qualtrics.com^
+||zn3t3xkv5cb1btlqc-mbtc.siteintercept.qualtrics.com^
 ||zn3ts5izhgdp6ryfxcoxautomotive.siteintercept.qualtrics.com^
 ||zn3udd53mf4hhsvcj-caresource.siteintercept.qualtrics.com^
 ||zn3uft2bgpnfy7ozs-flexport.siteintercept.qualtrics.com^
@@ -18812,7 +18753,6 @@
 ||zn3wuoawaazkbfa29-healthequity.siteintercept.qualtrics.com^
 ||zn3wyma4xs4oqh2ct-lloydsbankinggroup.siteintercept.qualtrics.com^
 ||zn3wyn0nyj7xhoifp-intuit.siteintercept.qualtrics.com^
-||zn3xbq7haflbecmpq-ciscocx.siteintercept.qualtrics.com^
 ||zn3xgqz1jwob1k8m6-eyglobalsurvey.siteintercept.qualtrics.com^
 ||zn3xttwhatkycpaps-jjkeller.siteintercept.qualtrics.com^
 ||zn3xzcqj5jgek09qv-novanthealthcx.siteintercept.qualtrics.com^
@@ -18831,7 +18771,6 @@
 ||zn4gwzrarbwilrcbl-uhcdr.siteintercept.qualtrics.com^
 ||zn4idmtxejrfrwvi5-quicken.siteintercept.qualtrics.com^
 ||zn4jigc94y6w5wovo-olxbr.siteintercept.qualtrics.com^
-||zn4mbdaokn6kcahtg-cypress.siteintercept.qualtrics.com^
 ||zn4o86wsbibht3d4x-navyfederalresearch.siteintercept.qualtrics.com^
 ||zn4oa6cok9jkhgn6c-maxiscx.siteintercept.qualtrics.com^
 ||zn4oxxip8vgavzrc1-ebg.siteintercept.qualtrics.com^
@@ -18840,7 +18779,6 @@
 ||zn4pjucfcir2o7ctt-usbank.siteintercept.qualtrics.com^
 ||zn4sb43568v0r9vsl-mercedesbenzfs.siteintercept.qualtrics.com^
 ||zn4sbicpuvlsb3xyi-obe.siteintercept.qualtrics.com^
-||zn4sdbrpmkpvwjafx-cengage.siteintercept.qualtrics.com^
 ||zn4sfv6mapgpbajg9-sapinsights.siteintercept.qualtrics.com^
 ||zn4sgljnbr1dn7vnn-coxauto.siteintercept.qualtrics.com^
 ||zn4soacf9m1xy4085-aaanational.siteintercept.qualtrics.com^
@@ -18865,7 +18803,6 @@
 ||zn5145dkjpqsruihd-vonage.siteintercept.qualtrics.com^
 ||zn51jxtt68gqqljvd-constantcontact.siteintercept.qualtrics.com^
 ||zn51nohnvldnyw6mz-truecartest.siteintercept.qualtrics.com^
-||zn558lhr1pk9acrds-terranovaworldwide.siteintercept.qualtrics.com^
 ||zn55ohoomcel4inym-faire.siteintercept.qualtrics.com^
 ||zn56hznpwdlqkajlb-boeingcx.siteintercept.qualtrics.com^
 ||zn56l21ciz71nmgus-redventures.siteintercept.qualtrics.com^
@@ -18878,16 +18815,21 @@
 ||zn5an3ludub9tavuu-seaworldcx.siteintercept.qualtrics.com^
 ||zn5anfstihwpyolj7-thumbtack.siteintercept.qualtrics.com^
 ||zn5at0qrby4siupmh-unum.siteintercept.qualtrics.com^
+||zn5baihb3wltfga7a-lightspeedhq.siteintercept.qualtrics.com^
 ||zn5bbkkbe2r7zfhlf-financiatimescx.siteintercept.qualtrics.com^
+||zn5bemmjqnlmkdrpl-wiley.siteintercept.qualtrics.com^
 ||zn5bgphfvhkgrzd9z-constantcontact.siteintercept.qualtrics.com^
 ||zn5bhnpurjuofsjcy-researchcis.siteintercept.qualtrics.com^
+||zn5btey74ptnlc2sa-my529.siteintercept.qualtrics.com^
 ||zn5bxs0kfcxmozrm9-ebg.siteintercept.qualtrics.com^
 ||zn5c0zwowpawo5ksl-beckmancoulter2.siteintercept.qualtrics.com^
 ||zn5dbnwpyrnclvxi2-bswhsi.siteintercept.qualtrics.com^
 ||zn5doastgyjlj07us-americanhomeshield.siteintercept.qualtrics.com^
 ||zn5gmaasmoqnwjsjc-ameriprise.siteintercept.qualtrics.com^
 ||zn5grs3028zvpg0rh-redventures.siteintercept.qualtrics.com^
+||zn5hbat6gtsdy7ceo-condor.siteintercept.qualtrics.com^
 ||zn5hdt9ykymynxbgj-ebayclassifieds.siteintercept.qualtrics.com^
+||zn5hf4my7ad6vnnai-pixiv.siteintercept.qualtrics.com^
 ||zn5i0acngcbefhprx-edreamsodigeo.siteintercept.qualtrics.com^
 ||zn5i4efhc5klaftno-sapinsights.siteintercept.qualtrics.com^
 ||zn5ighopv5h2np7ox-floridabluelistens.siteintercept.qualtrics.com^
@@ -18897,11 +18839,11 @@
 ||zn5mqqz9zbtxtpegu-redventures.siteintercept.qualtrics.com^
 ||zn5mvwfi1g8ili9hu-asmlcx.siteintercept.qualtrics.com^
 ||zn5nc1mqoq29oh1fi-vsp.siteintercept.qualtrics.com^
+||zn5o7t0cdo93pinrh-cargillfeedback.siteintercept.qualtrics.com^
 ||zn5ojumm06lktnx4q-olo.siteintercept.qualtrics.com^
 ||zn5olq56o1hhjgceq-indeedsurvey.siteintercept.qualtrics.com^
 ||zn5pb7v4uw08fnoev-cnb.siteintercept.qualtrics.com^
 ||zn5prfpqwl5abpjx7-vineyardvines.siteintercept.qualtrics.com^
-||zn5psww15wnxlgofv-15five.siteintercept.qualtrics.com^
 ||zn5puaypnimc0lsdf-overstock.siteintercept.qualtrics.com^
 ||zn5pyeohxaffrmikv-isn.siteintercept.qualtrics.com^
 ||zn5sbiq8onusb0vml-aflac.siteintercept.qualtrics.com^
@@ -18933,8 +18875,8 @@
 ||zn6fixw0qend758a1-novanthealthcx.siteintercept.qualtrics.com^
 ||zn6fp28dh7yaq8hk6-msufcu.siteintercept.qualtrics.com^
 ||zn6fzypiw9d2qs4tm-americanhonda.siteintercept.qualtrics.com^
-||zn6g4zgokj0walvf8-colibrigroup.siteintercept.qualtrics.com^
 ||zn6g7cierxenionkf-amerisourcebergencx.siteintercept.qualtrics.com^
+||zn6hb2oizxdlo8j5i-colibrigroup.siteintercept.qualtrics.com^
 ||zn6hsjochd6w5syhh-icfinternational.siteintercept.qualtrics.com^
 ||zn6ilioy7ptvtqvva-cogeco.siteintercept.qualtrics.com^
 ||zn6jmp2evzawuaysl-alaskaair.siteintercept.qualtrics.com^
@@ -18953,6 +18895,7 @@
 ||zn6mwgpzuyxmdnf5j-moodys.siteintercept.qualtrics.com^
 ||zn6naapusni4fmha1-autozone.siteintercept.qualtrics.com^
 ||zn6o0erpdpgxqsryf-nextgenhealthcare.siteintercept.qualtrics.com^
+||zn6oftbgslezpzq6y-taylormadegolfcx.siteintercept.qualtrics.com^
 ||zn6otcnwnvnuwtiwl-procore.siteintercept.qualtrics.com^
 ||zn6p7ali56es5a0sx-novanthealthcx.siteintercept.qualtrics.com^
 ||zn6qfqur9sb2nvydt-cunamutualgroup.siteintercept.qualtrics.com^
@@ -18962,23 +18905,26 @@
 ||zn6rkmz1jbztqk16d-uafieldtesting.siteintercept.qualtrics.com^
 ||zn6ro8rhwphbsg33f-theopenuniversity.siteintercept.qualtrics.com^
 ||zn6sanylzmiydghnn-highmark.siteintercept.qualtrics.com^
+||zn6sxljuh4r9maajs-ocbchr.siteintercept.qualtrics.com^
 ||zn6t9cc5lvwvlaupk-srpnet.siteintercept.qualtrics.com^
-||zn6ta61hfvlchz6lv-savvaslearning.siteintercept.qualtrics.com^
 ||zn6tamvxtfsqtoeqy-uspta.siteintercept.qualtrics.com^
 ||zn6tcottmmdunxtbd-aeo.siteintercept.qualtrics.com^
 ||zn6tzmbn0volz4mgi-froedtert.siteintercept.qualtrics.com^
 ||zn6tzxvq5zxfnlagq-newsy.siteintercept.qualtrics.com^
 ||zn6uvaak9jkrvefdx-aaanational.siteintercept.qualtrics.com^
 ||zn6vdfipxykub2efn-oldnational.siteintercept.qualtrics.com^
+||zn6vh36ostfhaudh3-weightwatcherscx.siteintercept.qualtrics.com^
 ||zn6vxkyqywaf9f1t7-usbank.siteintercept.qualtrics.com^
 ||zn6w4syxcjbbkvkmv-mgmresortssurveys.siteintercept.qualtrics.com^
 ||zn6whdnfzzbxcq0tf-synchronysurvey.siteintercept.qualtrics.com^
 ||zn6wnpqo360vid1wz-jnjcx.siteintercept.qualtrics.com^
+||zn6wocssouj0y6oyt-pmimsa.siteintercept.qualtrics.com^
 ||zn6x8k0lzpsuhf3dx-novanthealthcx.siteintercept.qualtrics.com^
 ||zn6xaky6jngsyrozg-nbi1.siteintercept.qualtrics.com^
 ||zn6xcdveksdx5g9rn-countryfinancial.siteintercept.qualtrics.com^
 ||zn6xwrxpx0grbsuuc-marktravel.siteintercept.qualtrics.com^
 ||zn6y5j1pcz0fpkvop-newsuk.siteintercept.qualtrics.com^
+||zn6yc2jcmx1qhckvv-ttcucreditunion.siteintercept.qualtrics.com^
 ||zn6ycih8uhwro76mi-gartnerdm.siteintercept.qualtrics.com^
 ||zn6yebnp4ziqk2k9d-shubertorganization.siteintercept.qualtrics.com^
 ||zn6zitpy5escbfrch-educationinsight.siteintercept.qualtrics.com^
@@ -18988,12 +18934,12 @@
 ||zn73axurlao42xuyx-blackrockdigital.siteintercept.qualtrics.com^
 ||zn73tsagi0ilt5f3e-linkedinresearch.siteintercept.qualtrics.com^
 ||zn73u216tzoa2xinj-twilio.siteintercept.qualtrics.com^
-||zn74atixxmf2ssnqa-dcccedu.siteintercept.qualtrics.com^
 ||zn77lrcyrhqdnuuih-qps.siteintercept.qualtrics.com^
 ||zn780vxspp4zyl7dr-citcx.siteintercept.qualtrics.com^
 ||zn782yd1pcsvzimtg-stoneolafson.siteintercept.qualtrics.com^
 ||zn78lrdnt2il4mjwr-thirtyonegifts.siteintercept.qualtrics.com^
 ||zn799b2ogkfhqcf6l-nylinforceservice.siteintercept.qualtrics.com^
+||zn79gqqpdlnt7afvf-sweat.siteintercept.qualtrics.com^
 ||zn79gz0ne4kw1amzi-ciscocx.siteintercept.qualtrics.com^
 ||zn79wb9kabtky45fa-tripadvisor.siteintercept.qualtrics.com^
 ||zn7ah9jymssp5mune-idme.siteintercept.qualtrics.com^
@@ -19010,9 +18956,7 @@
 ||zn7qchny5hadksvmv-expressscriptscx.siteintercept.qualtrics.com^
 ||zn7qfj9qxttalnwyc-cerner.siteintercept.qualtrics.com^
 ||zn7qlc5rmy5fqiijw-redventures.siteintercept.qualtrics.com^
-||zn7qmencmrwb1zlo1-nysscpa.siteintercept.qualtrics.com^
 ||zn7qw02fztzjl8lyu-inc.siteintercept.qualtrics.com^
-||zn7usbr7qxpuhw2up-echo.siteintercept.qualtrics.com^
 ||zn7uu5oduhvrn1s3s-enova.siteintercept.qualtrics.com^
 ||zn7v6adzug8hc6bji-assaabloyab.siteintercept.qualtrics.com^
 ||zn7v6ig3ibu30gczu-taylormadegolfcx.siteintercept.qualtrics.com^
@@ -19021,12 +18965,16 @@
 ||zn7vylpwr2mkdfmtx-deltadentalnj.siteintercept.qualtrics.com^
 ||zn7whwrcrmbs9xwyd-nlmenterprise.siteintercept.qualtrics.com^
 ||zn7wid4j2pvvudrpe-sabre.siteintercept.qualtrics.com^
+||zn7x5p1yndvth56bm-payoneer.siteintercept.qualtrics.com^
 ||zn7zmqrcamzpdieb4-nycgo.siteintercept.qualtrics.com^
 ||zn7zycgrxkcbi2nx8-move.siteintercept.qualtrics.com^
+||zn809ptkaut9mcknc-infarmbureau.siteintercept.qualtrics.com^
+||zn80jaa6vfg97oqfk-flmotorservices.siteintercept.qualtrics.com^
 ||zn80pwkwx7slkzczz-amtrustfinancial.siteintercept.qualtrics.com^
 ||zn80sf56lje2txftj-bcbsal.siteintercept.qualtrics.com^
 ||zn80tq8ctmxvgaoxz-novanthealthcx.siteintercept.qualtrics.com^
 ||zn81e9vogapo4rn0w-synchronysurvey.siteintercept.qualtrics.com^
+||zn81xfzsuwnsakggl-fhlbdm.siteintercept.qualtrics.com^
 ||zn824bpwruzg5mxb3-carmax.siteintercept.qualtrics.com^
 ||zn839iqapripxbeo5-nlmenterprise.siteintercept.qualtrics.com^
 ||zn85jou57xphaxsod-qxm.siteintercept.qualtrics.com^
@@ -19038,12 +18986,14 @@
 ||zn88nudxurnvlubez-fhlbdm.siteintercept.qualtrics.com^
 ||zn898cfynjtg3sswe-applecare.siteintercept.qualtrics.com^
 ||zn8af2sa47srliowv-aspendental.siteintercept.qualtrics.com^
+||zn8ahgmz4rn0qfojb-ziplyfiber.siteintercept.qualtrics.com^
 ||zn8apsnlmpanpufvi-americanhonda.siteintercept.qualtrics.com^
 ||zn8bkspgedopf4i1g-newsy.siteintercept.qualtrics.com^
 ||zn8c3rv20b382cnby-plume.siteintercept.qualtrics.com^
 ||zn8c46iozrxcyfnz7-healthequity.siteintercept.qualtrics.com^
 ||zn8ccfsynzv3fvomf-goodmanmfg.siteintercept.qualtrics.com^
 ||zn8ccpglkyvztv8gz-lendingclub.siteintercept.qualtrics.com^
+||zn8cfcc4hhkt59doj-ahima.siteintercept.qualtrics.com^
 ||zn8cr7lf6gqcgdgub-handshake.siteintercept.qualtrics.com^
 ||zn8czwupehaulv2sz-qatarairways.siteintercept.qualtrics.com^
 ||zn8d2obbvjp6rhsg2-uhcdr.siteintercept.qualtrics.com^
@@ -19058,27 +19008,32 @@
 ||zn8hqawkrghkhzgsm-olxbr.siteintercept.qualtrics.com^
 ||zn8hsammccyabpks9-jea.siteintercept.qualtrics.com^
 ||zn8hv7cxavdbdx3kq-truistcx.siteintercept.qualtrics.com^
+||zn8ifp1kdneyz0med-rogers.siteintercept.qualtrics.com^
 ||zn8iiwbaxnyrmq309-dishvoc.siteintercept.qualtrics.com^
 ||zn8ikq1oprpwuxdyd-cpsenergy.siteintercept.qualtrics.com^
 ||zn8io2fw2fuenzpaa-whirlpoolci.siteintercept.qualtrics.com^
 ||zn8iwmhdng8mwvoup-voyafinancial.siteintercept.qualtrics.com^
 ||zn8jk90zb7ojehomb-qps.siteintercept.qualtrics.com^
+||zn8kb1jclxeiqsvn8-equifax.siteintercept.qualtrics.com^
 ||zn8knkpaigtohgou5-novanthealthcx.siteintercept.qualtrics.com^
 ||zn8kxkgmi1vqpramu-groupon.siteintercept.qualtrics.com^
 ||zn8kzxzjqwauybcuh-healthfirst.siteintercept.qualtrics.com^
 ||zn8l9twqcta14ad4n-avivadigital.siteintercept.qualtrics.com^
 ||zn8lkdwxsakhsljvm-safeliteux.siteintercept.qualtrics.com^
 ||zn8oadzgu0bk30acz-salliemae.siteintercept.qualtrics.com^
+||zn8octl9qmyh5wq9o-teradata.siteintercept.qualtrics.com^
 ||zn8ogi2ewdg6azbki-chargebeeresearch.siteintercept.qualtrics.com^
 ||zn8ojtwkj7jvomho2-uhg1.siteintercept.qualtrics.com^
 ||zn8okegsbjs7a4pxu-redventures.siteintercept.qualtrics.com^
 ||zn8ouhpbrpjclj1gt-nscorp.siteintercept.qualtrics.com^
+||zn8q72wqcz3vqbstt-hase.siteintercept.qualtrics.com^
 ||zn8qfk42azo5fsr2r-trdigital.siteintercept.qualtrics.com^
 ||zn8qwjgdslpyjq5n3-samsungcustomerboard.siteintercept.qualtrics.com^
 ||zn8rgnpuoicllnz4o-upscx.siteintercept.qualtrics.com^
 ||zn8tor5eedghl3ofa-chdigital.siteintercept.qualtrics.com^
 ||zn8twefrbz6woismk-chevron.siteintercept.qualtrics.com^
 ||zn8v3mbh5ld4zg5w1-wuvoc.siteintercept.qualtrics.com^
+||zn8vjqysfqu7ukjql-accolade.siteintercept.qualtrics.com^
 ||zn8vt0w8r2oudd3pa-tapestrycx.siteintercept.qualtrics.com^
 ||zn8w6eenqmx46cgfw-logmeinvoc.siteintercept.qualtrics.com^
 ||zn8wcr9harkqypzld-singuser0bneytw9.siteintercept.qualtrics.com^
@@ -19118,6 +19073,7 @@
 ||zn9ozmveenlvgctdl-pultegroup.siteintercept.qualtrics.com^
 ||zn9p0t5h28cnixixn-skyuk.siteintercept.qualtrics.com^
 ||zn9p29wvt2w2aiji9-coxauto.siteintercept.qualtrics.com^
+||zn9p3w6lvu8hek2vh-hci.siteintercept.qualtrics.com^
 ||zn9pg4tua4fecjcck-newsy.siteintercept.qualtrics.com^
 ||zn9piaqbfitnjr87h-eddiebauer.siteintercept.qualtrics.com^
 ||zn9piv7kwlah7iuig-rexnordcorp.siteintercept.qualtrics.com^
@@ -19126,13 +19082,16 @@
 ||zn9qtjklceg15veaz-uhcdr.siteintercept.qualtrics.com^
 ||zn9rcvt7xh3iyd3sa-citifeedback.siteintercept.qualtrics.com^
 ||zn9rktsyukkhrcrgt-mouser.siteintercept.qualtrics.com^
+||zn9rylf8pnljobfr8-paragon.siteintercept.qualtrics.com^
 ||zn9seszngrkhr2hz0-vidalfr.siteintercept.qualtrics.com^
+||zn9sgdvpg2y5sf8zk-radian.siteintercept.qualtrics.com^
 ||zn9swme1og0dcsom2-jbhificx.siteintercept.qualtrics.com^
-||zn9t617pnapnhscn4-edmentum.siteintercept.qualtrics.com^
+||zn9sx7gunbqhzlrss-creditsuissedigital.siteintercept.qualtrics.com^
 ||zn9tagyxdbhcnxaq1-synchronysurvey.siteintercept.qualtrics.com^
 ||zn9tasdijn4oxsdnr-capitalbluecross.siteintercept.qualtrics.com^
 ||zn9tmjux8yxvbc7eb-nsandihowdidwedo.siteintercept.qualtrics.com^
 ||zn9tr9kfuwtczrdys-unum.siteintercept.qualtrics.com^
+||zn9tyi5rhfobw9b8g-aspendental.siteintercept.qualtrics.com^
 ||zn9ufzluqllsdj0an-hsbcdigital.siteintercept.qualtrics.com^
 ||zn9vfkwwyruvt6oo1-tmobilecx.siteintercept.qualtrics.com^
 ||zn9vlcpyfvcdmupxc-adweekdigital.siteintercept.qualtrics.com^
@@ -19143,6 +19102,7 @@
 ||zn9xyanegemew9a0b-quicken.siteintercept.qualtrics.com^
 ||zn9xytfuuzafp6ku9-connexuscu.siteintercept.qualtrics.com^
 ||zn9yjuyometvapfde-indeed.siteintercept.qualtrics.com^
+||zn9yrdfsoqbu7qd2d-creditacceptance.siteintercept.qualtrics.com^
 ||zn9yrhiyy7ikq7gwi-bmwna.siteintercept.qualtrics.com^
 ||zn9yzccm1gaf8emnk-ehi.siteintercept.qualtrics.com^
 ||zn9zbviqv7oprngks-wesco.siteintercept.qualtrics.com^
@@ -19155,13 +19115,14 @@
 ||zna4m7d69tmslujze-kp.siteintercept.qualtrics.com^
 ||zna4z7j6shnw1yaxz-equifax.siteintercept.qualtrics.com^
 ||zna5im7flf5impru6-spectrumhealthces.siteintercept.qualtrics.com^
+||zna5mhfkd4iw0q86h-chamberlaingroup.siteintercept.qualtrics.com^
 ||zna8godcwxj03zpdw-mycoke.siteintercept.qualtrics.com^
 ||zna8ytxtp35n9w4qq-fedex.siteintercept.qualtrics.com^
 ||zna8zta7cuf00ejmf-miamidadecounty.siteintercept.qualtrics.com^
 ||zna97stmkgpiqrs1d-healthequity.siteintercept.qualtrics.com^
 ||znaad7u8yzaqhmmxx-desjardins.siteintercept.qualtrics.com^
-||znabeeh0ed8rxckyx-vertiv.siteintercept.qualtrics.com^
 ||znabfhlf0lpalyxnz-edreamsodigeo.siteintercept.qualtrics.com^
+||znabzsxehenglvsfd-abbottnutrition.siteintercept.qualtrics.com^
 ||znaeoyizj02u2zqd3-llbean.siteintercept.qualtrics.com^
 ||znaf07ucikg33ehdg-ricoh.siteintercept.qualtrics.com^
 ||znafmpbbbqdtzyi2h-logmeinvoc.siteintercept.qualtrics.com^
@@ -19174,6 +19135,7 @@
 ||znahp71bfyffvodje-netapp.siteintercept.qualtrics.com^
 ||znaidyitlnflbnaq1-freshdirect.siteintercept.qualtrics.com^
 ||znav6uiobcsxrvj9q-cengage.siteintercept.qualtrics.com^
+||znavmzhgkuwr6ijjr-singusera892c9da.siteintercept.qualtrics.com^
 ||znavnoiz3ij2gmcqb-helzberg.siteintercept.qualtrics.com^
 ||znaw9zsytgvyddb6l-ehi.siteintercept.qualtrics.com^
 ||znawqoh5e46wdazt0-nineresearch.siteintercept.qualtrics.com^
@@ -19182,6 +19144,8 @@
 ||znaxmkmjumgc4mxsr-pultegroup.siteintercept.qualtrics.com^
 ||znaxzr1mw52ca9mvz-meritorinc.siteintercept.qualtrics.com^
 ||znaxzy6tfqhjlqw5v-deluxecorp.siteintercept.qualtrics.com^
+||znay90pseybya62l7-setoyota.siteintercept.qualtrics.com^
+||znaysctcw4nvei8qt-atkins.siteintercept.qualtrics.com^
 ||znaytxaxyznmhz1us-synchronysurvey.siteintercept.qualtrics.com^
 ||znb1hw37qc9ivyln7-usaa.siteintercept.qualtrics.com^
 ||znb1kk7gqjjqmejis-ehi.siteintercept.qualtrics.com^
@@ -19197,7 +19161,6 @@
 ||znb4uzsrradulebr8-sapinsights.siteintercept.qualtrics.com^
 ||znb4vlzqzcl6kqps9-intuit.siteintercept.qualtrics.com^
 ||znb7cxsgjnsrbnm1l-amerisourcebergencx.siteintercept.qualtrics.com^
-||znb8cwip4xmbx9mch-chegg.siteintercept.qualtrics.com^
 ||znb8ixiktrf52s5n3-southwest.siteintercept.qualtrics.com^
 ||znb91eincmheswciu-zuora.siteintercept.qualtrics.com^
 ||znbaoru8iekqvoqyj-aaanational.siteintercept.qualtrics.com^
@@ -19208,10 +19171,12 @@
 ||znbbfcsquayclmd7e-proquest.siteintercept.qualtrics.com^
 ||znbbjb39osmha0zwv-teamknowhow.siteintercept.qualtrics.com^
 ||znbbjdskmjwghjlgn-geico.siteintercept.qualtrics.com^
+||znbcmm8okgys2qi2y-truistcx.siteintercept.qualtrics.com^
 ||znbcxd2jjwrr4bfvq-redhatvoc.siteintercept.qualtrics.com^
 ||znbdabafxk4nhx8nh-firstcitizensbank.siteintercept.qualtrics.com^
-||znbdrqnc07sxc2f3w-ficohsacx.siteintercept.qualtrics.com^
+||znbdigdxhfdxszlas-callawaygolf.siteintercept.qualtrics.com^
 ||znbe06wa0uulx5azx-grundfos.siteintercept.qualtrics.com^
+||znbeaddowdzw2jlyy-bankofamerica.siteintercept.qualtrics.com^
 ||znbegz4t5dmpws5f4-wiley.siteintercept.qualtrics.com^
 ||znbeh6x6kb05aejnn-cbs.siteintercept.qualtrics.com^
 ||znbejwymonsxvdjpm-eventbritecx.siteintercept.qualtrics.com^
@@ -19221,14 +19186,15 @@
 ||znbfkexqbr8elolwk-redventures.siteintercept.qualtrics.com^
 ||znbfrpy3eqewfugoz-siriusxm.siteintercept.qualtrics.com^
 ||znbi8bnoy4ptdg4ps-autozone.siteintercept.qualtrics.com^
+||znbjcxytmntekp4a5-alticorinc.siteintercept.qualtrics.com^
 ||znbjdxvxkbzemgoxq-abboptical.siteintercept.qualtrics.com^
 ||znbjifokkre8yximy-applecare.siteintercept.qualtrics.com^
 ||znbjrw9njqnfejkon-tuigroup.siteintercept.qualtrics.com^
 ||znbjvid3e9uzwugn3-urbanoutfitters.siteintercept.qualtrics.com^
+||znbjyeazqeboaqtxb-phs.siteintercept.qualtrics.com^
 ||znbkhvqf0zrgtvrlt-tribune.siteintercept.qualtrics.com^
 ||znbksyvusw3kxgeso-eyglobalsurvey.siteintercept.qualtrics.com^
 ||znbl8rufo7atiirtn-unitysoftware.siteintercept.qualtrics.com^
-||znblarpnqn33yqpzx-vrt.siteintercept.qualtrics.com^
 ||znblos9tjthpq0dqj-quicken.siteintercept.qualtrics.com^
 ||znbltexmqcqo1do1g-deliveryhub.siteintercept.qualtrics.com^
 ||znbnnujuydj7on7eh-aga.siteintercept.qualtrics.com^
@@ -19263,7 +19229,6 @@
 ||znbvx9cohfy5ntge9-unum.siteintercept.qualtrics.com^
 ||znbwivf03o6pprmed-cardworks.siteintercept.qualtrics.com^
 ||znbx3lsjyv0b2ukcw-dtvresearch.siteintercept.qualtrics.com^
-||znbxdvoio7hs0ppci-ptc.siteintercept.qualtrics.com^
 ||znbxfny2hy4psip2c-intuit.siteintercept.qualtrics.com^
 ||znbxgbnorumafz325-spg.siteintercept.qualtrics.com^
 ||znbyo84uwvimindqz-aexpfeedback.siteintercept.qualtrics.com^
@@ -19285,18 +19250,20 @@
 ||znci4oucmtvbhuxsz-lds.siteintercept.qualtrics.com^
 ||znci6nsqagigwxvpg-davidsbridal.siteintercept.qualtrics.com^
 ||zncinle8sn1tfzbu5-phoenix.siteintercept.qualtrics.com^
-||znciocbxfvg6zovze-sanford.siteintercept.qualtrics.com^
 ||zncipdjywfuyqlarj-texashealth.siteintercept.qualtrics.com^
 ||zncirsfdbyd7zjl8n-aaanational.siteintercept.qualtrics.com^
+||znciwdsjqvugog2ss-checkpoint.siteintercept.qualtrics.com^
 ||znclrrbwmfjblb4yl-deltadentalwa.siteintercept.qualtrics.com^
 ||zncmusnj3eun9zve1-enova.siteintercept.qualtrics.com^
 ||zncnofyf5s9uktcec-popular.siteintercept.qualtrics.com^
 ||zncossyanzdc98sa9-voyafinancial.siteintercept.qualtrics.com^
 ||zncrmwovnwundwx6l-sprintt.siteintercept.qualtrics.com^
+||zncrsuxttkjrb2j5a-sagesure.siteintercept.qualtrics.com^
 ||zncsibyxyywneknxd-autozone.siteintercept.qualtrics.com^
 ||zncskhvh2so1rnyrn-cna.siteintercept.qualtrics.com^
 ||zncsz42qbnm39fnmf-spiritairlines.siteintercept.qualtrics.com^
 ||znctf0lnwzv1idzq9-umn.siteintercept.qualtrics.com^
+||znctfbw43rwjkirwt-uhg1.siteintercept.qualtrics.com^
 ||zncthivth1wia6lwf-bcbsaz.siteintercept.qualtrics.com^
 ||znctkwklcssrc3j7d-southerncompany.siteintercept.qualtrics.com^
 ||znctrsbrlzhqwi9af-uniteddigital.siteintercept.qualtrics.com^
@@ -19317,19 +19284,18 @@
 ||zncylzuczeq15wxvp-mailchimp.siteintercept.qualtrics.com^
 ||zncyn6opbqbb0ago5-lloydsbankinggroup.siteintercept.qualtrics.com^
 ||zncz9q3opf2v7bfua-logmeinvoc.siteintercept.qualtrics.com^
+||znczipf7qeigownyw-ocbc.siteintercept.qualtrics.com^
 ||znczoas35gf6unxv4-brooks.siteintercept.qualtrics.com^
 ||znczsnzd7pazgtj9q-pgats.siteintercept.qualtrics.com^
-||znczuxiczndmh7vpb-bankofamerica.siteintercept.qualtrics.com^
 ||znd0teossckgeqlsw-caleres.siteintercept.qualtrics.com^
 ||znd0y3ntzchbfavjd-ihg.siteintercept.qualtrics.com^
 ||znd0zbgibmqse8t09-uhg1.siteintercept.qualtrics.com^
+||znd3xk9gckh8pvqdu-trinityhealth.siteintercept.qualtrics.com^
 ||znd4elkrbyvu1ndmz-travelers.siteintercept.qualtrics.com^
 ||znd5933b2tkeggfiq-akqatangeroutlets.siteintercept.qualtrics.com^
 ||znd6hsh7zyguhj8nb-constantcontact.siteintercept.qualtrics.com^
 ||znd714vd5yajlbug6-wyndhamdestinations.siteintercept.qualtrics.com^
 ||znd7pgylblorbdefs-sii.siteintercept.qualtrics.com^
-||znda3t8vma3vqocaf-aan.siteintercept.qualtrics.com^
-||zndajcdvuyzoikjdw-ciscocx.siteintercept.qualtrics.com^
 ||zndasfpyiq1xgyazc-jnjpx.siteintercept.qualtrics.com^
 ||zndb5hwygspzzbx26-trdigital.siteintercept.qualtrics.com^
 ||zndbtebcv74ofie6h-geico.siteintercept.qualtrics.com^
@@ -19342,7 +19308,6 @@
 ||znddl22rnegezm0tl-mdcmo.siteintercept.qualtrics.com^
 ||znddmlvlhkk1abacs-tropicalsmoothiecafe.siteintercept.qualtrics.com^
 ||zndg8l5yvncyciopk-docusign.siteintercept.qualtrics.com^
-||zndgawyevlwczcyah-uber.siteintercept.qualtrics.com^
 ||zndgifwjx13l0tqgf-rogers.siteintercept.qualtrics.com^
 ||zndgkxxo5pvegll3f-caleres.siteintercept.qualtrics.com^
 ||zndh8xcg975xfjkpl-amerisbank.siteintercept.qualtrics.com^
@@ -19362,12 +19327,14 @@
 ||zndorg75jpwvy7bax-creditacceptance.siteintercept.qualtrics.com^
 ||zndp49emrfbxppviz-gracoincandsubs.siteintercept.qualtrics.com^
 ||zndpcsg5fk6srdwk2-buildertrend.siteintercept.qualtrics.com^
+||zndpcwuii1zjz9qex-otc.siteintercept.qualtrics.com^
 ||zndpxjszmzwajbpxh-healthequity.siteintercept.qualtrics.com^
-||zndpzhr48cpi7bkes-upscx.siteintercept.qualtrics.com^
+||zne2oq5ctpzei1hbx-tirecenters.siteintercept.qualtrics.com^
 ||zne2rcdpmgjkq46tb-texashealth.siteintercept.qualtrics.com^
 ||zne3d1qvgtbugwyj0-colibrigroup.siteintercept.qualtrics.com^
 ||zne3tjpi8x62vsqdm-safeliteux.siteintercept.qualtrics.com^
 ||zne3xgwtn7cwomkhv-uhg1.siteintercept.qualtrics.com^
+||zne4bwyxdrlbg4ucf-intuit.siteintercept.qualtrics.com^
 ||zne4n6clspjy1zsnt-novanthealthcx.siteintercept.qualtrics.com^
 ||zne4nduvt5a8tv0db-1800flowers.siteintercept.qualtrics.com^
 ||zne4woh3g7wkgnmd0-seaworldcx.siteintercept.qualtrics.com^
@@ -19382,12 +19349,14 @@
 ||zne9r8jsfkmfaokpz-deltadental.siteintercept.qualtrics.com^
 ||zne9u6v1l8ger28ct-constantcontact.siteintercept.qualtrics.com^
 ||znea7omvjmpbngety-airindia.siteintercept.qualtrics.com^
+||zneaflxhqetmknvb7-expressscriptscx.siteintercept.qualtrics.com^
 ||zneam6spwsl7tpojw-suselinux.siteintercept.qualtrics.com^
 ||zneano0xy68phqjaj-uhg1.siteintercept.qualtrics.com^
 ||zneb4sc7kaj0kdsbz-redventures.siteintercept.qualtrics.com^
 ||znebbnjdljonposba-vrt.siteintercept.qualtrics.com^
 ||znebdjzidehxpwsol-regions.siteintercept.qualtrics.com^
 ||znebnjjeoqkrvcwlt-ocbc.siteintercept.qualtrics.com^
+||znebswskry2zakwp8-swaemployeesurvey.siteintercept.qualtrics.com^
 ||znebyguijqfogydgn-jeldwen.siteintercept.qualtrics.com^
 ||znech54joddwlcz6m-nikeemployeevoice.siteintercept.qualtrics.com^
 ||zned1irqcyinfbpk9-qps.siteintercept.qualtrics.com^
@@ -19397,18 +19366,19 @@
 ||znedrkdpwii33hhkl-amerisourcebergencx.siteintercept.qualtrics.com^
 ||zneduknkrsfcmfra2-whirlpoolci.siteintercept.qualtrics.com^
 ||zneeqigxypjsyapnv-ebg.siteintercept.qualtrics.com^
+||znefbax3uzmntrbrg-safeliteux.siteintercept.qualtrics.com^
 ||znefchf5ihzjxcdae-centene.siteintercept.qualtrics.com^
 ||znefdnuugjcgkndeq-grundfos.siteintercept.qualtrics.com^
 ||znefnyywi9pon9a8u-jcibuildings.siteintercept.qualtrics.com^
-||zneg8iwlpottdfdxk-customerfeedback.siteintercept.qualtrics.com^
 ||znegki2i5i5cs0ocj-deltadental.siteintercept.qualtrics.com^
 ||znehcqw4xaclzbvix-deluxecorp.siteintercept.qualtrics.com^
 ||znehd2b5bhhm2jxzg-adweekdigital.siteintercept.qualtrics.com^
+||znehg8lfavytilu6x-collette.siteintercept.qualtrics.com^
 ||zneigxrvrmufgxlqu-pcna.siteintercept.qualtrics.com^
 ||zneipf5yepteyvptx-alticorinc.siteintercept.qualtrics.com^
 ||znek7yeyunkecyzby-fourseasons.siteintercept.qualtrics.com^
+||znek9snlh78iwl9k1-usbank.siteintercept.qualtrics.com^
 ||znekhevzr8y8owz94-safeliteux.siteintercept.qualtrics.com^
-||znekrrvczx6di2cch-lottolandlimited.siteintercept.qualtrics.com^
 ||znekypqdiiaxvw5go-stockxcustomerres.siteintercept.qualtrics.com^
 ||znel2cermhautgqja-uhg1.siteintercept.qualtrics.com^
 ||zneldohfsiwgrhfvq-slickdeals.siteintercept.qualtrics.com^
@@ -19429,7 +19399,6 @@
 ||znenu4oobduw0qjsu-purple.siteintercept.qualtrics.com^
 ||znenxzmbo1zwzgtvx-redventures.siteintercept.qualtrics.com^
 ||znep5ilkkffkwdioz-partssource.siteintercept.qualtrics.com^
-||znep81byjrshmbr09-clarocolombia.siteintercept.qualtrics.com^
 ||znepub6zbdhqtf4dy-fourseasons.siteintercept.qualtrics.com^
 ||znepykmqesqoz38lx-uhg1.siteintercept.qualtrics.com^
 ||zneq0eic3xaurqgmh-consumerinfo.siteintercept.qualtrics.com^
@@ -19538,7 +19507,6 @@
 ||raac33.net^
 ||raayspossh.com^
 ||rabbitrifle.com^
-||rabbitsreviews.com^
 ||saa.rachaelrayshow.com^
 ||racingorchestra.com^
 ||d7d3cf2e81d293050033-3dfc0615b0fd7b49143049256703bfce.ssl.cf1.rackcdn.com^
@@ -19561,9 +19529,6 @@
 ||images.global.radware.com^
 ||cdn.raekdata.com^
 ||rageagainstthesoap.com^
-||agg.raggedbijou.com^
-||jkl.raggedbijou.com^
-||mlk.raggedbijou.com^
 ||raggedstriking.com^
 ||raggerdough.com^
 ||raidbossa.com^
@@ -20169,7 +20134,6 @@
 ||analytic.rollout.io^
 ||rollserver.xyz^
 ||t.rolltide.com^
-||rolstoellift.com^
 ||romance-net.com^
 ||views.romaniatv.net^
 ||gtrack.romanticfeed.com^
@@ -20473,13 +20437,11 @@
 ||media.salemwebnetwork.com^
 ||sales-frontier.com^
 ||analytics.salesanalytics.io^
-||track.salesflare.com^
 ||api.appexchange.salesforce.com^
 ||beacon.my.salesforce.com^
 ||sponsors.salesforceben.com^
 ||d.la1-c2-iad.salesforceliveagent.com^
 ||la1w1.salesforceliveagent.com^
-||tracking.salesleaf.com^
 ||salesloft.com^
 ||salesmanago.com^
 ||sy.salesmanago.pl^
@@ -20646,12 +20608,12 @@
 ||scepth.com^
 ||smkn1tegallalang.sch.id^
 ||collector.schibsted.io^
-||eks.schibsted.io^
 ||inventory.schibsted.io^
 ||mpt-adsol.schibsted.io^
 ||privacy.schibsted.com^
 ||jssdk.pulse.schibsted.com^
 ||sdk.pulse.schibsted.com^
+||svip.schibsted.io^
 ||schjmp.com^
 ||mktg.schlage.com^
 ||data-4cf02e3b23.schlager.de^
@@ -21049,7 +21011,6 @@
 ||ins.shalltry.com^
 ||ire-dsc.shalltry.com^
 ||ire-dsu.shalltry.com^
-||redshift.shalltry.com^
 ||tms-api.shalltry.com^
 ||smetrics.shangri-la.com^
 ||shaperal.com^
@@ -21104,7 +21065,6 @@
 ||hm.e.shifen.com^
 ||mobads.e.shifen.com^
 ||api.duapp.n.shifen.com^
-||track.shiksha.com^
 ||shimmering-novel.pro^
 ||shinobi.jp^
 ||shinystat.com^
@@ -21123,7 +21083,6 @@
 ||shoesammonia.com^
 ||sholke.com^
 ||shonalanital.com^
-||cdn.shop.pe^
 ||acclog001.shop-pro.jp^
 ||acclog002.shop-pro.jp^
 ||shop2market.com^
@@ -21242,6 +21201,7 @@
 ||silktide.com^
 ||silveregg.net^
 ||silvermob.com^
+||engage5.silverpop.com^
 ||silverpush.co^
 ||smetrics.silversummithealthplan.com^
 ||msg.simeji.me^
@@ -21460,7 +21420,6 @@
 ||smallelboswore.xyz^
 ||smallerfords.com^
 ||smallfunnybears.com^
-||ks.smalltrack.eu^
 ||smapp.work^
 ||smardroid.com^
 ||secure.smart-business-ingenuity.com^
@@ -21552,6 +21511,7 @@
 ||snakestanothia.xyz^
 ||snammar-jumntal.com^
 ||accounts.snap.com^
+||ar.snap.com^
 ||values.snap.com^
 ||adserver.snapads.com^
 ||adserver.shadow.snapads.com^
@@ -21568,7 +21528,6 @@
 ||snapmobile.asia^
 ||ad.snappea.com^
 ||analytics.snappea.com^
-||push.snappea.com^
 ||sensors.snappea.com^
 ||snappedanticipation.com^
 ||snapsurveys.com^
@@ -21715,7 +21674,6 @@
 ||sol-data.com^
 ||sol-doc.xyz^
 ||solads.media^
-||whatya.solairo-api.com^
 ||solaranalytics.org^
 ||solarmovie.fm^
 ||solartrackingsystem.net^
@@ -21781,7 +21739,6 @@
 ||wt.soundestlink.com^
 ||secure.sour7will.com^
 ||sourcetobin.com^
-||southeastswitchgear.com^
 ||smetrics.southwest.com^
 ||soptimize.southwest.com^
 ||smetrics.southwesthotels.com^
@@ -22036,7 +21993,6 @@
 ||startmarket.su^
 ||startmode.biz^
 ||smetrics.startribune.com^
-||startus-insights.com^
 ||analytics.starz.com^
 ||starzplay.com^
 ||stat.media^
@@ -22109,7 +22065,6 @@
 ||adcdn.ster.nl^
 ||stereoproxy.com^
 ||stereotypedsugar.com^
-||sterlingsez.com^
 ||data-2d86fd41e0.stern.de^
 ||sternlythese.com^
 ||stetic.com^
@@ -22335,7 +22290,6 @@
 ||survata.com^
 ||survata.net^
 ||survey-smiles.com^
-||surveysandpromoonline.com^
 ||surveysavvy.com^
 ||surveyvoicesresearch.com^
 ||survicate.com^
@@ -22521,6 +22475,7 @@
 ||manager.tagcommander.com^
 ||redirect476.tagcommander.com^
 ||redirect5636.tagcommander.com^
+||serverside3667.tagcommander.com^
 ||serverside3967.tagcommander.com^
 ||serverside4285.tagcommander.com^
 ||serverside645.tagcommander.com^
@@ -22652,7 +22607,6 @@
 ||taptapnetworks.com^
 ||taptica.com^
 ||ads.tapzin.com^
-||math.taralabalu.in^
 ||img9.target.com^
 ||target2sell.com^
 ||cdn.targetspot.com^
@@ -22712,6 +22666,7 @@
 ||i.tddmp.com^
 ||tdmd.us^
 ||tdohrpnwzs.com^
+||tdscd.com^
 ||app.connections.te.com^
 ||smetrics.te.com^
 ||teads.tv^
@@ -22737,7 +22692,6 @@
 ||www5.technews.tw^
 ||te-static.technical-service.net^
 ||tr.technical-service.net^
-||trustpid.technical-service.net^
 ||technorail.com^
 ||technoratimedia.com^
 ||technotology.com^
@@ -22846,8 +22800,6 @@
 ||testrequest.info^
 ||testupdate.info^
 ||tesupervis.hair^
-||cdn.tetori.link^
-||cdn1.tetori.link^
 ||tetrantreverer.com^
 ||wbtrkk.teufel.de^
 ||tewitbacule.com^
@@ -22873,6 +22825,7 @@
 ||tgpsew.com^
 ||tgtag.io^
 ||smetrics.tgw.com^
+||tgwidget.com^
 ||ads.thaiware.com^
 ||log.thanhnien.vn^
 ||quangcao.thanhnien.vn^
@@ -22906,7 +22859,6 @@
 ||swasc.thecompanystore.com^
 ||counter.theconversation.com^
 ||news.thedailyrecord.com^
-||a.analytics.thedataagency.com^
 ||thediseasetracker.com^
 ||thedoccloud.com^
 ||gtrack.theecofeed.com^
@@ -22925,7 +22877,6 @@
 ||blue.thehill.com^
 ||f775.thehour.com^
 ||thehut.net^
-||stream.theindustry.ch^
 ||s232.theintelligencer.com^
 ||gtrack.theiwise.com^
 ||smetrics.thelawyer.com^
@@ -22961,7 +22912,6 @@
 ||thescv.team^
 ||theseoffersforyou.com^
 ||consent.theserverside.com^
-||content.thesmartcube.com^
 ||thesmilingpencils.com^
 ||webstats.thesoul-publishing.com^
 ||n511.thestar.com^
@@ -23136,7 +23086,6 @@
 ||tizf7.top^
 ||tjekscores.dk^
 ||swa.tjmaxx.tjx.com^
-||tk2mtrk.com^
 ||m.tkassets.com^
 ||tkbo.com^
 ||live.tktube.com^
@@ -23736,7 +23685,9 @@
 ||analytics-ingestion.production-public.tubi.io^
 ||tudasfaja.com^
 ||smetrics.tudorwatch.com^
+||cartoon.tudou.com^
 ||play.tudou.com^
+||v.tudou.com^
 ||video.tudou.com^
 ||tudown.com^
 ||tugngs.tui.com^
@@ -24033,7 +23984,6 @@
 ||unequalbrake.com^
 ||ungroudonchan.com^
 ||analytics.rz.uni-osnabrueck.de^
-||my.uni-ready.org^
 ||ads.unibet.com^
 ||adserving.unibet.com^
 ||unibots.in^
@@ -24296,7 +24246,6 @@
 ||uzzf.com^
 ||v-56.com^
 ||log.apk.v-mate.mobi^
-||yapi.apk.v-mate.mobi^
 ||v6lvs.com^
 ||v6rxv5coo5.com^
 ||v9banners.com^
@@ -24318,7 +24267,6 @@
 ||analytics.validitylabs.org^
 ||analytics.valiuz.com^
 ||engage.valley.com^
-||valrogrowth.com^
 ||valuad.cloud^
 ||value-domain.com^
 ||metrics.valuecityfurniture.com^
@@ -24359,6 +24307,7 @@
 ||analytics.vaxvacationaccess.com^
 ||vazypteke.pro^
 ||track.vbetua.com^
+||vbout.com^
 ||vbt.io^
 ||vbtrax.com^
 ||vcdc.com^
@@ -24612,7 +24561,6 @@
 ||events.virtusize.jp^
 ||thm.visa.com^
 ||thm12.visa.com^
-||visa-gift.com^
 ||visariomedia.com^
 ||visenze.com^
 ||sanalytics.visible.com^
@@ -24643,6 +24591,7 @@
 ||efficiency.visma.com^
 ||efficiency.nl.visma.com^
 ||visors-airminal.com^
+||vista.ir^
 ||visto1.net^
 ||gtrack.visualchase.com^
 ||visualdna.com^
@@ -24729,7 +24678,6 @@
 ||logperf.vnexpress.net^
 ||tracking-amp.vnexpress.net^
 ||m.vnforapps.com^
-||vnftrk.com^
 ||tracking.vnncdn.net^
 ||tracking3.vnncdn.net^
 ||live.vnpgroup.net^
@@ -24894,6 +24842,7 @@
 ||warehousecanneddental.com^
 ||rdr.wargaming.net^
 ||trck.wargaming.net^
+||warilycommercialconstitutional.com^
 ||warmafterthought.com^
 ||warmquiver.com^
 ||ea.warnerbros.fr^
@@ -24956,7 +24905,6 @@
 ||advil.waze.com^
 ||sdk.waze.com^
 ||wazimo.com^
-||stat.ad.wazzapps.org^
 ||wbdpnz.com^
 ||wbemsystem.com^
 ||wbidder.online^
@@ -25054,8 +25002,15 @@
 ||weborama.design^
 ||cstatic.weborama.fr^
 ||frontend.weborama.fr^
+||frontend-preprod.weborama.fr^
 ||webout.life^
 ||webpartners.co^
+||mailzgczeg.mail.webpower.eu^
+||mailzgczeh.mail.webpower.eu^
+||mailzgczei.mail.webpower.eu^
+||mailzgczfa.mail.webpower.eu^
+||mailzgczfb.mail.webpower.eu^
+||mailzgczfz.mail.webpower.eu^
 ||virtualmail.webpower.eu^
 ||webpu.sh^
 ||api.webpush.jp^
@@ -25162,7 +25117,6 @@
 ||data-c0c484e9be.werstreamt.es^
 ||wescam.info^
 ||track.wesdk.co^
-||ads2.westca.com^
 ||smetrics.westelm.com^
 ||metrics.westernunion.com^
 ||smetrics.westernunion.com^
@@ -25321,7 +25275,6 @@
 ||sstats.wired.com^
 ||wiredminds.de^
 ||wirratailage.com^
-||cookiemanager.wirth-horn.de^
 ||content.dwd.wisconsin.gov^
 ||wisehowronspar.com^
 ||mycloud.wisemo.com^
@@ -25457,7 +25410,6 @@
 ||wouldnotspea.info^
 ||wovensur.com^
 ||wow.com^
-||intrackv2.wow-ads.de^
 ||wowcon.net^
 ||saa.wowma.jp^
 ||wowreality.info^
@@ -25535,7 +25487,6 @@
 ||data-0cc10e3905.wuv.de^
 ||wuxiqiangheng.com^
 ||cdn.wuyou.ca^
-||engine.wuyou.ca^
 ||wuzbhjpvsf.com^
 ||wvhba6470p.com^
 ||wwads.cn^
@@ -25558,7 +25509,6 @@
 ||smetrics.wyndham.com^
 ||smetrics.wyndhamhotels.com^
 ||ad.wynk.in^
-||location.wynk.in^
 ||wynvalur.com^
 ||wyplmjufd.live^
 ||wyqaafplm.live^
@@ -25628,7 +25578,6 @@
 ||api.installer.xiaomi.com^
 ||ad.intl.xiaomi.com^
 ||cc.sys.intl.xiaomi.com^
-||cc2.sys.intl.xiaomi.com^
 ||ccc.sys.intl.xiaomi.com^
 ||a.market.xiaomi.com^
 ||video.market.xiaomi.com^
@@ -25649,7 +25598,6 @@
 ||sec-cdn.static.xiaomi.net^
 ||video.xiaomi.com^
 ||register.xmpush.xiaomi.com^
-||ad.altamob.xiaoying.co^
 ||ad-sdk.altamob.xiaoying.co^
 ||s.api.xiaoying.co^
 ||xiaozuowen.net^
@@ -25702,7 +25650,6 @@
 ||t.xoom.com^
 ||xorg.pl^
 ||tracker.xpeer.xyz^
-||xpendx.com^
 ||xplosion.de^
 ||xpollo.com^
 ||xporn.in^
@@ -25738,7 +25685,6 @@
 ||soa-vip-ssl.xunlei.com^
 ||stat.xunlei.com^
 ||advertpay.vip.xunlei.com^
-||scene.vip.xunlei.com^
 ||xvawm.top^
 ||xvnitu.com^
 ||xvtelink.com^
@@ -26188,7 +26134,7 @@
 ||zerotask.ru^
 ||zestycrime.com^
 ||zetaglobal.com^
-||zeusadx.com^
+||xml.zeusadx.com^
 ||zeustechnology.com^
 ||zeyappland.com^
 ||analytics.zg-api.com^
