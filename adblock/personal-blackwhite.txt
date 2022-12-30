@@ -26391,6 +26391,7 @@
 ||app-analytics*.huami.com^
 |log-collector.shopee.
 ||analytics*.clickdimensions.com^
+||siteintercept.qualtrics.com^
 
 ! Apple
 ||*analytics-events.apple.com^
@@ -34796,6 +34797,13 @@
 ! https://github.com/hagezi/dns-blocklists/issues/133
 @@|stacksocial.com^
 @@|www.stacksocial.com^
+
+! Parcel tracking
+@@|track.goshippo.com^
+
+! Mandrill Mailchimp add-on - requesting a password, placing an order, links in emails, ...
+@@|mandrillapp.com^
+@@|www.mandrillapp.com^
 
 ! Title: HaGeZi's White-/Allowlist Referral
 ! Description: This list unblocks affiliate & tracking referral links that appear in mails, search results etc.
