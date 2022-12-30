@@ -1,5 +1,5 @@
-! Title: HaGeZi's Personal AdGuard Wildcard Rules
-! Description: My personal wildcard rules to optimize the black & white list for AdGuard Home / AdGuard DNS
+! Title: HaGeZi's Personal AdGuard Wildcard Rules for Black & White list
+! Description: My personal wildcard rules to optimize the Black & White list for AdGuard DNS. Not intended for use outside the Black & White list. This will result in false positive domains!
 ! Homepage: https://github.com/hagezi/dns-blocklists
 ! Issues: https://github.com/hagezi/dns-blocklists/issues
 ! License: https://github.com/hagezi/dns-blocklists/blob/main/LICENSE.md
@@ -15,6 +15,7 @@
 ||iad*.dotomi.com^
 
 ! Amazon Shopping
+||advertising.amazon.
 ||amazon-adsystem.com^
 ||assoc-amazon.
 ||fls*.amazon.
