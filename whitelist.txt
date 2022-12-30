@@ -60,6 +60,7 @@ aax-fe.amazon.co.jp
 aax-fe.amazon.com
 aax-fe.amazon.com.au
 aax-fe.amazon.sg
+c.amazon-adsystem.com
 
 # Amazon Video
 *.aiv-cdn.net
@@ -848,7 +849,7 @@ t.paypal.com
 cdn.elev.io
 
 # Upload Crash report
-# in.appcenter.ms
+in.appcenter.ms
 
 # Deploy mobile app updates directly to devices
 codepush.appcenter.ms
@@ -941,6 +942,7 @@ chip.com.tr
 
 # survey-based insights
 cint.com
+*.asynchronousmessaging.dashboard.co.uk
 
 # Calssmates site
 classmates.com
@@ -2073,6 +2075,7 @@ surveymyopinion.researchnow.com
 
 # Customer live chat support
 liveperson.com
+adminlogin.liveperson.net
 
 # https://github.com/hagezi/dns-blocklists/issues/96
 *.arc.epoq.de
