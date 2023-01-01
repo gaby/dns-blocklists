@@ -14204,7 +14204,6 @@
 ||leady.com^
 ||leadzu.com^
 ||leafmedia.io^
-||leakix.net^
 ||invite.leanlab.co^
 ||track.leanlab.co^
 ||leanplum.com^
@@ -36240,6 +36239,13 @@
 ! Game
 @@|clickerheroes.com^
 @@|www.clickerheroes.com^
+
+! korean news site - https://github.com/hagezi/dns-blocklists/issues/140
+@@|postshare.co.kr^
+
+! LeakIX Platform - https://github.com/hagezi/dns-blocklists/issues/141
+@@|leakix.net^
+@@|www.leakix.net^
 
 ! Title: HaGeZi's White-/Allowlist Referral
 ! Description: This list unblocks affiliate & tracking referral links that appear in mails, search results etc.
