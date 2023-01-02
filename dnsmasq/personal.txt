@@ -4,10 +4,10 @@
 # Issues: https://github.com/hagezi/dns-blocklists/issues
 # License: https://github.com/hagezi/dns-blocklists/blob/main/LICENSE.md
 # Expires: Updated regularly
-# Last modified: 02 Jan 2023 18:56 UTC
-# Version: 2023.0102.1856.08
+# Last modified: 02 Jan 2023 21:12 UTC
+# Version: 2023.0102.2112.42
 # Syntax: DNSMasq
-# Domains: 20346
+# Domains: 20281
 #
 address=/00go.com/#
 address=/00px.net/#
@@ -5093,6 +5093,7 @@ address=/script.crazyegg.com/#
 address=/tracking.crazyegg.com/#
 address=/vector.crazyegg.com/#
 address=/rafvertizing.crazygames.com/#
+address=/wafvertizing.crazygames.com/#
 address=/crbbgate.com/#
 address=/analytics.crea.ca/#
 address=/crealytics.com/#
@@ -12943,72 +12944,6 @@ address=/cp.onicon.ru/#
 address=/onixcellent.com/#
 address=/online.com/#
 address=/online-banners.nl/#
-address=/aa.online-metrix.net/#
-address=/citi.online-metrix.net/#
-address=/citidirect.online-metrix.net/#
-address=/bdc-cdn.com.online-metrix.net/#
-address=/eu-aa.online-metrix.net/#
-address=/h.online-metrix.net/#
-address=/h-3z5dc3wi.online-metrix.net/#
-address=/h-6rj18la4.online-metrix.net/#
-address=/h-87rxrdob.online-metrix.net/#
-address=/h-accurint.online-metrix.net/#
-address=/h-adp.online-metrix.net/#
-address=/h-afterpay.online-metrix.net/#
-address=/h-ameriprise.online-metrix.net/#
-address=/h-api.online-metrix.net/#
-address=/h-apruvd.online-metrix.net/#
-address=/h-bangkokbank.online-metrix.net/#
-address=/h-beachbody.online-metrix.net/#
-address=/h-bestbuy.online-metrix.net/#
-address=/h-bmo.online-metrix.net/#
-address=/h-bmoharris2.online-metrix.net/#
-address=/h-chase.online-metrix.net/#
-address=/h-citibank-mx.online-metrix.net/#
-address=/h-citibankonline.online-metrix.net/#
-address=/h-citizensbankonline.online-metrix.net/#
-address=/h-cybersource.online-metrix.net/#
-address=/h-dazn.online-metrix.net/#
-address=/h-draftkings.online-metrix.net/#
-address=/h-dstssc.online-metrix.net/#
-address=/h-e04kqxof.online-metrix.net/#
-address=/h-ebay.online-metrix.net/#
-address=/h-ebay-kleinanzeigen.online-metrix.net/#
-address=/h-fisglobal.online-metrix.net/#
-address=/h-goldmansachs2.online-metrix.net/#
-address=/h-gusto.online-metrix.net/#
-address=/h-halifax.online-metrix.net/#
-address=/h-hsbcmx.online-metrix.net/#
-address=/h-huntington.online-metrix.net/#
-address=/h-ibotta.online-metrix.net/#
-address=/h-iddataweb.online-metrix.net/#
-address=/h-instacart.online-metrix.net/#
-address=/h-interacetransfer.online-metrix.net/#
-address=/h-k8vif92e-au.online-metrix.net/#
-address=/h-k8vif92e-av.online-metrix.net/#
-address=/h-k8vif92e-lulu.online-metrix.net/#
-address=/h-ljcjjbch.online-metrix.net/#
-address=/h-marktplaats.online-metrix.net/#
-address=/h-mywisely.online-metrix.net/#
-address=/h-optumid.online-metrix.net/#
-address=/h-paddypower.online-metrix.net/#
-address=/h-payby.online-metrix.net/#
-address=/h-pscu.online-metrix.net/#
-address=/h-rbs-bank.online-metrix.net/#
-address=/h-regionsbank2.online-metrix.net/#
-address=/h-samsclub.online-metrix.net/#
-address=/h-santanderbank.online-metrix.net/#
-address=/h-scotia.online-metrix.net/#
-address=/h-skrill.online-metrix.net/#
-address=/h-sofi.online-metrix.net/#
-address=/h-tdbank.online-metrix.net/#
-address=/h-tesco.online-metrix.net/#
-address=/h-ups.online-metrix.net/#
-address=/h-uptodate.online-metrix.net/#
-address=/h-v60nf4oj-2.online-metrix.net/#
-address=/h-virtualgaming.online-metrix.net/#
-address=/h6.online-metrix.net/#
-address=/rbc.online-metrix.net/#
 address=/online2game.xyz/#
 address=/onlinedeltazone.online/#
 address=/onlinedown.net/#
