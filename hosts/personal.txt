@@ -4,10 +4,10 @@
 # Issues: https://github.com/hagezi/dns-blocklists/issues
 # License: https://github.com/hagezi/dns-blocklists/blob/main/LICENSE.md
 # Expires: Updated regularly
-# Last modified: 02 Jan 2023 21:12 UTC
-# Version: 2023.0102.2112.42
+# Last modified: 03 Jan 2023 00:33 UTC
+# Version: 2023.0103.0033.27
 # Syntax: Hosts
-# Domains: 55618
+# Domains: 55601
 #
 0.0.0.0 00go.com
 0.0.0.0 www.00go.com
@@ -1380,13 +1380,11 @@
 0.0.0.0 accdab.net
 0.0.0.0 accedenonre.xyz
 0.0.0.0 www.accedenonre.xyz
-0.0.0.0 accengage.com
 0.0.0.0 accengage.net
 0.0.0.0 api.accengage.com
 0.0.0.0 daraz-by.accengage.net
 0.0.0.0 mobilecrm.accengage.com
 0.0.0.0 pingapi.accengage.com
-0.0.0.0 www.accengage.com
 0.0.0.0 www.accengage.net
 0.0.0.0 somni.accenture.com
 0.0.0.0 trackingmms.accenture.com
@@ -1489,11 +1487,9 @@
 0.0.0.0 activeoptimization.com
 0.0.0.0 www.activeoptimization.com
 0.0.0.0 prod-data-energon.infra-ext.activision.com
-0.0.0.0 actonservice.com
 0.0.0.0 a44320.actonservice.com
 0.0.0.0 msufcu.actonservice.com
 0.0.0.0 towerfcu.actonservice.com
-0.0.0.0 www.actonservice.com
 0.0.0.0 actonsoftware.com
 0.0.0.0 jwpepper.actonsoftware.com
 0.0.0.0 www.actonsoftware.com
@@ -4261,6 +4257,8 @@
 0.0.0.0 worker82.advertnative.com
 0.0.0.0 worker83.advertnative.com
 0.0.0.0 www.advertnative.com
+0.0.0.0 advertronic.io
+0.0.0.0 www.advertronic.io
 0.0.0.0 advertserve.com
 0.0.0.0 ammsa.advertserve.com
 0.0.0.0 bidstream.advertserve.com
@@ -10192,9 +10190,7 @@
 0.0.0.0 www.blueduckredapple.com
 0.0.0.0 x.blueduckredapple.com
 0.0.0.0 gtrack.bluegazette.com
-0.0.0.0 bluehornet.com
 0.0.0.0 echo4.bluehornet.com
-0.0.0.0 www.bluehornet.com
 0.0.0.0 bluekai.com
 0.0.0.0 analytics.bluekai.com
 0.0.0.0 stags.bluekai.com
@@ -10383,8 +10379,6 @@
 0.0.0.0 geoip.boredpanda.com
 0.0.0.0 boriskink.com
 0.0.0.0 borofez.com
-0.0.0.0 borrelioseweb.de
-0.0.0.0 www.borrelioseweb.de
 0.0.0.0 borrowdefeat.com
 0.0.0.0 www.borrowdefeat.com
 0.0.0.0 borrowedculture.com
@@ -14345,11 +14339,9 @@
 0.0.0.0 cmclean.club
 0.0.0.0 sg.cmclean.club
 0.0.0.0 www.cmclean.club
-0.0.0.0 cmcm.com
 0.0.0.0 lcf.cmplay.cmcm.com
 0.0.0.0 magic.cmcm.com
 0.0.0.0 tileswan.cmcm.com
-0.0.0.0 www.cmcm.com
 0.0.0.0 cmcore.com
 0.0.0.0 data.cmcore.com
 0.0.0.0 cmdspassets.com
@@ -23522,12 +23514,10 @@
 0.0.0.0 flexlinkspro.com
 0.0.0.0 content.flexlinkspro.com
 0.0.0.0 track.flexlinkspro.com
-0.0.0.0 fling.com
 0.0.0.0 cachemd.fling.com
 0.0.0.0 cachep.fling.com
 0.0.0.0 promos.fling.com
 0.0.0.0 push-ord.fling.com
-0.0.0.0 www.fling.com
 0.0.0.0 flingo.tv
 0.0.0.0 static.flingo.tv
 0.0.0.0 www.flingo.tv
@@ -28480,9 +28470,7 @@
 0.0.0.0 informationvine.com
 0.0.0.0 explore.informationvine.com
 0.0.0.0 www.informationvine.com
-0.0.0.0 informer.com
 0.0.0.0 hits.informer.com
-0.0.0.0 www.informer.com
 0.0.0.0 call.inforsea.com
 0.0.0.0 pixel.inforsea.com
 0.0.0.0 infox.sg
@@ -43751,14 +43739,12 @@
 0.0.0.0 prderrordumphsm.samsungcloudsolution.com
 0.0.0.0 diagmon-policy.samsungdm.com
 0.0.0.0 diagmon-serviceapi.samsungdm.com
-0.0.0.0 samsungelectronics.com
 0.0.0.0 apu.samsungelectronics.com
 0.0.0.0 bpu.samsungelectronics.com
 0.0.0.0 cpu.samsungelectronics.com
 0.0.0.0 dpu.samsungelectronics.com
 0.0.0.0 kpu.samsungelectronics.com
 0.0.0.0 upu.samsungelectronics.com
-0.0.0.0 www.samsungelectronics.com
 0.0.0.0 xpu.samsungelectronics.com
 0.0.0.0 ypu.samsungelectronics.com
 0.0.0.0 zpu.samsungelectronics.com
@@ -46523,7 +46509,6 @@
 0.0.0.0 cdn.snowmiracles.com
 0.0.0.0 p242.snowmiracles.com
 0.0.0.0 www.snowmiracles.com
-0.0.0.0 snplow.net
 0.0.0.0 ca-lapresse-main.collector.snplow.net
 0.0.0.0 com-asanarebel-main.collector.snplow.net
 0.0.0.0 com-baublebar-prod1.collector.snplow.net
@@ -46543,7 +46528,6 @@
 0.0.0.0 io-webware-prod1.collector.snplow.net
 0.0.0.0 ly-bit-prod1.collector.snplow.net
 0.0.0.0 nl-rtl-prod1.collector.snplow.net
-0.0.0.0 www.snplow.net
 0.0.0.0 snrbox.com
 0.0.0.0 ai-api.snrbox.com
 0.0.0.0 geb.snrbox.com
@@ -52936,12 +52920,10 @@
 0.0.0.0 node4.voyeurhouse.com
 0.0.0.0 www.voyeurhouse.com
 0.0.0.0 vozito.net
-0.0.0.0 vpadn.com
 0.0.0.0 dailymotion-cs.vpadn.com
 0.0.0.0 ids-dmp.vpadn.com
 0.0.0.0 m.vpadn.com
 0.0.0.0 tw-api.vpadn.com
-0.0.0.0 www.vpadn.com
 0.0.0.0 vpdcp.com
 0.0.0.0 dcp.vpdcp.com
 0.0.0.0 api.dcp.vpdcp.com
@@ -54583,6 +54565,7 @@
 0.0.0.0 1.y0utube.services
 0.0.0.0 www.y0utube.life
 0.0.0.0 www.y0utube.services
+0.0.0.0 t.y8.com
 0.0.0.0 y8z5nv0slz06vj2k5vh6akv7dj2c8aj62zhj2v7zj8vp0zq7fj2gf4mv6zsb.me
 0.0.0.0 www.y8z5nv0slz06vj2k5vh6akv7dj2c8aj62zhj2v7zj8vp0zq7fj2gf4mv6zsb.me
 0.0.0.0 yabidos.com
