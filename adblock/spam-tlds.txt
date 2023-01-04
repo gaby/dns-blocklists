@@ -1,13 +1,13 @@
 ! Title: HaGeZi's The World's Most Abused TLDs
 ! Description: The Top Most Abused Top Level Domains by SpamHaus and @yokoffing
 ! Source: https://www.spamhaus.org/statistics/tlds/
-!         https://github.com/yokoffing/NextDNS-Config#block-top-level-domains-tlds-1-2-3-4-5-6-
+!         https://raw.githubusercontent.com/yokoffing/filterlists/main/enhanced_site_protection.txt
 ! Homepage: https://github.com/hagezi/dns-blocklists
 ! Issues: https://github.com/hagezi/dns-blocklists/issues
 ! License: https://github.com/hagezi/dns-blocklists/blob/main/LICENSE.md
 ! Expires: Updated regularly
-! Last modified: 03 Jan 2023 20:45 UTC
-! Version: 2023.0103.2045.44
+! Last modified: 04 Jan 2023 18:57 UTC
+! Version: 2023.0104.1857.54
 ! Syntax: AdBlock
 !
 |*.agency^
@@ -32,6 +32,7 @@
 |*.email^
 |*.financial^
 |*.fit^
+|*.fun^
 |*.fyi^
 |*.ga^
 |*.garden^
@@ -39,10 +40,15 @@
 |*.gq^
 |*.icu^
 |*.kp^
+|*.link^
+|*.live^
 |*.loan^
 |*.loans^
+|*.lol^
 |*.ml^
 |*.monster^
+|*.one^
+|*.online^
 |*.ooo^
 |*.pw^
 |*.quest^
@@ -52,6 +58,7 @@
 |*.sbs^
 |*.sex^
 |*.sexy^
+|*.shop^
 |*.software^
 |*.su^
 |*.surf^
@@ -62,3 +69,4 @@
 |*.webcam^
 |*.win^
 |*.work^
+|*.zone^
