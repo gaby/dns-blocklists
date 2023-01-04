@@ -14030,7 +14030,6 @@
 ||ads1.opensubtitles.org^
 ||track.opentable.com^
 ||track.opentable.de^
-||opentelemetry.io^
 ||opentracker.net^
 ||openx.com^
 ||openx.net^
@@ -30561,6 +30560,10 @@
 ! https://github.com/hagezi/dns-blocklists/issues/144
 @@|tenping.kr^
 @@|www.tenping.kr^
+
+! https://github.com/hagezi/dns-blocklists/issues/145
+@@|opentelemetry.io^
+@@|www.opentelemetry.io^
 
 ! Title: HaGeZi's White-/Allowlist Referral
 ! Description: This list unblocks affiliate & tracking referral links that appear in mails, search results etc.
