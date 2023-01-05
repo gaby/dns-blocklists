@@ -20263,7 +20263,6 @@
 ||tpbid.com^
 ||tpcserve.com^
 ||tpctrust.com^
-||tpdads.com^
 ||tpgmrview2wrld.xyz^
 ||tpgmrvw2wrld.xyz^
 ||tplinkextender.net^
@@ -31530,6 +31529,10 @@
 ! https://github.com/hagezi/dns-blocklists/issues/145
 @@|opentelemetry.io^
 @@|www.opentelemetry.io^
+
+! https://github.com/hagezi/dns-blocklists/issues/165
+@@|cdn.brid.tv^
+@@|cdn.tpdads.com^
 
 ! Title: HaGeZi's White-/Allowlist Referral
 ! Description: This list unblocks affiliate & tracking referral links that appear in mails, search results etc.
