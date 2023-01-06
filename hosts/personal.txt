@@ -4,10 +4,10 @@
 # Issues: https://github.com/hagezi/dns-blocklists/issues
 # License: https://github.com/hagezi/dns-blocklists/blob/main/LICENSE.md
 # Expires: Updated regularly
-# Last modified: 06 Jan 2023 17:29 UTC
-# Version: 2023.0106.1729.43
+# Last modified: 06 Jan 2023 19:41 UTC
+# Version: 2023.0106.1941.03
 # Syntax: Hosts
-# Domains: 62127
+# Domains: 62131
 #
 0.0.0.0 00px.net
 0.0.0.0 021jf.com
@@ -30481,6 +30481,7 @@
 0.0.0.0 js-eu1.hs-banner.com
 0.0.0.0 spectrum.hs-banner.com
 0.0.0.0 js-fra04-origin.spectrum.hs-banner.com
+0.0.0.0 js.hs-scripts.com
 0.0.0.0 js-eu1.hs-scripts.com
 0.0.0.0 hsadspixel.net
 0.0.0.0 js.hsadspixel.net
@@ -41042,6 +41043,7 @@
 0.0.0.0 fifa.hb-api.omtrdc.net
 0.0.0.0 nationalgeographic.hb-api.omtrdc.net
 0.0.0.0 twctsg.hb-api.omtrdc.net
+0.0.0.0 royalmail.com.ssl.d1.sc.omtrdc.net
 0.0.0.0 pgatour.d2.sc.omtrdc.net
 0.0.0.0 1und1internetag.d3.sc.omtrdc.net
 0.0.0.0 nzz.d3.sc.omtrdc.net
@@ -43729,6 +43731,7 @@
 0.0.0.0 cdn.powerspace.com
 0.0.0.0 www.powerspace.com
 0.0.0.0 powferads.com
+0.0.0.0 tracking.powster.com
 0.0.0.0 trek.powtoon.com
 0.0.0.0 cdn.appconnect.pozitron.com
 0.0.0.0 log-cs.pp.cn
@@ -58249,6 +58252,7 @@
 0.0.0.0 pontofrio.api.useinsider.com
 0.0.0.0 powerbuy.api.useinsider.com
 0.0.0.0 pptv.api.useinsider.com
+0.0.0.0 previewph.api.useinsider.com
 0.0.0.0 recommendation.api.useinsider.com
 0.0.0.0 rossmann.api.useinsider.com
 0.0.0.0 samsungid.api.useinsider.com

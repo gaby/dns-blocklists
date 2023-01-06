@@ -4,10 +4,10 @@
 # Issues: https://github.com/hagezi/dns-blocklists/issues
 # License: https://github.com/hagezi/dns-blocklists/blob/main/LICENSE.md
 # Expires: Updated regularly
-# Last modified: 06 Jan 2023 17:29 UTC
-# Version: 2023.0106.1729.43
+# Last modified: 06 Jan 2023 19:41 UTC
+# Version: 2023.0106.1941.03
 # Syntax: DNSMasq
-# Domains: 21749
+# Domains: 21752
 #
 address=/00px.net/#
 address=/021jf.com/#
@@ -9690,6 +9690,7 @@ address=/hrzn-nxt.com/#
 address=/hs-analytics.com/#
 address=/hs-analytics.net/#
 address=/hs-banner.com/#
+address=/js.hs-scripts.com/#
 address=/js-eu1.hs-scripts.com/#
 address=/hsadspixel.net/#
 address=/cdntm.us.hsbc.com/#
@@ -13642,6 +13643,7 @@ address=/dixonsrt.hb-api.omtrdc.net/#
 address=/fifa.hb-api.omtrdc.net/#
 address=/nationalgeographic.hb-api.omtrdc.net/#
 address=/twctsg.hb-api.omtrdc.net/#
+address=/royalmail.com.ssl.d1.sc.omtrdc.net/#
 address=/pgatour.d2.sc.omtrdc.net/#
 address=/1und1internetag.d3.sc.omtrdc.net/#
 address=/nzz.d3.sc.omtrdc.net/#
@@ -14530,6 +14532,7 @@ address=/powerofsearches.com/#
 address=/t.powerreviews.com/#
 address=/powerspace.com/#
 address=/powferads.com/#
+address=/tracking.powster.com/#
 address=/trek.powtoon.com/#
 address=/cdn.appconnect.pozitron.com/#
 address=/log-cs.pp.cn/#
