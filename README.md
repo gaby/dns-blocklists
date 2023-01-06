@@ -35,8 +35,8 @@
 | [Light](#light)             | 332505<br>150038     | |   |   | = | X | P | X |
 | [Normal](#normal)       | 1190656<br>351536     | |   | = | X | X | P | X |
 | [Pro](#pro)              | 1313393<br>429694         | | = | X | X | X | P | X |
-| [Pro++](#proplus)    | 1387446<br>460348 | | ++ | X | X | X | P |  X |
-| [Ultimate](#ultimate)    | 2193893<br>863518 | ++ | X | X | X | X | X |  X |
+| [Pro++](#proplus)    | 1387436<br>460347 | | ++ | X | X | X | P |  X |
+| [Ultimate](#ultimate)    | 2193883<br>863517 | ++ | X | X | X | X | X |  X |
            
 *X = contains the named lists in the column header*       
 *P = partially contains the named list in the column header*       
@@ -95,7 +95,7 @@
          
 *More aggressive version of the Multi PRO blocklist. It may contain few false positive domains that limit functionality. Therefore it should only be used by experienced users. Furthermore, an admin should be available to unblock incorrectly blocked domains. Reported false positive domains will be removed from the list!*
 
-**Entries:** *1387446 domains/hosts - 460348 compressed domains* | [Sources/Statistics](https://github.com/hagezi/dns-blocklists/blob/main/usedsources.md#proplus)    
+**Entries:** *1387436 domains/hosts - 460347 compressed domains* | [Sources/Statistics](https://github.com/hagezi/dns-blocklists/blob/main/usedsources.md#proplus)    
                                                 
 | Format | Link | Can be used for |
 |:-------|:-----|:----------------|
@@ -112,7 +112,7 @@
          
 *Stricter version of the Multi PRO++ blocklist. It may contain false positive domains that limit functionality. Therefore it should only be used by experienced users. Furthermore, an admin should be available to unblock incorrectly blocked domains. Reported false positive domains will be removed from the list!*
 
-**Entries:** *2193893 domains/hosts - 863518 compressed domains* | [Sources/Statistics](https://github.com/hagezi/dns-blocklists/blob/main/usedsources.md#ultimate)    
+**Entries:** *2193883 domains/hosts - 863517 compressed domains* | [Sources/Statistics](https://github.com/hagezi/dns-blocklists/blob/main/usedsources.md#ultimate)    
                                                 
 | Format | Link | Can be used for |
 |:-------|:-----|:----------------|
@@ -260,7 +260,7 @@
 ### ***Personal - My manually maintained blacklist*** <a name="personal"></a>
 *My personal blocklist, an extension for known blocklists. Blocks ads, trackers, native device trackers, badware and more. Not intended to be used as a standalone blocklist, it serves as a addition for other blocklists!*         
         
-**Entries:** *62123 domains/hosts - 21746 compressed domains*
+**Entries:** *62127 domains/hosts - 21749 compressed domains*
        
 | Format | Link | Can be used for |
 |:-------|:-----|:----------------|
@@ -320,6 +320,7 @@ Therefore, I* ***additionally*** *recommend the use of a browser content blocker
 |:-----------|:---------------|:-------------|:-------------------|
 | Normal (PRO + TIF)  | https://sky.rethinkdns.com/1:AAoACBAA | 1-aafaacaqaa.max.rethinkdns.com | [Visit](https://sky.rethinkdns.com/1:AAoACBAA) and click on the red apple  |
 | Aggressive (PRO plus + TIF) | https://sky.rethinkdns.com/1:AAoACAgA | 1-aafaacaiaa.max.rethinkdns.com | [Visit](https://sky.rethinkdns.com/1:AAoACAgA) and click on the red apple |
+| Strikt (ULTIMATE) | https://sky.rethinkdns.com/1:gAAAQA== | 1-qaaaaqa.max.rethinkdns.com | [Visit](https://sky.rethinkdns.com/1:gAAAQA==) and click on the red apple |
 
 #### ***DNSforge (Germany) - free*** <a name="dnsforge"></a>
 
