@@ -6,10 +6,11 @@
 ! Expires: Updated regularly
 ! Syntax: AdGuard
 
-! Black
+! Punycode TLDs
+/(^|\.)xn--.*$/
 
 ! TikTok Fingerprinting
-/.*(analytics|frontier|gecko|mon|log|mssdk|mcs|pitaya).*\.(tiktok(v|cdn)?|byteoversea)\.com$/
+/.*(analytics|frontier|gecko|mon|log|mssdk|mcs|pitaya).*\.(tiktok(v|cdn)?|byteoversea|snssdk)\.com$/
 
 ! Analytics - Metrics - Telemetry
 /^(s|[a-z0-9\-]*\-)?analytics?(\-[a-z0-9\-]*)?\.[a-z0-9\-]*\./
@@ -22,3 +23,6 @@
 
 ! Sentry
 /^sentry\.[a-z0-9\-]*\./
+
+! Clarity
+/^clarity\.[a-z0-9\-]*\./
