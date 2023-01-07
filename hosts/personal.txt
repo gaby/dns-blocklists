@@ -4,10 +4,10 @@
 # Issues: https://github.com/hagezi/dns-blocklists/issues
 # License: https://github.com/hagezi/dns-blocklists/blob/main/LICENSE.md
 # Expires: Updated regularly
-# Last modified: 07 Jan 2023 21:21 UTC
-# Version: 2023.0107.2121.42
+# Last modified: 07 Jan 2023 21:37 UTC
+# Version: 2023.0107.2137.02
 # Syntax: Hosts
-# Domains: 69941
+# Domains: 69942
 #
 0.0.0.0 00px.net
 0.0.0.0 cdn.00px.net
@@ -11980,6 +11980,7 @@
 0.0.0.0 www.brightonclick.com
 0.0.0.0 brightscope.com
 0.0.0.0 www.brightscope.com
+0.0.0.0 telemetryservice.brightspace.com
 0.0.0.0 brigi-jar.com
 0.0.0.0 data-a7a0d7a6db.brigitte.de
 0.0.0.0 marketing.net.brillen.de

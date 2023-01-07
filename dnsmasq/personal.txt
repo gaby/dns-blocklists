@@ -4,10 +4,10 @@
 # Issues: https://github.com/hagezi/dns-blocklists/issues
 # License: https://github.com/hagezi/dns-blocklists/blob/main/LICENSE.md
 # Expires: Updated regularly
-# Last modified: 07 Jan 2023 21:21 UTC
-# Version: 2023.0107.2121.42
+# Last modified: 07 Jan 2023 21:37 UTC
+# Version: 2023.0107.2137.02
 # Syntax: DNSMasq
-# Domains: 23869
+# Domains: 23870
 #
 address=/00px.net/#
 address=/021jf.com/#
@@ -4238,6 +4238,7 @@ address=/brightline.tv/#
 address=/brightmountainmedia.com/#
 address=/brightonclick.com/#
 address=/brightscope.com/#
+address=/telemetryservice.brightspace.com/#
 address=/brigi-jar.com/#
 address=/data-a7a0d7a6db.brigitte.de/#
 address=/marketing.net.brillen.de/#
