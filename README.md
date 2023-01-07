@@ -36,8 +36,8 @@
 | [Light](#light)             | 331111<br>151725     | |   |   | = | X | P | X |
 | [Normal](#normal)       | 1084271<br>355873     | |   | = | X | X | P | X |
 | [Pro](#pro)              | 1205815<br>433557         | | = | X | X | X | P | X |
-| [Pro++](#proplus)    | 1382396<br>464343 | | ++ | X | X | X | P |  X |
-| [Ultimate](#ultimate)    | 2189834<br>864250 | ++ | X | X | X | X | X |  X |
+| [Pro++](#proplus)    | 1382395<br>464342 | | ++ | X | X | X | P |  X |
+| [Ultimate](#ultimate)    | 2189832<br>864248 | ++ | X | X | X | X | X |  X |
            
 *X = contains the named lists in the column header*       
 *P = partially contains the named list in the column header*       
@@ -96,7 +96,7 @@
          
 *More aggressive version of the Multi PRO blocklist. It may contain few false positive domains that limit functionality. Therefore it should only be used by experienced users. Furthermore, an admin should be available to unblock incorrectly blocked domains. Reported false positive domains will be removed from the list!*
 
-**Entries:** *1382396 domains/hosts - 464343 compressed domains* | [Sources/Statistics](https://github.com/hagezi/dns-blocklists/blob/main/usedsources.md#proplus)    
+**Entries:** *1382395 domains/hosts - 464342 compressed domains* | [Sources/Statistics](https://github.com/hagezi/dns-blocklists/blob/main/usedsources.md#proplus)    
                                                 
 | Format | Link | Can be used for |
 |:-------|:-----|:----------------|
@@ -113,7 +113,7 @@
          
 *Stricter version of the Multi PRO++ blocklist. It may contain false positive domains that limit functionality. Therefore it should only be used by experienced users. Furthermore, an admin should be available to unblock incorrectly blocked domains. Reported false positive domains will be removed from the list!*
 
-**Entries:** *2189834 domains/hosts - 864250 compressed domains* | [Sources/Statistics](https://github.com/hagezi/dns-blocklists/blob/main/usedsources.md#ultimate)    
+**Entries:** *2189832 domains/hosts - 864248 compressed domains* | [Sources/Statistics](https://github.com/hagezi/dns-blocklists/blob/main/usedsources.md#ultimate)    
                                                 
 | Format | Link | Can be used for |
 |:-------|:-----|:----------------|
@@ -271,7 +271,7 @@
 ### ***Personal - My manually maintained blacklist*** <a name="personal"></a>
 *My personal blocklist, an extension for known blocklists. Blocks ads, trackers, native device trackers, badware and more. Not intended to be used as a standalone blocklist, it serves as a addition for other blocklists!*         
         
-**Entries:** *64318 domains/hosts - 22586 compressed domains*
+**Entries:** *69940 domains/hosts - 23868 compressed domains*
        
 | Format | Link | Can be used for |
 |:-------|:-----|:----------------|
