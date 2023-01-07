@@ -3,10 +3,10 @@
 # Homepage: https://github.com/hagezi/dns-blocklists
 # Issues: https://github.com/hagezi/dns-blocklists/issues
 # Expires: Updated regularly
-# Last modified: 31 Dez 2022 08:56 UTC
-# Version: 2022.1231.0856.51
+# Last modified: 07 Jan 2023 15:02 UTC
+# Version: 2023.0107.1502.56
 # Syntax: DNSMasq
-# Domains: 138
+# Domains: 137
 #
 address=/search.0xcb.dev/#
 address=/searx.32bitflo.at/#
@@ -18,7 +18,6 @@ address=/search.anonymize.com/#
 address=/search.aol.com/#
 address=/search.azkware.net/#
 address=/searx.bbaovanc.com/#
-address=/beezboo.com/#
 address=/search.biboumail.fr/#
 address=/search.bluelock.org/#
 address=/boomle.com/#
