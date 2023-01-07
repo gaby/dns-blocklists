@@ -4,10 +4,10 @@
 # Homepage: https://github.com/hagezi/dns-blocklists
 # Issues: https://github.com/hagezi/dns-blocklists/issues
 # Expires: Updated regularly
-# Last modified: 06 Jan 2023 23:18 UTC
-# Version: 2023.0106.2318.42
+# Last modified: 07 Jan 2023 23:19 UTC
+# Version: 2023.0107.2319.36
 # Syntax: DNSMasq
-# Domains: 1234
+# Domains: 1233
 #
 address=/0000a-fast-proxy.de/#
 address=/012proxy.ga/#
@@ -256,7 +256,6 @@ address=/cryptohippie.com/#
 address=/cryptostorm.is/#
 address=/curd.io/#
 address=/cyberghostvpn.com/#
-address=/d4.re/#
 address=/proxy.darkvpn.com/#
 address=/dns.decloudus.com/#
 address=/dee.su/#
