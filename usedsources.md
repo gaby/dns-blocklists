@@ -451,6 +451,7 @@ https://data.netlab.360.com/feeds/dga/suppobox.txt
 https://data.netlab.360.com/feeds/dga/tofsee.txt
 https://data.netlab.360.com/feeds/dga/virut.txt
 https://dl.red.flag.domains/red.flag.domains_fr.txt
+https://easylist-downloads.adblockplus.org/abp-filters-anti-cv.txt
 https://easylist-downloads.adblockplus.org/advblock.txt
 https://easylist-downloads.adblockplus.org/antiadblockfilters.txt
 https://easylist-downloads.adblockplus.org/easylistchina.txt
@@ -471,6 +472,8 @@ https://easylist.to/easylist/easylist.txt
 https://easylist.to/easylist/easyprivacy.txt
 https://easylist.to/easylist/fanboy-social.txt
 https://fanboy.co.nz/enhancedstats.txt
+https://filters.adavoid.org/ultimate-ad-filter.txt
+https://filters.adavoid.org/ultimate-privacy-filter.txt
 https://github.com/T145/black-mirror/releases/download/latest/white_domain.txt
 https://github.com/yourduskquibbles/webannoyances/blob/master/ultralist.txt
 https://gitlab.com/cmiksche/blacklists/-/raw/master/hosts
