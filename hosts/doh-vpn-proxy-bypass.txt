@@ -4,10 +4,10 @@
 # Homepage: https://github.com/hagezi/dns-blocklists
 # Issues: https://github.com/hagezi/dns-blocklists/issues
 # Expires: Updated regularly
-# Last modified: 07 Jan 2023 23:19 UTC
-# Version: 2023.0107.2319.36
+# Last modified: 08 Jan 2023 23:19 UTC
+# Version: 2023.0108.2319.52
 # Syntax: Hosts
-# Domains: 1348
+# Domains: 1347
 #
 0.0.0.0 0000a-fast-proxy.de
 0.0.0.0 012proxy.ga
@@ -679,7 +679,6 @@
 0.0.0.0 vpn.ncapi.io
 0.0.0.0 dns.aa.net.uk
 0.0.0.0 doh.infotek.net.id
-0.0.0.0 files-slickvpn.netdna-ssl.com
 0.0.0.0 luminati-holanetworksltd.netdna-ssl.com
 0.0.0.0 netvpn.us
 0.0.0.0 dns.neutopia.org

@@ -4,10 +4,10 @@
 # Homepage: https://github.com/hagezi/dns-blocklists
 # Issues: https://github.com/hagezi/dns-blocklists/issues
 # Expires: Updated regularly
-# Last modified: 07 Jan 2023 23:19 UTC
-# Version: 2023.0107.2319.36
+# Last modified: 08 Jan 2023 23:19 UTC
+# Version: 2023.0108.2319.52
 # Syntax: Domains Wildcard (DNSCrypt/YogaDNS/...)
-# Domains: 1233
+# Domains: 1232
 #
 *.0000a-fast-proxy.de
 *.012proxy.ga
@@ -598,7 +598,6 @@
 *.vpn.ncapi.io
 *.dns.aa.net.uk
 *.doh.infotek.net.id
-*.files-slickvpn.netdna-ssl.com
 *.luminati-holanetworksltd.netdna-ssl.com
 *.netvpn.us
 *.dns.neutopia.org
