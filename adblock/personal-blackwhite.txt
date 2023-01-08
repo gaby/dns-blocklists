@@ -25025,14 +25025,27 @@
 ||trk7.zzzperform.com^
 
 ! Title: HaGeZi's Personal AdGuard Wildcard Rules for Black & White list
-! Description: My personal wildcard rules to optimize the Black & White list for AdGuard DNS. Not intended for use outside the Black & White list. This will result in false positive domains!
+! Description: My personal wildcard rules to optimize the Black & White list for AdGuard DNS.
 ! Homepage: https://github.com/hagezi/dns-blocklists
 ! Issues: https://github.com/hagezi/dns-blocklists/issues
 ! License: https://github.com/hagezi/dns-blocklists/blob/main/LICENSE.md
 ! Expires: Updated regularly
 ! Syntax: AdGuard
 
+! Adblock-Detection
+! Videos Sat1, Pro7 and others
+||zomap.de^
+@@||swankyrule.zomap.de^$important
+! Bild.de, Sport1 and others
+||tiqcdn.com^
+@@||tags.tiqcdn.com^$important
+@@||www.asadcdn.com^$important
+
 ! Ads
+||adsafeprotected.com^
+||adsymptotic.com^
+||adnxs-simple.com^
+||adnxs.com^
 ||*met-vgwort-de.cdn.ampproject.org^
 ||adserver.*.yahoodns.net^
 ||cdn.scarabresearch.com^
@@ -25043,14 +25056,18 @@
 ! Amazon Shopping
 ||advertising.amazon.
 ||amazon-adsystem.com^
+@@||c.amazon-adsystem.com^$important
+@@||aax-*-retail-direct.amazon-adsystem.com^$important
+@@||aax-*-retail-direct.amazon.com^$important
+@@||aax-eu.amazon.*^$important
+@@||aax-fe.amazon.*^$important
 ||assoc-amazon.
+@@||assoc-redirect.amazon.*^$important
 ||fls*.amazon.
 ||mads*.amazon.
 ||unagi*.amazon.
 
 ! Amazon Device Metrics
-! ||dxz5jxhrrzigf.cloudfront.net^
-! ||web.diagnostic.networking.aws.dev^
 ||d3p8zr0ffa9t17.cloudfront.net^
 ||device-metrics-*.amazon.com^
 ||mobileanalytics.*.amazonaws.com^
@@ -25063,7 +25080,11 @@
 
 ! Analytics / Tracker / Privacy
 ||*analytics.chip.de^
+||*pixel.br.de^
 ||*track.bild.de^
+||branch.io^
+||braze.com^
+||braze.eu^
 ||cdn-*.onetrust.com^
 ||collector-*.perimeterx.net^
 ||collector-*.px-cdn.net^
@@ -25071,15 +25092,31 @@
 ||collector-*.pxchk.net^
 ||delivery.consentmanager.net^
 ||demdex.net^
+@@||dpm.demdex.net^$important
+||hotjar.com^
 ||iocnt.de^
 ||iocnt.net^
+@@||rtl-relay.iocnt.net^$important
+@@||relay-client-c03.iocnt.net^$important
+@@||data-*.rtl.de^$important
+||ioam.de^
+||kameleoon.eu^
+||kameleoon.com^
 ||logentries.com^$important
+||api*.mixpanel.com^
+||newrelic.com^
+||split.io^
+@@||auth.split.io^$important
+@@||cdn.split.io^$important
+@@||sdk.split.io^$important
 ||track*.sevensenders.com^
 ||f-log*.grammarly.io^
 ||app-analytics*.huami.com^
-|log-collector.shopee.
+||log-collector.shopee.
 ||analytics*.clickdimensions.com^
 ||siteintercept.qualtrics.com^
+@@||*paypal*.siteintercept.qualtrics.com^$important
+||mc.yandex.ru^
 
 ! Apple
 ||*analytics-events.apple.com^
@@ -25103,7 +25140,7 @@
 ||sentry.io^
 
 ! Google
-||*.analytics.google.com^
+||analytics.google.com^
 ||*google-analytics.l.google.com^
 ||androidtvchannels-pa.googleapis.com^
 ||androidtvwatsonfe-pa.googleapis.com^
@@ -25116,26 +25153,54 @@
 ||g.doubleclick.net^
 ||google-analytics.com^
 ||googleadservices.com^
+@@||www.googleadservices.com^$important
+@@||adservice.google.*^$important
 ||googleoptimize.com^
 ||googlesyndication.com^
+@@||googletagmanager.com^$important
+@@||www-googletagmanager.l.google.com^$important
 ||googletagservices.com^
 ||pagead-googlehosted.l.google.com^
 ||static.doubleclick.net^
 
-! Microsft Telemetry
+! Huawei
+||ad-*.dbankcloud.
+||ad-*.hicloud.com^
+||adx-*.dbankcloud.
+||adx-*.hicloud.com^
+||datacollector-*.dbankcloud.
+||datacollector-*.hicloud.com^
+||dnkeeper*.dbankcloud.
+||dnkeeper*.hicloud.com^
+||events-*.dbankcloud.
+||events-*.hicloud.com^
+||grs*.dbankcloud.
+||grs.hicloud.com^
+||log*.dbankcloud.
+||log*.hicloud.com^
+||metrics*.dbankcloud.
+||metrics*.hicloud.com^
+
+! Microsoft Telemetry
 ||*telemetry.officeapps.live.com^
 ||events*.data.microsoft.com^
+@@||browser.events.data.microsoft.com^$important
+@@||self.events.data.microsoft.com^$important
+@@||*v10.events.data.microsoft.com^$important
+@@||*v20.events.data.microsoft.com^$important
 ||events*.data.msn.*^
-||events*.data.trafficmanager.net^
 ||measure.office.com^
 ||pipe.aria.microsoft.com^
 ||telemetry*.microsoft.com^
 ||vortex*.data.microsoft.com^
+@@||*v10.vortex-win.data.microsoft.com^$important
+@@||*v20.vortex-win.data.microsoft.com^$important
 ||watson*.microsoft.com^
 
 ! Microsoft Tracker
 ||adv-cloudfilse.azureedge.net^
 ||app-fnsp-matomo-analytics-prod.azurewebsites.net^
+||bat.bing.com^
 ||cdnnwlive.azureedge.net^
 ||clarity.ms^
 ||fp-cdn.azureedge.net^
@@ -25197,8 +25262,11 @@
 ||xlog*.snssdk.com^
 ||xlog*.tiktokv.com^
 
-! Video Ads / Tracking
-||cdn.zomap.de^
+! Videos
+||2mdn.net^
+@@||s0-2mdn-net.l.google.com^$important
+@@||s0.2mdn.net^$important
+@@||glomex.com^$important
 ||smartclip.net^
 ||videostep.com^
 
