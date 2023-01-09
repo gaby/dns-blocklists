@@ -58,6 +58,7 @@
 |sanalytics.*^
 |metrics.*^
 |smetrics.*^
+|telemetry.*^
 ||*analytics.chip.de^
 ||*pixel.br.de^
 ||*track.bild.de^
@@ -258,10 +259,10 @@
 ! Issues: https://github.com/hagezi/dns-blocklists/issues
 ! License: https://github.com/hagezi/dns-blocklists/blob/main/LICENSE.md
 ! Expires: Updated regularly
-! Last modified: 09 Jan 2023 10:32 UTC
-! Version: 2023.0109.1032.49
+! Last modified: 09 Jan 2023 10:37 UTC
+! Version: 2023.0109.1037.13
 ! Syntax: AdBlock
-! Domains: 22936
+! Domains: 22912
 !
 ||00px.net^
 ||021jf.com^
@@ -467,7 +468,6 @@
 ||ttfpil.2dehands.be^
 ||2fa3c2fa16c47d9b9bff8986a42b048f.com^
 ||advisor.api.2gis.ru^
-||telemetry.api.2kcoretech.online^
 ||2llmonds4ehcr93nb.com^
 ||xmr.2miners.com^
 ||2o7.net^
@@ -922,7 +922,6 @@
 ||acridtwist.com^
 ||yn.acridylpinhold.com^
 ||marketing.acromag.com^
-||telemetry.acronis.com^
 ||acrosspf.com^
 ||memelq.acs.org^
 ||pubstr.acs.org^
@@ -1318,7 +1317,6 @@
 ||sstats.adobe.com^
 ||stats.adobe.com^
 ||targetlr.adobe.com^
-||telemetry.adobe.io^
 ||data.adobedc.net^
 ||edge.adobedc.net^
 ||adobephotostage.com^
@@ -2082,7 +2080,6 @@
 ||alfonsino.top^
 ||secure.alga9frog.com^
 ||insights.algolia.io^
-||telemetry.algolia.com^
 ||algonomy.com^
 ||algovid.com^
 ||pbmp.ali213.net^
@@ -2794,7 +2791,6 @@
 ||fpa-cdn.arstechnica.com^
 ||fpa-events.arstechnica.com^
 ||arswabluchan.com^
-||telemetry.art19.com^
 ||artandcarly.com^
 ||y1.arte.tv^
 ||artfut.com^
@@ -3330,7 +3326,6 @@
 ||static.bam-x.com^
 ||apm.bama.ir^
 ||bambarmedia.com^
-||telemetry.bambuser.io^
 ||bameet.ir^
 ||banagonatural.tech^
 ||content22.bancanet.banamex.com^
@@ -3881,7 +3876,6 @@
 ||bluecore.com^
 ||somni.bluecrossma.com^
 ||globalconfig.bluedot.io^
-||telemetry.bluedot.io^
 ||us1-sdk.bluedot.io^
 ||blueduckredapple.com^
 ||gtrack.bluegazette.com^
@@ -4427,7 +4421,6 @@
 ||cantliee.com^
 ||cl.canva.com^
 ||l.engage.canva.com^
-||telemetry.canva.com^
 ||track.canva.com^
 ||caonimas.com^
 ||capablecup.com^
@@ -4842,7 +4835,6 @@
 ||chrantary-vocking.com^
 ||christian-prandl.photography^
 ||chrmglobal.com^
-||telemetry.chrobinson.com^
 ||chromnius.com^
 ||u566.chron.com^
 ||matomo.chsc.dk^
@@ -5929,7 +5921,6 @@
 ||content.consumercardaccess.com^
 ||t.ao.consumerfinancereport.com^
 ||t.onlinebanking.consumerscu.org^
-||telemetry.consumersentinel.gov^
 ||consumertrack.com^
 ||contaboserver.net^
 ||contactatonce.com^
@@ -7155,8 +7146,6 @@
 ||beacon.dropbox.com^
 ||consent.dropbox.com^
 ||marketing.dropbox.com^
-||telemetry.dropbox.com^
-||telemetry.v.dropbox.com^
 ||dropbox-online.com^
 ||dropkickmedia.com^
 ||droptrim.com^
@@ -8047,7 +8036,6 @@
 ||eyebrowscrambledlater.com^
 ||msafoy.eyebuydirect.com^
 ||explore.eyemed.com^
-||telemetry.eyeo.com^
 ||eyeota.com^
 ||eyeota.net^
 ||eyereturn.com^
@@ -9180,7 +9168,6 @@
 ||getfreebacklinks.com^
 ||getfreebl.com^
 ||api-telemetry.servers.getgo.com^
-||telemetry.servers.getgo.com^
 ||gtmfsstatic.getgoogletagmanager.com^
 ||getibo.com^
 ||getinformationss.com^
@@ -10974,7 +10961,6 @@
 ||images.plan.intel.com^
 ||starget.intel.com^
 ||starget.intel.de^
-||telemetry.intel.com^
 ||www91.intel.com^
 ||www91.intel.de^
 ||www91.intel.la^
@@ -12787,7 +12773,6 @@
 ||central.mall.tv^
 ||genesis.malwarebytes.com^
 ||legacy-telemetry.malwarebytes.com^
-||telemetry.malwarebytes.com^
 ||malwarecrusher.com^
 ||malwareprotectionlive.com^
 ||mamblubamblua.com^
@@ -14303,7 +14288,6 @@
 ||nelo2-col.navercorp.com^
 ||naviant.com^
 ||prod.ew.srp.navigacloud.com^
-||telemetry.navispherecarrier.com^
 ||navrcholu.cz^
 ||navteq.com^
 ||secure.navy9gear.com^
@@ -14837,8 +14821,6 @@
 ||counter.nv.ua^
 ||promotionad.nvcam.net^
 ||ad.nvdvr.cn^
-||telemetry.gfe.nvidia.com^
-||telemetry.nvidia.com^
 ||nvidiacenter.com^
 ||www2.nvtphybridge.com^
 ||tracking.nw.de^
@@ -15716,7 +15698,6 @@
 ||phanquang.vn^
 ||pharmaright.ca^
 ||ad.phaserep.com^
-||telemetry.phenixrts.com^
 ||ms-trackingapi.phenompeople.com^
 ||phialedamende.com^
 ||phicmune.net^
@@ -15887,7 +15868,6 @@
 ||playmusicvideo1.com^
 ||playpausestudios.com^
 ||stats.playrix.com^
-||telemetry.api.playstation.com^
 ||telemetry-cii.api.playstation.com^
 ||telemetry-console.api.playstation.com^
 ||playstream.media^
@@ -18932,7 +18912,6 @@
 ||l9bjkkhaycw6f8f4.soundcloud.com^
 ||no9pldds1lmn3.soundcloud.com^
 ||promoted.soundcloud.com^
-||telemetry.soundcloud.com^
 ||wt.soundestlink.com^
 ||www2.soundphysicians.com^
 ||soupyhospital.com^
@@ -19303,7 +19282,6 @@
 ||strossle.com^
 ||strpjmp.com^
 ||strungglancedrunning.com^
-||telemetry.stryker.com^
 ||wa.stubhub.com^
 ||was.stubhub.com^
 ||studads.com^
@@ -19486,7 +19464,6 @@
 ||swellstocking.com^
 ||swfly744.info^
 ||snippetdata.api.swiftkey.com^
-||telemetry.api.swiftkey.com^
 ||c.swiftpage.marketing^
 ||cc.swiftype.com^
 ||swinity.com^
@@ -19560,7 +19537,8 @@
 ||rd.tabelog.com^
 ||tabici.com^
 ||licensing.tableausoftware.com^
-||telemetry.tableausoftware.com^
+||prod.telemetry.tableausoftware.com^
+||qa.telemetry.tableausoftware.com^
 ||tabloidquantitycosts.com^
 ||tabmo.io^
 ||tabookbusines.info^
@@ -20433,7 +20411,6 @@
 ||tradingtechnologies.com^
 ||failover-telemetry-eu.tradingview.com^
 ||snowplow-pixel.tradingview.com^
-||telemetry.tradingview.com^
 ||tradplus.com^
 ||tradplusad.com^
 ||metrika.traff.space^
