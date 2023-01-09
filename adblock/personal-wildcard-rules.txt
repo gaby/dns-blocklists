@@ -53,6 +53,10 @@
 ||aviary.amazon.*^
 
 ! Analytics / Tracker / Privacy
+|analytics.*^
+|sanalytics.*^
+|metrics.*^
+|smetrics.*^
 ||*analytics.chip.de^
 ||*pixel.br.de^
 ||*track.bild.de^
