@@ -4,10 +4,10 @@
 # Issues: https://github.com/hagezi/dns-blocklists/issues
 # License: https://github.com/hagezi/dns-blocklists/blob/main/LICENSE.md
 # Expires: Updated regularly
-# Last modified: 09 Jan 2023 19:09 UTC
-# Version: 2023.0109.1909.58
+# Last modified: 09 Jan 2023 21:49 UTC
+# Version: 2023.0109.2149.43
 # Syntax: DNSMasq
-# Domains: 27078
+# Domains: 27110
 #
 address=/00px.net/#
 address=/021jf.com/#
@@ -9901,7 +9901,39 @@ address=/tracking.explorepulse.com/#
 address=/explosiondisco.com/#
 address=/expmediadirect1.com/#
 address=/expocaptcha.top/#
-address=/exponea.com/#
+address=/ada-api.exponea.com/#
+address=/amway-api.exponea.com/#
+address=/api.exponea.com/#
+address=/api-bho.exponea.com/#
+address=/api-bho-boohooman.exponea.com/#
+address=/api-bho-debenhams-co-uk.exponea.com/#
+address=/api-bho-nastygal.exponea.com/#
+address=/api-cis.exponea.com/#
+address=/ctl-api.exponea.com/#
+address=/custom-api.exponea.com/#
+address=/eu1.exponea.com/#
+address=/exp-framework.exponea.com/#
+address=/exp-riverisland-com.exponea.com/#
+address=/fcg-api.exponea.com/#
+address=/ftspecialist.exponea.com/#
+address=/gnt-api.exponea.com/#
+address=/hoff-api.exponea.com/#
+address=/mallgroup-api.exponea.com/#
+address=/nay-api.exponea.com/#
+address=/network.exponea.com/#
+address=/notino-api.exponea.com/#
+address=/nxi-api.exponea.com/#
+address=/ozon-api.exponea.com/#
+address=/pan-api.exponea.com/#
+address=/pan-cdn.exponea.com/#
+address=/raisin-api.exponea.com/#
+address=/ri-api.exponea.com/#
+address=/ri-cdn.exponea.com/#
+address=/rozetka-api.exponea.com/#
+address=/sdk-tracing.exponea.com/#
+address=/uk.exponea.com/#
+address=/us.exponea.com/#
+address=/cdn.us1.exponea.com/#
 address=/exponential.com/#
 address=/expos-investor.com/#
 address=/exposebox.com/#
