@@ -28,11 +28,11 @@
 ||adsymptotic.com^
 ||adnxs-simple.com^
 ||adnxs.com^
-||adserver.*.yahoodns.net^
+||production-adserver-*.amazonaws.com^
 ||cdn.scarabresearch.com^
 ||iad*.dotomi.com^
 ||pijama.*.elasticbeanstalk.com^
-||production-adserver-*.amazonaws.com^
+||adserver.*.yahoodns.net^
 
 ! Amazon Shopping
 ||advertising.amazon.*^
@@ -473,10 +473,10 @@
 ! Issues: https://github.com/hagezi/dns-blocklists/issues
 ! License: https://github.com/hagezi/dns-blocklists/blob/main/LICENSE.md
 ! Expires: Updated regularly
-! Last modified: 09 Jan 2023 18:37 UTC
-! Version: 2023.0109.1837.31
+! Last modified: 09 Jan 2023 18:57 UTC
+! Version: 2023.0109.1857.22
 ! Syntax: AdBlock
-! Domains: 22149
+! Domains: 22210
 !
 ||00px.net^
 ||021jf.com^
@@ -549,6 +549,8 @@
 ||wanproxy.127.net^
 ||ad.12dt.com^
 ||t.12thman.com^
+||16c8bb8066.1315a5151b.com^
+||b289dc32ce.13d3a1d284.com^
 ||13tabs.com^
 ||14i8trbbx4.com^
 ||152media.com^
@@ -783,6 +785,7 @@
 ||4cinsights.com^
 ||4dex.io^
 ||4dsply.com^
+||0b67bab3a7.4faa4011b2.com^
 ||4hfchest5kdnfnut.com^
 ||4info.com^
 ||4irc.com^
@@ -933,6 +936,7 @@
 ||9136.com^
 ||track.91app.io^
 ||img.91p51.com^
+||02adb42b94.935cfb1d3b.com^
 ||97bike.com^
 ||api.997ad.xyz^
 ||99886aaa.com^
@@ -1117,6 +1121,7 @@
 ||acidpigs.com^
 ||marketing.acieu.net^
 ||acint.net^
+||v1.acjfywyf.ru^
 ||ackcdn.net^
 ||ackng.com^
 ||tags.acmeaom.com^
@@ -1317,6 +1322,7 @@
 ||s9.addthis.com^
 ||secure.addthis.com^
 ||su.addthis.com^
+||v1.addthis.com^
 ||cache.addthiscdn.com^
 ||addthisedge.com^
 ||stats.addtoany.com^
@@ -1431,6 +1437,7 @@
 ||p1.adkwai.com^
 ||p1-lm.adkwai.com^
 ||p1-pp.adkwai.com^
+||p1-yx.adkwai.com^
 ||p2.adkwai.com^
 ||p2-yx.adkwai.com^
 ||p3.adkwai.com^
@@ -3328,6 +3335,7 @@
 ||predataclient.b-cdn.net^
 ||sp-wukong-tracker.b-cdn.net^
 ||sunlightmetrics.b-cdn.net^
+||277ccb0f22.b06bdf796d.com^
 ||b0aed10e06.com^
 ||b0e8.com^
 ||b0f1d2.com^
@@ -3644,6 +3652,7 @@
 ||bddns.cc^
 ||bdex.com^
 ||ev.api.bdg.com^
+||v1.bdgkfeg.ru^
 ||ecma.bdimg.com^
 ||ecmb.bdimg.com^
 ||su.bdimg.com^
@@ -4093,6 +4102,7 @@
 ||bmcdn4.com^
 ||bmfads.com^
 ||bmlink.com^
+||v1.bmlsmzuf.ru^
 ||content22.bmo.com^
 ||content22.bmoharris.com^
 ||wup-content23.bmoharris.com^
@@ -4138,6 +4148,7 @@
 ||vmss.boldchat.com^
 ||by.bollore-logistics.com^
 ||secure.bolt8snap.com^
+||bon.at^
 ||bonad.io^
 ||sstats.bonappetit.com^
 ||bonepa.com^
@@ -6660,6 +6671,7 @@
 ||dd88trk.com^
 ||ddaqwhdlhor.com^
 ||yssads.ddc.com^
+||bgitopazdowntown.ddireal.vn^
 ||eventcollector.dditservices.com^
 ||puz.ddjiayou.cn^
 ||tadata.ddjiayou.cn^
@@ -7433,6 +7445,7 @@
 ||e1e.io^
 ||e2ertt.com^
 ||e335udnv6drg78b7.com^
+||52292b9db4.e4cd7bbad2.com^
 ||e5asyhilodice.com^
 ||e67repidwnfu7gcha.com^
 ||48c42e4be2.e7b9f0550f.com^
@@ -7444,6 +7457,7 @@
 ||eadsrv.com^
 ||eadv.it^
 ||eagllwin.com^
+||v1.eakalra.ru^
 ||eamale.com^
 ||eargentssep.one^
 ||early-birds.io^
@@ -7570,6 +7584,7 @@
 ||aaxads.com.edgekey.net^
 ||ds-api-public.addthis.com.edgekey.net^
 ||ds-m.addthisedge.com.edgekey.net^
+||v1.addthisedge.com.edgekey.net^
 ||adobetag.com.edgekey.net^
 ||adservrs.com.edgekey.net^
 ||api.agoda.com.edgekey.net^
@@ -7681,6 +7696,7 @@
 ||egadvertising.com^
 ||egamiplatform.tv^
 ||eggplant.cloud^
+||egikoilnbwk.com^
 ||x6p3jnv55g.egnyte-appliance.com^
 ||egoi.site^
 ||egoizecapsule.website^
@@ -7864,6 +7880,7 @@
 ||t.enuygun.com^
 ||enviousshape.com^
 ||envybox.io^
+||eoaclk.com^
 ||eoapxl.com^
 ||eogvldpoeecdsi.com^
 ||www2.eoilreports.com^
@@ -7900,6 +7917,7 @@
 ||ero-advertising.com^
 ||eroadvertising.com^
 ||eroge.com^
+||erohub.com^
 ||erothots.co^
 ||errorception.com^
 ||errorssmoked.com^
@@ -8311,6 +8329,7 @@
 ||bn.fcompsepd.com^
 ||adserver.fcrmedia.com^
 ||fcs.ovh^
+||91d0933ded.fd4ac79d49.com^
 ||fd5orie8e.com^
 ||api.fdcollab.com^
 ||fdelphaswcealifornica.com^
@@ -8935,6 +8954,7 @@
 ||ingameads.gameloft.com^
 ||html5.gamemonetize.com^
 ||api.gameofwhales.com^
+||country.gameops.tech^
 ||gamers-tab.xyz^
 ||ja.gamersky.com^
 ||ja1.gamersky.com^
@@ -9376,6 +9396,7 @@
 ||sourcepoint.gizmodo.com^
 ||central.gjirafa.com^
 ||gjc.gjirafa.com^
+||v1.gjynpza.ru^
 ||gkjoanks.com^
 ||glam.com^
 ||glambabes.org^
@@ -10283,6 +10304,7 @@
 ||ads.home.vn^
 ||somni.home.saxo^
 ||marketing.net.home24.de^
+||home4four.com^
 ||homeaestheticsllc.com^
 ||pixel.homeapp.team^
 ||tmcdn.homeaway.com^
@@ -12524,6 +12546,7 @@
 ||lporirxe.com^
 ||lo-accdn.lpsnmedia.net^
 ||lo-lpcdn.lpsnmedia.net^
+||rbn-bc-7s.lptrak.com^
 ||cdn.lqm.io^
 ||h.lqm.io^
 ||tracking.lqm.io^
@@ -13311,9 +13334,6 @@
 ||mkklcdnv6tempv4.com^
 ||mkopli-1.live^
 ||contentz.mkt51.net^
-||contentz.mkt912.com^
-||contentz.mkt932.com^
-||contentz.mkt941.com^
 ||mkto-lon020055.com^
 ||mkto-test.com^
 ||mktoresp.com^
@@ -13484,6 +13504,7 @@
 ||adlaunch.moji.com^
 ||ad.api.moji.com^
 ||cdn.moji.com^
+||v1.log.moji.com^
 ||v2.log.moji.com^
 ||stat.moji.com^
 ||moksoxos.com^
@@ -13732,6 +13753,7 @@
 ||mutinycdn.com^
 ||mutinyhq.io^
 ||r.muu.ee^
+||v1.muwsotge.net^
 ||datadog-service.mvfglobal.com^
 ||service.weather.msn.cn.mwcname.com^
 ||tile-service.weather.msn.cn.mwcname.com^
@@ -14337,6 +14359,7 @@
 ||ninjacat.io^
 ||ninoglostoay.com^
 ||ninthdecimal.com^
+||v1.ninzuwow.ru^
 ||nipechala.com^
 ||arthur.niria.biz^
 ||info.nita.org^
@@ -14346,6 +14369,7 @@
 ||stc-nas.nixcdn.com^
 ||niyamabusiest.casa^
 ||news.njbiz.com^
+||v1.njcyrfhz.ru^
 ||njih.net^
 ||nkindthatmade.xyz^
 ||nkpywvdwpwihdp.com^
@@ -16184,6 +16208,7 @@
 ||qrimages.qatarairways.com^
 ||qbaipacx.org^
 ||c2.qbk1.com^
+||v1.qbyoiin.ru^
 ||qccoccocmedia.vn^
 ||qchannel01.cn^
 ||qchannel03.cn^
@@ -16195,6 +16220,7 @@
 ||qdfxeqhnjuknyy.com^
 ||stats.qdq.com^
 ||mtm.qdqmedia.com^
+||qemailserver.com^
 ||qertentin.com^
 ||qeryz.com^
 ||qfhpkqjz.org^
@@ -16465,6 +16491,7 @@
 ||audience-mostread.r7.com^
 ||r7ls.net^
 ||raac33.net^
+||rabbitandjohn.com^
 ||rabbitrifle.com^
 ||www2.rablighting.com^
 ||racestarindustries.com^
@@ -16538,6 +16565,7 @@
 ||rangeplayground.com^
 ||tracker.ranker.com^
 ||rankertorten.com^
+||ranksitt.net^
 ||raphidewakener.com^
 ||logs.insight.rapid7.com^
 ||rapidhooray.com^
@@ -16590,6 +16618,7 @@
 ||matomo.rd.net^
 ||rdcdn.com^
 ||rddywd.com^
+||v1.rdgzlqhf.ru^
 ||rdrctgoweb.com^
 ||rdtk.io^
 ||re-thinkingthefuture.com^
@@ -16948,6 +16977,7 @@
 ||rhythmxchange.com^
 ||a.ria.ru^
 ||webpush.ria.com^
+||riamiavid.com^
 ||ricetta.it^
 ||ricewaterhou.xyz^
 ||richaudience.com^
@@ -17095,6 +17125,7 @@
 ||d.rp-online.de^
 ||r.rp-online.de^
 ||www2.rpost.com^
+||v1.rpwgznqx.ru^
 ||rqmob.com^
 ||rqtrk.eu^
 ||rriedstronugos.xyz^
@@ -17993,7 +18024,7 @@
 ||t.sieu-viet.com^
 ||sifenews.com^
 ||sift.co^
-||sift.com^
+||cdn.sift.com^
 ||siftscience.com^
 ||sige20221230.xyz^
 ||sigilsspeiss.com^
@@ -20563,12 +20594,14 @@
 ||unwieldyhealth.com^
 ||uobsoe.com^
 ||uodoo.com^
+||v1.uoklclma.ru^
 ||static.uolcontent.com^
 ||up4u.me^
 ||ip.up66.ru^
 ||upalytics.com^
 ||upapi.net^
 ||dmtgo.upc.biz^
+||v1.upcitje.com^
 ||upconcurrend.com^
 ||upd-pct.info^
 ||updatemanagir.us^
@@ -20711,6 +20744,7 @@
 ||utopclick.com^
 ||ad.bench.utorrent.com^
 ||utraff.com^
+||v1.utsoiydn.ru^
 ||uttheeeds.xyz^
 ||utubepwhml.com^
 ||app.uu.cc^
@@ -21115,6 +21149,7 @@
 ||vlogerads.com^
 ||cdn.vlyby.com^
 ||vm5apis.com^
+||vmaitaly.net^
 ||vmcxdaynkhnekp.com^
 ||vmet.ro^
 ||vmmpxl.com^
@@ -21866,6 +21901,7 @@
 ||wrongseasonracing.com^
 ||wrrzje.com^
 ||wsds.cn^
+||v1.wshakrt.ru^
 ||img-cdn.wshareit.com^
 ||preitem.wshareit.com^
 ||oms.wsj.com^
@@ -21938,12 +21974,15 @@
 ||xcec.ru^
 ||xclaimwords.net^
 ||xcmg.com^
+||v1.xcsgsjs.ru^
 ||xdisctracking.pw^
 ||af.xdock.co^
 ||xdrig.com^
 ||xedo.me^
 ||xelements.cn^
 ||xenn.io^
+||v1.xfhkcus.com^
+||v1.xfxhjxer.ru^
 ||tracker.xgen.dev^
 ||cnt.xhamster.com^
 ||collector.xhamster.com^
@@ -21994,6 +22033,7 @@
 ||ad.altamob.xiaoying.co^
 ||ad-sdk.altamob.xiaoying.co^
 ||xiaozuowen.net^
+||v1.xijdajfn.ru^
 ||ximad.com^
 ||ad.ximalaya.com^
 ||adbehavior.ximalaya.com^
@@ -22013,6 +22053,7 @@
 ||pubs.xl.pt^
 ||pubserver.xl.pt^
 ||xl-trk.com^
+||v1.xldkazjb.net^
 ||xlfhhhm.biz^
 ||xlirdr.com^
 ||xlisting.jp^
@@ -22037,6 +22078,7 @@
 ||xmsflzmygw.com^
 ||xmspco.com^
 ||xmtrk.com^
+||xmvftaoz.com^
 ||pub.xmxdev.com^
 ||xn--2qus9awz1a6ygowgbua.xn--fiqs8s^
 ||xn--r1a.website^
@@ -22045,6 +22087,7 @@
 ||xonanere.ga^
 ||t.xoom.com^
 ||xorg.pl^
+||v1.xowafmuu.ru^
 ||tracker.xpeer.xyz^
 ||xplode-nutrition.com^
 ||xplorerentacar.com^
@@ -22238,9 +22281,11 @@
 ||img-nos.yiyouliao.com^
 ||wr.yiyouliao.com^
 ||yjtag.jp^
+||v1.yjyoafd.com^
 ||yk1.net^
 ||g3.ykimg.com^
 ||ykvlen.com^
+||v1.ykxteoho.ru^
 ||yldbt.com^
 ||yldr.io^
 ||analytics-sdk.yle.fi^
@@ -22455,6 +22500,7 @@
 ||stc-support-app-brand.zdn.vn^
 ||zplayer-trk.zdn.vn^
 ||saa.zdnet.com^
+||v1.zdppgkkz.ru^
 ||zebestof.com^
 ||connectfpc.zebra.com^
 ||swebmetrics.zebra.com^
@@ -22463,6 +22509,7 @@
 ||zedo.com^
 ||zedoaryrejects.com^
 ||ammaar.delivery.zeerak.cloud^
+||v1.zefjrtb.ru^
 ||zeipw.xyz^
 ||iiajtl.zeit.de^
 ||www2.zelis.com^
@@ -22494,6 +22541,7 @@
 ||zetaglobal.com^
 ||xml.zeusadx.com^
 ||zeustechnology.com^
+||v1.zfsuauz.ru^
 ||e.zg-api.com^
 ||gc.zgo.at^
 ||zhameharden.com^
@@ -22508,7 +22556,10 @@
 ||zhstatic.zhihu.com^
 ||logapi.zhipin.com^
 ||t.zhipin.com^
+||v1.zhizinxe.ru^
+||v1.zhquqsrh.net^
 ||zgsdk.zhugeio.com^
+||v1.zhwifxkt.net^
 ||zibravopl.ru^
 ||zickxamo.ru^
 ||dsar.ziffdavis.com^
@@ -22543,6 +22594,8 @@
 ||zitaptugo.com^
 ||ziyu.net^
 ||dig.zjurl.cn^
+||v1.zjuuqjwf.ru^
+||v1.zkubeppe.net^
 ||gl.zle.com^
 ||zlenh.biz^
 ||s.zlink1.com^
@@ -22551,12 +22604,15 @@
 ||s.zlinkb.com^
 ||zlinkv.com^
 ||zlp6s.pw^
+||v1.zlwogtoy.ru^
 ||creator.zmags.com^
 ||stats.zmags.com^
 ||statsd.zmags.com^
 ||server.zmedia.vn^
 ||zmksk.ru^
 ||down.zmnds.com^
+||v1.znmdctrt.ru^
+||v1.znnsxnfw.ru^
 ||znqip.net^
 ||zog.link^
 ||zogbyanalytics.com^
@@ -22591,6 +22647,8 @@
 ||zplay.cn^
 ||zprk.io^
 ||zqtk.net^
+||v1.zqurqugi.ru^
+||v1.zrbosqq.ru^
 ||zryydi.com^
 ||zsxrhkrfwwv.com^
 ||ztgame.com^
@@ -22608,15 +22666,18 @@
 ||shoppingbox.zum.com^
 ||displayadimg.zumst.com^
 ||zunsoach.com^
+||v1.zunujdzs.ru^
 ||zupertech.com^
 ||zuphaims.com^
 ||zuyapixel.com^
 ||zvustro.ru^
 ||zwnoeqzsuz.com^
 ||track.zwqzxh.com^
+||v1.zwzjcytf.ru^
 ||zx-adnet.com^
 ||zxcdn.com^
 ||zxcvads.com^
+||v1.zxesneyp.net^
 ||zxoexbgy.net^
 ||zxrtb.com^
 ||zyber-i.com^
