@@ -1,5 +1,5 @@
-! Title: HaGeZi's Personal AdGuard Wildcard Rules for Black & White list
-! Description: My personal wildcard rules to optimize the Black & White list for AdGuard DNS.
+! Title: HaGeZi's Personal AdGuard Rules for Black & White list
+! Description: My personal Black & White rules for AdGuard DNS.
 ! Homepage: https://github.com/hagezi/dns-blocklists
 ! Issues: https://github.com/hagezi/dns-blocklists/issues
 ! License: https://github.com/hagezi/dns-blocklists/blob/main/LICENSE.md
@@ -7,9 +7,6 @@
 ! Syntax: AdGuard
 
 ! Adblock-Detection
-! Videos Sat1, Pro7 and others
-||zomap.de^
-@@||swankyrule.zomap.de^
 ! Bild.de, Sport1 and others
 ||tiqcdn.com^
 @@||tags.tiqcdn.com^
@@ -111,6 +108,7 @@
 ||technical-service.net^
 @@||te.technical-service.net^
 ||track*.sevensenders.com^
+||uptain.de^
 ||f-log*.grammarly.io^
 ||app-analytics*.huami.com^
 ||log-collector.shopee.*^
@@ -142,7 +140,7 @@
 ||sentry.io^
 
 ! Google
-||analytics.google.com^
+||*.analytics.google.com^
 ||*google-analytics.l.google.com^
 ||androidtvchannels-pa.googleapis.com^
 ||androidtvwatsonfe-pa.googleapis.com^
@@ -159,7 +157,8 @@
 @@||adservice.google.*^
 ||googleoptimize.com^
 ||googlesyndication.com^
-@@||googletagmanager.com^
+||googletagmanager.com^
+@@||www.googletagmanager.com^
 @@||www-googletagmanager.l.google.com^
 ||googletagservices.com^
 ||pagead-googlehosted.l.google.com^
@@ -281,10 +280,13 @@
 @@||glomex.com^
 ||smartclip.net^
 ||videostep.com^
+||zomap.de^
+@@||lush-clouds.zomap.de^
+@@||swankyrule.zomap.de^
 
 ! --------------------------
 
-! iocnt
+! iocnt - counteract whitelisting of CNAME relay-client-c03.iocnt.net for rtl.de
 
 ||data-*.24hamburg.de^
 ||data-*.aachener-zeitung.de^

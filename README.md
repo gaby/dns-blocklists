@@ -22,7 +22,7 @@
 16. [Credits](#credits)
 17. [Supporter](https://github.com/hagezi/dns-blocklists/stargazers) - *Leave a star (top right)!*
 18. [Recommendation](#recommendation)
-19. [Online DNS Services](#dnsservices): [RethinkDNS](#rethinkdns) / [DNSforge](#dnsforge) / [DNSwarden](#dnswarden) / [AdGuardDNS](#adguarddns) / [NextDNS](#nextdns)
+19. [Online DNS Services](#dnsservices): [RethinkDNS](#rethinkdns) / [DNSforge](#dnsforge) / [DNSwarden](#dnswarden) / [AdGuardDNS](#adguarddns) / [ControlD](#controld) / [NextDNS](#nextdns)
 20. [About](#about) / [Referral Domains](#referral) / [Support Me](#support)
 21. [Sources/Statistics](usedsources.md)
 22. [Raw data collection](https://github.com/hagezi/dns-data-collection) - *Data collection to generate the DNS blocklists*
@@ -323,29 +323,29 @@ Therefore, I* ***additionally*** *recommend the use of a browser content blocker
 
 *If you don't run your own DNS server on your home network or if you are looking for additional protection for your mobile devices when they are not connected to the home network, then I recommend one of the following DNS services:*
 
-#### ***RethinkDNS - free*** <a name="rethinkdns"></a>
+### ***RethinkDNS - free*** <a name="rethinkdns"></a>
 
 *In [RethinkDNS](https://rethinkdns.com) you can use my blocklists:*
 
 | Blocklists | DNS-over-HTTPS | DNS-over-TLS | Apple Mobileconfig |
 |:-----------|:---------------|:-------------|:-------------------|
-| Normal (PRO + TIF)  | https://sky.rethinkdns.com/1:AAoACBAA | 1-aafaacaqaa.max.rethinkdns.com | [Visit](https://sky.rethinkdns.com/1:AAoACBAA) and click on the red apple  |
-| Aggressive (PRO plus + TIF) | https://sky.rethinkdns.com/1:AAoACAgA | 1-aafaacaiaa.max.rethinkdns.com | [Visit](https://sky.rethinkdns.com/1:AAoACAgA) and click on the red apple |
-| Strikt (ULTIMATE) | https://sky.rethinkdns.com/1:gAAAQA== | 1-qaaaaqa.max.rethinkdns.com | [Visit](https://sky.rethinkdns.com/1:gAAAQA==) and click on the red apple |
-
-#### ***DNSforge (Germany) - free*** <a name="dnsforge"></a>
+| Normal (PRO + TIF)  | `https://sky.rethinkdns.com/1:AAoACBAA` | `1-aafaacaqaa.max.rethinkdns.com` | [Visit](https://sky.rethinkdns.com/1:AAoACBAA) and click on the red apple  |
+| Aggressive (PRO plus + TIF) | `https://sky.rethinkdns.com/1:AAoACAgA` | `1-aafaacaiaa.max.rethinkdns.com` | [Visit](https://sky.rethinkdns.com/1:AAoACAgA) and click on the red apple |
+| Strikt (ULTIMATE) | `https://sky.rethinkdns.com/1:gAAAQA==` | `1-qaaaaqa.max.rethinkdns.com` | [Visit](https://sky.rethinkdns.com/1:gAAAQA==) and click on the red apple |
+            
+### ***DNSforge (Germany) - free*** <a name="dnsforge"></a>
 
 *[DNSforge](https://dnsforge.de/) uses my light blocklist:*
 
 | Blocklists | DNS-over-HTTPS | DNS-over-TLS | DNS-over-QUIC |
 |:-----------|:---------------|:-------------|:-------------------|
-| Normal (LIGHT + more) | https://dnsforge.de/dns-query | dnsforge.de | quic://dnsforge.de:853  |
-
-#### ***DNSwarden - free*** <a name="dnswarden"></a>
+| Normal (LIGHT + more) | `https://dnsforge.de/dns-query` | `dnsforge.de` | `quic://dnsforge.de:853`  |
+            
+### ***DNSwarden - free*** <a name="dnswarden"></a>
 
 *In [DNSwarden](https://dnswarden.com/customfilter.html) you can use my light, multi, pro, pro++ and tif list.*
-
-#### ***AdGuardDNS - limited free/paid*** <a name="adguarddns"></a>        
+            
+### ***AdGuardDNS - limited free/paid*** <a name="adguarddns"></a>        
           
 *My blocklist recommendations for [AdGuardDNS](https://adguard-dns.io) are:*          
 
@@ -356,8 +356,18 @@ Therefore, I* ***additionally*** *recommend the use of a browser content blocker
 *Black & White includes: [Personal](https://raw.githubusercontent.com/hagezi/dns-blocklists/main/adblock/personal.txt) + [Wildcard Rules](https://raw.githubusercontent.com/hagezi/dns-blocklists/main/adblock/personal-wildcard-rules.txt) + [Fake](https://raw.githubusercontent.com/hagezi/dns-blocklists/main/adblock/fake.txt) + [Whitelist](https://raw.githubusercontent.com/hagezi/dns-blocklists/main/adblock/whitelist.txt) + [Whitelist Referral](https://raw.githubusercontent.com/hagezi/dns-blocklists/main/adblock/whitelist-referral.txt)*
 
 *You can also import my [server settings](https://github.com/hagezi/files/blob/main/adguarddns/hagezi_dns_server_settings.json), it contains - under the user rules - also my [RegEx rules](https://raw.githubusercontent.com/hagezi/dns-blocklists/main/adblock/personal-regex.txt). Follow these [download instructions](https://www.howtogeek.com/devops/how-to-download-single-files-from-a-github-repository/) to save the file in the correct format!*
+            
+### ***ControlD - free/paid*** <a name="controld"></a>
 
-#### ***NextDNS - limited free/paid*** <a name="nextdns"></a>        
+*In [ControlD](https://controld.com/free-dns) you can use [my blocklists](https://kb.controld.com/en/3rd-party-filters):*
+
+| Blocklists | DNS-over-HTTPS | DNS-over-TLS |
+|:-----------|:---------------|:-------------|
+| Normal | `https://freedns.controld.com/x-hagezi-normal` | `x-hagezi-normal.freedns.controld.com` |
+| Pro | `https://freedns.controld.com/x-hagezi-pro` | `x-hagezi-pro.freedns.controld.com` |
+| Pro Plus | `https://freedns.controld.com/x-hagezi-proplus` | `x-hagezi-proplus.freedns.controld.com` |
+            
+### ***NextDNS - limited free/paid*** <a name="nextdns"></a>        
 
 *Unfortunately, my blocklists have not yet been included in [NextDNS](https://nextdns.io/?from=jvpyfdfc). You can [vote for the inclusion](https://help.nextdns.io/t/h7hsypb/blocklist) of the lists.*
                 
