@@ -15,6 +15,12 @@
 @@||tags.tiqcdn.com^
 @@||www.asadcdn.com^
 
+! Adobe
+||demdex.net^
+@@||dpm.demdex.net^
+||hb.omtrdc.net^
+||tt.omtrdc.net^
+
 ! Ads
 ||*adcloud-*.everesttech.net^
 ||*met-vgwort-de.cdn.ampproject.org^
@@ -73,14 +79,14 @@
 ||branch.io^
 ||braze.com^
 ||braze.eu^
+||cquotient.com^
 ||cdn-*.onetrust.com^
 ||collector-*.perimeterx.net^
 ||collector-*.px-cdn.net^
 ||collector-*.px-cloud.net^
 ||collector-*.pxchk.net^
 ||delivery.consentmanager.net^
-||demdex.net^
-@@||dpm.demdex.net^
+||*-tracking.goodgamestudios.com^
 ||hotjar.com^
 ||iocnt.de^
 ||iocnt.net^
@@ -91,9 +97,12 @@
 ||kameleoon.eu^
 ||kameleoon.com^
 ||*.t.keepitpumpin.io^
+||snap.licdn.com^
 ||logentries.com^$important
 ||api*.mixpanel.com^
 ||newrelic.com^
+||tagger.opecloud.com^
+||scorecardresearch.com^
 ||sidekickopen*.com^
 ||split.io^
 @@||auth.split.io^
@@ -108,6 +117,7 @@
 ||analytics*.clickdimensions.com^
 ||siteintercept.qualtrics.com^
 @@||*paypal*.siteintercept.qualtrics.com^
+||wt-eu02.net^
 ||mc.yandex.ru^
 
 ! Apple
@@ -132,7 +142,6 @@
 ||sentry.io^
 
 ! Google
-||*-tracking.goodgamestudios.com^
 ||analytics.google.com^
 ||*google-analytics.l.google.com^
 ||androidtvchannels-pa.googleapis.com^
