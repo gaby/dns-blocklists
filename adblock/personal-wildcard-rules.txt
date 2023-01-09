@@ -28,18 +28,18 @@
 ||iad*.dotomi.com^
 
 ! Amazon Shopping
-||advertising.amazon.
+||advertising.amazon.*^
 ||amazon-adsystem.com^
 @@||c.amazon-adsystem.com^
 @@||aax-*-retail-direct.amazon-adsystem.com^
 @@||aax-*-retail-direct.amazon.com^
 @@||aax-eu.amazon.*^
 @@||aax-fe.amazon.*^
-||assoc-amazon.
+||assoc-amazon.*^
 @@||assoc-redirect.amazon.*^
-||fls*.amazon.
-||mads*.amazon.
-||unagi*.amazon.
+||fls*.amazon.*^
+||mads*.amazon.*^
+||unagi*.amazon.*^
 
 ! Amazon Device Metrics
 ||d3p8zr0ffa9t17.cloudfront.net^
@@ -50,7 +50,7 @@
 ||*telemetry.insights.video.a2z.com^
 
 ! Amazon Sponsored Ads (firetv)
-||aviary.amazon.
+||aviary.amazon.*^
 
 ! Analytics / Tracker / Privacy
 ||*analytics.chip.de^
@@ -88,7 +88,7 @@
 ||track*.sevensenders.com^
 ||f-log*.grammarly.io^
 ||app-analytics*.huami.com^
-||log-collector.shopee.
+||log-collector.shopee.*^
 ||analytics*.clickdimensions.com^
 ||siteintercept.qualtrics.com^
 @@||*paypal*.siteintercept.qualtrics.com^
@@ -140,21 +140,21 @@
 ||static.doubleclick.net^
 
 ! Huawei
-||ad-*.dbankcloud.
+||ad-*.dbankcloud.*^
 ||ad-*.hicloud.com^
-||adx-*.dbankcloud.
+||adx-*.dbankcloud.*^
 ||adx-*.hicloud.com^
-||datacollector-*.dbankcloud.
+||datacollector-*.dbankcloud.*^
 ||datacollector-*.hicloud.com^
-||dnkeeper*.dbankcloud.
+||dnkeeper*.dbankcloud.*^
 ||dnkeeper*.hicloud.com^
-||events-*.dbankcloud.
+||events-*.dbankcloud.*^
 ||events-*.hicloud.com^
-||grs*.dbankcloud.
+||grs*.dbankcloud.*^
 ||grs.hicloud.com^
-||log*.dbankcloud.
+||log*.dbankcloud.*^
 ||log*.hicloud.com^
-||metrics*.dbankcloud.
+||metrics*.dbankcloud.*^
 ||metrics*.hicloud.com^
 
 ! Microsoft Telemetry
