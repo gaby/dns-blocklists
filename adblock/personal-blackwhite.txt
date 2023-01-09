@@ -54,6 +54,7 @@
 
 ! Analytics / Tracker / Privacy
 |analytics.*^
+@@||analytics.twitter.com^
 |sanalytics.*^
 |metrics.*^
 |smetrics.*^
@@ -257,8 +258,8 @@
 ! Issues: https://github.com/hagezi/dns-blocklists/issues
 ! License: https://github.com/hagezi/dns-blocklists/blob/main/LICENSE.md
 ! Expires: Updated regularly
-! Last modified: 09 Jan 2023 10:29 UTC
-! Version: 2023.0109.1029.23
+! Last modified: 09 Jan 2023 10:32 UTC
+! Version: 2023.0109.1032.49
 ! Syntax: AdBlock
 ! Domains: 22936
 !
@@ -31954,7 +31955,6 @@
 @@||tc.tradetracker.net^
 @@||tracking.truthfinder.com^
 @@||ads.twitter.com^
-@@||analytics.twitter.com^
 @@||syndication.twitter.com^
 @@||email.uber.com^
 @@||redirect.viglink.com^
