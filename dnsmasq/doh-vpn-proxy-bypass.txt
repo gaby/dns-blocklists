@@ -4,10 +4,10 @@
 # Homepage: https://github.com/hagezi/dns-blocklists
 # Issues: https://github.com/hagezi/dns-blocklists/issues
 # Expires: Updated regularly
-# Last modified: 08 Jan 2023 23:19 UTC
-# Version: 2023.0108.2319.52
+# Last modified: 09 Jan 2023 23:18 UTC
+# Version: 2023.0109.2318.50
 # Syntax: DNSMasq
-# Domains: 1232
+# Domains: 1228
 #
 address=/0000a-fast-proxy.de/#
 address=/012proxy.ga/#
@@ -532,9 +532,7 @@ address=/ispunblock.com/#
 address=/ispvpn.com/#
 address=/itopvpn.com/#
 address=/ivacy.com/#
-address=/ivpn.info/#
 address=/ivpn.net/#
-address=/jailbreaked.net/#
 address=/japanwebproxy.com/#
 address=/jcdns.fun/#
 address=/opencdn.jomodns.com/#
@@ -598,7 +596,6 @@ address=/napps-2.com/#
 address=/vpn.ncapi.io/#
 address=/dns.aa.net.uk/#
 address=/doh.infotek.net.id/#
-address=/luminati-holanetworksltd.netdna-ssl.com/#
 address=/netvpn.us/#
 address=/dns.neutopia.org/#
 address=/newipnow.com/#
@@ -697,7 +694,6 @@ address=/pantoto.xyz/#
 address=/panyyhh.xyz/#
 address=/panzend.xyz/#
 address=/parrotsec.org/#
-address=/i.passcloud.xyz/#
 address=/rpz-public-resolver1.rrdns.pch.net/#
 address=/perfect-privacy.com/#
 address=/personalvpn.biz/#

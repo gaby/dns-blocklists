@@ -4,10 +4,10 @@
 # Homepage: https://github.com/hagezi/dns-blocklists
 # Issues: https://github.com/hagezi/dns-blocklists/issues
 # Expires: Updated regularly
-# Last modified: 08 Jan 2023 23:19 UTC
-# Version: 2023.0108.2319.52
+# Last modified: 09 Jan 2023 23:18 UTC
+# Version: 2023.0109.2318.50
 # Syntax: Hosts
-# Domains: 1347
+# Domains: 1343
 #
 0.0.0.0 0000a-fast-proxy.de
 0.0.0.0 012proxy.ga
@@ -610,9 +610,7 @@
 0.0.0.0 ispvpn.com
 0.0.0.0 itopvpn.com
 0.0.0.0 ivacy.com
-0.0.0.0 ivpn.info
 0.0.0.0 ivpn.net
-0.0.0.0 jailbreaked.net
 0.0.0.0 japanwebproxy.com
 0.0.0.0 jcdns.fun
 0.0.0.0 opencdn.jomodns.com
@@ -679,7 +677,6 @@
 0.0.0.0 vpn.ncapi.io
 0.0.0.0 dns.aa.net.uk
 0.0.0.0 doh.infotek.net.id
-0.0.0.0 luminati-holanetworksltd.netdna-ssl.com
 0.0.0.0 netvpn.us
 0.0.0.0 dns.neutopia.org
 0.0.0.0 newipnow.com
@@ -791,7 +788,6 @@
 0.0.0.0 panyyhh.xyz
 0.0.0.0 panzend.xyz
 0.0.0.0 parrotsec.org
-0.0.0.0 i.passcloud.xyz
 0.0.0.0 rpz-public-resolver1.rrdns.pch.net
 0.0.0.0 perfect-privacy.com
 0.0.0.0 personalvpn.biz
