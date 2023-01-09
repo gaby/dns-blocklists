@@ -68,8 +68,7 @@
 @@||aiv-cdn.net.c.footprint.net^
 @@||aiv-delivery.net^
 @@||amazonvideo.com^
-@@||atv-ext-*.amazon.com^
-@@||atv-ext.amazon.com^
+@@||atv-ext*.amazon.com^
 @@||atv-ps.amazon.com^
 @@||primevideo.com^
 @@||pv-cdn.net^
@@ -1988,10 +1987,6 @@
 @@|lowendbox.com^
 @@|www.lowendbox.com^
 
-! PerimeterX (HUMAN Security) is an application security and anti fraud solution
-@@||perimeterx.net^
-@@||px-cloud.net^
-
 ! platform for interactive content
 @@|view.genial.ly^
 
@@ -2611,4 +2606,7 @@
 ! https://github.com/hagezi/dns-blocklists/issues/178
 @@|assets.rebelmouse.io^
 @@|assets.rbl.ms^
+
+! Links in mails from Peek & Cloppenburg and others
+@@|puc-cdn.exponea.com^
 
