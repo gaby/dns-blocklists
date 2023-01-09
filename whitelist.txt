@@ -659,7 +659,7 @@ email-link.adtidy.org
 # Misc (Breaking)
 assets.dwell.com
 assets.mmsrg.com
-cdn.opecloud.com
+# cdn.opecloud.com
 compass.pressekompass.net
 content.aimatch.com
 i1.wp.com
@@ -2313,4 +2313,8 @@ cdn.adf.ly
 
 # https://github.com/hagezi/dns-blocklists/issues/177
 commentsengine.com
+
+# https://github.com/hagezi/dns-blocklists/issues/178
+assets.rebelmouse.io
+assets.rbl.ms
 

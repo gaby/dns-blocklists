@@ -15,6 +15,12 @@
 @@||tags.tiqcdn.com^
 @@||www.asadcdn.com^
 
+! Adobe
+||demdex.net^
+@@||dpm.demdex.net^
+||hb.omtrdc.net^
+||tt.omtrdc.net^
+
 ! Ads
 ||*adcloud-*.everesttech.net^
 ||*met-vgwort-de.cdn.ampproject.org^
@@ -73,14 +79,14 @@
 ||branch.io^
 ||braze.com^
 ||braze.eu^
+||cquotient.com^
 ||cdn-*.onetrust.com^
 ||collector-*.perimeterx.net^
 ||collector-*.px-cdn.net^
 ||collector-*.px-cloud.net^
 ||collector-*.pxchk.net^
 ||delivery.consentmanager.net^
-||demdex.net^
-@@||dpm.demdex.net^
+||*-tracking.goodgamestudios.com^
 ||hotjar.com^
 ||iocnt.de^
 ||iocnt.net^
@@ -91,9 +97,12 @@
 ||kameleoon.eu^
 ||kameleoon.com^
 ||*.t.keepitpumpin.io^
+||snap.licdn.com^
 ||logentries.com^$important
 ||api*.mixpanel.com^
 ||newrelic.com^
+||tagger.opecloud.com^
+||scorecardresearch.com^
 ||sidekickopen*.com^
 ||split.io^
 @@||auth.split.io^
@@ -108,6 +117,7 @@
 ||analytics*.clickdimensions.com^
 ||siteintercept.qualtrics.com^
 @@||*paypal*.siteintercept.qualtrics.com^
+||wt-eu02.net^
 ||mc.yandex.ru^
 
 ! Apple
@@ -132,7 +142,6 @@
 ||sentry.io^
 
 ! Google
-||*-tracking.goodgamestudios.com^
 ||analytics.google.com^
 ||*google-analytics.l.google.com^
 ||androidtvchannels-pa.googleapis.com^
@@ -464,10 +473,10 @@
 ! Issues: https://github.com/hagezi/dns-blocklists/issues
 ! License: https://github.com/hagezi/dns-blocklists/blob/main/LICENSE.md
 ! Expires: Updated regularly
-! Last modified: 09 Jan 2023 14:05 UTC
-! Version: 2023.0109.1405.47
+! Last modified: 09 Jan 2023 18:37 UTC
+! Version: 2023.0109.1837.31
 ! Syntax: AdBlock
-! Domains: 22158
+! Domains: 22149
 !
 ||00px.net^
 ||021jf.com^
@@ -6260,7 +6269,6 @@
 ||cqjuyuansl.com^
 ||cqrvwq.com^
 ||cqsqiluw.ru^
-||cquotient.com^
 ||cqwajn.com^
 ||crabbychin.com^
 ||cradlegold.com^
@@ -12219,7 +12227,6 @@
 ||librato.com^
 ||libring.com^
 ||licasd.com^
-||snap.licdn.com^
 ||lickysrc.com^
 ||liddsp.com^
 ||create.lidstatic.com^
@@ -14688,7 +14695,6 @@
 ||omniture.com^
 ||cdn.omnivirt.com^
 ||omoonsih.net^
-||hb.omtrdc.net^
 ||churchofjesuschrist.hb-api.omtrdc.net^
 ||discovery.hb-api.omtrdc.net^
 ||dixonsrt.hb-api.omtrdc.net^
@@ -14712,7 +14718,6 @@
 ||iqdigitalmediamarketinggmbh.sc.omtrdc.net^
 ||rewedigital.sc.omtrdc.net^
 ||geico.com.ssl.sc.omtrdc.net^
-||tt.omtrdc.net^
 ||ad4.on.cc^
 ||ad5.on.cc^
 ||ad6.on.cc^
@@ -14832,7 +14837,6 @@
 ||op00.biz^
 ||opaldemo.com^
 ||trk.opascp.com^
-||tagger.opecloud.com^
 ||openair.pw^
 ||openfinancial.co^
 ||openfpcdn.io^
@@ -16564,7 +16568,6 @@
 ||razorses.com^
 ||jump.rbadvisors.com^
 ||r.rbc.ru^
-||assets.rbl.ms^
 ||frontpage-stats.rbl.ms^
 ||pages-stats.rbl.ms^
 ||user-stats.rbl.ms^
@@ -16649,7 +16652,6 @@
 ||reasonsecurity.com^
 ||rebel.ai^
 ||rebellion.com^
-||rebelmouse.io^
 ||recapture.io^
 ||recdirectgo.biz^
 ||recedechatprotestant.com^
@@ -17490,7 +17492,6 @@
 ||aprod.scopely.io^
 ||collector.scopely.io^
 ||sdk.scopely.io^
-||scorecardresearch.com^
 ||sa.scorpion.co^
 ||appschk.scotiabank.com^
 ||somniture.scotiabank.com^
@@ -21874,7 +21875,6 @@
 ||pushlog.wsoft.ru^
 ||scorecard.wspisp.net^
 ||piwik.wsws.org^
-||wt-eu02.net^
 ||wt-safetag.com^
 ||wtg-ads.com^
 ||wtggkyjh.org^
@@ -29271,7 +29271,7 @@
 ! Misc (Breaking)
 @@|assets.dwell.com^
 @@|assets.mmsrg.com^
-@@|cdn.opecloud.com^
+! cdn.opecloud.com
 @@|compass.pressekompass.net^
 @@|content.aimatch.com^
 @@|i1.wp.com^
@@ -31123,6 +31123,10 @@
 ! https://github.com/hagezi/dns-blocklists/issues/177
 @@|commentsengine.com^
 @@|www.commentsengine.com^
+
+! https://github.com/hagezi/dns-blocklists/issues/178
+@@|assets.rebelmouse.io^
+@@|assets.rbl.ms^
 
 
 ! Title: HaGeZi's White-/Allowlist Referral for Black & White list
