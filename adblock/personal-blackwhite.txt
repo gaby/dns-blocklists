@@ -6259,7 +6259,6 @@
 ||lcs.comico.jp^
 ||comihon.com^
 ||comm100.com^
-||commentsengine.com^
 ||commercialvalue.org^
 ||commissionkings.ag^
 ||commonvivacious.com^
@@ -34167,6 +34166,10 @@
 
 ! https://github.com/hagezi/dns-blocklists/issues/174
 @@|cdn.adf.ly^
+
+! https://github.com/hagezi/dns-blocklists/issues/177
+@@|commentsengine.com^
+@@|www.commentsengine.com^
 
 ! Title: HaGeZi's White-/Allowlist Referral
 ! Description: This list unblocks affiliate & tracking referral links that appear in mails, search results etc.
