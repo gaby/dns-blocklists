@@ -59,6 +59,7 @@
 ! Analytics / Tracker / Privacy
 |analytics.*^
 |analytic.*^
+@@||analytics.controld.com^
 @@||analytics.twitter.com^
 |sanalytics.*^
 |sanalytic.*^
@@ -98,7 +99,9 @@
 ||logentries.com^$important
 ||api*.mixpanel.com^
 ||newrelic.com^
+||logx.optimizely.com^
 ||tagger.opecloud.com^
+||realytics.io^
 ||scorecardresearch.com^
 ||sidekickopen*.com^
 ||split.io^
@@ -116,6 +119,7 @@
 ||siteintercept.qualtrics.com^
 @@||*paypal*.siteintercept.qualtrics.com^
 ||wt-eu02.net^
+||wurfl.io^
 ||mc.yandex.ru^
 
 ! Apple
