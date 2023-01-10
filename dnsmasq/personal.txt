@@ -4,10 +4,10 @@
 # Issues: https://github.com/hagezi/dns-blocklists/issues
 # License: https://github.com/hagezi/dns-blocklists/blob/main/LICENSE.md
 # Expires: Updated regularly
-# Last modified: 09 Jan 2023 21:49 UTC
-# Version: 2023.0109.2149.43
+# Last modified: 10 Jan 2023 00:05 UTC
+# Version: 2023.0110.0005.25
 # Syntax: DNSMasq
-# Domains: 27110
+# Domains: 27111
 #
 address=/00px.net/#
 address=/021jf.com/#
@@ -4394,6 +4394,7 @@ address=/analytics.binaryfortress.com/#
 address=/binaryoption.ae/#
 address=/bat.bing.com/#
 address=/c.bing.com/#
+address=/commerce.bing.com/#
 address=/binomo.com/#
 address=/widgets.binotel.com/#
 address=/biocdn.net/#
@@ -6401,7 +6402,6 @@ address=/unagi.amazon.com.mx/#
 address=/unagi.amazon.com.tr/#
 address=/atiltd.com.tw/#
 address=/dd.auspost.com.au/#
-address=/ssl.o.auspost.com.au/#
 address=/adproxy.autohome.com.cn/#
 address=/al.autohome.com.cn/#
 address=/app.autohome.com.cn/#
@@ -16239,6 +16239,7 @@ address=/mpsuadv.ru/#
 address=/stats.mpthemes.net/#
 address=/mpush.cn/#
 address=/content.mql5.com/#
+address=/actioniq.mr-in.com/#
 address=/r0.mradx.net/#
 address=/smetrics.mrappliance.com/#
 address=/mrazens.com/#
@@ -25494,7 +25495,7 @@ address=/vlc.de/#
 address=/vliplatform.com/#
 address=/vlitag.com/#
 address=/vlogerads.com/#
-address=/cdn.vlyby.com/#
+address=/vlyby.com/#
 address=/vm5apis.com/#
 address=/vmaitaly.net/#
 address=/vmcxdaynkhnekp.com/#

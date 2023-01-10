@@ -4,10 +4,10 @@
 # Issues: https://github.com/hagezi/dns-blocklists/issues
 # License: https://github.com/hagezi/dns-blocklists/blob/main/LICENSE.md
 # Expires: Updated regularly
-# Last modified: 09 Jan 2023 21:49 UTC
-# Version: 2023.0109.2149.43
+# Last modified: 10 Jan 2023 00:05 UTC
+# Version: 2023.0110.0005.25
 # Syntax: Hosts
-# Domains: 78007
+# Domains: 78008
 #
 0.0.0.0 00px.net
 0.0.0.0 cdn.00px.net
@@ -8782,7 +8782,6 @@
 0.0.0.0 cdn9.anyclip.com
 0.0.0.0 config.anyclip.com
 0.0.0.0 enterprise.anyclip.com
-0.0.0.0 lreprx-server.anyclip.com
 0.0.0.0 marketplace.anyclip.com
 0.0.0.0 pixel.anyclip.com
 0.0.0.0 play.anyclip.com
@@ -12576,6 +12575,7 @@
 0.0.0.0 www.binaryoption.ae
 0.0.0.0 bat.bing.com
 0.0.0.0 c.bing.com
+0.0.0.0 commerce.bing.com
 0.0.0.0 binomo.com
 0.0.0.0 api.binomo.com
 0.0.0.0 www.binomo.com
@@ -20731,7 +20731,6 @@
 0.0.0.0 unagi.amazon.com.tr
 0.0.0.0 atiltd.com.tw
 0.0.0.0 dd.auspost.com.au
-0.0.0.0 ssl.o.auspost.com.au
 0.0.0.0 adproxy.autohome.com.cn
 0.0.0.0 al.autohome.com.cn
 0.0.0.0 app.autohome.com.cn
@@ -35996,7 +35995,6 @@
 0.0.0.0 m39.fywkuzp.ru
 0.0.0.0 m4.fywkuzp.ru
 0.0.0.0 m42.fywkuzp.ru
-0.0.0.0 m5.fywkuzp.ru
 0.0.0.0 m6.fywkuzp.ru
 0.0.0.0 www.fywkuzp.ru
 0.0.0.0 fyxm.net
@@ -50001,6 +49999,7 @@
 0.0.0.0 de.eu.content.mql5.com
 0.0.0.0 na.content.mql5.com
 0.0.0.0 us.na.content.mql5.com
+0.0.0.0 actioniq.mr-in.com
 0.0.0.0 r0.mradx.net
 0.0.0.0 smetrics.mrappliance.com
 0.0.0.0 mrazens.com
@@ -74435,7 +74434,9 @@
 0.0.0.0 www.vlitag.com
 0.0.0.0 vlogerads.com
 0.0.0.0 www.vlogerads.com
+0.0.0.0 vlyby.com
 0.0.0.0 cdn.vlyby.com
+0.0.0.0 www.vlyby.com
 0.0.0.0 vm5apis.com
 0.0.0.0 iptoweather.vm5apis.com
 0.0.0.0 man.vm5apis.com

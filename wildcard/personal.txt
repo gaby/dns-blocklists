@@ -4,10 +4,10 @@
 # Issues: https://github.com/hagezi/dns-blocklists/issues
 # License: https://github.com/hagezi/dns-blocklists/blob/main/LICENSE.md
 # Expires: Updated regularly
-# Last modified: 09 Jan 2023 21:49 UTC
-# Version: 2023.0109.2149.43
+# Last modified: 10 Jan 2023 00:05 UTC
+# Version: 2023.0110.0005.25
 # Syntax: Domains Wildcard (DNSCrypt/YogaDNS/...)
-# Domains: 27110
+# Domains: 27111
 #
 *.00px.net
 *.021jf.com
@@ -4394,6 +4394,7 @@
 *.binaryoption.ae
 *.bat.bing.com
 *.c.bing.com
+*.commerce.bing.com
 *.binomo.com
 *.widgets.binotel.com
 *.biocdn.net
@@ -6401,7 +6402,6 @@
 *.unagi.amazon.com.tr
 *.atiltd.com.tw
 *.dd.auspost.com.au
-*.ssl.o.auspost.com.au
 *.adproxy.autohome.com.cn
 *.al.autohome.com.cn
 *.app.autohome.com.cn
@@ -16239,6 +16239,7 @@
 *.stats.mpthemes.net
 *.mpush.cn
 *.content.mql5.com
+*.actioniq.mr-in.com
 *.r0.mradx.net
 *.smetrics.mrappliance.com
 *.mrazens.com
@@ -25494,7 +25495,7 @@
 *.vliplatform.com
 *.vlitag.com
 *.vlogerads.com
-*.cdn.vlyby.com
+*.vlyby.com
 *.vm5apis.com
 *.vmaitaly.net
 *.vmcxdaynkhnekp.com
