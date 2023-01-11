@@ -3,10 +3,10 @@
 # Homepage: https://github.com/hagezi/dns-blocklists
 # Issues: https://github.com/hagezi/dns-blocklists/issues
 # Expires: Updated regularly
-# Last modified: 07 Jan 2023 15:02 UTC
-# Version: 2023.0107.1502.56
+# Last modified: 11 Jan 2023 23:19 UTC
+# Version: 2023.0111.2319.19
 # Syntax: DNSMasq
-# Domains: 137
+# Domains: 134
 #
 address=/search.0xcb.dev/#
 address=/searx.32bitflo.at/#
@@ -57,7 +57,6 @@ address=/search.jigsaw-security.com/#
 address=/search.jpope.org/#
 address=/jsearch.pw/#
 address=/trovu.komun.org/#
-address=/searx.kvch.me/#
 address=/searx.lavatech.top/#
 address=/haku.lelux.fi/#
 address=/searx.lelux.fi/#
@@ -122,8 +121,6 @@ address=/search.seds.nl/#
 address=/searx.semipvt.com/#
 address=/searx.simonoener.com/#
 address=/skyn3t.in/#
-address=/searx.slash-dev.de/#
-address=/search.snopyta.org/#
 address=/searx.solusar.de/#
 address=/searx.sp-codes.de/#
 address=/search.spaeth.me/#

@@ -3,10 +3,10 @@
 # Homepage: https://github.com/hagezi/dns-blocklists
 # Issues: https://github.com/hagezi/dns-blocklists/issues
 # Expires: Updated regularly
-# Last modified: 07 Jan 2023 15:02 UTC
-# Version: 2023.0107.1502.56
+# Last modified: 11 Jan 2023 23:19 UTC
+# Version: 2023.0111.2319.19
 # Syntax: Domains Wildcard (DNSCrypt/YogaDNS/...)
-# Domains: 137
+# Domains: 134
 #
 *.search.0xcb.dev
 *.searx.32bitflo.at
@@ -57,7 +57,6 @@
 *.search.jpope.org
 *.jsearch.pw
 *.trovu.komun.org
-*.searx.kvch.me
 *.searx.lavatech.top
 *.haku.lelux.fi
 *.searx.lelux.fi
@@ -122,8 +121,6 @@
 *.searx.semipvt.com
 *.searx.simonoener.com
 *.skyn3t.in
-*.searx.slash-dev.de
-*.search.snopyta.org
 *.searx.solusar.de
 *.searx.sp-codes.de
 *.search.spaeth.me
