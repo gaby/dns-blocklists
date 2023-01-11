@@ -98,6 +98,7 @@
 ! mask.icloud.com
 @@|ocsp*.apple.com^
 ! securemvt.apple.com
+! CNAME: apple.tt.omtrdc.net
 @@|smp-device-content.apple.com^
 @@|stats.gc.apple.com^
 @@|trackingshipment.apple.com^
