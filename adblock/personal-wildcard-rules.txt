@@ -15,8 +15,6 @@
 ! Adobe
 ||demdex.net^
 @@||dpm.demdex.net^
-||hb.omtrdc.net^
-||tt.omtrdc.net^
 
 ! Ads
 ||*adcloud-*.everesttech.net^
@@ -26,6 +24,7 @@
 ||adnxs-simple.com^
 ||adnxs.com^
 ||production-adserver-*.amazonaws.com^
+||cxense.com^
 ||cdn.scarabresearch.com^
 ||iad*.dotomi.com^
 ||pijama.*.elasticbeanstalk.com^
@@ -75,6 +74,7 @@
 ||*pixel.br.de^
 ||*track.bild.de^
 ||analytics-*.yinzcam.com^
+||appdynamics.com^
 ||wsmetrics.batch.com^
 ||branch.io^
 ||braze.com^
@@ -101,7 +101,7 @@
 ||logentries.com^$important
 ||api*.mixpanel.com^
 ||newrelic.com^
-||logx.optimizely.com^
+||log*.optimizely.com^
 ||tagger.opecloud.com^
 ||realytics.io^
 ||scorecardresearch.com^
@@ -290,3 +290,4 @@
 ||zomap.de^
 @@||lush-clouds.zomap.de^
 @@||swankyrule.zomap.de^
+||nmrodam.com^
