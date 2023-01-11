@@ -4,10 +4,10 @@
 # Issues: https://github.com/hagezi/dns-blocklists/issues
 # License: https://github.com/hagezi/dns-blocklists/blob/main/LICENSE.md
 # Expires: Updated regularly
-# Last modified: 10 Jan 2023 18:03 UTC
-# Version: 2023.0110.1803.58
+# Last modified: 11 Jan 2023 00:06 UTC
+# Version: 2023.0111.0006.30
 # Syntax: Hosts
-# Domains: 79263
+# Domains: 79247
 #
 0.0.0.0 00px.net
 0.0.0.0 cdn.00px.net
@@ -21941,7 +21941,6 @@
 0.0.0.0 app.convertful.com
 0.0.0.0 www.convertful.com
 0.0.0.0 convertglobal.com
-0.0.0.0 convert.convertglobal.com
 0.0.0.0 www.convertglobal.com
 0.0.0.0 converti.se
 0.0.0.0 www.converti.se
@@ -36345,7 +36344,6 @@
 0.0.0.0 fridgexperts.cc
 0.0.0.0 www.fridgexperts.cc
 0.0.0.0 friendbuy.com
-0.0.0.0 cdn.friendbuy.com
 0.0.0.0 ws.friendbuy.com
 0.0.0.0 www.friendbuy.com
 0.0.0.0 friendfinder.com
@@ -38496,7 +38494,6 @@
 0.0.0.0 www.got-to-be.me
 0.0.0.0 www.got-to-be.net
 0.0.0.0 gotchosen.com
-0.0.0.0 cdn.gotchosen.com
 0.0.0.0 www.gotchosen.com
 0.0.0.0 marketing.gotobermuda.com
 0.0.0.0 gotrackier.com
@@ -56595,7 +56592,6 @@
 0.0.0.0 e-nz110.pleisty.com
 0.0.0.0 www.pleisty.com
 0.0.0.0 plerdy.com
-0.0.0.0 a.plerdy.com
 0.0.0.0 c.plerdy.com
 0.0.0.0 d.plerdy.com
 0.0.0.0 tracker.plerdy.com
@@ -70216,8 +70212,6 @@
 0.0.0.0 cdn.teleportapi.com
 0.0.0.0 cmp.telerama.fr
 0.0.0.0 teletarget.ru
-0.0.0.0 hbbtv.teletarget.ru
-0.0.0.0 stat.teletarget.ru
 0.0.0.0 www.teletarget.ru
 0.0.0.0 adengine.telewebion.com
 0.0.0.0 telize.com
@@ -76866,28 +76860,20 @@
 0.0.0.0 www.whoreshub.com
 0.0.0.0 whoson.com
 0.0.0.0 chat.whoson.com
-0.0.0.0 coop.whoson.com
 0.0.0.0 fullcompass.whoson.com
 0.0.0.0 gateway11.whoson.com
 0.0.0.0 gateway2.whoson.com
 0.0.0.0 gateway3.whoson.com
-0.0.0.0 gateway5.whoson.com
-0.0.0.0 gateway6.whoson.com
 0.0.0.0 gateway7.whoson.com
 0.0.0.0 gateway8.whoson.com
 0.0.0.0 geoffreyinsurance.whoson.com
 0.0.0.0 hcpa.whoson.com
-0.0.0.0 hosted5.whoson.com
-0.0.0.0 hosted7.whoson.com
-0.0.0.0 hosted8.whoson.com
 0.0.0.0 hostedusa1.whoson.com
 0.0.0.0 hostedusa2.whoson.com
 0.0.0.0 hostedusa3.whoson.com
 0.0.0.0 hostedusa4.whoson.com
 0.0.0.0 hotelchocolat.whoson.com
-0.0.0.0 icslearnchat.whoson.com
 0.0.0.0 icslearngw.whoson.com
-0.0.0.0 lizearlegw.whoson.com
 0.0.0.0 masterquote.whoson.com
 0.0.0.0 myvacationgw.whoson.com
 0.0.0.0 ocgdbsgw.whoson.com
@@ -76901,11 +76887,9 @@
 0.0.0.0 spareparts.whoson.com
 0.0.0.0 sunbelthrgw.whoson.com
 0.0.0.0 sunbeltrentals.whoson.com
-0.0.0.0 tyre-shopper.whoson.com
 0.0.0.0 tyre-shoppergw.whoson.com
 0.0.0.0 wmcchat.whoson.com
 0.0.0.0 wmcgw.whoson.com
-0.0.0.0 worldpay.whoson.com
 0.0.0.0 worldpayus.whoson.com
 0.0.0.0 worldpayusgw.whoson.com
 0.0.0.0 wssogw.whoson.com
