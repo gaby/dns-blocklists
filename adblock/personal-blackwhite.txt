@@ -297,10 +297,10 @@
 ! Issues: https://github.com/hagezi/dns-blocklists/issues
 ! License: https://github.com/hagezi/dns-blocklists/blob/main/LICENSE.md
 ! Expires: Updated regularly
-! Last modified: 11 Jan 2023 16:31 UTC
-! Version: 2023.0111.1631.16
+! Last modified: 11 Jan 2023 16:37 UTC
+! Version: 2023.0111.1637.06
 ! Syntax: AdBlock
-! Domains: 23175
+! Domains: 23178
 !
 ||00px.net^
 ||021jf.com^
@@ -18342,8 +18342,11 @@
 ||seewhy.com^
 ||seeyoufarm.com^
 ||sefsdvc.com^
-||segment.com^
 ||segment.io^
+||app.segment.com^
+||cdn-settings.segment.com^
+||idsync.segment.com^
+||profiles.segment.com^
 ||segmentapis.com^
 ||sponsor.segmentfault.com^
 ||stats.segmentfault.net^
