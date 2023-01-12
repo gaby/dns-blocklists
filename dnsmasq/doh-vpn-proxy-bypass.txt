@@ -4,10 +4,10 @@
 # Homepage: https://github.com/hagezi/dns-blocklists
 # Issues: https://github.com/hagezi/dns-blocklists/issues
 # Expires: Updated regularly
-# Last modified: 11 Jan 2023 23:20 UTC
-# Version: 2023.0111.2320.27
+# Last modified: 12 Jan 2023 23:19 UTC
+# Version: 2023.0112.2319.14
 # Syntax: DNSMasq
-# Domains: 1224
+# Domains: 1220
 #
 address=/0000a-fast-proxy.de/#
 address=/012proxy.ga/#
@@ -579,7 +579,6 @@ address=/mobilevpn.net/#
 address=/mofolinux.com/#
 address=/monvpn.com/#
 address=/movieproxy.com/#
-address=/testpilot.r53-2.services.mozilla.com/#
 address=/vpn.mozilla.org/#
 address=/dns.mrkaran.dev/#
 address=/mullvad.net/#
@@ -926,7 +925,6 @@ address=/stealthvpn.com/#
 address=/stealthy.co/#
 address=/stop-block.com/#
 address=/stopcensoring.me/#
-address=/stormyproxy.info/#
 address=/strongvpn.com/#
 address=/stunnel.org/#
 address=/stupidproxy.com/#
@@ -1044,7 +1042,6 @@ address=/unblocked.vip/#
 address=/unblocker.net/#
 address=/unblocker.us/#
 address=/unblockfreeproxy.com/#
-address=/unblockit.app/#
 address=/unblockit.club/#
 address=/unblockit.link/#
 address=/unblockit.ltd/#
@@ -1072,7 +1069,6 @@ address=/undofilters.com/#
 address=/unifiedvpn.com/#
 address=/unknownproxy.com/#
 address=/unlimitedvpnapp.com/#
-address=/unrestrict.me/#
 address=/unrestrictedsurf.com/#
 address=/ur-browser.com/#
 address=/urban-vpn.com/#
