@@ -298,8 +298,8 @@
 ! Issues: https://github.com/hagezi/dns-blocklists/issues
 ! License: https://github.com/hagezi/dns-blocklists/blob/main/LICENSE.md
 ! Expires: Updated regularly
-! Last modified: 12 Jan 2023 00:10 UTC
-! Version: 2023.0112.0010.24
+! Last modified: 12 Jan 2023 04:21 UTC
+! Version: 2023.0112.0421.36
 ! Syntax: AdBlock
 ! Domains: 23335
 !
@@ -31986,6 +31986,18 @@
 
 ! Navigation on various sites - fender.com
 @@|cdn.segment.com^
+
+! https://github.com/hagezi/dns-blocklists/issues/190
+@@|uplynk.com^
+@@|www.uplynk.com^
+
+! https://github.com/hagezi/dns-blocklists/issues/191
+@@|speedcheck.org^
+@@|www.speedcheck.org^
+
+! https://github.com/hagezi/dns-blocklists/issues/192
+@@|filedropper.com^
+@@|www.filedropper.com^
 
 
 ! Title: HaGeZi's White-/Allowlist Referral for Black & White list
