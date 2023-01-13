@@ -4,10 +4,10 @@
 # Homepage: https://github.com/hagezi/dns-blocklists
 # Issues: https://github.com/hagezi/dns-blocklists/issues
 # Expires: Updated regularly
-# Last modified: 12 Jan 2023 23:19 UTC
-# Version: 2023.0112.2319.14
+# Last modified: 13 Jan 2023 23:20 UTC
+# Version: 2023.0113.2320.25
 # Syntax: DNSMasq
-# Domains: 1220
+# Domains: 1219
 #
 address=/0000a-fast-proxy.de/#
 address=/012proxy.ga/#
@@ -1191,7 +1191,6 @@ address=/windscribe.com/#
 address=/wiseghostapp.com/#
 address=/wlvpn.com/#
 address=/wonderland.ws/#
-address=/workhost.eu/#
 address=/workproxy.net/#
 address=/wossow.com/#
 address=/dns.wugui.zone/#
