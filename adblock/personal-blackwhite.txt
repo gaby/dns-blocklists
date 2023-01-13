@@ -299,8 +299,8 @@
 ! Issues: https://github.com/hagezi/dns-blocklists/issues
 ! License: https://github.com/hagezi/dns-blocklists/blob/main/LICENSE.md
 ! Expires: Updated regularly
-! Last modified: 13 Jan 2023 12:02 UTC
-! Version: 2023.0113.1202.52
+! Last modified: 13 Jan 2023 12:06 UTC
+! Version: 2023.0113.1206.04
 ! Syntax: AdBlock
 ! Domains: 23788
 !
@@ -30116,7 +30116,7 @@
 ! https://github.com/badmojr/1Hosts/issues/553
 @@|api.revenuecat.com^
 
-! HP Smart App - Installation wizard not loading (fixed)
+! HP Smart App - Installation wizard not loading
 @@|mobilesdk-*.kampyle.com^
 
 ! https://github.com/AdAway/adaway.github.io/issues/309
@@ -30502,10 +30502,6 @@
 ! Qoo10 Shop
 @@|qoo10.sg^
 @@|www.qoo10.sg^
-
-! https://github.com/hagezi/dns-blocklists/issues/27
-! Breaks Pizzahut AU - seems to be fixes on site!
-! js.sentry-cdn.com
 
 ! Qt
 @@|qt.io^
@@ -31102,8 +31098,16 @@
 @@|tracker.avistaz.to^
 @@|tracker.beyond-hd.me^
 @@|tracker.animebytes.tv^
-@@|live.com^
-@@|www.live.com^
+@@|tracker.alpharatio.cc^
+
+! Firmware updates shure.com
+@@|p.shure.com^
+
+! JoynMe App
+@@|middleware.p7s1.io^
+
+! F1 App livetiming
+@@|embed.scribblelive.com^
 
 ! F1 TV
 @@|f1-prod-production.apigee.net^
@@ -31897,6 +31901,10 @@
 
 ! Breaks site layout on maxmind.com - https://github.com/hagezi/dns-blocklists/issues/198
 @@|static.maxmind.com^
+
+! https://github.com/hagezi/dns-blocklists/issues/202
+@@|mindvalley.com^
+@@|www.mindvalley.com^
 
 
 ! Title: HaGeZi's White-/Allowlist Referral for Black & White list
