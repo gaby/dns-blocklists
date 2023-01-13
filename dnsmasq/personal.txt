@@ -4,10 +4,10 @@
 # Issues: https://github.com/hagezi/dns-blocklists/issues
 # License: https://github.com/hagezi/dns-blocklists/blob/main/LICENSE.md
 # Expires: Updated regularly
-# Last modified: 13 Jan 2023 07:19 UTC
-# Version: 2023.0113.0719.53
+# Last modified: 13 Jan 2023 14:41 UTC
+# Version: 2023.0113.1441.05
 # Syntax: DNSMasq
-# Domains: 28275
+# Domains: 28279
 #
 address=/00px.net/#
 address=/021jf.com/#
@@ -12120,6 +12120,7 @@ address=/goosimes.com/#
 address=/t.gopack.com/#
 address=/gopeerclick.com/#
 address=/vip.gophersport.com/#
+address=/goplayhere.com/#
 address=/t.gopsusports.com/#
 address=/telem.sre.gopuff.com/#
 address=/static.goqubit.com/#
@@ -22073,6 +22074,7 @@ address=/rtbsystem.com/#
 address=/rtbsystem.org/#
 address=/rtclx.com/#
 address=/rtk.io/#
+address=/collect.rtl.lu/#
 address=/notify-bugs-fra1.rtl.de/#
 address=/session-bugs-fra1.rtl.de/#
 address=/smetrics.rtl.nl/#
@@ -23510,6 +23512,7 @@ address=/st10.sofi.com/#
 address=/soficatan.site/#
 address=/sofinpushpile.com/#
 address=/soflopxl.com/#
+address=/s.sofoot.com/#
 address=/mediams.mb.softbank.jp/#
 address=/tracker.softcube.com/#
 address=/tracker.softgarden.de/#
@@ -27011,6 +27014,7 @@ address=/webwatcherdata.com/#
 address=/webwave.dev/#
 address=/webwiseforradio.com/#
 address=/goload.wecloud.io/#
+address=/rtb.wedeo.ru/#
 address=/wednesdaynaked.com/#
 address=/wedolook.com/#
 address=/weednewspro.com/#
