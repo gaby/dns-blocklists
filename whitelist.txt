@@ -339,7 +339,7 @@ te.ip-prod.aws-cbc.cloud
 # https://github.com/badmojr/1Hosts/issues/553
 api.revenuecat.com
 
-# HP Smart App - Installation wizard not loading (fixed)
+# HP Smart App - Installation wizard not loading
 mobilesdk-*.kampyle.com
 
 # https://github.com/AdAway/adaway.github.io/issues/309
@@ -557,11 +557,6 @@ classmates.com
 # Breaks site layout on ctrip.com
 c-ctrip.com
 
-# Videos on digitaltrends.com
-# !!! Will not be unblocked, the domain is used for ads/tracking and is quite common !!!
-# pub.doubleverify.com
-# securepubads.g.doubleclick.net
-
 # Breaks site layout fastpic.org
 static.fastpic.org
 
@@ -658,10 +653,6 @@ nairaland.com
 player.avplayer.com
 play.aniview.com
 
-# Videos on nhl.com
-# !!! Will not be unblocked, the domain is used for ads/tracking and is quite common !!!
-# pubads.g.doubleclick.net
-
 # Breakls site layout on nnmclub.to
 nnmstatic.win
 
@@ -693,10 +684,6 @@ plarium.com
 
 # Qoo10 Shop
 qoo10.sg
-
-# https://github.com/hagezi/dns-blocklists/issues/27
-# Breaks Pizzahut AU - seems to be fixes on site!
-# js.sentry-cdn.com
 
 # Qt
 qt.io
@@ -923,11 +910,6 @@ cdn-eu.dynamicyield.com
 # cdn1-s-ha-e15.mdhcdn.com
 # cdn1-s-ha-e17t.mdhcdn.com
 # cdn1-s-ha-e18.mdhcdn.com
-
-# Videos on moviepilot.de
-# !!! Will not be unblocked, the domains are used for ads/tracking and are quite common !!!
-# cdn.lib.getjad.io
-# securepubads.g.doubleclick.net
 
 # CDN for Amazon JP
 dtioykqj1u8de.cloudfront.net
