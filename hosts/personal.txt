@@ -4,10 +4,10 @@
 # Issues: https://github.com/hagezi/dns-blocklists/issues
 # License: https://github.com/hagezi/dns-blocklists/blob/main/LICENSE.md
 # Expires: Updated regularly
-# Last modified: 12 Jan 2023 17:10 UTC
-# Version: 2023.0112.1710.25
+# Last modified: 13 Jan 2023 00:07 UTC
+# Version: 2023.0113.0007.35
 # Syntax: Hosts
-# Domains: 81591
+# Domains: 81692
 #
 0.0.0.0 00px.net
 0.0.0.0 cdn.00px.net
@@ -10984,7 +10984,6 @@
 0.0.0.0 ak.atcelebitor.com
 0.0.0.0 cookiemon.atcom.gr
 0.0.0.0 aidps.atdmt.com
-0.0.0.0 view.atdmt.com
 0.0.0.0 atdnetwork.com
 0.0.0.0 static01.atdnetwork.com
 0.0.0.0 www.atdnetwork.com
@@ -44269,7 +44268,6 @@
 0.0.0.0 resource.cupid.iqiyi.com
 0.0.0.0 riskip.cupid.iqiyi.com
 0.0.0.0 t7z.cupid.iqiyi.com
-0.0.0.0 v6z.cupid.iqiyi.com
 0.0.0.0 dx-cards-css.iqiyi.com
 0.0.0.0 emoticon-sns.iqiyi.com
 0.0.0.0 static.g.iqiyi.com
@@ -55260,6 +55258,109 @@
 0.0.0.0 stats.online-akademie.com
 0.0.0.0 online-banners.nl
 0.0.0.0 www.online-banners.nl
+0.0.0.0 aa.online-metrix.net
+0.0.0.0 a-sac.aa.online-metrix.net
+0.0.0.0 d.aa.online-metrix.net
+0.0.0.0 e.aa.online-metrix.net
+0.0.0.0 citi.online-metrix.net
+0.0.0.0 h-online.citi.online-metrix.net
+0.0.0.0 h-retailservicescommercial.citi.online-metrix.net
+0.0.0.0 citidirect.online-metrix.net
+0.0.0.0 h-cards.citidirect.online-metrix.net
+0.0.0.0 bdc-cdn.com.online-metrix.net
+0.0.0.0 h-tm.bdc-cdn.com.online-metrix.net
+0.0.0.0 ddcprod.online-metrix.net
+0.0.0.0 h-worldpay.ddcprod.online-metrix.net
+0.0.0.0 eu-aa.online-metrix.net
+0.0.0.0 h.online-metrix.net
+0.0.0.0 a-sac.h.online-metrix.net
+0.0.0.0 h-2ql3c6py.online-metrix.net
+0.0.0.0 h-3z5dc3wi.online-metrix.net
+0.0.0.0 h-6rj18la4.online-metrix.net
+0.0.0.0 h-859g1sil.online-metrix.net
+0.0.0.0 h-87rxrdob.online-metrix.net
+0.0.0.0 h-accurint.online-metrix.net
+0.0.0.0 h-adp.online-metrix.net
+0.0.0.0 h-afterpay.online-metrix.net
+0.0.0.0 h-ameriprise.online-metrix.net
+0.0.0.0 h-api.online-metrix.net
+0.0.0.0 h-apruvd.online-metrix.net
+0.0.0.0 h-asurion.online-metrix.net
+0.0.0.0 h-bangkokbank.online-metrix.net
+0.0.0.0 h-beachbody.online-metrix.net
+0.0.0.0 h-bestbuy.online-metrix.net
+0.0.0.0 h-bmo.online-metrix.net
+0.0.0.0 h-bmoharris2.online-metrix.net
+0.0.0.0 h-bos.online-metrix.net
+0.0.0.0 h-cas.online-metrix.net
+0.0.0.0 h-cco37scf.online-metrix.net
+0.0.0.0 h-cdiscount.online-metrix.net
+0.0.0.0 h-chase.online-metrix.net
+0.0.0.0 h-citibank-hk.online-metrix.net
+0.0.0.0 h-citibank-mx.online-metrix.net
+0.0.0.0 h-citibankonline.online-metrix.net
+0.0.0.0 h-citidirect.online-metrix.net
+0.0.0.0 h-citizensbankonline.online-metrix.net
+0.0.0.0 h-citizenscommercial.online-metrix.net
+0.0.0.0 h-cjwi5pjh.online-metrix.net
+0.0.0.0 h-coutts.online-metrix.net
+0.0.0.0 h-cybersource.online-metrix.net
+0.0.0.0 h-dell.online-metrix.net
+0.0.0.0 h-dstssc.online-metrix.net
+0.0.0.0 h-e04kqxof.online-metrix.net
+0.0.0.0 h-ebay.online-metrix.net
+0.0.0.0 h-ebay-kleinanzeigen.online-metrix.net
+0.0.0.0 h-elsevier-fame.online-metrix.net
+0.0.0.0 h-emirates.online-metrix.net
+0.0.0.0 h-fisglobal.online-metrix.net
+0.0.0.0 h-goldmanimd.online-metrix.net
+0.0.0.0 h-goldmansachs2.online-metrix.net
+0.0.0.0 h-gusto.online-metrix.net
+0.0.0.0 h-halifax.online-metrix.net
+0.0.0.0 h-homeaway2.online-metrix.net
+0.0.0.0 h-hsbcmx.online-metrix.net
+0.0.0.0 h-huntington.online-metrix.net
+0.0.0.0 h-ibotta.online-metrix.net
+0.0.0.0 h-iddataweb.online-metrix.net
+0.0.0.0 h-instacart.online-metrix.net
+0.0.0.0 h-k8vif92e-au.online-metrix.net
+0.0.0.0 h-k8vif92e-av.online-metrix.net
+0.0.0.0 h-k8vif92e-lulu.online-metrix.net
+0.0.0.0 h-ljcjjbch.online-metrix.net
+0.0.0.0 h-lloyds-soc.online-metrix.net
+0.0.0.0 h-marktplaats.online-metrix.net
+0.0.0.0 h-metlife.online-metrix.net
+0.0.0.0 h-missionlane.online-metrix.net
+0.0.0.0 h-mywisely.online-metrix.net
+0.0.0.0 h-optumid.online-metrix.net
+0.0.0.0 h-paddypower.online-metrix.net
+0.0.0.0 h-payby.online-metrix.net
+0.0.0.0 h-pscu.online-metrix.net
+0.0.0.0 h-psecu.online-metrix.net
+0.0.0.0 h-rbs-bank.online-metrix.net
+0.0.0.0 h-rbs-cpb.online-metrix.net
+0.0.0.0 h-rbsint.online-metrix.net
+0.0.0.0 h-regionsbank2.online-metrix.net
+0.0.0.0 h-samsclub.online-metrix.net
+0.0.0.0 h-santanderbank.online-metrix.net
+0.0.0.0 h-scotia.online-metrix.net
+0.0.0.0 h-signifyd.online-metrix.net
+0.0.0.0 h-skrill.online-metrix.net
+0.0.0.0 h-sofi.online-metrix.net
+0.0.0.0 h-standardcharteredbank.online-metrix.net
+0.0.0.0 h-svbconnect.online-metrix.net
+0.0.0.0 h-tdbank.online-metrix.net
+0.0.0.0 h-tesco.online-metrix.net
+0.0.0.0 h-thumbtack.online-metrix.net
+0.0.0.0 h-twctexas.online-metrix.net
+0.0.0.0 h-ups.online-metrix.net
+0.0.0.0 h-uptodate.online-metrix.net
+0.0.0.0 h-v60nf4oj-2.online-metrix.net
+0.0.0.0 h-virtualgaming.online-metrix.net
+0.0.0.0 h-werally.online-metrix.net
+0.0.0.0 h6.online-metrix.net
+0.0.0.0 nsproxy.online-metrix.net
+0.0.0.0 rbc.online-metrix.net
 0.0.0.0 online2game.xyz
 0.0.0.0 www.online2game.xyz
 0.0.0.0 onlinedeltazone.online
