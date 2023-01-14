@@ -99,7 +99,6 @@
 ||kameleoon.eu^
 ||kameleoon.com^
 ||*.t.keepitpumpin.io^
-||snap.licdn.com^
 ||indexww.com^
 ||logentries.com^$important
 ||api*.mixpanel.com^
@@ -304,8 +303,8 @@
 ! Issues: https://github.com/hagezi/dns-blocklists/issues
 ! License: https://github.com/hagezi/dns-blocklists/blob/main/LICENSE.md
 ! Expires: Updated regularly
-! Last modified: 14 Jan 2023 12:11 UTC
-! Version: 2023.0114.1211.46
+! Last modified: 14 Jan 2023 17:25 UTC
+! Version: 2023.0114.1725.10
 ! Syntax: AdBlock
 ! Domains: 21308
 !
@@ -29418,6 +29417,9 @@
 
 ! https://github.com/hagezi/dns-blocklists/issues/191
 @@|api.speedspot.org^
+
+! LinkedIn Content
+@@|snap.licdn.com^
 
 
 ! Title: HaGeZi's White-/Allowlist Referral for Black & White list
