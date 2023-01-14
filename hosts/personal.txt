@@ -4,10 +4,10 @@
 # Issues: https://github.com/hagezi/dns-blocklists/issues
 # License: https://github.com/hagezi/dns-blocklists/blob/main/LICENSE.md
 # Expires: Updated regularly
-# Last modified: 14 Jan 2023 11:18 UTC
-# Version: 2023.0114.1118.03
+# Last modified: 14 Jan 2023 12:02 UTC
+# Version: 2023.0114.1202.39
 # Syntax: Hosts
-# Domains: 74247
+# Domains: 74286
 #
 0.0.0.0 00px.net
 0.0.0.0 cdn.00px.net
@@ -1626,6 +1626,7 @@
 0.0.0.0 www.300624.com
 0.0.0.0 beak.bd.313.nl
 0.0.0.0 sat.public.bd.313.nl
+0.0.0.0 322ffbbc7c1b312c2f9d942f20422f8d.com
 0.0.0.0 ns2.322ffbbc7c1b312c2f9d942f20422f8d.com
 0.0.0.0 ns3.322ffbbc7c1b312c2f9d942f20422f8d.com
 0.0.0.0 ns4.322ffbbc7c1b312c2f9d942f20422f8d.com
@@ -1634,6 +1635,7 @@
 0.0.0.0 ns7.322ffbbc7c1b312c2f9d942f20422f8d.com
 0.0.0.0 ns8.322ffbbc7c1b312c2f9d942f20422f8d.com
 0.0.0.0 ns9.322ffbbc7c1b312c2f9d942f20422f8d.com
+0.0.0.0 www.322ffbbc7c1b312c2f9d942f20422f8d.com
 0.0.0.0 3322.org
 0.0.0.0 members.3322.org
 0.0.0.0 www.3322.org
@@ -2180,6 +2182,7 @@
 0.0.0.0 logger.9apps.com
 0.0.0.0 portal.9apps.com
 0.0.0.0 www.9apps.com
+0.0.0.0 9appsinstall.com
 0.0.0.0 apk-dym.9appsinstall.com
 0.0.0.0 res.9appsinstall.com
 0.0.0.0 sg-res.9appsinstall.com
@@ -2497,11 +2500,13 @@
 0.0.0.0 accdab.net
 0.0.0.0 prod.accdab.net
 0.0.0.0 test.accdab.net
+0.0.0.0 accengage.com
 0.0.0.0 accengage.net
 0.0.0.0 api.accengage.com
 0.0.0.0 daraz-by.accengage.net
 0.0.0.0 hosted-sdk.accengage.net
 0.0.0.0 pingapi.accengage.com
+0.0.0.0 www.accengage.com
 0.0.0.0 www.accengage.net
 0.0.0.0 somni.accenture.com
 0.0.0.0 trackingmms.accenture.com
@@ -2668,6 +2673,7 @@
 0.0.0.0 www.activeoptimization.com
 0.0.0.0 app.activetrail.com
 0.0.0.0 prod-data-energon.infra-ext.activision.com
+0.0.0.0 actonservice.com
 0.0.0.0 a37518.actonservice.com
 0.0.0.0 a39780.actonservice.com
 0.0.0.0 a43307.actonservice.com
@@ -2687,6 +2693,7 @@
 0.0.0.0 msufcu.actonservice.com
 0.0.0.0 nccer.actonservice.com
 0.0.0.0 towerfcu.actonservice.com
+0.0.0.0 www.actonservice.com
 0.0.0.0 actonsoftware.com
 0.0.0.0 ci33.actonsoftware.com
 0.0.0.0 ci54.actonsoftware.com
@@ -6843,6 +6850,8 @@
 0.0.0.0 ninja.akamaized.net
 0.0.0.0 speee-ad.akamaized.net
 0.0.0.0 uz-analysis.akamaized.net
+0.0.0.0 akisinn.info
+0.0.0.0 akisinn.site
 0.0.0.0 co.akisinn.info
 0.0.0.0 co.akisinn.site
 0.0.0.0 int.akisinn.info
@@ -11294,8 +11303,10 @@
 0.0.0.0 www.bassdyemanipulate.com
 0.0.0.0 bassoczardas.com
 0.0.0.0 omnis.basspro.com
+0.0.0.0 batch.com
 0.0.0.0 api.batch.com
 0.0.0.0 via.batch.com
+0.0.0.0 www.batch.com
 0.0.0.0 batecrowle.click
 0.0.0.0 www.batecrowle.click
 0.0.0.0 aa.bathandbodyworks.com
@@ -11310,6 +11321,7 @@
 0.0.0.0 ploy.batmobi.net
 0.0.0.0 sts.batmobi.net
 0.0.0.0 www.batmobi.net
+0.0.0.0 batmobil.net
 0.0.0.0 api5.batmobil.net
 0.0.0.0 dsp.batmobil.net
 0.0.0.0 telemetry-in.battle.net
@@ -13520,8 +13532,10 @@
 0.0.0.0 cdn-view.c3tag.com
 0.0.0.0 img.c3tag.com
 0.0.0.0 www.c3tag.com
+0.0.0.0 c8xwor.com
 0.0.0.0 dgmxn.c8xwor.com
 0.0.0.0 t1k22.c8xwor.com
+0.0.0.0 www.c8xwor.com
 0.0.0.0 hit.c97.org
 0.0.0.0 collector-axa.cloud.ca.com
 0.0.0.0 ca-conv.jp
@@ -19201,9 +19215,11 @@
 0.0.0.0 cmclean.club
 0.0.0.0 sg.cmclean.club
 0.0.0.0 www.cmclean.club
+0.0.0.0 cmcm.com
 0.0.0.0 lcf.cmplay.cmcm.com
 0.0.0.0 magic.cmcm.com
 0.0.0.0 tileswan.cmcm.com
+0.0.0.0 www.cmcm.com
 0.0.0.0 cmcore.com
 0.0.0.0 data.cmcore.com
 0.0.0.0 appconfig.cmgdigital.com
@@ -23730,12 +23746,16 @@
 0.0.0.0 dewastaterightlight.com
 0.0.0.0 www.dewastaterightlight.com
 0.0.0.0 api.dewmobile.net
+0.0.0.0 dewrain.life
+0.0.0.0 dewrain.site
 0.0.0.0 co.dewrain.life
 0.0.0.0 co.dewrain.site
 0.0.0.0 co.dewrain.world
 0.0.0.0 int.dewrain.life
 0.0.0.0 int.dewrain.site
 0.0.0.0 int.dewrain.world
+0.0.0.0 www.dewrain.life
+0.0.0.0 www.dewrain.site
 0.0.0.0 sourcepoint.dexerto.com
 0.0.0.0 dexpredict.com
 0.0.0.0 www.dexpredict.com
@@ -38584,6 +38604,7 @@
 0.0.0.0 i9bet34.com
 0.0.0.0 www.i9bet34.com
 0.0.0.0 gdl.i9dhjx.ru
+0.0.0.0 iadvize.com
 0.0.0.0 api.iadvize.com
 0.0.0.0 cdlc.iadvize.com
 0.0.0.0 cobrowsing-ha.iadvize.com
@@ -38591,6 +38612,7 @@
 0.0.0.0 halc.iadvize.com
 0.0.0.0 lc.iadvize.com
 0.0.0.0 static.iadvize.com
+0.0.0.0 www.iadvize.com
 0.0.0.0 xmpp-ha-alb.iadvize.com
 0.0.0.0 iaeti.org
 0.0.0.0 www.iaeti.org
@@ -39823,9 +39845,11 @@
 0.0.0.0 www.informationvine.com
 0.0.0.0 images.informatm.com
 0.0.0.0 servedby.informatm.com
+0.0.0.0 informer.com
 0.0.0.0 exchange.informer.ua
 0.0.0.0 hits.informer.com
 0.0.0.0 web.informer.com
+0.0.0.0 www.informer.com
 0.0.0.0 call.inforsea.com
 0.0.0.0 pixel.inforsea.com
 0.0.0.0 infospace.com
@@ -45489,6 +45513,7 @@
 0.0.0.0 www.minergate.com
 0.0.0.0 minghui.org
 0.0.0.0 www.minghui.org
+0.0.0.0 miniast.com
 0.0.0.0 coco.miniast.com
 0.0.0.0 log.miniast.com
 0.0.0.0 rim.miniast.com
@@ -49162,6 +49187,7 @@
 0.0.0.0 nicoad.nicovideo.jp
 0.0.0.0 api.nicoad.nicovideo.jp
 0.0.0.0 nicsorts-accarade.com
+0.0.0.0 nielsen.com
 0.0.0.0 mediaview.apps.nielsen.com
 0.0.0.0 nmc.apps.nielsen.com
 0.0.0.0 support.nmc.apps.nielsen.com
@@ -49171,6 +49197,7 @@
 0.0.0.0 pendo.vendors.apps.nielsen.com
 0.0.0.0 data.pendo.vendors.apps.nielsen.com
 0.0.0.0 webinfra-cdn.apps.nielsen.com
+0.0.0.0 www.nielsen.com
 0.0.0.0 nielviok.cf
 0.0.0.0 www.nielviok.cf
 0.0.0.0 waatch.nieuwsblad.be
@@ -52674,6 +52701,7 @@
 0.0.0.0 player.piksel.com
 0.0.0.0 pilgrimarduouscorruption.com
 0.0.0.0 www.pilgrimarduouscorruption.com
+0.0.0.0 pilutce.com
 0.0.0.0 ait.pilutce.com
 0.0.0.0 bit.pilutce.com
 0.0.0.0 cake.pilutce.com
@@ -57292,8 +57320,10 @@
 0.0.0.0 www.refersion.com
 0.0.0.0 refinedwebs.com
 0.0.0.0 www.refinedwebs.com
+0.0.0.0 refinery89.com
 0.0.0.0 measure.refinery89.com
 0.0.0.0 tags.refinery89.com
+0.0.0.0 www.refinery89.com
 0.0.0.0 metrics.refinitiv.com
 0.0.0.0 solutions.refinitiv.com
 0.0.0.0 prod.tracking.refinitiv.com
@@ -59411,12 +59441,14 @@
 0.0.0.0 prderrordumphsm.samsungcloudsolution.com
 0.0.0.0 diagmon-policy.samsungdm.com
 0.0.0.0 diagmon-serviceapi.samsungdm.com
+0.0.0.0 samsungelectronics.com
 0.0.0.0 apu.samsungelectronics.com
 0.0.0.0 bpu.samsungelectronics.com
 0.0.0.0 cpu.samsungelectronics.com
 0.0.0.0 dpu.samsungelectronics.com
 0.0.0.0 kpu.samsungelectronics.com
 0.0.0.0 upu.samsungelectronics.com
+0.0.0.0 www.samsungelectronics.com
 0.0.0.0 xpu.samsungelectronics.com
 0.0.0.0 ypu.samsungelectronics.com
 0.0.0.0 zpu.samsungelectronics.com
@@ -65846,6 +65878,7 @@
 0.0.0.0 ad.tencentmusic.com
 0.0.0.0 adexpo.tencentmusic.com
 0.0.0.0 adstats.tencentmusic.com
+0.0.0.0 tenchier.com
 0.0.0.0 each.tenchier.com
 0.0.0.0 hot.tenchier.com
 0.0.0.0 iot.tenchier.com
@@ -66135,6 +66168,7 @@
 0.0.0.0 thighargu.com
 0.0.0.0 www.thighargu.com
 0.0.0.0 tracker.thinkindot.com
+0.0.0.0 thinkingfastdns.com
 0.0.0.0 ns2.thinkingfastdns.com
 0.0.0.0 ns3.thinkingfastdns.com
 0.0.0.0 ns4.thinkingfastdns.com
@@ -69971,6 +70005,9 @@
 0.0.0.0 vads.vn
 0.0.0.0 www.vads.vn
 0.0.0.0 prf.vagnt.com
+0.0.0.0 vaicore.site
+0.0.0.0 vaicore.store
+0.0.0.0 vaicore.xyz
 0.0.0.0 co.vaicore.site
 0.0.0.0 co.vaicore.store
 0.0.0.0 co.vaicore.xyz
@@ -71027,10 +71064,12 @@
 0.0.0.0 vozastane.com
 0.0.0.0 www.vozastane.com
 0.0.0.0 vozito.net
+0.0.0.0 vpadn.com
 0.0.0.0 dailymotion-cs.vpadn.com
 0.0.0.0 ids-dmp.vpadn.com
 0.0.0.0 m.vpadn.com
 0.0.0.0 tw-api.vpadn.com
+0.0.0.0 www.vpadn.com
 0.0.0.0 vpdcp.com
 0.0.0.0 dcp.vpdcp.com
 0.0.0.0 api.dcp.vpdcp.com
