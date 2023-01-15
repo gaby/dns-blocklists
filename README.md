@@ -35,9 +35,9 @@
 |:--------|---:|:---:|:------:|:-----:|:----:|:---:|:------:|:----------:|
 | [Light](#light)             | 314495<br>151190     | |   |   | = | X | P | X |
 | [Normal](#normal)       | 1063125<br>367505     | |   | = | X | X | P | X |
-| [Pro](#pro)              | 1269025<br>449696         | | = | X | X | X | P | X |
-| [Pro++](#proplus)    | 1374157<br>467415 | | ++ | X | X | X | P |  X |
-| [Ultimate](#ultimate)    | 2138944<br>848879 | ++ | X | X | X | X | X |  X |
+| [Pro](#pro)              | 1269023<br>449695         | | = | X | X | X | P | X |
+| [Pro++](#proplus)    | 1374155<br>467414 | | ++ | X | X | X | P |  X |
+| [Ultimate](#ultimate)    | 2138942<br>848878 | ++ | X | X | X | X | X |  X |
            
 *X = contains the named lists in the column header*       
 *P = partially contains the named list in the column header*       
@@ -79,7 +79,7 @@
       
 *Big broom - Cleans the Internet and protects your privacy! Blocks Ads, Affiliate, Tracking, Metrics, Telemetry, Phishing, Malware, Scam, Fake, Coins and other "Crap".*
          
-**Entries:** *1269025 domains/hosts - 449696 compressed domains* | [Sources/Statistics](https://github.com/hagezi/dns-blocklists/blob/main/usedsources.md#pro)        
+**Entries:** *1269023 domains/hosts - 449695 compressed domains* | [Sources/Statistics](https://github.com/hagezi/dns-blocklists/blob/main/usedsources.md#pro)        
            
 | Format | Link | Can be used for |
 |:-------|:-----|:----------------|
@@ -96,7 +96,7 @@
          
 *More aggressive version of the Multi PRO blocklist. It may contain few false positive domains that limit functionality. Therefore it should only be used by experienced users. Furthermore, an admin should be available to unblock incorrectly blocked domains. Reported false positive domains will be removed from the list!*
 
-**Entries:** *1374157 domains/hosts - 467415 compressed domains* | [Sources/Statistics](https://github.com/hagezi/dns-blocklists/blob/main/usedsources.md#proplus)    
+**Entries:** *1374155 domains/hosts - 467414 compressed domains* | [Sources/Statistics](https://github.com/hagezi/dns-blocklists/blob/main/usedsources.md#proplus)    
                                                 
 | Format | Link | Can be used for |
 |:-------|:-----|:----------------|
@@ -113,7 +113,7 @@
          
 *Stricter version of the Multi PRO++ blocklist. It may contain false positive domains that limit functionality. Therefore it should only be used by experienced users. Furthermore, an admin should be available to unblock incorrectly blocked domains. Reported false positive domains will be removed from the list!*
 
-**Entries:** *2138944 domains/hosts - 848879 compressed domains* | [Sources/Statistics](https://github.com/hagezi/dns-blocklists/blob/main/usedsources.md#ultimate)    
+**Entries:** *2138942 domains/hosts - 848878 compressed domains* | [Sources/Statistics](https://github.com/hagezi/dns-blocklists/blob/main/usedsources.md#ultimate)    
                                                 
 | Format | Link | Can be used for |
 |:-------|:-----|:----------------|
@@ -172,7 +172,7 @@
 
 #### ***Complete Edition - Encrypted DNS Servers, VPN, TOR, Proxies*** <a name="bypass_all"></a>
        
-**Entries:** *1334 domains/hosts - 1219 compressed domains* | [Sources/Statistics](https://github.com/hagezi/dns-blocklists/blob/main/usedsources.md#doh-vpn-proxy-bypass)
+**Entries:** *1372 domains/hosts - 1257 compressed domains* | [Sources/Statistics](https://github.com/hagezi/dns-blocklists/blob/main/usedsources.md#doh-vpn-proxy-bypass)
             
 | Format | Link | Can be used for |
 |:-------|:-----|:----------------|
@@ -271,7 +271,7 @@
 ### ***Personal - My manually maintained blacklist*** <a name="personal"></a>
 *My personal blocklist, an extension for known blocklists. Blocks ads, trackers, native device trackers, badware and more. Not intended to be used as a standalone blocklist, it serves as a addition for other blocklists!*         
         
-**Entries:** *74227 domains/hosts - 24968 compressed domains*
+**Entries:** *74446 domains/hosts - 25077 compressed domains*
        
 | Format | Link | Can be used for |
 |:-------|:-----|:----------------|
