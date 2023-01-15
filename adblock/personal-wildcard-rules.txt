@@ -26,6 +26,10 @@
 ||pijama.*.elasticbeanstalk.com^
 ||production-adserver-*.amazonaws.com^
 ||rtbimp-loadbalancer-*.amazonaws.com^
+||notads.*.xyz^
+||adzxplore.com^
+||*-ads.aimatch.com^
+||programmatics.net^
 
 ! Amazon Shopping
 ||amazon-adsystem.com^
@@ -68,6 +72,33 @@
 |smetrics.*^
 |smetric.*^
 |telemetry.*^
+|track.*^
+@@||track.aftership.com^
+@@||track.aliexpress.com^
+@@||track.customer.io^
+@@||track.effiliation.com^
+@@||track.goshippo.com^
+@@||track.moyu.ac.cn^
+@@||track.nzz.ch^
+@@||track.plop.pm^
+@@||track.productsup.io^
+@@||track.rutarget.ru^
+@@||track.seadform.net^
+@@||track.shoparize.com^
+@@||track.toggl.com^
+@@||track.webgains.com^
+|tracking.*^
+@@||tracking.dpd.de^
+@@||tracking.epicgames.com^
+@@||tracking.exposed^
+@@||tracking.magnetmail.net^
+@@||tracking.post.japanpost.jp^
+@@||tracking.publicidees.com^
+@@||tracking.s24.com^
+@@||tracking.truthfinder.com^
+@@||tracking.ubisoft.com^
+|trk.*^
+@@||trk.klclick*.com^
 ||*.analytics.yahoo.com^
 ||*analytics.chip.de^
 ||*pixel.br.de^
@@ -141,6 +172,7 @@
 ||collect.igodigital.com^
 ||tags.newscgp.com^
 ||*-dl.urbanairship.com^
+||cookietagmanager.net^
 
 ! Apple
 ||*analytics-events.apple.com^
@@ -210,6 +242,9 @@
 ||log*.hicloud.com^
 ||metrics*.dbankcloud.*^
 ||metrics*.hicloud.com^
+
+! Marketing
+||1mm.fr^
 
 ! Microsoft Telemetry
 ||*telemetry.officeapps.live.com^
