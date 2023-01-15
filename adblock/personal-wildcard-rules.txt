@@ -12,6 +12,17 @@
 @@||dpm.demdex.net^
 
 ! Ads
+|ads.*^
+! Audo Stream on ikz-online.de
+@@||ads.julephosting.de^
+! Worms Rumble Game
+@@||ads.t17service.com^
+! TD Bank iOS app
+@@||ads.tdbank.com^
+! CNAME analytics.twitter.com
+@@||ads.twitter.com^
+! Videos on lavoixdunord.fr
+@@||ads.videoadex.com^
 ||*adcloud-*.everesttech.net^
 ||*met-vgwort-de.cdn.ampproject.org^
 ||adnxs-simple.com^
@@ -173,6 +184,7 @@
 ||tags.newscgp.com^
 ||*-dl.urbanairship.com^
 ||cookietagmanager.net^
+||*-telemetry-*.tradingview.com^^
 
 ! Apple
 ||*analytics-events.apple.com^
