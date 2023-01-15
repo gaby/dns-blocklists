@@ -390,8 +390,8 @@
 ! Issues: https://github.com/hagezi/dns-blocklists/issues
 ! License: https://github.com/hagezi/dns-blocklists/blob/main/LICENSE.md
 ! Expires: Updated regularly
-! Last modified: 15 Jan 2023 09:28 UTC
-! Version: 2023.0115.0928.31
+! Last modified: 15 Jan 2023 09:40 UTC
+! Version: 2023.0115.0940.15
 ! Syntax: AdBlock
 ! Domains: 19793
 !
@@ -25899,7 +25899,7 @@
 @@|aax-fe.amazon.com^
 @@|aax-fe.amazon.com.au^
 @@|aax-fe.amazon.sg^
-@@|c.amazon-adsystem.com^
+! c.amazon-adsystem.com
 
 ! Apple
 ! https://support.apple.com/en-us/HT210060
@@ -27991,10 +27991,6 @@
 
 ! LinkedIn Content
 @@|snap.licdn.com^
-
-! Ukrainian streaming service
-@@|sweet.tv^
-@@|www.sweet.tv^
 
 
 ! Title: HaGeZi's White-/Allowlist Referral for Black & White list
