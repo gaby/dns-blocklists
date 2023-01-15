@@ -4,10 +4,10 @@
 # Issues: https://github.com/hagezi/dns-blocklists/issues
 # License: https://github.com/hagezi/dns-blocklists/blob/main/LICENSE.md
 # Expires: Updated regularly
-# Last modified: 15 Jan 2023 09:06 UTC
-# Version: 2023.0115.0906.39
+# Last modified: 15 Jan 2023 09:38 UTC
+# Version: 2023.0115.0938.31
 # Syntax: Domains Wildcard (DNSCrypt/YogaDNS/...)
-# Domains: 22692
+# Domains: 22693
 #
 *.00px.net
 *.021jf.com
@@ -1909,6 +1909,7 @@
 *.aax-us-east-ott.amazon-adsystem.com
 *.aax-us-pdx.amazon-adsystem.com
 *.at-us-east.amazon-adsystem.com
+*.c.amazon-adsystem.com
 *.cdn-a.amazon-adsystem.com
 *.fls-eu.amazon-adsystem.com
 *.fls-fe.amazon-adsystem.com

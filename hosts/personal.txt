@@ -4,10 +4,10 @@
 # Issues: https://github.com/hagezi/dns-blocklists/issues
 # License: https://github.com/hagezi/dns-blocklists/blob/main/LICENSE.md
 # Expires: Updated regularly
-# Last modified: 15 Jan 2023 09:06 UTC
-# Version: 2023.0115.0906.39
+# Last modified: 15 Jan 2023 09:38 UTC
+# Version: 2023.0115.0938.31
 # Syntax: Hosts
-# Domains: 73705
+# Domains: 73706
 #
 0.0.0.0 00px.net
 0.0.0.0 cdn.00px.net
@@ -8165,6 +8165,7 @@
 0.0.0.0 aax-us-east-ott.amazon-adsystem.com
 0.0.0.0 aax-us-pdx.amazon-adsystem.com
 0.0.0.0 at-us-east.amazon-adsystem.com
+0.0.0.0 c.amazon-adsystem.com
 0.0.0.0 cdn-a.amazon-adsystem.com
 0.0.0.0 fls-eu.amazon-adsystem.com
 0.0.0.0 fls-fe.amazon-adsystem.com
