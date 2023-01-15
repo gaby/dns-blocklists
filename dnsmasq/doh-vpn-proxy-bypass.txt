@@ -4,10 +4,10 @@
 # Homepage: https://github.com/hagezi/dns-blocklists
 # Issues: https://github.com/hagezi/dns-blocklists/issues
 # Expires: Updated regularly
-# Last modified: 13 Jan 2023 23:20 UTC
-# Version: 2023.0113.2320.25
+# Last modified: 15 Jan 2023 06:29 UTC
+# Version: 2023.0115.0629.45
 # Syntax: DNSMasq
-# Domains: 1219
+# Domains: 1225
 #
 address=/0000a-fast-proxy.de/#
 address=/012proxy.ga/#
@@ -216,6 +216,7 @@ address=/dns.cmrg.net/#
 address=/antidnsvpn.co.cc/#
 address=/diskcrmvpn.co.cc/#
 address=/englandproxy.co.uk/#
+address=/hax.co.id/#
 address=/hidemyass.co.uk/#
 address=/insteadvpn.co.cc/#
 address=/justproxy.co.uk/#
@@ -342,6 +343,7 @@ address=/rdns.faelix.net/#
 address=/fakeip.org/#
 address=/fastestvpn.com/#
 address=/fastestvpn.info/#
+address=/fastssh.com/#
 address=/fasttime.info/#
 address=/fastusaproxy.com/#
 address=/fastvpn.im/#
@@ -499,6 +501,7 @@ address=/dns.hostux.net/#
 address=/hotbot.com/#
 address=/hotfreevpn.com/#
 address=/hotspotshield.com/#
+address=/howdy.id/#
 address=/hoxx.com/#
 address=/hsselite.com/#
 address=/hyperbyte.net/#
@@ -911,6 +914,7 @@ address=/spidervpn.org/#
 address=/sporium.org/#
 address=/spyoff.com/#
 address=/spysurfing.com/#
+address=/sshkit.com/#
 address=/sslprivateproxy.com/#
 address=/sslpro.eu/#
 address=/sslpro.org/#
@@ -973,6 +977,7 @@ address=/ibksturm.synology.me/#
 address=/dns.t53.de/#
 address=/takomakovpn.top/#
 address=/talk2m.com/#
+address=/tcpvpn.com/#
 address=/tenta.com/#
 address=/tenta.io/#
 address=/the-cloak.com/#
@@ -1124,6 +1129,7 @@ address=/vpnfan.com/#
 address=/vpnfast.pw/#
 address=/vpnfree.in/#
 address=/vpnfree.info/#
+address=/vpngame.com/#
 address=/vpngate.net/#
 address=/vpngate2.jp/#
 address=/vpngorilla.com/#
