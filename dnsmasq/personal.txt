@@ -4,10 +4,10 @@
 # Issues: https://github.com/hagezi/dns-blocklists/issues
 # License: https://github.com/hagezi/dns-blocklists/blob/main/LICENSE.md
 # Expires: Updated regularly
-# Last modified: 15 Jan 2023 10:28 UTC
-# Version: 2023.0115.1028.23
+# Last modified: 15 Jan 2023 13:27 UTC
+# Version: 2023.0115.1327.10
 # Syntax: DNSMasq
-# Domains: 22560
+# Domains: 22558
 #
 address=/00px.net/#
 address=/021jf.com/#
@@ -123,7 +123,7 @@ address=/notads.1gi3rir.xyz/#
 address=/a.1gr.cz/#
 address=/aa.1gr.cz/#
 address=/adsnot.1javguru.xyz/#
-address=/b.1mm.fr/#
+address=/1mm.fr/#
 address=/1mobile.com/#
 address=/1music-online.me/#
 address=/1news.io/#
@@ -1366,7 +1366,7 @@ address=/adzmath.com/#
 address=/adzmedia.com/#
 address=/adzpier.com/#
 address=/adztec.com/#
-address=/65c5181841ff2a85ae13777583b5fb29.adzxplore.com/#
+address=/adzxplore.com/#
 address=/aeeg5idiuenbi7erger.com/#
 address=/aeffe3nhrua5hua.com/#
 address=/tracking.aegpresents.com/#
@@ -2275,9 +2275,7 @@ address=/appclick.co/#
 address=/appcloudbox.net/#
 address=/appcpi.net/#
 address=/fast.appcues.com/#
-address=/api.appdynamics.com/#
-address=/cdn.appdynamics.com/#
-address=/saas.appdynamics.com/#
+address=/appdynamics.com/#
 address=/trk.apperol.com/#
 address=/appflood.com/#
 address=/tenant-content.apm.appfolio-analytics.com/#
@@ -11313,8 +11311,8 @@ address=/involve.asia/#
 address=/ioadserve.com/#
 address=/ioam.de/#
 address=/ascstats.iobit.com/#
+address=/iocnt.de/#
 address=/iocnt.net/#
-address=/apps.iocnt.de/#
 address=/iodewijker.xyz/#
 address=/iodideeyebath.cam/#
 address=/advzone.ioe.vn/#

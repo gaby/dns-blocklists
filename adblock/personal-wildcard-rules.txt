@@ -10,6 +10,8 @@
 ||demdex.net^
 ! Videos on WOW / Sky Ticket / Hulu / ...
 @@||dpm.demdex.net^
+! Break a lot, add it to your personal blacklist and whitelist what you need.
+! ||omtrdc.net^
 
 ! Ads
 |ads.*^
@@ -23,6 +25,9 @@
 @@||ads.twitter.com^
 ! Videos on lavoixdunord.fr
 @@||ads.videoadex.com^
+||*-adkviewtrackingtagserver.*.elasticbeanstalk.com^
+||*-ads.aimatch.com^
+||*-adserver-*.*.elasticbeanstalk.com^
 ||*adcloud-*.everesttech.net^
 ||*met-vgwort-de.cdn.ampproject.org^
 ||adnxs-simple.com^
@@ -30,17 +35,38 @@
 ||adsafeprotected.com^
 ||adserver.*.yahoodns.net^
 ||adsymptotic.com^
+||adtd.douglas.*^
+||adtima-*.zascdn.*^
+||advertising-*.dpgmedia.cloud^
+||adzxplore.com^
 ||cdn.scarabresearch.com^
 ||cxense.com^
 ||iad*.dotomi.com^
 ||iad-*.appboy.com^
-||pijama.*.elasticbeanstalk.com^
-||production-adserver-*.amazonaws.com^
-||rtbimp-loadbalancer-*.amazonaws.com^
 ||notads.*.xyz^
-||adzxplore.com^
-||*-ads.aimatch.com^
+||pijama.*.elasticbeanstalk.com^
 ||programmatics.net^
+||taboola.com^
+||wxadserve.xyz^
+
+! Amazon AWS
+||*-adserver-*.amazonaws.com^
+||*-analytics-*.amazonaws.com^
+||*-beacon-*.amazonaws.com^
+||*-loggers-*.amazonaws.com^
+||*-telemetry-*.amazonaws.com^
+||adktracking-*.amazonaws.com^
+||adn-tktracking-*.amazonaws.com^
+||ads-*.amazonaws.com^
+||adserver-*.amazonaws.com^
+||adservingvpc-*.amazonaws.com^
+||adsk-*.amazonaws.com^
+||beaconserver-*.amazonaws.com^
+||log-collectors-*.amazonaws.com^
+||popadex-*.amazonaws.com^
+||rtbimp-loadbalancer-*.amazonaws.com^
+||tracking-*.amazonaws.com^
+||wildcard-ads-*.amazonaws.com^
 
 ! Amazon Shopping
 ||amazon-adsystem.com^
@@ -122,6 +148,7 @@
 @@||tracking.s24.com^
 @@||tracking.truthfinder.com^
 @@||tracking.ubisoft.com^
+|gtrack.*^
 |trk.*^
 ! Mainly referral links
 @@||trk.klclick*.com^
@@ -201,9 +228,21 @@
 ||cookietagmanager.net^
 ||*-telemetry-*.tradingview.com^^
 ||piwik.pro^
+||-tracking.crazyegg.com^
+||logs.datadoghq.com^
+||webcache*.datareporter.eu^
+||direct-collect.dy-api.*^
+||*analytics*.echostarbeta.com^
+||analytics.edgekey.net^
+! Videos on mtv.fi
+@@||ma135-r.analytics.edgekey.net^
+! Chromecast functionality of Disney+ Hotstar app
+@@||79423.analytics.edgekey.net^
+||collector.xhamster.*^
 
 ! Apple
 ||*analytics-events.apple.com^
+||*analytics-events.news.apple-dns.net^
 ||*feedbackws.icloud.com^
 ||*metrics.apple.com^
 ||*metrics.mzstatic.com^
@@ -273,6 +312,11 @@
 
 ! Marketing
 ||1mm.fr^
+||dotomi.com^
+! Referral links
+@@||cj.dotomi.com^
+! Google Shopping
+@@||ams*-usadmm-ds.dotomi.com
 
 ! Microsoft Telemetry
 ||*telemetry.officeapps.live.com^
@@ -319,6 +363,7 @@
 ||mycleverpush.com^
 
 ! Shitty hosts
+||ad*.on.cc^
 ||load*.biz^
 ||news-*.cc^
 ||news-*.pw^
@@ -337,6 +382,10 @@
 ||usage*.myhomescreen.tv^
 
 ! TikTok Fingerprinting
+||*-ad.byteoversea.com^
+||*-mcs.byteoversea.com^
+||*-mon-*.bytegsdk.com^
+||*-mon-*.byteoversea.com^
 ||ads*.tiktok.com^
 ||analytics*.tiktok.com^
 ||frontier*.byteoversea.com^
@@ -344,7 +393,8 @@
 ||gecko*.byteoversea.com^
 ||gecko*.tiktokv.com^
 ||ib.snssdk.com^
-||log*.byteoversea.com^
+||log*.bytegsdk.com^
+||log*.byteoversea.*^
 ||log*.snssdk.com^
 ||log*.tiktok.com^
 ||log*.tiktokv.com^
@@ -386,9 +436,9 @@
 @@||swankyrule.zomap.de^
 ||hit.gemius.pl^
 ! Videos on different PL pages
+@@||adocean-pl.hit.gemius.pl^
+@@||gapl.hit.gemius.pl^
+@@||idm.hit.gemius.pl^
+@@||pro.hit.gemius.pl^
 @@||spl.hit.gemius.pl^
 @@||str.hit.gemius.pl^
-@@||pro.hit.gemius.pl^
-@@||gapl.hit.gemius.pl^
-@@||adocean-pl.hit.gemius.pl^
-@@||idm.hit.gemius.pl^

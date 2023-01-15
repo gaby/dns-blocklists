@@ -4,10 +4,10 @@
 ! Issues: https://github.com/hagezi/dns-blocklists/issues
 ! License: https://github.com/hagezi/dns-blocklists/blob/main/LICENSE.md
 ! Expires: Updated regularly
-! Last modified: 15 Jan 2023 10:28 UTC
-! Version: 2023.0115.1028.23
+! Last modified: 15 Jan 2023 13:27 UTC
+! Version: 2023.0115.1327.10
 ! Syntax: AdBlock
-! Domains: 22560
+! Domains: 22558
 !
 ||00px.net^
 ||021jf.com^
@@ -123,7 +123,7 @@
 ||a.1gr.cz^
 ||aa.1gr.cz^
 ||adsnot.1javguru.xyz^
-||b.1mm.fr^
+||1mm.fr^
 ||1mobile.com^
 ||1music-online.me^
 ||1news.io^
@@ -1366,7 +1366,7 @@
 ||adzmedia.com^
 ||adzpier.com^
 ||adztec.com^
-||65c5181841ff2a85ae13777583b5fb29.adzxplore.com^
+||adzxplore.com^
 ||aeeg5idiuenbi7erger.com^
 ||aeffe3nhrua5hua.com^
 ||tracking.aegpresents.com^
@@ -2275,9 +2275,7 @@
 ||appcloudbox.net^
 ||appcpi.net^
 ||fast.appcues.com^
-||api.appdynamics.com^
-||cdn.appdynamics.com^
-||saas.appdynamics.com^
+||appdynamics.com^
 ||trk.apperol.com^
 ||appflood.com^
 ||tenant-content.apm.appfolio-analytics.com^
@@ -11313,8 +11311,8 @@
 ||ioadserve.com^
 ||ioam.de^
 ||ascstats.iobit.com^
+||iocnt.de^
 ||iocnt.net^
-||apps.iocnt.de^
 ||iodewijker.xyz^
 ||iodideeyebath.cam^
 ||advzone.ioe.vn^

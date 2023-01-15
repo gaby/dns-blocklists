@@ -4,10 +4,10 @@
 # Issues: https://github.com/hagezi/dns-blocklists/issues
 # License: https://github.com/hagezi/dns-blocklists/blob/main/LICENSE.md
 # Expires: Updated regularly
-# Last modified: 15 Jan 2023 10:28 UTC
-# Version: 2023.0115.1028.23
+# Last modified: 15 Jan 2023 13:27 UTC
+# Version: 2023.0115.1327.10
 # Syntax: Hosts
-# Domains: 73423
+# Domains: 73431
 #
 0.0.0.0 00px.net
 0.0.0.0 cdn.00px.net
@@ -239,7 +239,9 @@
 0.0.0.0 a.1gr.cz
 0.0.0.0 aa.1gr.cz
 0.0.0.0 adsnot.1javguru.xyz
+0.0.0.0 1mm.fr
 0.0.0.0 b.1mm.fr
+0.0.0.0 www.1mm.fr
 0.0.0.0 1mobile.com
 0.0.0.0 advertise.1mobile.com
 0.0.0.0 api4.1mobile.com
@@ -6240,7 +6242,9 @@
 0.0.0.0 cdn.adzpier.com
 0.0.0.0 adztec.com
 0.0.0.0 www.adztec.com
+0.0.0.0 adzxplore.com
 0.0.0.0 65c5181841ff2a85ae13777583b5fb29.adzxplore.com
+0.0.0.0 www.adzxplore.com
 0.0.0.0 aeeg5idiuenbi7erger.com
 0.0.0.0 aeffe3nhrua5hua.com
 0.0.0.0 tracking.aegpresents.com
@@ -8826,6 +8830,7 @@
 0.0.0.0 usertrack.appcpi.net
 0.0.0.0 www.appcpi.net
 0.0.0.0 fast.appcues.com
+0.0.0.0 appdynamics.com
 0.0.0.0 api.appdynamics.com
 0.0.0.0 analytics.api.appdynamics.com
 0.0.0.0 synthetic.api.appdynamics.com
@@ -8866,6 +8871,7 @@
 0.0.0.0 ui-cdn.saas.appdynamics.com
 0.0.0.0 wawanesaprod.saas.appdynamics.com
 0.0.0.0 worldpac.saas.appdynamics.com
+0.0.0.0 www.appdynamics.com
 0.0.0.0 trk.apperol.com
 0.0.0.0 appflood.com
 0.0.0.0 atracking-auto.appflood.com
@@ -11423,6 +11429,7 @@
 0.0.0.0 batch.com
 0.0.0.0 api.batch.com
 0.0.0.0 via.batch.com
+0.0.0.0 wsmetrics.batch.com
 0.0.0.0 www.batch.com
 0.0.0.0 batecrowle.click
 0.0.0.0 www.batecrowle.click
@@ -40689,6 +40696,7 @@
 0.0.0.0 script.ioam.de
 0.0.0.0 www.ioam.de
 0.0.0.0 ascstats.iobit.com
+0.0.0.0 iocnt.de
 0.0.0.0 iocnt.net
 0.0.0.0 appntv-relay.iocnt.net
 0.0.0.0 apps.iocnt.de
