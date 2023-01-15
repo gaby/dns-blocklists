@@ -1667,6 +1667,9 @@
 ! Manage kmail lists
 @@|static.klaviyo.com^
 
+! Unsubscribe from Newsletters
+@@|static-tracking.klaviyo.com^
+
 ! https://github.com/hagezi/dns-blocklists/issues/72
 @@|manli.com^
 @@|www.manli.com^
@@ -2155,4 +2158,8 @@
 
 ! LinkedIn Content
 @@|snap.licdn.com^
+
+! File/Document Sharing
+@@|docdro.id^
+@@|www.docdro.id^
 
