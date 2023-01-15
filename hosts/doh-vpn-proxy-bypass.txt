@@ -4,10 +4,10 @@
 # Homepage: https://github.com/hagezi/dns-blocklists
 # Issues: https://github.com/hagezi/dns-blocklists/issues
 # Expires: Updated regularly
-# Last modified: 15 Jan 2023 06:29 UTC
-# Version: 2023.0115.0629.45
+# Last modified: 15 Jan 2023 07:30 UTC
+# Version: 2023.0115.0730.12
 # Syntax: Hosts
-# Domains: 1340
+# Domains: 1372
 #
 0.0.0.0 0000a-fast-proxy.de
 0.0.0.0 012proxy.ga
@@ -94,6 +94,7 @@
 0.0.0.0 americaproxy.info
 0.0.0.0 anchorfree.net
 0.0.0.0 anchorfree.us
+0.0.0.0 androvpn.com
 0.0.0.0 aniscartujo.com
 0.0.0.0 anonine.com
 0.0.0.0 anonvpn.io
@@ -150,6 +151,7 @@
 0.0.0.0 bestvpnprovider.info
 0.0.0.0 bestvpnrating.com
 0.0.0.0 bestvpnserver.com
+0.0.0.0 bestvpnssh.com
 0.0.0.0 betternet.co
 0.0.0.0 dns-tls.bitwiseshift.net
 0.0.0.0 blackvpn.com
@@ -222,6 +224,7 @@
 0.0.0.0 family.canadianshield.cira.ca
 0.0.0.0 private.canadianshield.cira.ca
 0.0.0.0 protected.canadianshield.cira.ca
+0.0.0.0 ciscossh.com
 0.0.0.0 citizenvpn.com
 0.0.0.0 cleanbrowsing.org
 0.0.0.0 adult-filter-dns.cleanbrowsing.org
@@ -263,7 +266,10 @@
 0.0.0.0 du8aqpqj1sfsd.cloudfront.net
 0.0.0.0 dwhh0bi26t86w.cloudfront.net
 0.0.0.0 dy58t8rwtsd9j.cloudfront.net
+0.0.0.0 cloudssh.net
+0.0.0.0 cloudssh.us
 0.0.0.0 dns.cmrg.net
+0.0.0.0 akashiro.co.id
 0.0.0.0 antidnsvpn.co.cc
 0.0.0.0 diskcrmvpn.co.cc
 0.0.0.0 englandproxy.co.uk
@@ -308,6 +314,8 @@
 0.0.0.0 dot.cox.net
 0.0.0.0 dohdot.coxlab.net
 0.0.0.0 crazyproxy.org
+0.0.0.0 createssh.com
+0.0.0.0 criarssh.com
 0.0.0.0 croxyproxy.com
 0.0.0.0 croxyproxy.rocks
 0.0.0.0 crushus.com
@@ -319,6 +327,7 @@
 0.0.0.0 cryptostorm.is
 0.0.0.0 curd.io
 0.0.0.0 cyberghostvpn.com
+0.0.0.0 cyberssh.com
 0.0.0.0 proxy.darkvpn.com
 0.0.0.0 dns.decloudus.com
 0.0.0.0 dee.su
@@ -447,6 +456,7 @@
 0.0.0.0 flashvpn.li
 0.0.0.0 flowvpn.com
 0.0.0.0 fly.io
+0.0.0.0 flyssh.com
 0.0.0.0 flyvpn.com
 0.0.0.0 for-privacy.net
 0.0.0.0 fortinet.com
@@ -483,6 +493,7 @@
 0.0.0.0 freevpn.cloud
 0.0.0.0 freevpn.me
 0.0.0.0 freevpn.org
+0.0.0.0 freevpn.us
 0.0.0.0 freevpn.zone
 0.0.0.0 freevpn4you.net
 0.0.0.0 freevpnapp.org
@@ -514,8 +525,10 @@
 0.0.0.0 getvpn.info
 0.0.0.0 gfwvpn.com
 0.0.0.0 gizlibaglanti.com
+0.0.0.0 globalssh.net
 0.0.0.0 privacydns.go6lab.si
 0.0.0.0 goldvpn.info
+0.0.0.0 goodssh.com
 0.0.0.0 dns.google.com
 0.0.0.0 google-public-dns-a.google.com
 0.0.0.0 google-public-dns-b.google.com
@@ -527,6 +540,7 @@
 0.0.0.0 gratisvpn.com
 0.0.0.0 greatestfreeproxy.com
 0.0.0.0 greenproxy.net
+0.0.0.0 greenssh.com
 0.0.0.0 jp.gridns.xyz
 0.0.0.0 sg.gridns.xyz
 0.0.0.0 guardianapp.com
@@ -558,6 +572,7 @@
 0.0.0.0 hidenseek.org
 0.0.0.0 hideoxy.com
 0.0.0.0 hideproxy.me
+0.0.0.0 hidessh.com
 0.0.0.0 hidester.com
 0.0.0.0 hidetheinternet.com
 0.0.0.0 hidethisip.net
@@ -598,6 +613,7 @@
 0.0.0.0 instantunblock.com
 0.0.0.0 interncloud.info
 0.0.0.0 internetcloak.com
+0.0.0.0 interssh.com
 0.0.0.0 intervpn.com
 0.0.0.0 ipbuzz.net
 0.0.0.0 ipchanging.com
@@ -614,8 +630,10 @@
 0.0.0.0 itopvpn.com
 0.0.0.0 ivacy.com
 0.0.0.0 ivpn.net
+0.0.0.0 jagoanssh.com
 0.0.0.0 japanwebproxy.com
 0.0.0.0 jcdns.fun
+0.0.0.0 jetssh.com
 0.0.0.0 opencdn.jomodns.com
 0.0.0.0 k2vpn.io
 0.0.0.0 dns.keweon.center
@@ -637,6 +655,7 @@
 0.0.0.0 sby-doh.limotelu.org
 0.0.0.0 linkmefree.net
 0.0.0.0 linkmetube.com
+0.0.0.0 lionssh.com
 0.0.0.0 quickvpn.lipisoft.com
 0.0.0.0 locaproxy.com
 0.0.0.0 lookingglass.site
@@ -644,6 +663,7 @@
 0.0.0.0 luminati.io
 0.0.0.0 luminatinet.com
 0.0.0.0 maddw.com
+0.0.0.0 mainssh.com
 0.0.0.0 mastersslvpn.gq
 0.0.0.0 msc.mcafee.com
 0.0.0.0 safeconnect.mcafee.com
@@ -673,6 +693,7 @@
 0.0.0.0 myprivateproxy.net
 0.0.0.0 myproxy.info
 0.0.0.0 myproxysite.org
+0.0.0.0 mytunneling.com
 0.0.0.0 myunblocksites.com
 0.0.0.0 napps-1.com
 0.0.0.0 napps-2.com
@@ -817,6 +838,7 @@
 0.0.0.0 polargrizzly.com
 0.0.0.0 polaris.cx
 0.0.0.0 polippix.org
+0.0.0.0 portssh.com
 0.0.0.0 doh.post-factum.tk
 0.0.0.0 doh.powerdns.org
 0.0.0.0 pplsearcher.com
@@ -984,6 +1006,7 @@
 0.0.0.0 securevpn.io
 0.0.0.0 securewebproxy.net
 0.0.0.0 seeproxy.me
+0.0.0.0 serverssh.net
 0.0.0.0 setupvpn.com
 0.0.0.0 shadowsocks.org
 0.0.0.0 shadowsurf.com
@@ -999,6 +1022,7 @@
 0.0.0.0 sitenable.org
 0.0.0.0 sitescrack.host
 0.0.0.0 siteunblock.org
+0.0.0.0 skyssh.co
 0.0.0.0 skyvpn.net
 0.0.0.0 slickvpn.com
 0.0.0.0 smartdnsproxy.com
@@ -1016,11 +1040,18 @@
 0.0.0.0 spedo.co
 0.0.0.0 speedify.com
 0.0.0.0 speedproxy.online
+0.0.0.0 speedssh.com
 0.0.0.0 spidervpn.org
 0.0.0.0 sporium.org
 0.0.0.0 spyoff.com
 0.0.0.0 spysurfing.com
+0.0.0.0 ssh-free.com
+0.0.0.0 sshagan.net
+0.0.0.0 sshdropbear.net
 0.0.0.0 sshkit.com
+0.0.0.0 sshocean.com
+0.0.0.0 sshssl.com
+0.0.0.0 sshstores.net
 0.0.0.0 sslprivateproxy.com
 0.0.0.0 sslpro.eu
 0.0.0.0 sslpro.org
@@ -1277,6 +1308,7 @@
 0.0.0.0 vpntunnel.com
 0.0.0.0 vpntunnel.net
 0.0.0.0 vpntunnel.se
+0.0.0.0 vpnudp.com
 0.0.0.0 vpnunlimited.com
 0.0.0.0 vpnunlimitedapp.com
 0.0.0.0 vpnuse.com
