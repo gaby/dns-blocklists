@@ -13,7 +13,7 @@
 
 ! Ads
 |ads.*^
-! Audo Stream on ikz-online.de
+! Audio Stream on ikz-online.de
 @@||ads.julephosting.de^
 ! Worms Rumble Game
 @@||ads.t17service.com^
@@ -50,7 +50,8 @@
 @@||aax-eu.amazon.*^
 @@||aax-fe.amazon.*^
 @@||assoc-redirect.amazon.*^
-@@||c.amazon-adsystem.com^
+! I'm not sure if you need to unblock this yet
+! @@||c.amazon-adsystem.com^
 ||advertising.amazon.*^
 ||assoc-amazon.*^
 ||fls*.amazon.*^
@@ -71,7 +72,9 @@
 ! Analytics / Tracker / Privacy
 |analytics.*^
 |analytic.*^
+! ControlD analytics page
 @@||analytics.controld.com^
+! Twitter referral links
 @@||analytics.twitter.com^
 |sanalytics.*^
 |sanalytic.*^
@@ -86,31 +89,41 @@
 |track.*^
 ! Mainly referral links
 @@||track.aftership.com^
+! Parcel tracking
 @@||track.aliexpress.com^
 @@||track.customer.io^
 @@||track.effiliation.com^
+! Parcel tracking
 @@||track.goshippo.com^
+! Tracking application status of https://ceac.state.gov/ceac/
 @@||track.moyu.ac.cn^
 ! Breaks nzz.ch
 @@||track.nzz.ch^
+! Torrent Tracker
 @@||track.plop.pm^
 @@||track.productsup.io^
-@@||track.rutarget.ru^
 @@||track.seadform.net^
 @@||track.shoparize.com^
+! Time Tracking
 @@||track.toggl.com^
 @@||track.webgains.com^
 |tracking.*^
+! Mainly referral links
+! Parcel tracking
 @@||tracking.dpd.de^
+! Purchase games on Epic Game Store
 @@||tracking.epicgames.com^
+! Tools to uncover how tracking and profiling have an impact on society 
 @@||tracking.exposed^
 @@||tracking.magnetmail.net^
+! Parcel tracking
 @@||tracking.post.japanpost.jp^
 @@||tracking.publicidees.com^
 @@||tracking.s24.com^
 @@||tracking.truthfinder.com^
 @@||tracking.ubisoft.com^
 |trk.*^
+! Mainly referral links
 @@||trk.klclick*.com^
 ||*.analytics.yahoo.com^
 ||*analytics.chip.de^
