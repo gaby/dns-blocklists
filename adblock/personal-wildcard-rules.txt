@@ -135,6 +135,12 @@
 ! Adblock-Detection: Bild.de, Sport1 and others
 @@||tags.tiqcdn.com^
 @@||www.asadcdn.com^
+||log*.aliyuncs.com^
+||*-ia.aimatch.com^
+||goatcounter.com^
+||collect.igodigital.com^
+||tags.newscgp.com^
+||*-dl.urbanairship.com^
 
 ! Apple
 ||*analytics-events.apple.com^
@@ -306,6 +312,9 @@
 @@||damoh.schneevonmorgen.com^
 @@||glomex.com^
 ||imrworldwide.com^
+||litix.io^
+! Videos on dmax.de
+@@||src.litix.io^
 ||nmrodam.com^
 ||smartclip.net^
 ||videostep.com^
