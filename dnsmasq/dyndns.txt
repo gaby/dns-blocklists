@@ -3,10 +3,10 @@
 # Homepage: https://github.com/hagezi/dns-blocklists
 # Issues: https://github.com/hagezi/dns-blocklists/issues
 # Expires: Updated regularly
-# Last modified: 16 Jan 2023 08:31 UTC
-# Version: 2023.0116.0831.29
+# Last modified: 16 Jan 2023 23:19 UTC
+# Version: 2023.0116.2319.48
 # Syntax: DNSMasq
-# Domains: 792
+# Domains: 791
 #
 address=/001www.com/#
 address=/0x.no/#
@@ -125,7 +125,6 @@ address=/ddnsfree.com/#
 address=/ddnsgeek.com/#
 address=/ddnsguru.com/#
 address=/ddnsking.com/#
-address=/ddnslive.com/#
 address=/deaftone.com/#
 address=/dedyn.io/#
 address=/dhcp.biz/#
