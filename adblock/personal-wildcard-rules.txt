@@ -96,23 +96,23 @@
 ||aviary.amazon.*^
 
 ! Analytics / Tracker / Privacy
-|analytics.*^
-|analytic.*^
+|analytics.*.*^
+|analytic.*.*^
 ! ControlD analytics page
 @@||analytics.controld.com^
 ! Twitter referral links
 @@||analytics.twitter.com^
-|sanalytics.*^
-|sanalytic.*^
-|metrics.*^
-|metric.*^
+|sanalytics.*.*^
+|sanalytic.*.*^
+|metrics.*.*^
+|metric.*.*^
 ! Not used for tracking, metrics, analytics
 @@||metric.gstatic.com^
-|piwik.*^
-|smetrics.*^
-|smetric.*^
-|telemetry.*^
-|track.*^
+|piwik.*.*^
+|smetrics.*.*^
+|smetric.*.*^
+|telemetry.*.*^
+|track.*.*^
 ! Mainly referral links
 @@||track.aftership.com^
 ! Parcel tracking
@@ -133,7 +133,7 @@
 ! Time Tracking
 @@||track.toggl.com^
 @@||track.webgains.com^
-|tracking.*^
+|tracking.*.*^
 ! Mainly referral links
 ! Parcel tracking
 @@||tracking.dpd.de^
@@ -148,8 +148,8 @@
 @@||tracking.s24.com^
 @@||tracking.truthfinder.com^
 @@||tracking.ubisoft.com^
-|gtrack.*^
-|trk.*^
+|gtrack.*.*^
+|trk.*.*^
 ! Mainly referral links
 @@||trk.klclick*.com^
 ||*.analytics.yahoo.com^
@@ -228,7 +228,7 @@
 ||cookietagmanager.net^
 ||*-telemetry-*.tradingview.com^^
 ||piwik.pro^
-||-tracking.crazyegg.com^
+||*-tracking.crazyegg.com^
 ||logs.datadoghq.com^
 ||webcache*.datareporter.eu^
 ||direct-collect.dy-api.*^
@@ -304,7 +304,7 @@
 ||events-*.dbankcloud.*^
 ||events-*.hicloud.com^
 ||grs*.dbankcloud.*^
-||grs.hicloud.com^
+||grs*.hicloud.com^
 ||log*.dbankcloud.*^
 ||log*.hicloud.com^
 ||metrics*.dbankcloud.*^

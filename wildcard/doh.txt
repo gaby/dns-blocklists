@@ -5,10 +5,10 @@
 # Issues: https://github.com/hagezi/dns-blocklists/issues
 # License: https://github.com/hagezi/dns-blocklists/blob/main/LICENSE.md
 # Expires: Updated regularly
-# Last modified: 09 Jan 2023 23:19 UTC
-# Version: 2023.0109.2319.59
+# Last modified: 16 Jan 2023 08:30 UTC
+# Version: 2023.0116.0830.40
 # Syntax: Domains Wildcard (DNSCrypt/YogaDNS/...)
-# Domains: 266
+# Domains: 269
 #
 *.1and1-dns.de
 *.233py.com
@@ -86,6 +86,7 @@
 *.dot.cox.net
 *.dohdot.coxlab.net
 *.crypto.sx
+*.jit.ddns.net
 *.dns.decloudus.com
 *.doh.defaultroutes.de
 *.dns.digitale-gesellschaft.ch
@@ -203,6 +204,8 @@
 *.dns.oszx.co
 *.2.dnscrypt-cert.oszx.co
 *.dns.paesa.es
+*.a.passcloud.xyz
+*.i.passcloud.xyz
 *.rpz-public-resolver1.rrdns.pch.net
 *.doh.centraleu.pi-dns.com
 *.dot.centraleu.pi-dns.com

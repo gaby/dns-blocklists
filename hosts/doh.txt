@@ -5,10 +5,10 @@
 # Issues: https://github.com/hagezi/dns-blocklists/issues
 # License: https://github.com/hagezi/dns-blocklists/blob/main/LICENSE.md
 # Expires: Updated regularly
-# Last modified: 09 Jan 2023 23:19 UTC
-# Version: 2023.0109.2319.59
+# Last modified: 16 Jan 2023 08:30 UTC
+# Version: 2023.0116.0830.40
 # Syntax: Hosts
-# Domains: 352
+# Domains: 355
 #
 0.0.0.0 1and1-dns.de
 0.0.0.0 233py.com
@@ -144,6 +144,7 @@
 0.0.0.0 crypto.sx
 0.0.0.0 doh.crypto.sx
 0.0.0.0 doh-ipv6.crypto.sx
+0.0.0.0 jit.ddns.net
 0.0.0.0 dns.decloudus.com
 0.0.0.0 doh.defaultroutes.de
 0.0.0.0 dns.digitale-gesellschaft.ch
@@ -281,6 +282,8 @@
 0.0.0.0 dns.oszx.co
 0.0.0.0 2.dnscrypt-cert.oszx.co
 0.0.0.0 dns.paesa.es
+0.0.0.0 a.passcloud.xyz
+0.0.0.0 i.passcloud.xyz
 0.0.0.0 rpz-public-resolver1.rrdns.pch.net
 0.0.0.0 doh.centraleu.pi-dns.com
 0.0.0.0 dot.centraleu.pi-dns.com

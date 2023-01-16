@@ -4,10 +4,10 @@
 # Homepage: https://github.com/hagezi/dns-blocklists
 # Issues: https://github.com/hagezi/dns-blocklists/issues
 # Expires: Updated regularly
-# Last modified: 15 Jan 2023 07:30 UTC
-# Version: 2023.0115.0730.12
+# Last modified: 16 Jan 2023 08:29 UTC
+# Version: 2023.0116.0829.43
 # Syntax: Hosts
-# Domains: 1372
+# Domains: 1397
 #
 0.0.0.0 0000a-fast-proxy.de
 0.0.0.0 012proxy.ga
@@ -94,13 +94,16 @@
 0.0.0.0 americaproxy.info
 0.0.0.0 anchorfree.net
 0.0.0.0 anchorfree.us
+0.0.0.0 android-vpn.tk
 0.0.0.0 androvpn.com
+0.0.0.0 anhomevpns.tk
 0.0.0.0 aniscartujo.com
 0.0.0.0 anonine.com
 0.0.0.0 anonvpn.io
 0.0.0.0 anonymize.com
 0.0.0.0 anonymizer.com
 0.0.0.0 anonymous-proxies.net
+0.0.0.0 anonymousboozebagvpn.tk
 0.0.0.0 anonymouse.org
 0.0.0.0 anonymousvpn.info
 0.0.0.0 anonymousvpn.org
@@ -328,7 +331,9 @@
 0.0.0.0 curd.io
 0.0.0.0 cyberghostvpn.com
 0.0.0.0 cyberssh.com
+0.0.0.0 d4.re
 0.0.0.0 proxy.darkvpn.com
+0.0.0.0 jit.ddns.net
 0.0.0.0 dns.decloudus.com
 0.0.0.0 dee.su
 0.0.0.0 doh.defaultroutes.de
@@ -470,12 +475,12 @@
 0.0.0.0 free-proxysite.com
 0.0.0.0 free-vpn.cn
 0.0.0.0 free-vpn.xyz
+0.0.0.0 free4proxy.tv
 0.0.0.0 freebypassproxy.com
 0.0.0.0 freecanadavpn.com
 0.0.0.0 freecavpn.com
 0.0.0.0 freecloudvpn.com
 0.0.0.0 freedevpn.com
-0.0.0.0 freedomvpn.ga
 0.0.0.0 freeeuroproxy.com
 0.0.0.0 freehiddenvpn.gq
 0.0.0.0 freeopenproxy.com
@@ -522,7 +527,6 @@
 0.0.0.0 getlantern.org
 0.0.0.0 getproxi.es
 0.0.0.0 getusvpn.com
-0.0.0.0 getvpn.info
 0.0.0.0 gfwvpn.com
 0.0.0.0 gizlibaglanti.com
 0.0.0.0 globalssh.net
@@ -629,8 +633,10 @@
 0.0.0.0 ispvpn.com
 0.0.0.0 itopvpn.com
 0.0.0.0 ivacy.com
+0.0.0.0 ivpn.info
 0.0.0.0 ivpn.net
 0.0.0.0 jagoanssh.com
+0.0.0.0 jailbreaked.net
 0.0.0.0 japanwebproxy.com
 0.0.0.0 jcdns.fun
 0.0.0.0 jetssh.com
@@ -657,8 +663,9 @@
 0.0.0.0 linkmetube.com
 0.0.0.0 lionssh.com
 0.0.0.0 quickvpn.lipisoft.com
+0.0.0.0 litevpn.top
+0.0.0.0 lmpproxyssurfukvpn.tk
 0.0.0.0 locaproxy.com
-0.0.0.0 lookingglass.site
 0.0.0.0 lopana.com
 0.0.0.0 luminati.io
 0.0.0.0 luminatinet.com
@@ -681,6 +688,7 @@
 0.0.0.0 mofolinux.com
 0.0.0.0 monvpn.com
 0.0.0.0 movieproxy.com
+0.0.0.0 testpilot.r53-2.services.mozilla.com
 0.0.0.0 vpn.mozilla.org
 0.0.0.0 dns.mrkaran.dev
 0.0.0.0 mullvad.net
@@ -688,6 +696,7 @@
 0.0.0.0 adblock.doh.mullvad.net
 0.0.0.0 my-proxy.com
 0.0.0.0 mybestvpn.info
+0.0.0.0 mycelium.site
 0.0.0.0 freedom.mydns.network
 0.0.0.0 myip.io
 0.0.0.0 myprivateproxy.net
@@ -700,6 +709,8 @@
 0.0.0.0 vpn.ncapi.io
 0.0.0.0 dns.aa.net.uk
 0.0.0.0 doh.infotek.net.id
+0.0.0.0 files-slickvpn.netdna-ssl.com
+0.0.0.0 luminati-holanetworksltd.netdna-ssl.com
 0.0.0.0 netvpn.us
 0.0.0.0 dns.neutopia.org
 0.0.0.0 newipnow.com
@@ -736,6 +747,7 @@
 0.0.0.0 dns.njal.la
 0.0.0.0 njtzzrvg0lwj3bsn.info
 0.0.0.0 nntime.com
+0.0.0.0 no-block.net
 0.0.0.0 nocensor.work
 0.0.0.0 nordaccount.com
 0.0.0.0 nordcdn.com
@@ -747,6 +759,7 @@
 0.0.0.0 nqma.net
 0.0.0.0 vpn.nvidia.com
 0.0.0.0 nvpn.net
+0.0.0.0 nvpn.so
 0.0.0.0 nvpn.to
 0.0.0.0 oclearningteam.com
 0.0.0.0 octovpn.net
@@ -810,6 +823,8 @@
 0.0.0.0 panyyhh.xyz
 0.0.0.0 panzend.xyz
 0.0.0.0 parrotsec.org
+0.0.0.0 a.passcloud.xyz
+0.0.0.0 i.passcloud.xyz
 0.0.0.0 rpz-public-resolver1.rrdns.pch.net
 0.0.0.0 perfect-privacy.com
 0.0.0.0 personalvpn.biz
@@ -834,7 +849,6 @@
 0.0.0.0 helios.plan9-dns.com
 0.0.0.0 kronos.plan9-dns.com
 0.0.0.0 pluton.plan9-dns.com
-0.0.0.0 polandgrows.com
 0.0.0.0 polargrizzly.com
 0.0.0.0 polaris.cx
 0.0.0.0 polippix.org
@@ -854,7 +868,6 @@
 0.0.0.0 privateinternetaccess.com
 0.0.0.0 privatetunnel.com
 0.0.0.0 privatevpn.com
-0.0.0.0 pro-unblock.com
 0.0.0.0 prointern.info
 0.0.0.0 prostovpn.org
 0.0.0.0 vpn-api.proton.me
@@ -895,6 +908,7 @@
 0.0.0.0 proxy2014.net
 0.0.0.0 proxy4freedom.com
 0.0.0.0 proxy7.club
+0.0.0.0 proxybeud.info
 0.0.0.0 proxyboost.net
 0.0.0.0 proxybox.ru
 0.0.0.0 proxybrowse.info
@@ -903,11 +917,11 @@
 0.0.0.0 proxycloyd.com
 0.0.0.0 proxyfactory.io
 0.0.0.0 proxyfish.com
+0.0.0.0 proxyflows.com
 0.0.0.0 proxyfor.eu
 0.0.0.0 proxyfree.org
 0.0.0.0 proxygogo.info
 0.0.0.0 proxyhub.in
-0.0.0.0 proxyisp.com
 0.0.0.0 proxylistpro.com
 0.0.0.0 proxyload.net
 0.0.0.0 proxymaster.me
@@ -916,6 +930,7 @@
 0.0.0.0 proxyof.com
 0.0.0.0 proxyone.net
 0.0.0.0 proxypirates.com
+0.0.0.0 proxyportals.info
 0.0.0.0 proxypremium.top
 0.0.0.0 proxypx.com
 0.0.0.0 proxypy.org
@@ -923,6 +938,7 @@
 0.0.0.0 proxyscrape.com
 0.0.0.0 proxyserver.com
 0.0.0.0 proxyserverlist24.top
+0.0.0.0 proxysit.es
 0.0.0.0 proxysite.cloud
 0.0.0.0 proxysite.club
 0.0.0.0 proxysite.com
@@ -931,6 +947,7 @@
 0.0.0.0 proxysite.top
 0.0.0.0 proxysite.video
 0.0.0.0 proxysneak.com
+0.0.0.0 proxysurfers.info
 0.0.0.0 proxythis.info
 0.0.0.0 proxyturbo.com
 0.0.0.0 proxyunblock.site
@@ -965,6 +982,7 @@
 0.0.0.0 rabbithole.site
 0.0.0.0 radmin-vpn.com
 0.0.0.0 rapidproxy.us
+0.0.0.0 realanonproxy.com
 0.0.0.0 relayon.org
 0.0.0.0 remotedesktop.com
 0.0.0.0 kaitain.restena.lu
@@ -975,6 +993,7 @@
 0.0.0.0 doh.rezhajul.io
 0.0.0.0 ringvpn.com
 0.0.0.0 ronfeed.com
+0.0.0.0 rosendaproxy.info
 0.0.0.0 rsocks.net
 0.0.0.0 dns.rubyfish.cn
 0.0.0.0 ea-dns.rubyfish.cn
@@ -1031,9 +1050,7 @@
 0.0.0.0 snowproxy.com
 0.0.0.0 socks-proxy.net
 0.0.0.0 free-vpn.en.softonic.com
-0.0.0.0 softvpn.ml
 0.0.0.0 spacevpn.io
-0.0.0.0 spanproxy.com
 0.0.0.0 sparklabs.com
 0.0.0.0 doh-01.spectrum.com
 0.0.0.0 doh-02.spectrum.com
@@ -1066,6 +1083,7 @@
 0.0.0.0 stealthy.co
 0.0.0.0 stop-block.com
 0.0.0.0 stopcensoring.me
+0.0.0.0 stormyproxy.info
 0.0.0.0 strongvpn.com
 0.0.0.0 stunnel.org
 0.0.0.0 stupidproxy.com
@@ -1085,6 +1103,7 @@
 0.0.0.0 surfeasy.com
 0.0.0.0 surfly.com
 0.0.0.0 surfmenow.com
+0.0.0.0 surfproxyanywheresvpns.tk
 0.0.0.0 surfproxyserver.com
 0.0.0.0 surfshak.club
 0.0.0.0 surfshark.app
@@ -1158,6 +1177,7 @@
 0.0.0.0 tubeunblock.me
 0.0.0.0 tubeunblock.net
 0.0.0.0 tunnelbear.com
+0.0.0.0 tuntapproxy.info
 0.0.0.0 turbohide.org
 0.0.0.0 turbovpn.com
 0.0.0.0 tuxlervpn.com
@@ -1180,6 +1200,7 @@
 0.0.0.0 unblockaccess.com
 0.0.0.0 unblockanything.com
 0.0.0.0 unblockblocked.net
+0.0.0.0 unblockblog.info
 0.0.0.0 unblockbook.biz
 0.0.0.0 unblocked.llc
 0.0.0.0 unblocked.me
@@ -1187,6 +1208,7 @@
 0.0.0.0 unblocker.net
 0.0.0.0 unblocker.us
 0.0.0.0 unblockfreeproxy.com
+0.0.0.0 unblockit.app
 0.0.0.0 unblockit.club
 0.0.0.0 unblockit.link
 0.0.0.0 unblockit.ltd
@@ -1218,6 +1240,7 @@
 0.0.0.0 unifiedvpn.com
 0.0.0.0 unknownproxy.com
 0.0.0.0 unlimitedvpnapp.com
+0.0.0.0 unrestrict.me
 0.0.0.0 unrestrictedsurf.com
 0.0.0.0 ur-browser.com
 0.0.0.0 urban-vpn.com
@@ -1344,6 +1367,7 @@
 0.0.0.0 wiseghostapp.com
 0.0.0.0 wlvpn.com
 0.0.0.0 wonderland.ws
+0.0.0.0 workhost.eu
 0.0.0.0 workproxy.net
 0.0.0.0 wossow.com
 0.0.0.0 dns.wugui.zone
@@ -1369,6 +1393,7 @@
 0.0.0.0 youtubez.com
 0.0.0.0 yui.cat
 0.0.0.0 yxorproxy.com
+0.0.0.0 zacebookpk.com
 0.0.0.0 zalmos.com
 0.0.0.0 zen44.com
 0.0.0.0 zend2.com

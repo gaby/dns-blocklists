@@ -3,10 +3,10 @@
 # Homepage: https://github.com/hagezi/dns-blocklists
 # Issues: https://github.com/hagezi/dns-blocklists/issues
 # Expires: Updated regularly
-# Last modified: 11 Jan 2023 23:19 UTC
-# Version: 2023.0111.2319.19
+# Last modified: 16 Jan 2023 08:28 UTC
+# Version: 2023.0116.0828.51
 # Syntax: Hosts
-# Domains: 137
+# Domains: 141
 #
 0.0.0.0 search.0xcb.dev
 0.0.0.0 searx.32bitflo.at
@@ -18,6 +18,7 @@
 0.0.0.0 search.aol.com
 0.0.0.0 search.azkware.net
 0.0.0.0 searx.bbaovanc.com
+0.0.0.0 beezboo.com
 0.0.0.0 search.biboumail.fr
 0.0.0.0 search.bluelock.org
 0.0.0.0 boomle.com
@@ -99,6 +100,7 @@
 0.0.0.0 www.perfectpixel.de
 0.0.0.0 search.privacytools.io
 0.0.0.0 searx.prvcy.eu
+0.0.0.0 searx.pwoss.org
 0.0.0.0 nova.rambler.ru
 0.0.0.0 searx.rasp.fr
 0.0.0.0 wtf.roflcopter.fr
@@ -124,6 +126,8 @@
 0.0.0.0 searx.semipvt.com
 0.0.0.0 searx.simonoener.com
 0.0.0.0 skyn3t.in
+0.0.0.0 searx.slash-dev.de
+0.0.0.0 search.snopyta.org
 0.0.0.0 searx.solusar.de
 0.0.0.0 searx.sp-codes.de
 0.0.0.0 search.spaeth.me
