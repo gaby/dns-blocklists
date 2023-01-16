@@ -2169,3 +2169,6 @@
 @@||phonecallapi.micloud.xiaomi.net^
 @@||smsapi.micloud.xiaomi.net^
 
+! Prevents Netflix from continuing to play videos where you stopped or paused them
+@@|ichnaea*.netflix.com^
+
