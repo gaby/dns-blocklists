@@ -30,13 +30,32 @@
 ||*-adserver-*.*.elasticbeanstalk.com^
 ||*adcloud-*.everesttech.net^
 ||*met-vgwort-de.cdn.ampproject.org^
+||adform.com^
+||adform.net^
+||adjust.com^
+! Referral/Redirect
+@@||app.adjust.com^
+@@||ulink.adjust.com^
+||adjust.net.in^
+! Referral/Redirect
+@@||app.adjust.net.in^
+||adjust.io^
+||adjust.world^
 ||adnxs-simple.com^
 ||adnxs.com^
+||adocean.pl^
+! Video streams and content on various websites
+@@||ing.adocean.pl^
+@@||myao.adocean.pl^
+@@||tvn*.adocean.pl^
 ||adsafeprotected.com^
 ||adserver.*.yahoodns.net^
 ||adsymptotic.com^
 ||adtd.douglas.*^
 ||adtima-*.zascdn.*^
+||advertising.com^
+! Redirects engadget.com / huffpost.com
+@@||guce.advertising.com^
 ||advertising-*.dpgmedia.cloud^
 ||adzxplore.com^
 ||cdn.scarabresearch.com^
@@ -59,6 +78,7 @@
 ||adn-tktracking-*.amazonaws.com^
 ||ads-*.amazonaws.com^
 ||adserver-*.amazonaws.com^
+||ad-server-*.amazonaws.com^
 ||adservingvpc-*.amazonaws.com^
 ||adsk-*.amazonaws.com^
 ||beaconserver-*.amazonaws.com^
@@ -240,6 +260,14 @@
 ! Chromecast functionality of Disney+ Hotstar app
 @@||79423.analytics.edgekey.net^
 ||collector.xhamster.*^
+||*-analytics.appspot.com^
+||tracker-*.appspot.com^
+||browser-intake-datadoghq.*^
+||tagcommander.com^
+! Search on edeka.de
+@@||cdn.tagcommander.com^
+! Redirect
+@@||redirect*.tagcommander.com^
 
 ! Apple
 ||*analytics-events.apple.com^
@@ -354,7 +382,7 @@
 ! Netflix
 ||beacon*.netflix.net^
 ||customerevents*.netflix.com^
-! Prevents Netflix from continuing to play videos where you stopped or paused them.
+! Prevents Netflix from continuing to play videos where you stopped or paused them
 @@||ichnaea*.netflix.com^
 
 ! Popups
@@ -444,3 +472,10 @@
 @@||pro.hit.gemius.pl^
 @@||spl.hit.gemius.pl^
 @@||str.hit.gemius.pl^
+||aniview.com^
+! Videos on nationalreview.com amt other sites
+@@||play.aniview.com^
+||cws*.conviva.com^
+||videoplaza.tv^
+! Videos on mtv.fi
+@@||fi-mtv*.videoplaza.tv^
