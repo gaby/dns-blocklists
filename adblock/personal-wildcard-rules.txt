@@ -66,6 +66,7 @@
 ||popadex-*.amazonaws.com^
 ||rtbimp-loadbalancer-*.amazonaws.com^
 ||tracking-*.amazonaws.com^
+||webanalytics-*.amazonaws.com^
 ||wildcard-ads-*.amazonaws.com^
 
 ! Amazon Shopping
@@ -353,7 +354,8 @@
 ! Netflix
 ||beacon*.netflix.net^
 ||customerevents*.netflix.com^
-||ichnaea*.netflix.com^
+! Prevents Netflix from continuing to play videos where you stopped or paused them.
+@@||ichnaea*.netflix.com^
 
 ! Popups
 ||7e1e8f3eba.com^
