@@ -1960,3 +1960,6 @@ docdro.id
 # Prevents Netflix from continuing to play videos where you stopped or paused them
 ichnaea*.netflix.com
 
+# https://github.com/hagezi/dns-blocklists/issues/210
+app.link
+

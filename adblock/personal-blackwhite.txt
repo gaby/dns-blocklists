@@ -486,8 +486,8 @@
 ! Issues: https://github.com/hagezi/dns-blocklists/issues
 ! License: https://github.com/hagezi/dns-blocklists/blob/main/LICENSE.md
 ! Expires: Updated regularly
-! Last modified: 17 Jan 2023 00:09 UTC
-! Version: 2023.0117.0009.03
+! Last modified: 17 Jan 2023 04:51 UTC
+! Version: 2023.0117.0451.02
 ! Syntax: AdBlock
 ! Domains: 19392
 !
@@ -27980,6 +27980,10 @@
 
 ! Prevents Netflix from continuing to play videos where you stopped or paused them
 @@|ichnaea*.netflix.com^
+
+! https://github.com/hagezi/dns-blocklists/issues/210
+@@|app.link^
+@@|www.app.link^
 
 
 ! Title: HaGeZi's White-/Allowlist Referral for Black & White list
