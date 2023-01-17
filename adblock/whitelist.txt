@@ -18,6 +18,9 @@
 @@|c00.adobe.com^
 @@||cc-api-data.adobe.io^
 
+! Amazon AWS
+@@|kinesis.*.amazonaws.com^
+
 ! Amazon Devices
 @@||acsechocaptiveportal.com^
 @@||execute-api.*.amazonaws.com^
@@ -2185,4 +2188,10 @@
 
 ! https://github.com/hagezi/dns-blocklists/issues/212
 @@|a.apkpure.com^
+
+! Tweakers AdBlock Detection - some articles are not accessible
+@@|aa.tweakers.nl^
+@@|aa.tweakers.net^
+@@|ab.tweakers.nl^
+@@|ab.tweakers.net^
 
