@@ -268,6 +268,7 @@
 @@||cdn.tagcommander.com^
 ! Redirect
 @@||redirect*.tagcommander.com^
+||aff-tracker.com^
 
 ! Apple
 ||*analytics-events.apple.com^
@@ -277,7 +278,7 @@
 ||*metrics.mzstatic.com^
 ||api-adservices.apple.com^
 ||iadsdk.apple.com^
-||metrics.icloud.com^
+||metrics*.icloud.com^
 ||securemvt.apple.com^
 
 ! Bugtracker
@@ -290,6 +291,7 @@
 ||instabug.com^
 ||sentry-cdn.com^
 ||sentry.io^
+||crashtracking.*.ring.com^
 
 ! Google
 ||*.analytics.google.com^
