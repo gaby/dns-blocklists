@@ -5,10 +5,10 @@
 # Issues: https://github.com/hagezi/dns-blocklists/issues
 # License: https://github.com/hagezi/dns-blocklists/blob/main/LICENSE.md
 # Expires: Updated regularly
-# Last modified: 16 Jan 2023 23:18 UTC
-# Version: 2023.0116.2318.55
+# Last modified: 18 Jan 2023 23:19 UTC
+# Version: 2023.0118.2319.43
 # Syntax: DNSMasq
-# Domains: 267
+# Domains: 268
 #
 address=/1and1-dns.de/#
 address=/233py.com/#
@@ -142,6 +142,7 @@ address=/rdns.faelix.net/#
 address=/2.dnscrypt-cert.ffmuc.net/#
 address=/doh.ffmuc.net/#
 address=/dot.ffmuc.net/#
+address=/dns.flatuslifir.is/#
 address=/fly.io/#
 address=/doh.futa.gg/#
 address=/dns.futuredns.me/#

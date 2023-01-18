@@ -5,10 +5,10 @@
 # Issues: https://github.com/hagezi/dns-blocklists/issues
 # License: https://github.com/hagezi/dns-blocklists/blob/main/LICENSE.md
 # Expires: Updated regularly
-# Last modified: 16 Jan 2023 23:18 UTC
-# Version: 2023.0116.2318.55
+# Last modified: 18 Jan 2023 23:19 UTC
+# Version: 2023.0118.2319.43
 # Syntax: Hosts
-# Domains: 353
+# Domains: 354
 #
 0.0.0.0 1and1-dns.de
 0.0.0.0 233py.com
@@ -206,6 +206,7 @@
 0.0.0.0 2.dnscrypt-cert.ffmuc.net
 0.0.0.0 doh.ffmuc.net
 0.0.0.0 dot.ffmuc.net
+0.0.0.0 dns.flatuslifir.is
 0.0.0.0 fly.io
 0.0.0.0 doh.futa.gg
 0.0.0.0 dns.futuredns.me
