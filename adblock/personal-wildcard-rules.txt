@@ -67,6 +67,7 @@
 ||programmatics.net^
 ||taboola.com^
 ||wxadserve.xyz^
+||ad*.ettoday.net^
 
 ! Amazon AWS
 ||*-adserver-*.amazonaws.com^
@@ -169,6 +170,7 @@
 @@||tracking.s24.com^
 @@||tracking.truthfinder.com^
 @@||tracking.ubisoft.com^
+@@||tracking.magnetmail.net^
 |gtrack.*.*^
 |trk.*.*^
 ! Mainly referral links
@@ -269,6 +271,10 @@
 ! Redirect
 @@||redirect*.tagcommander.com^
 ||aff-tracker.com^
+||mmstat.com^
+||rutarget.ru^
+! sberbank.ru
+@@||track.rutarget.ru^
 
 ! Apple
 ||*analytics-events.apple.com^
@@ -299,13 +305,10 @@
 ||androidtvchannels-pa.googleapis.com^
 ||androidtvwatsonfe-pa.googleapis.com^
 ||app-measurement.com^
-||https://app-measurement.com/sdk-exp^
 ||beacons*.gvt*.com^
 ||crashlyticsreports-pa.googleapis.com^
 ||firebaselogging-pa.googleapis.com^
-||fls.doubleclick.net^
 ||fundingchoicesmessages.google.com^
-||g.doubleclick.net^
 ||google-analytics.com^
 ||googleadservices.com^
 ! Google Search referral links
@@ -319,7 +322,12 @@
 @@||www-googletagmanager.l.google.com^
 ||googletagservices.com^
 ||pagead-googlehosted.l.google.com^
-||static.doubleclick.net^
+||doubleclick.net
+! Google Search referral links
+@@||ad.doubleclick.net^
+!||fls.doubleclick.net^
+!||g.doubleclick.net^
+!||static.doubleclick.net^
 
 ! Huawei
 ||ad-*.dbankcloud.*^
@@ -394,12 +402,19 @@
 ||cleverpush.com^
 ||mycleverpush.com^
 
-! Shitty hosts
+! Crappy hosts
 ||ad*.on.cc^
 ||load*.biz^
 ||news-*.cc^
 ||news-*.pw^
 ||rplnd*.com^
+||ahoravideo-*.com^
+||ahoravideo-*.xyz^
+||fairu-*.com^
+||fairu-*.xyz^
+||rvwgm2wrld*.xyz^
+||wmail-*.com^
+||wmail-*.xyz^
 
 ! Smart TV
 ||alphonso.tv^
@@ -481,3 +496,6 @@
 ||videoplaza.tv^
 ! Videos on mtv.fi
 @@||fi-mtv*.videoplaza.tv^
+||sensic.net^
+! ORF App
+@@||at-config.sensic.net^
