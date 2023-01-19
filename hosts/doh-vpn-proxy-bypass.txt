@@ -4,10 +4,10 @@
 # Homepage: https://github.com/hagezi/dns-blocklists
 # Issues: https://github.com/hagezi/dns-blocklists/issues
 # Expires: Updated regularly
-# Last modified: 18 Jan 2023 23:18 UTC
-# Version: 2023.0118.2318.42
+# Last modified: 19 Jan 2023 13:47 UTC
+# Version: 2023.0119.1347.34
 # Syntax: Hosts
-# Domains: 1398
+# Domains: 1429
 #
 0.0.0.0 0000a-fast-proxy.de
 0.0.0.0 012proxy.ga
@@ -82,6 +82,7 @@
 0.0.0.0 doh.pl.ahadns.net
 0.0.0.0 dot.pl.ahadns.net
 0.0.0.0 airvpn.org
+0.0.0.0 akunssh.net
 0.0.0.0 dnsnl.alekberg.net
 0.0.0.0 dnsse.alekberg.net
 0.0.0.0 dns.alidns.com
@@ -144,12 +145,14 @@
 0.0.0.0 freevpnme.b-cdn.net
 0.0.0.0 doh-fi.bahdns.com
 0.0.0.0 bananavpn.com
+0.0.0.0 bebasid.com
 0.0.0.0 dns.bebasid.com
 0.0.0.0 beepassvpn.com
 0.0.0.0 beevpn.com
 0.0.0.0 openvpnpptp.bese.info
 0.0.0.0 openvpnpptpserver.bese.info
 0.0.0.0 bestfreevpn.com
+0.0.0.0 bestssh.net
 0.0.0.0 bestukvpn.com
 0.0.0.0 bestvpnprovider.info
 0.0.0.0 bestvpnrating.com
@@ -303,6 +306,7 @@
 0.0.0.0 dns.comss.one
 0.0.0.0 dns.east.comss.one
 0.0.0.0 connectionvpn.com
+0.0.0.0 contassh.com
 0.0.0.0 controld.com
 0.0.0.0 freedns.controld.com
 0.0.0.0 family.freedns.controld.com
@@ -318,6 +322,7 @@
 0.0.0.0 dohdot.coxlab.net
 0.0.0.0 crazyproxy.org
 0.0.0.0 createssh.com
+0.0.0.0 createssh.net
 0.0.0.0 criarssh.com
 0.0.0.0 croxyproxy.com
 0.0.0.0 croxyproxy.rocks
@@ -339,6 +344,7 @@
 0.0.0.0 doh.defaultroutes.de
 0.0.0.0 defencevpn.com
 0.0.0.0 defilter.us
+0.0.0.0 dewassh.net
 0.0.0.0 digi77.com
 0.0.0.0 anonymizing-proxy.digitalcourage.de
 0.0.0.0 dns2.digitalcourage.de
@@ -496,6 +502,7 @@
 0.0.0.0 freetrialvpn.com
 0.0.0.0 freeukvpn.com
 0.0.0.0 freevideoproxy.com
+0.0.0.0 freevmess.com
 0.0.0.0 freevpn.cloud
 0.0.0.0 freevpn.me
 0.0.0.0 freevpn.org
@@ -514,6 +521,8 @@
 0.0.0.0 doh.futa.gg
 0.0.0.0 dns.futuredns.me
 0.0.0.0 gamers-nor.com
+0.0.0.0 gamingssh.com
+0.0.0.0 gatcha.org
 0.0.0.0 geckovpn.xyz
 0.0.0.0 geekproxy.com
 0.0.0.0 genmirror.com
@@ -526,6 +535,7 @@
 0.0.0.0 getfoxyproxy.org
 0.0.0.0 geti2p.net
 0.0.0.0 getlantern.org
+0.0.0.0 getoutline.org
 0.0.0.0 getproxi.es
 0.0.0.0 getusvpn.com
 0.0.0.0 gfwvpn.com
@@ -558,6 +568,7 @@
 0.0.0.0 ordns.he.net
 0.0.0.0 headproxy.com
 0.0.0.0 helpmehide.net
+0.0.0.0 herbalserver.me
 0.0.0.0 heroproxy.com
 0.0.0.0 hiddendigital.info
 0.0.0.0 hiddendragon.site
@@ -612,6 +623,7 @@
 0.0.0.0 iij.jp
 0.0.0.0 public.dns.iij.jp
 0.0.0.0 incloak.es
+0.0.0.0 indo-ssh.com
 0.0.0.0 infvpn.com
 0.0.0.0 ininja.org
 0.0.0.0 instant-vpn.com
@@ -642,6 +654,7 @@
 0.0.0.0 jcdns.fun
 0.0.0.0 jetssh.com
 0.0.0.0 opencdn.jomodns.com
+0.0.0.0 jupitervpn.ninja
 0.0.0.0 k2vpn.io
 0.0.0.0 dns.keweon.center
 0.0.0.0 keyvpn.io
@@ -672,6 +685,7 @@
 0.0.0.0 luminatinet.com
 0.0.0.0 maddw.com
 0.0.0.0 mainssh.com
+0.0.0.0 masterssh.com
 0.0.0.0 mastersslvpn.gq
 0.0.0.0 msc.mcafee.com
 0.0.0.0 safeconnect.mcafee.com
@@ -687,6 +701,7 @@
 0.0.0.0 miniprox.info
 0.0.0.0 mobilevpn.net
 0.0.0.0 mofolinux.com
+0.0.0.0 monthlyssh.net
 0.0.0.0 monvpn.com
 0.0.0.0 movieproxy.com
 0.0.0.0 testpilot.r53-2.services.mozilla.com
@@ -794,8 +809,10 @@
 0.0.0.0 doh.sandbox.opendns.com
 0.0.0.0 opengw.net
 0.0.0.0 resolver4.dns.openinternet.io
+0.0.0.0 opentunnel.net
 0.0.0.0 openvpn.com
 0.0.0.0 openvpn.net
+0.0.0.0 openvpn-ssh.com
 0.0.0.0 opera.com
 0.0.0.0 opera.software
 0.0.0.0 opera-api.com
@@ -850,9 +867,11 @@
 0.0.0.0 helios.plan9-dns.com
 0.0.0.0 kronos.plan9-dns.com
 0.0.0.0 pluton.plan9-dns.com
+0.0.0.0 pointtoserver.com
 0.0.0.0 polargrizzly.com
 0.0.0.0 polaris.cx
 0.0.0.0 polippix.org
+0.0.0.0 portalssh.com
 0.0.0.0 portssh.com
 0.0.0.0 doh.post-factum.tk
 0.0.0.0 doh.powerdns.org
@@ -864,6 +883,7 @@
 0.0.0.0 nyc-ny-us.prcdn.net
 0.0.0.0 tor-ca.prcdn.net
 0.0.0.0 waw-pl.prcdn.net
+0.0.0.0 premiumproxy.net
 0.0.0.0 privacy-cd.org
 0.0.0.0 privadovpn.com
 0.0.0.0 privateinternetaccess.com
@@ -981,6 +1001,7 @@
 0.0.0.0 quintex.com
 0.0.0.0 ra4wvpn.com
 0.0.0.0 rabbithole.site
+0.0.0.0 racevpn.com
 0.0.0.0 radmin-vpn.com
 0.0.0.0 rapidproxy.us
 0.0.0.0 realanonproxy.com
@@ -1026,10 +1047,12 @@
 0.0.0.0 securevpn.io
 0.0.0.0 securewebproxy.net
 0.0.0.0 seeproxy.me
+0.0.0.0 serverhoya.com
 0.0.0.0 serverssh.net
 0.0.0.0 setupvpn.com
 0.0.0.0 shadowsocks.org
 0.0.0.0 shadowsurf.com
+0.0.0.0 sharevpn.org
 0.0.0.0 simplevpn.info
 0.0.0.0 singaporeproxy.nu
 0.0.0.0 dnsovertls.sinodun.com
@@ -1062,12 +1085,17 @@
 0.0.0.0 spidervpn.org
 0.0.0.0 sporium.org
 0.0.0.0 spyoff.com
+0.0.0.0 spys.one
 0.0.0.0 spysurfing.com
+0.0.0.0 squidproxyserver.com
 0.0.0.0 ssh-free.com
 0.0.0.0 sshagan.net
+0.0.0.0 sshcdn.com
 0.0.0.0 sshdropbear.net
 0.0.0.0 sshkit.com
+0.0.0.0 sshmax.net
 0.0.0.0 sshocean.com
+0.0.0.0 sshprotocol.net
 0.0.0.0 sshssl.com
 0.0.0.0 sshstores.net
 0.0.0.0 sslprivateproxy.com
@@ -1079,6 +1107,7 @@
 0.0.0.0 sslvpn.us
 0.0.0.0 stargate.one
 0.0.0.0 starrynight.site
+0.0.0.0 starssh.com
 0.0.0.0 stayhidden.net
 0.0.0.0 stealthvpn.com
 0.0.0.0 stealthy.co
@@ -1180,6 +1209,7 @@
 0.0.0.0 tunnelbear.com
 0.0.0.0 tuntapproxy.info
 0.0.0.0 turbohide.org
+0.0.0.0 turbossh.com
 0.0.0.0 turbovpn.com
 0.0.0.0 tuxlervpn.com
 0.0.0.0 dns.twnic.tw
@@ -1301,6 +1331,7 @@
 0.0.0.0 vpngate.net
 0.0.0.0 vpngate2.jp
 0.0.0.0 vpngorilla.com
+0.0.0.0 vpnhack.com
 0.0.0.0 vpnhub.com
 0.0.0.0 vpnjantit.com
 0.0.0.0 vpnking.cf

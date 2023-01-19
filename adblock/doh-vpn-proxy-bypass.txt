@@ -4,10 +4,10 @@
 ! Homepage: https://github.com/hagezi/dns-blocklists
 ! Issues: https://github.com/hagezi/dns-blocklists/issues
 ! Expires: Updated regularly
-! Last modified: 18 Jan 2023 23:18 UTC
-! Version: 2023.0118.2318.42
+! Last modified: 19 Jan 2023 13:47 UTC
+! Version: 2023.0119.1347.34
 ! Syntax: AdBlock
-! Domains: 1283
+! Domains: 1313
 !
 ||0000a-fast-proxy.de^
 ||012proxy.ga^
@@ -52,6 +52,7 @@
 ||ahadns.net^
 ||blitz.ahadns.com^
 ||airvpn.org^
+||akunssh.net^
 ||dnsnl.alekberg.net^
 ||dnsse.alekberg.net^
 ||dns.alidns.com^
@@ -113,12 +114,13 @@
 ||freevpnme.b-cdn.net^
 ||doh-fi.bahdns.com^
 ||bananavpn.com^
-||dns.bebasid.com^
+||bebasid.com^
 ||beepassvpn.com^
 ||beevpn.com^
 ||openvpnpptp.bese.info^
 ||openvpnpptpserver.bese.info^
 ||bestfreevpn.com^
+||bestssh.net^
 ||bestukvpn.com^
 ||bestvpnprovider.info^
 ||bestvpnrating.com^
@@ -250,6 +252,7 @@
 ||comss.one^
 ||comss.ru^
 ||connectionvpn.com^
+||contassh.com^
 ||controld.com^
 ||coolbits.org^
 ||corecloak.com^
@@ -258,6 +261,7 @@
 ||dohdot.coxlab.net^
 ||crazyproxy.org^
 ||createssh.com^
+||createssh.net^
 ||criarssh.com^
 ||croxyproxy.com^
 ||croxyproxy.rocks^
@@ -277,6 +281,7 @@
 ||doh.defaultroutes.de^
 ||defencevpn.com^
 ||defilter.us^
+||dewassh.net^
 ||digi77.com^
 ||anonymizing-proxy.digitalcourage.de^
 ||dns2.digitalcourage.de^
@@ -420,6 +425,7 @@
 ||freetrialvpn.com^
 ||freeukvpn.com^
 ||freevideoproxy.com^
+||freevmess.com^
 ||freevpn.cloud^
 ||freevpn.me^
 ||freevpn.org^
@@ -438,6 +444,8 @@
 ||doh.futa.gg^
 ||dns.futuredns.me^
 ||gamers-nor.com^
+||gamingssh.com^
+||gatcha.org^
 ||geckovpn.xyz^
 ||geekproxy.com^
 ||genmirror.com^
@@ -450,6 +458,7 @@
 ||getfoxyproxy.org^
 ||geti2p.net^
 ||getlantern.org^
+||getoutline.org^
 ||getproxi.es^
 ||getusvpn.com^
 ||gfwvpn.com^
@@ -482,6 +491,7 @@
 ||ordns.he.net^
 ||headproxy.com^
 ||helpmehide.net^
+||herbalserver.me^
 ||heroproxy.com^
 ||hiddendigital.info^
 ||hiddendragon.site^
@@ -534,6 +544,7 @@
 ||idolproxy.com^
 ||iij.jp^
 ||incloak.es^
+||indo-ssh.com^
 ||infvpn.com^
 ||ininja.org^
 ||instant-vpn.com^
@@ -564,6 +575,7 @@
 ||jcdns.fun^
 ||jetssh.com^
 ||opencdn.jomodns.com^
+||jupitervpn.ninja^
 ||k2vpn.io^
 ||dns.keweon.center^
 ||keyvpn.io^
@@ -593,6 +605,7 @@
 ||luminatinet.com^
 ||maddw.com^
 ||mainssh.com^
+||masterssh.com^
 ||mastersslvpn.gq^
 ||msc.mcafee.com^
 ||safeconnect.mcafee.com^
@@ -608,6 +621,7 @@
 ||miniprox.info^
 ||mobilevpn.net^
 ||mofolinux.com^
+||monthlyssh.net^
 ||monvpn.com^
 ||movieproxy.com^
 ||testpilot.r53-2.services.mozilla.com^
@@ -701,8 +715,10 @@
 ||doh.sandbox.opendns.com^
 ||opengw.net^
 ||resolver4.dns.openinternet.io^
+||opentunnel.net^
 ||openvpn.com^
 ||openvpn.net^
+||openvpn-ssh.com^
 ||opera.com^
 ||opera.software^
 ||opera-api.com^
@@ -756,9 +772,11 @@
 ||helios.plan9-dns.com^
 ||kronos.plan9-dns.com^
 ||pluton.plan9-dns.com^
+||pointtoserver.com^
 ||polargrizzly.com^
 ||polaris.cx^
 ||polippix.org^
+||portalssh.com^
 ||portssh.com^
 ||doh.post-factum.tk^
 ||doh.powerdns.org^
@@ -770,6 +788,7 @@
 ||nyc-ny-us.prcdn.net^
 ||tor-ca.prcdn.net^
 ||waw-pl.prcdn.net^
+||premiumproxy.net^
 ||privacy-cd.org^
 ||privadovpn.com^
 ||privateinternetaccess.com^
@@ -878,6 +897,7 @@
 ||quintex.com^
 ||ra4wvpn.com^
 ||rabbithole.site^
+||racevpn.com^
 ||radmin-vpn.com^
 ||rapidproxy.us^
 ||realanonproxy.com^
@@ -920,10 +940,12 @@
 ||securevpn.io^
 ||securewebproxy.net^
 ||seeproxy.me^
+||serverhoya.com^
 ||serverssh.net^
 ||setupvpn.com^
 ||shadowsocks.org^
 ||shadowsurf.com^
+||sharevpn.org^
 ||simplevpn.info^
 ||singaporeproxy.nu^
 ||dnsovertls.sinodun.com^
@@ -956,12 +978,17 @@
 ||spidervpn.org^
 ||sporium.org^
 ||spyoff.com^
+||spys.one^
 ||spysurfing.com^
+||squidproxyserver.com^
 ||ssh-free.com^
 ||sshagan.net^
+||sshcdn.com^
 ||sshdropbear.net^
 ||sshkit.com^
+||sshmax.net^
 ||sshocean.com^
+||sshprotocol.net^
 ||sshssl.com^
 ||sshstores.net^
 ||sslprivateproxy.com^
@@ -973,6 +1000,7 @@
 ||sslvpn.us^
 ||stargate.one^
 ||starrynight.site^
+||starssh.com^
 ||stayhidden.net^
 ||stealthvpn.com^
 ||stealthy.co^
@@ -1071,6 +1099,7 @@
 ||tunnelbear.com^
 ||tuntapproxy.info^
 ||turbohide.org^
+||turbossh.com^
 ||turbovpn.com^
 ||tuxlervpn.com^
 ||dns.twnic.tw^
@@ -1188,6 +1217,7 @@
 ||vpngate.net^
 ||vpngate2.jp^
 ||vpngorilla.com^
+||vpnhack.com^
 ||vpnhub.com^
 ||vpnjantit.com^
 ||vpnking.cf^
