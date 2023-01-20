@@ -505,10 +505,10 @@
 ! Issues: https://github.com/hagezi/dns-blocklists/issues
 ! License: https://github.com/hagezi/dns-blocklists/blob/main/LICENSE.md
 ! Expires: Updated regularly
-! Last modified: 20 Jan 2023 18:53 UTC
-! Version: 2023.0120.1853.08
+! Last modified: 20 Jan 2023 19:23 UTC
+! Version: 2023.0120.1923.13
 ! Syntax: AdBlock
-! Domains: 12217
+! Domains: 12181
 !
 ||00px.net^
 ||021jf.com^
@@ -725,7 +725,6 @@
 ||9996777888.com^
 ||99997aaa.com^
 ||collector-api.99designs.com^
-||9appsinstall.com^
 ||mxpl.9gag.com^
 ||privacy-api.9gag.com^
 ||rlog.9gag.com^
@@ -808,7 +807,6 @@
 ||accaii.com^
 ||forms.accc-cancer.org^
 ||accdab.net^
-||accengage.com^
 ||accengage.net^
 ||somni.accenture.com^
 ||trackingmms.accenture.com^
@@ -858,7 +856,26 @@
 ||activeconversion.com^
 ||activelysmileintimate.com^
 ||activemetering.com^
-||actonservice.com^
+||a37518.actonservice.com^
+||a39780.actonservice.com^
+||a43307.actonservice.com^
+||a43317.actonservice.com^
+||a43527.actonservice.com^
+||a43672.actonservice.com^
+||a43869.actonservice.com^
+||a44195.actonservice.com^
+||a44293.actonservice.com^
+||a44320.actonservice.com^
+||a44370.actonservice.com^
+||a44833.actonservice.com^
+||a45230.actonservice.com^
+||a45450.actonservice.com^
+||horacemann.actonservice.com^
+||mediasource.actonservice.com^
+||mortgagefamily.actonservice.com^
+||msufcu.actonservice.com^
+||nccer.actonservice.com^
+||towerfcu.actonservice.com^
 ||actonsoftware.com^
 ||actuallyhierarchyjudgement.com^
 ||acuityads.com^
@@ -1506,8 +1523,9 @@
 ||ninja.akamaized.net^
 ||speee-ad.akamaized.net^
 ||uz-analysis.akamaized.net^
-||akisinn.info^
-||akisinn.site^
+||co.akisinn.info^
+||int.akisinn.info^
+||int.akisinn.site^
 ||aklamator.com^
 ||akmxts.com^
 ||akstat.io^
@@ -1913,7 +1931,6 @@
 ||som.athenahealth.com^
 ||athitmontopon.com^
 ||aa.athome.com^
-||aiseet.atianqi.com^
 ||atinternet.com^
 ||atlassolutions.com^
 ||atmasroofy.com^
@@ -2158,7 +2175,6 @@
 ||bannersnack.com^
 ||bannertrack.net^
 ||banquetunarmedgrater.com^
-||houyi.baofeng.net^
 ||thongke99.baogiaothong.vn^
 ||log.baomoi.com^
 ||za.baomoi.com^
@@ -2178,13 +2194,11 @@
 ||bassdyemanipulate.com^
 ||bassoczardas.com^
 ||omnis.basspro.com^
-||batch.com^
 ||batecrowle.click^
 ||aa.bathandbodyworks.com^
 ||an.batmobi.net^
 ||ploy.batmobi.net^
 ||sts.batmobi.net^
-||batmobil.net^
 ||info.battelle.org^
 ||telemetry-in.battle.net^
 ||abt.bauhaus.info^
@@ -2466,7 +2480,6 @@
 ||bluecore.com^
 ||somni.bluecrossma.com^
 ||blueduckredapple.com^
-||bluehornet.com^
 ||images.go.bluejacketslink.com^
 ||bluekai.com^
 ||blueknow.com^
@@ -2731,7 +2744,6 @@
 ||c1exchange.com^
 ||c212.net^
 ||c3tag.com^
-||c8xwor.com^
 ||hit.c97.org^
 ||collector-axa.cloud.ca.com^
 ||ca4psell23a4bur.com^
@@ -3188,7 +3200,6 @@
 ||campaigns.cm.be^
 ||cmadserver.de^
 ||cmclean.club^
-||cmcm.com^
 ||cmcore.com^
 ||cmlbromins.com^
 ||cmpro-clean.club^
@@ -3786,7 +3797,6 @@
 ||crwdcntrl.net^
 ||crypto-pool.fr^
 ||cryptobrowser.site^
-||cryptox-ads.io^
 ||marketing.crystalcoastnc.org^
 ||csdata1.com^
 ||event.csdn.net^
@@ -3907,7 +3917,7 @@
 ||datasign.co^
 ||datasteam.io^
 ||datatechonert.com^
-||datatrics.com^
+||tr.datatrics.com^
 ||stats.datawrapper.de^
 ||datawrkz.com^
 ||dataxpand.com^
@@ -3931,9 +3941,6 @@
 ||mit.db.com^
 ||wtk.db.com^
 ||cs02-pps-drcn.dbankcdn.com^
-||ubacollect-drcn.cloud.dbankcloud.cn^
-||hisearch-dra.dt.dbankcloud.com^
-||openlocation-drcn.platform.dbankcloud.com^
 ||dblks.net^
 ||dc-storm.com^
 ||dc-tag.jp^
@@ -4051,8 +4058,9 @@
 ||compteur.developpez.com^
 ||device9.com^
 ||adv-front.devpnd.com^
-||dewrain.life^
-||dewrain.site^
+||co.dewrain.life^
+||int.dewrain.life^
+||int.dewrain.site^
 ||int.dewrain.world^
 ||sourcepoint.dexerto.com^
 ||dexpredict.com^
@@ -5768,16 +5776,7 @@
 ||marketing.hhglobal.com^
 ||hhklc.com^
 ||hhkld.com^
-||atlas-emui-drcn.hicloud.com^
 ||data.hicloud.com^
-||geo.hicloud.com^
-||healthdata.hicloud.com^
-||sdkserver-dra.op.hicloud.com^
-||opsdata.hicloud.com^
-||osscach2023.hicloud.tw^
-||configserver-dra.platform.hicloud.com^
-||feedback-dre.platform.hicloud.com^
-||servicesupport.hicloud.com^
 ||hiconversion.com^
 ||hif.to^
 ||highconvertingformats.com^
@@ -5996,7 +5995,6 @@
 ||geoinfo.i2w.io^
 ||i8xkjci7nd.com^
 ||gdl.i9dhjx.ru^
-||iadvize.com^
 ||iamnaughty.com^
 ||ian029dkl3osl930sian.club^
 ||iasds01.com^
@@ -6066,7 +6064,6 @@
 ||iifvcfwiqi.com^
 ||iivt.com^
 ||mobad.ijinshan.com^
-||tj.ijinshan.com^
 ||events.il.fi^
 ||iliifmido.xyz^
 ||iljmp.com^
@@ -6113,7 +6110,6 @@
 ||impressionmedia.cz^
 ||impressionmonster.com^
 ||improvedigital.com^
-||imtmp.net^
 ||imtwjwoasak.com^
 ||accesstrade.in.th^
 ||stats.in.th^
@@ -6165,8 +6161,9 @@
 ||pages.pharmaintelligence.informa.com^
 ||widgets.informars.com^
 ||information.com^
-||informer.com^
 ||exchange.informer.ua^
+||hits.informer.com^
+||web.informer.com^
 ||pixel.inforsea.com^
 ||ec.infosys.com^
 ||infox.sg^
@@ -6471,7 +6468,7 @@
 ||collect.media.jio.com^
 ||jivox.com^
 ||jixie.io^
-||jjshouse.com^
+||nbfopy.jjshouse.com^
 ||jldbnjghezv.com^
 ||discover.jll.com^
 ||email-am.us.jll.com^
@@ -7377,7 +7374,6 @@
 ||meine-postbank.info^
 ||navigation-timing.meinestadt.de^
 ||trackingapi.meinprospekt.de^
-||tg.meitu.com^
 ||stat.meitudata.com^
 ||mm.melia.com^
 ||mellowads.com^
@@ -7472,7 +7468,6 @@
 ||sp.minds.com^
 ||mindtake.com^
 ||minergate.com^
-||miniast.com^
 ||minkatu.com^
 ||minotaur107.com^
 ||mintegral.com^
@@ -7674,7 +7669,6 @@
 ||mobileads.msn.com^
 ||r.msn.com^
 ||srtb.msn.com^
-||catalog.video.msn.com^
 ||aamt.msnbc.com^
 ||content.msufcu.org^
 ||t.msuspartans.com^
@@ -7829,7 +7823,7 @@
 ||native-cdn.com^
 ||native-commerce.com^
 ||native-track.com^
-||native123.com^
+||sdk.native123.com^
 ||nativeads.com^
 ||nativemedia.rs^
 ||nativendo.de^
@@ -8028,7 +8022,6 @@
 ||ssc.nick.com^
 ||ssc.nickjr.com^
 ||nicsorts-accarade.com^
-||nielsen.com^
 ||nielviok.cf^
 ||waatch.nieuwsblad.be^
 ||niftyhospital.com^
@@ -8221,7 +8214,6 @@
 ||offerimage.com^
 ||offerwall-adnative.com^
 ||offfurreton.com^
-||hubblecontent.osi.office.net^
 ||clarity.officer.com^
 ||cp.official-coupons.com^
 ||offoonguser.com^
@@ -8701,7 +8693,6 @@
 ||pijapue.org^
 ||a.pikabu.ru^
 ||adserver.piksel.mk^
-||pilutce.com^
 ||b.pinetq.com^
 ||ping-fast.com^
 ||rum-collector-2.pingdom.net^
@@ -9195,28 +9186,6 @@
 ||qoijertneio.com^
 ||qoopler.ru^
 ||qoqv.com^
-||aegis.qq.com^
-||analy.qq.com^
-||beacon.qq.com^
-||btrace.qq.com^
-||android.bugly.qq.com^
-||astat.bugly.qq.com^
-||ios.bugly.qq.com^
-||e.qq.com^
-||gdt.qq.com^
-||mqqad.html5.qq.com^
-||cfg.imtt.qq.com^
-||tdid.m.qq.com^
-||mtrace.qq.com^
-||monitor.music.qq.com^
-||pingjs.qq.com^
-||pingma.qq.com^
-||pingtas.qq.com^
-||sngmta.qq.com^
-||log.tbs.qq.com^
-||trace.qq.com^
-||rcgi.video.qq.com^
-||stat.y.qq.com^
 ||qqjar.ru^
 ||qrlsx.com^
 ||qservz.com^
@@ -9422,7 +9391,8 @@
 ||refbanners.com^
 ||refericon.pl^
 ||refersion.com^
-||refinery89.com^
+||measure.refinery89.com^
+||tags.refinery89.com^
 ||solutions.refinitiv.com^
 ||prod.tracking.refinitiv.com^
 ||bmrg.reflected.net^
@@ -9790,7 +9760,15 @@
 ||samsungacr.com^
 ||samsungadhub.com^
 ||samsungads.com^
-||samsungelectronics.com^
+||apu.samsungelectronics.com^
+||bpu.samsungelectronics.com^
+||cpu.samsungelectronics.com^
+||dpu.samsungelectronics.com^
+||kpu.samsungelectronics.com^
+||upu.samsungelectronics.com^
+||xpu.samsungelectronics.com^
+||ypu.samsungelectronics.com^
+||zpu.samsungelectronics.com^
 ||analytics-api.samsunghealthcn.com^
 ||sspapi-prd.samsungrs.com^
 ||business.samsungusa.com^
@@ -10304,7 +10282,7 @@
 ||segmentor.snowfox-ai.com^
 ||snowmiracles.com^
 ||sno1.snowrental.com^
-||snplow.net^
+||collector.snplow.net^
 ||swa.snsbank.nl^
 ||mon.snssdk.com^
 ||snugglethesheep.com^
@@ -10884,7 +10862,6 @@
 ||tpstelemetry.tencent.com^
 ||ad.tencentmusic.com^
 ||adstats.tencentmusic.com^
-||tenchier.com^
 ||tend.io^
 ||tendertest.com^
 ||counter.tengrinews.kz^
@@ -10981,7 +10958,6 @@
 ||thewowfeed.com^
 ||thighargu.com^
 ||tracker.thinkindot.com^
-||thinkingfastdns.com^
 ||thinktot.com^
 ||thirawogla.com^
 ||marketing.thisiscleveland.com^
@@ -11199,7 +11175,6 @@
 ||trafficjunky.com^
 ||trafficjunky.net^
 ||trafficmagnates.com^
-||legacywatson.trafficmanager.net^
 ||o365diagtelemetry.trafficmanager.net^
 ||trafficmoose.com^
 ||trafficroots.com^
@@ -11647,9 +11622,11 @@
 ||promo.vador.com^
 ||vads.vn^
 ||prf.vagnt.com^
-||vaicore.site^
-||vaicore.store^
-||vaicore.xyz^
+||co.vaicore.site^
+||co.vaicore.xyz^
+||int.vaicore.site^
+||int.vaicore.store^
+||int.vaicore.xyz^
 ||vaikijie.net^
 ||vailedapetaly.com^
 ||tracker.services.vaix.ai^
@@ -11923,7 +11900,7 @@
 ||phonograph2.voxmedia.com^
 ||targeting.voxus.tv^
 ||ek8.voyage-prive.com^
-||vpadn.com^
+||m.vpadn.com^
 ||vpdcp.com^
 ||vpixrlkggv.com^
 ||vpnclick.biz^
@@ -12105,7 +12082,6 @@
 ||data.eml.wegmans.com^
 ||mbox.wegmans.com^
 ||jeccmq.wehkamp.nl^
-||biz.weibo.com^
 ||logtake.weidian.com^
 ||knapia.weightwatchers.com^
 ||sp.welcometothejungle.com^
@@ -12185,15 +12161,9 @@
 ||willalland.info^
 ||hnnuaa.willhaben.at^
 ||campaigns.williamhill.com^
-||ceuswatcab01.blob.core.windows.net^
-||ceuswatcab02.blob.core.windows.net^
 ||cltgtstor001.blob.core.windows.net^
-||eaus2watcab01.blob.core.windows.net^
-||eaus2watcab02.blob.core.windows.net^
 ||insitez.blob.core.windows.net^
 ||optanon.blob.core.windows.net^
-||weus2watcab01.blob.core.windows.net^
-||weus2watcab02.blob.core.windows.net^
 ||nexxtv-events.servicebus.windows.net^
 ||prod-sb-appanalytics-us1.servicebus.windows.net^
 ||windsplay.com^
@@ -12356,12 +12326,10 @@
 ||app.chat.xiaomi.net^
 ||data.mistat.india.xiaomi.com^
 ||ad.intl.xiaomi.com^
-||a.market.xiaomi.com^
 ||abtest.mistat.xiaomi.com^
 ||data.mistat.xiaomi.com^
 ||resolver.msg.xiaomi.net^
 ||data.mistat.rus.xiaomi.com^
-||video.xiaomi.com^
 ||register.xmpush.xiaomi.com^
 ||xijojwonz.com^
 ||ximad.com^
@@ -12536,10 +12504,6 @@
 ||a.youdao.com^
 ||sdk-log-inter.youdao.com^
 ||yougotacheck.com^
-||atm.youku.com^
-||ems.youku.com^
-||iyes.youku.com^
-||pcapp-data-collect.youku.com^
 ||ea.youmaker.com^
 ||data.younow.com^
 ||your-notice.com^

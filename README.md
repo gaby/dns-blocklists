@@ -33,8 +33,8 @@
 #### ***Multi blocklist version and size overview:***
 | Version | Hosts | Pro++ | Pro | Normal | Light | [Fake](#fake) | [TIF](#tif) | [Personal](#personal) | 
 |:--------|---:|:---:|:------:|:-----:|:----:|:---:|:------:|:----------:|
-| [Light](#light)             | 320959<br>150304     | |   |   | = | X | P | X |
-| [Normal](#normal)       | 1063424<br>361017     | |   | = | X | X | P | X |
+| [Light](#light)             | 247220<br>113851     | |   |   | = | X | P | X |
+| [Normal](#normal)       | 1081716<br>374905     | |   | = | X | X | P | X |
 | [Pro](#pro)              | 1271568<br>445685         | | = | X | X | X | P | X |
 | [Pro++](#proplus)    | 1374885<br>464216 | | ++ | X | X | X | P |  X |
 | [Ultimate](#ultimate)    | 2132285<br>849986 | ++ | X | X | X | X | X |  X |
@@ -49,7 +49,7 @@
       
 *Hand brush - Cleans the Internet and protects your privacy! Blocks Ads, Tracking, Metrics, some Malware and Fake.*
           
-**Entries:** *320959 domains/hosts - 150304 compressed domains* | [Sources/Statistics](https://github.com/hagezi/dns-blocklists/blob/main/usedsources.md#light)         
+**Entries:** *247220 domains/hosts - 113851 compressed domains* | [Sources/Statistics](https://github.com/hagezi/dns-blocklists/blob/main/usedsources.md#light)         
          
 | Format | Link | Can be used for |
 |:-------|:-----|:----------------|
@@ -64,7 +64,7 @@
       
 *Broom - Cleans the Internet and protects your privacy! Blocks Ads, Affiliate, Tracking, Metrics, Telemetry, Phishing, Malware, Scam, Fake, Coins and other "Crap".*
          
-**Entries:** *1063424 domains/hosts - 361017 compressed domains* | [Sources/Statistics](https://github.com/hagezi/dns-blocklists/blob/main/usedsources.md#multi)        
+**Entries:** *1081716 domains/hosts - 374905 compressed domains* | [Sources/Statistics](https://github.com/hagezi/dns-blocklists/blob/main/usedsources.md#multi)        
           
 | Format | Link | Can be used for |
 |:-------|:-----|:----------------|
@@ -271,7 +271,7 @@
 ### ***Personal - My manually maintained blacklist*** <a name="personal"></a>
 *My personal blocklist, an extension for known blocklists. Blocks ads, trackers, native device trackers, badware and more. Not intended to be used as a standalone blocklist, it serves as a addition for other blocklists!*         
         
-**Entries:** *20845 domains/hosts - 14164 compressed domains*
+**Entries:** *20599 domains/hosts - 14039 compressed domains*
        
 | Format | Link | Can be used for |
 |:-------|:-----|:----------------|

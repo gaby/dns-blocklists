@@ -3,34 +3,34 @@
 #### LIGHT
 [whitelisted domains](https://raw.githubusercontent.com/hagezi/dns-data-collection/main/data/light-removed-white.txt) | [whitelisted referral domains](https://raw.githubusercontent.com/hagezi/dns-data-collection/main/data/light-removed-referral.txt) | [dead domains](https://raw.githubusercontent.com/hagezi/dns-data-collection/main/data/light-removed-dead.txt)
 ```
-407031 total unique domains | 320962 (79%) included | 2082 (1%) removed | 83987 (21%) dead
+278856 total unique domains | 247220 (89%) included | 1741 (1%) removed | 29895 (11%) dead
 
  Nr | Included | Dead | Removed | URL/File
   1 |      97% |   1% |      2% | https://raw.githubusercontent.com/badmojr/1Hosts/master/Lite/hosts.txt
-  2 |      69% |  31% |      0% | https://raw.githubusercontent.com/StevenBlack/hosts/master/hosts
-  3 |      91% |   8% |      1% | https://adguardteam.github.io/AdGuardSDNSFilter/Filters/filter.txt
-  4 |      92% |   8% |      0% | https://threatfox.abuse.ch/downloads/hostfile
-  5 |     100% |   0% |      0% | https://urlhaus.abuse.ch/downloads/hostfile
-  6 |      83% |  17% |      0% | https://raw.githubusercontent.com/elliotwutingfeng/Inversion-DNSBL-Blocklists/main/Google_hostnames_light.txt
-  7 |      89% |  11% |      0% | https://raw.githubusercontent.com/AssoEchap/stalkerware-indicators/master/generated/hosts_full
-  8 |     100% |   0% |      0% | light.extension.domains
-  9 |     100% |   0% |      0% | apple.txt
- 10 |      78% |   0% |     22% | windows-office.txt
- 11 |     100% |   0% |      0% | huawei.txt
- 12 |     100% |   0% |      0% | personal.txt
- 13 |     100% |   0% |      0% | fake.txt
+  2 |      91% |   8% |      1% | https://adguardteam.github.io/AdGuardSDNSFilter/Filters/filter.txt
+  3 |      92% |   8% |      0% | https://threatfox.abuse.ch/downloads/hostfile
+  4 |     100% |   0% |      0% | https://urlhaus.abuse.ch/downloads/hostfile
+  5 |      82% |  18% |      0% | https://raw.githubusercontent.com/elliotwutingfeng/Inversion-DNSBL-Blocklists/main/Google_hostnames_light.txt
+  6 |      89% |  11% |      0% | https://raw.githubusercontent.com/AssoEchap/stalkerware-indicators/master/generated/hosts_full
+  7 |     100% |   0% |      0% | light.extension.domains
+  8 |     100% |   0% |      0% | apple.txt
+  9 |      78% |   0% |     22% | windows-office.txt
+ 10 |     100% |   0% |      0% | huawei.txt
+ 11 |     100% |   0% |      0% | personal.txt
+ 12 |      99% |   1% |      0% | fake.txt
 
 For domain and host lists, additionally: matching/missing subdomains (see at the bottom)
 ```
 #### MULTI
 [whitelisted domains](https://raw.githubusercontent.com/hagezi/dns-data-collection/main/data/multi-removed-white.txt) | [whitelisted referral domains](https://raw.githubusercontent.com/hagezi/dns-data-collection/main/data/multi-removed-referral.txt) | [dead domains](https://raw.githubusercontent.com/hagezi/dns-data-collection/main/data/multi-removed-dead.txt)
 ```
-1101690 total unique domains | 1063427 (97%) included | 650 (0%) removed | 37613 (3%) dead
+1189597 total unique domains | 1081716 (91%) included | 1045 (0%) removed | 106836 (9%) dead
 
  Nr | Included | Dead | Removed | URL/File
-  1 |      99% |   1% |      0% | oisd.domains.txt
-  2 |     100% |   0% |      0% | multi.extension.domains
-  3 |     100% |   0% |      0% | light.txt
+  1 |      69% |  31% |      0% | https://raw.githubusercontent.com/StevenBlack/hosts/master/hosts
+  2 |      97% |   3% |      0% | oisd.domains.txt
+  3 |     100% |   0% |      0% | multi.extension.domains
+  4 |     100% |   0% |      0% | light.txt
 
 For domain and host lists, additionally: matching/missing subdomains (see at the bottom)
 ```
