@@ -3,10 +3,10 @@
 # Homepage: https://github.com/hagezi/dns-blocklists
 # Issues: https://github.com/hagezi/dns-blocklists/issues
 # Expires: Updated regularly
-# Last modified: 16 Jan 2023 08:28 UTC
-# Version: 2023.0116.0828.51
+# Last modified: 20 Jan 2023 23:17 UTC
+# Version: 2023.0120.2317.09
 # Syntax: DNSMasq
-# Domains: 138
+# Domains: 143
 #
 address=/search.0xcb.dev/#
 address=/searx.32bitflo.at/#
@@ -15,7 +15,10 @@ address=/haku.ahmia.fi/#
 address=/searx.alec.ninja/#
 address=/zoek.anchel.nl/#
 address=/search.anonymize.com/#
+address=/recherche.aol.fr/#
+address=/search.aol.ca/#
 address=/search.aol.com/#
+address=/suche.aol.de/#
 address=/search.azkware.net/#
 address=/searx.bbaovanc.com/#
 address=/beezboo.com/#
@@ -24,6 +27,7 @@ address=/search.bluelock.org/#
 address=/boomle.com/#
 address=/search.brave.com/#
 address=/recherche.catmargue.org/#
+address=/search.aol.co.uk/#
 address=/searx.com.au/#
 address=/darmarit.org/#
 address=/suche.dasnetzundich.de/#
@@ -42,6 +46,7 @@ address=/search.ethibox.fr/#
 address=/eulie.de/#
 address=/searx.everdot.org/#
 address=/searx.feneas.org/#
+address=/fireball.de/#
 address=/searx.fmac.xyz/#
 address=/searx.foo.li/#
 address=/searx.forked.io/#

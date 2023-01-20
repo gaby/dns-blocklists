@@ -3,10 +3,10 @@
 # Homepage: https://github.com/hagezi/dns-blocklists
 # Issues: https://github.com/hagezi/dns-blocklists/issues
 # Expires: Updated regularly
-# Last modified: 16 Jan 2023 08:28 UTC
-# Version: 2023.0116.0828.51
+# Last modified: 20 Jan 2023 23:17 UTC
+# Version: 2023.0120.2317.09
 # Syntax: Hosts
-# Domains: 141
+# Domains: 146
 #
 0.0.0.0 search.0xcb.dev
 0.0.0.0 searx.32bitflo.at
@@ -15,7 +15,10 @@
 0.0.0.0 searx.alec.ninja
 0.0.0.0 zoek.anchel.nl
 0.0.0.0 search.anonymize.com
+0.0.0.0 recherche.aol.fr
+0.0.0.0 search.aol.ca
 0.0.0.0 search.aol.com
+0.0.0.0 suche.aol.de
 0.0.0.0 search.azkware.net
 0.0.0.0 searx.bbaovanc.com
 0.0.0.0 beezboo.com
@@ -24,6 +27,7 @@
 0.0.0.0 boomle.com
 0.0.0.0 search.brave.com
 0.0.0.0 recherche.catmargue.org
+0.0.0.0 search.aol.co.uk
 0.0.0.0 searx.com.au
 0.0.0.0 darmarit.org
 0.0.0.0 suche.dasnetzundich.de
@@ -42,6 +46,7 @@
 0.0.0.0 eulie.de
 0.0.0.0 searx.everdot.org
 0.0.0.0 searx.feneas.org
+0.0.0.0 fireball.de
 0.0.0.0 searx.fmac.xyz
 0.0.0.0 searx.foo.li
 0.0.0.0 searx.forked.io
