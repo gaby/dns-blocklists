@@ -1331,10 +1331,6 @@
 ! https://github.com/Ultimate-Hosts-Blacklist/whitelist/issues/190
 @@|js.pusher.com^
 
-! Maxmind
-@@|maxmind.com^
-@@|www.maxmind.com^
-
 ! https://about.gitlab.com/solutions/open-source/join/
 @@||sheerid.com^
 
@@ -2150,9 +2146,6 @@
 @@|mywot.com^
 @@|www.mywot.com^
 
-! Breaks site layout on maxmind.com - https://github.com/hagezi/dns-blocklists/issues/198
-@@|static.maxmind.com^
-
 ! https://github.com/hagezi/dns-blocklists/issues/202
 @@|mindvalley.com^
 @@|www.mindvalley.com^
@@ -2217,6 +2210,7 @@
 @@|living-sun.com^
 @@|www.living-sun.com^
 
+! https://github.com/hagezi/dns-blocklists/issues/198
 ! https://github.com/hagezi/dns-blocklists/issues/218
-@@|download.maxmind.com^
+@@||maxmind.com^
 

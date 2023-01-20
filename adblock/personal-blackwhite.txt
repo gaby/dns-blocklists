@@ -505,10 +505,10 @@
 ! Issues: https://github.com/hagezi/dns-blocklists/issues
 ! License: https://github.com/hagezi/dns-blocklists/blob/main/LICENSE.md
 ! Expires: Updated regularly
-! Last modified: 20 Jan 2023 06:57 UTC
-! Version: 2023.0120.0657.45
+! Last modified: 20 Jan 2023 07:46 UTC
+! Version: 2023.0120.0746.34
 ! Syntax: AdBlock
-! Domains: 19292
+! Domains: 19291
 !
 ||00px.net^
 ||021jf.com^
@@ -11142,7 +11142,6 @@
 ||hummingbird.mavencoalition.io^
 ||maxbounty.com^
 ||maxetise.net^
-||device.maxmind.com^
 ||maxonclick.com^
 ||saa.maxpreps.com^
 ||dcs.maxthon.com^
@@ -26888,10 +26887,6 @@
 ! https://github.com/Ultimate-Hosts-Blacklist/whitelist/issues/190
 @@|js.pusher.com^
 
-! Maxmind
-@@|maxmind.com^
-@@|www.maxmind.com^
-
 ! https://about.gitlab.com/solutions/open-source/join/
 @@||sheerid.com^
 
@@ -27703,9 +27698,6 @@
 @@|mywot.com^
 @@|www.mywot.com^
 
-! Breaks site layout on maxmind.com - https://github.com/hagezi/dns-blocklists/issues/198
-@@|static.maxmind.com^
-
 ! https://github.com/hagezi/dns-blocklists/issues/202
 @@|mindvalley.com^
 @@|www.mindvalley.com^
@@ -27770,8 +27762,9 @@
 @@|living-sun.com^
 @@|www.living-sun.com^
 
+! https://github.com/hagezi/dns-blocklists/issues/198
 ! https://github.com/hagezi/dns-blocklists/issues/218
-@@|download.maxmind.com^
+@@||maxmind.com^
 
 
 ! Title: HaGeZi's White-/Allowlist Referral for Black & White list

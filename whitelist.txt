@@ -1213,9 +1213,6 @@ static.cloud.coveo.com
 # https://github.com/Ultimate-Hosts-Blacklist/whitelist/issues/190
 js.pusher.com
 
-# Maxmind
-maxmind.com
-
 # https://about.gitlab.com/solutions/open-source/join/
 *.sheerid.com
 
@@ -1936,9 +1933,6 @@ filedropper.com
 # WOT - Website Safety Check
 mywot.com
 
-# Breaks site layout on maxmind.com - https://github.com/hagezi/dns-blocklists/issues/198
-static.maxmind.com
-
 # https://github.com/hagezi/dns-blocklists/issues/202
 mindvalley.com
 
@@ -1998,6 +1992,7 @@ b.hatena.ne.jp
 # Tech help articles
 living-sun.com
 
+# https://github.com/hagezi/dns-blocklists/issues/198
 # https://github.com/hagezi/dns-blocklists/issues/218
-download.maxmind.com
+*.maxmind.com
 
