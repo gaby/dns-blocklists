@@ -5,10 +5,10 @@
 # Issues: https://github.com/hagezi/dns-blocklists/issues
 # License: https://github.com/hagezi/dns-blocklists/blob/main/LICENSE.md
 # Expires: Updated regularly
-# Last modified: 18 Jan 2023 23:19 UTC
-# Version: 2023.0118.2319.43
+# Last modified: 20 Jan 2023 23:18 UTC
+# Version: 2023.0120.2318.54
 # Syntax: DNSMasq
-# Domains: 268
+# Domains: 277
 #
 address=/1and1-dns.de/#
 address=/233py.com/#
@@ -20,6 +20,8 @@ address=/dns.aaflalo.me/#
 address=/dns-gcp.aaflalo.me/#
 address=/dns-nyc.aaflalo.me/#
 address=/doh.dns.apple.com.v.aaplimg.com/#
+address=/doh.abmb.win/#
+address=/doh2.abmb.win/#
 address=/dns.adguard.com/#
 address=/dns-family.adguard.com/#
 address=/dns-unfiltered.adguard.com/#
@@ -105,6 +107,8 @@ address=/dns.dns-over-https.com/#
 address=/ns1.recursive.dnsbycomodo.com/#
 address=/ns2.recursive.dnsbycomodo.com/#
 address=/2.dnscrypt-cert.shield-2.dnsbycomodo.com/#
+address=/asia.dnscepat.id/#
+address=/eropa.dnscepat.id/#
 address=/dns1.dnscrypt.ca/#
 address=/dns2.dnscrypt.ca/#
 address=/doh.dnscrypt.uk/#
@@ -205,6 +209,8 @@ address=/resolver4.dns.openinternet.io/#
 address=/dns.oszx.co/#
 address=/2.dnscrypt-cert.oszx.co/#
 address=/dns.paesa.es/#
+address=/a.passcloud.xyz/#
+address=/i.passcloud.xyz/#
 address=/rpz-public-resolver1.rrdns.pch.net/#
 address=/doh.centraleu.pi-dns.com/#
 address=/dot.centraleu.pi-dns.com/#
@@ -223,6 +229,7 @@ address=/dot.westus.pi-dns.com/#
 address=/helios.plan9-dns.com/#
 address=/kronos.plan9-dns.com/#
 address=/pluton.plan9-dns.com/#
+address=/doh.post-factum.tk/#
 address=/doh.powerdns.org/#
 address=/dns.pumplex.com/#
 address=/2.dnscrypt-cert.pumplex.com/#
@@ -275,6 +282,8 @@ address=/adfree.usableprivacy.net/#
 address=/doh.this.web.id/#
 address=/dns.wevpn.com/#
 address=/dns-weblock.wevpn.com/#
+address=/dns.wugui.zone/#
+address=/dns-asia.wugui.zone/#
 address=/doh.xfinity.com/#
 address=/dot.xfinity.com/#
 address=/2.dnscrypt-cert.browser.yandex.net/#
