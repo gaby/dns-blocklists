@@ -505,8 +505,8 @@
 ! Issues: https://github.com/hagezi/dns-blocklists/issues
 ! License: https://github.com/hagezi/dns-blocklists/blob/main/LICENSE.md
 ! Expires: Updated regularly
-! Last modified: 20 Jan 2023 11:34 UTC
-! Version: 2023.0120.1134.16
+! Last modified: 20 Jan 2023 15:24 UTC
+! Version: 2023.0120.1524.48
 ! Syntax: AdBlock
 ! Domains: 19415
 !
@@ -27890,9 +27890,13 @@
 ! https://github.com/hagezi/dns-blocklists/issues/218
 @@||maxmind.com^
 
-! Erste Hilfe Schule
+! Special offers from Aachen
 @@|oecherdeal.de^
 @@|www.oecherdeal.de^
+
+! https://github.com/hagezi/dns-blocklists/issues/219
+@@|courier.com^
+@@|www.courier.com^
 
 
 ! Title: HaGeZi's White-/Allowlist Referral for Black & White list
