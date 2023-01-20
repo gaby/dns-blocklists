@@ -271,7 +271,7 @@
 ### ***Personal - My manually maintained blacklist*** <a name="personal"></a>
 *My personal blocklist, an extension for known blocklists. Blocks ads, trackers, native device trackers, badware and more. Not intended to be used as a standalone blocklist, it serves as a addition for other blocklists!*         
         
-**Entries:** *70983 domains/hosts - 23003 compressed domains*
+**Entries:** *71705 domains/hosts - 23132 compressed domains*
        
 | Format | Link | Can be used for |
 |:-------|:-----|:----------------|
@@ -392,9 +392,7 @@ If these are blocked, the first hit links from search results, for example, no l
                   
 *There are users who want to block referral domains anyway, so for each list I show the domains that were whitelisted because of referral. You can see them in the list of [used sources](usedsources.md) behind the link "whitelisted referral domains" per list.
 This list can then be used as a blocklist to "undo" the whitelisting of referral domains.*
-          
-*Allowing referral domains in my lists is equivalent to the [NextDNS](https://nextdns.io/?from=jvpyfdfc) feature "Privacy > Allow Affiliate & Tracking Links".*
-          
+             
 #### Support Me <a name="support"></a>
 
 *I do not want any money donations. If you don't know what to do with your money, invest it in aid or similar projects, do something good with it. There is enough misery in the world.*             
