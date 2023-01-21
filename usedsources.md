@@ -3,10 +3,10 @@
 #### LIGHT
 [whitelisted domains](https://raw.githubusercontent.com/hagezi/dns-data-collection/main/data/light-removed-white.txt) | [whitelisted referral domains](https://raw.githubusercontent.com/hagezi/dns-data-collection/main/data/light-removed-referral.txt) | [dead domains](https://raw.githubusercontent.com/hagezi/dns-data-collection/main/data/light-removed-dead.txt)
 ```
-279678 total unique domains | 246365 (88%) included | 3086 (1%) removed | 30227 (11%) dead
+275651 total unique domains | 242219 (88%) included | 4094 (1%) removed | 29338 (11%) dead
 
  Nr | Included | Dead | Removed | URL/File
-  1 |      96% |   1% |      3% | https://raw.githubusercontent.com/badmojr/1Hosts/master/Lite/hosts.txt
+  1 |      95% |   1% |      4% | https://raw.githubusercontent.com/badmojr/1Hosts/master/Lite/hosts.txt
   2 |      91% |   8% |      1% | https://adguardteam.github.io/AdGuardSDNSFilter/Filters/filter.txt
   3 |      91% |   9% |      0% | https://threatfox.abuse.ch/downloads/hostfile
   4 |     100% |   0% |      0% | https://urlhaus.abuse.ch/downloads/hostfile
@@ -16,7 +16,7 @@
   8 |     100% |   0% |      0% | apple.txt
   9 |      78% |   0% |     22% | windows-office.txt
  10 |     100% |   0% |      0% | huawei.txt
- 11 |      93% |   1% |      6% | black.list
+ 11 |      91% |   1% |      8% | black.list
  12 |     100% |   0% |      0% | personal.txt
  13 |     100% |   0% |      0% | fake.txt
 
