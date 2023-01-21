@@ -505,8 +505,8 @@
 ! Issues: https://github.com/hagezi/dns-blocklists/issues
 ! License: https://github.com/hagezi/dns-blocklists/blob/main/LICENSE.md
 ! Expires: Updated regularly
-! Last modified: 21 Jan 2023 06:20 UTC
-! Version: 2023.0121.0620.25
+! Last modified: 21 Jan 2023 06:33 UTC
+! Version: 2023.0121.0633.07
 ! Syntax: AdBlock
 ! Domains: 12068
 !
@@ -20385,6 +20385,9 @@
 
 ! https://github.com/hagezi/dns-blocklists/issues/226
 @@|subarumysubaruappproduction.112.2o7.net^
+
+! PowUnity bike tracking
+@@|go.powunity.com^
 
 
 ! Title: HaGeZi's White-/Allowlist Referral for Black & White list
