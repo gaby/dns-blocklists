@@ -396,6 +396,9 @@
 ! Prevents Netflix from continuing to play videos where you stopped or paused them
 @@||ichnaea*.netflix.com^
 
+! Nvidia
+||telemetry*.nvidia.com^
+
 ! Popups
 ||7e1e8f3eba.com^
 
