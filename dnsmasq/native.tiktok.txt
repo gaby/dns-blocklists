@@ -4,10 +4,10 @@
 # Issues: https://github.com/hagezi/dns-blocklists/issues
 # License: https://github.com/hagezi/dns-blocklists/blob/main/LICENSE.md
 # Expires: Updated regularly
-# Last modified: 14 Dez 2022 08:39 UTC
-# Version: 2022.1214.0839.19
+# Last modified: 22 Jan 2023 13:24 UTC
+# Version: 2023.0122.1324.05
 # Syntax: DNSMasq
-# Domains: 218
+# Domains: 255
 #
 address=/cdnlog-va-useast2a.byteoversea.com/#
 address=/frontier.byteoversea.com/#
@@ -45,6 +45,29 @@ address=/vaali-mcs-useast2a.byteoversea.com/#
 address=/xlog.byteoversea.com/#
 address=/xlog-va.byteoversea.com/#
 address=/xlog-va-useast2a.byteoversea.com/#
+address=/applog.snssdk.com/#
+address=/extlog.snssdk.com/#
+address=/frontier.snssdk.com/#
+address=/frontier-aweme.snssdk.com/#
+address=/frontier-aweme-hl.snssdk.com/#
+address=/frontier-toutiao.snssdk.com/#
+address=/gecko.snssdk.com/#
+address=/gecko-pangle-hl.snssdk.com/#
+address=/gecko-pangle-lf.snssdk.com/#
+address=/gecko-pangle-lq.snssdk.com/#
+address=/log.snssdk.com/#
+address=/log-hl.snssdk.com/#
+address=/log-lq.snssdk.com/#
+address=/mcs.snssdk.com/#
+address=/mon.snssdk.com/#
+address=/mssdk.snssdk.com/#
+address=/mssdk-bu.snssdk.com/#
+address=/os-mon.snssdk.com/#
+address=/pc-mon.snssdk.com/#
+address=/toutiao-frontier.snssdk.com/#
+address=/varticle-frontier.snssdk.com/#
+address=/varticle-frontier-hl.snssdk.com/#
+address=/xlog.snssdk.com/#
 address=/ads-frontier.tiktok.com/#
 address=/analytics.tiktok.com/#
 address=/analytics-attribution.tiktok.com/#
@@ -52,13 +75,14 @@ address=/analytics-attribution-va.tiktok.com/#
 address=/analytics-exp-sg.tiktok.com/#
 address=/analytics-sg.tiktok.com/#
 address=/analytics-test.tiktok.com/#
-address=/log.tiktok.com/#
+address=/blogs.tiktok.com/#
 address=/mcs-i18n.tiktok.com/#
 address=/mcs-sg.tiktok.com/#
 address=/mcs-va.tiktok.com/#
 address=/mssdk-sg.tiktok.com/#
 address=/mssdk-va.tiktok.com/#
 address=/analytics.us.tiktok.com/#
+address=/analytics-exp.us.tiktok.com/#
 address=/mcs.us.tiktok.com/#
 address=/mssdk.us.tiktok.com/#
 address=/lf16-gecko-source.tiktokcdn.com/#
@@ -68,6 +92,8 @@ address=/lf19-geckocdn-sg.tiktokcdn.com/#
 address=/lf21-gecko-source.tiktokcdn.com/#
 address=/lf77-gecko-source.tiktokcdn.com/#
 address=/lf9-geckocdn.tiktokcdn.com/#
+address=/applog.tiktokv.com/#
+address=/blogs.tiktokv.com/#
 address=/frontier.tiktokv.com/#
 address=/frontier-i18n.tiktokv.com/#
 address=/frontier-phx.tiktokv.com/#
@@ -78,12 +104,16 @@ address=/frontier16-alisg.tiktokv.com/#
 address=/frontier16-normal.tiktokv.com/#
 address=/frontier16-normal-alisg.tiktokv.com/#
 address=/frontier16-normal-useast1a.tiktokv.com/#
+address=/frontier16-normal-useast2a.tiktokv.com/#
 address=/frontier16-useast1a.tiktokv.com/#
+address=/frontier22-normal-useast1a.tiktokv.com/#
+address=/frontier22-normal-useast2a.tiktokv.com/#
 address=/gecko-boot.tiktokv.com/#
 address=/gecko-phx.tiktokv.com/#
 address=/gecko-ru.tiktokv.com/#
 address=/gecko-sg.tiktokv.com/#
 address=/gecko-va.tiktokv.com/#
+address=/gecko15-normal-alisg.tiktokv.com/#
 address=/gecko15-normal-useast1a.tiktokv.com/#
 address=/gecko16-normal.tiktokv.com/#
 address=/gecko16-normal-alisg.tiktokv.com/#
@@ -99,6 +129,9 @@ address=/gecko22-normal.tiktokv.com/#
 address=/gecko22-normal-alisg.tiktokv.com/#
 address=/gecko22-normal-useast1a.tiktokv.com/#
 address=/gecko22-normal-useast2a.tiktokv.com/#
+address=/gecko31-normal-alisg.tiktokv.com/#
+address=/gecko31-normal-useast1a.tiktokv.com/#
+address=/gecko31-normal-useast2a.tiktokv.com/#
 address=/log.tiktokv.com/#
 address=/log-boot.tiktokv.com/#
 address=/log-i18n.tiktokv.com/#
@@ -125,12 +158,14 @@ address=/log19-applog-useast2a.tiktokv.com/#
 address=/log19-normal.tiktokv.com/#
 address=/log19-normal-alisg.tiktokv.com/#
 address=/log19-normal-useast1a.tiktokv.com/#
+address=/log19-normal-useast2a.tiktokv.com/#
 address=/log22-applog-useast1a.tiktokv.com/#
 address=/log22-normal.tiktokv.com/#
 address=/log22-normal-alisg.tiktokv.com/#
 address=/log22-normal-useast1a.tiktokv.com/#
 address=/log22-normal-useast2a.tiktokv.com/#
 address=/log31-normal-useast2a.tiktokv.com/#
+address=/log77-normal-c-alisg.tiktokv.com/#
 address=/logbk.tiktokv.com/#
 address=/mcs-sg.tiktokv.com/#
 address=/mcs-va.tiktokv.com/#
@@ -143,6 +178,7 @@ address=/mon-ru.tiktokv.com/#
 address=/mon-sg.tiktokv.com/#
 address=/mon-va.tiktokv.com/#
 address=/mon15-checkout-alisg.tiktokv.com/#
+address=/mon15-checkout-useast1a.tiktokv.com/#
 address=/mon15-normal.tiktokv.com/#
 address=/mon15-normal-useast1a.tiktokv.com/#
 address=/mon16-normal.tiktokv.com/#
@@ -187,6 +223,7 @@ address=/rtlog-ru.tiktokv.com/#
 address=/rtlog-va.tiktokv.com/#
 address=/rtlog-va-useast2a.tiktokv.com/#
 address=/rtlog15-normal-useast1a.tiktokv.com/#
+address=/rtlog15-normal-useast2a.tiktokv.com/#
 address=/rtlog16-applog-useast1a.tiktokv.com/#
 address=/rtlog16-applog-useast2a.tiktokv.com/#
 address=/rtlog16-normal.tiktokv.com/#

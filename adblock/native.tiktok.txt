@@ -4,10 +4,10 @@
 ! Issues: https://github.com/hagezi/dns-blocklists/issues
 ! License: https://github.com/hagezi/dns-blocklists/blob/main/LICENSE.md
 ! Expires: Updated regularly
-! Last modified: 14 Dez 2022 08:39 UTC
-! Version: 2022.1214.0839.19
+! Last modified: 22 Jan 2023 13:24 UTC
+! Version: 2023.0122.1324.05
 ! Syntax: AdBlock
-! Domains: 218
+! Domains: 255
 !
 ||cdnlog-va-useast2a.byteoversea.com^
 ||frontier.byteoversea.com^
@@ -45,6 +45,29 @@
 ||xlog.byteoversea.com^
 ||xlog-va.byteoversea.com^
 ||xlog-va-useast2a.byteoversea.com^
+||applog.snssdk.com^
+||extlog.snssdk.com^
+||frontier.snssdk.com^
+||frontier-aweme.snssdk.com^
+||frontier-aweme-hl.snssdk.com^
+||frontier-toutiao.snssdk.com^
+||gecko.snssdk.com^
+||gecko-pangle-hl.snssdk.com^
+||gecko-pangle-lf.snssdk.com^
+||gecko-pangle-lq.snssdk.com^
+||log.snssdk.com^
+||log-hl.snssdk.com^
+||log-lq.snssdk.com^
+||mcs.snssdk.com^
+||mon.snssdk.com^
+||mssdk.snssdk.com^
+||mssdk-bu.snssdk.com^
+||os-mon.snssdk.com^
+||pc-mon.snssdk.com^
+||toutiao-frontier.snssdk.com^
+||varticle-frontier.snssdk.com^
+||varticle-frontier-hl.snssdk.com^
+||xlog.snssdk.com^
 ||ads-frontier.tiktok.com^
 ||analytics.tiktok.com^
 ||analytics-attribution.tiktok.com^
@@ -52,13 +75,14 @@
 ||analytics-exp-sg.tiktok.com^
 ||analytics-sg.tiktok.com^
 ||analytics-test.tiktok.com^
-||log.tiktok.com^
+||blogs.tiktok.com^
 ||mcs-i18n.tiktok.com^
 ||mcs-sg.tiktok.com^
 ||mcs-va.tiktok.com^
 ||mssdk-sg.tiktok.com^
 ||mssdk-va.tiktok.com^
 ||analytics.us.tiktok.com^
+||analytics-exp.us.tiktok.com^
 ||mcs.us.tiktok.com^
 ||mssdk.us.tiktok.com^
 ||lf16-gecko-source.tiktokcdn.com^
@@ -68,6 +92,8 @@
 ||lf21-gecko-source.tiktokcdn.com^
 ||lf77-gecko-source.tiktokcdn.com^
 ||lf9-geckocdn.tiktokcdn.com^
+||applog.tiktokv.com^
+||blogs.tiktokv.com^
 ||frontier.tiktokv.com^
 ||frontier-i18n.tiktokv.com^
 ||frontier-phx.tiktokv.com^
@@ -78,12 +104,16 @@
 ||frontier16-normal.tiktokv.com^
 ||frontier16-normal-alisg.tiktokv.com^
 ||frontier16-normal-useast1a.tiktokv.com^
+||frontier16-normal-useast2a.tiktokv.com^
 ||frontier16-useast1a.tiktokv.com^
+||frontier22-normal-useast1a.tiktokv.com^
+||frontier22-normal-useast2a.tiktokv.com^
 ||gecko-boot.tiktokv.com^
 ||gecko-phx.tiktokv.com^
 ||gecko-ru.tiktokv.com^
 ||gecko-sg.tiktokv.com^
 ||gecko-va.tiktokv.com^
+||gecko15-normal-alisg.tiktokv.com^
 ||gecko15-normal-useast1a.tiktokv.com^
 ||gecko16-normal.tiktokv.com^
 ||gecko16-normal-alisg.tiktokv.com^
@@ -99,6 +129,9 @@
 ||gecko22-normal-alisg.tiktokv.com^
 ||gecko22-normal-useast1a.tiktokv.com^
 ||gecko22-normal-useast2a.tiktokv.com^
+||gecko31-normal-alisg.tiktokv.com^
+||gecko31-normal-useast1a.tiktokv.com^
+||gecko31-normal-useast2a.tiktokv.com^
 ||log.tiktokv.com^
 ||log-boot.tiktokv.com^
 ||log-i18n.tiktokv.com^
@@ -125,12 +158,14 @@
 ||log19-normal.tiktokv.com^
 ||log19-normal-alisg.tiktokv.com^
 ||log19-normal-useast1a.tiktokv.com^
+||log19-normal-useast2a.tiktokv.com^
 ||log22-applog-useast1a.tiktokv.com^
 ||log22-normal.tiktokv.com^
 ||log22-normal-alisg.tiktokv.com^
 ||log22-normal-useast1a.tiktokv.com^
 ||log22-normal-useast2a.tiktokv.com^
 ||log31-normal-useast2a.tiktokv.com^
+||log77-normal-c-alisg.tiktokv.com^
 ||logbk.tiktokv.com^
 ||mcs-sg.tiktokv.com^
 ||mcs-va.tiktokv.com^
@@ -143,6 +178,7 @@
 ||mon-sg.tiktokv.com^
 ||mon-va.tiktokv.com^
 ||mon15-checkout-alisg.tiktokv.com^
+||mon15-checkout-useast1a.tiktokv.com^
 ||mon15-normal.tiktokv.com^
 ||mon15-normal-useast1a.tiktokv.com^
 ||mon16-normal.tiktokv.com^
@@ -187,6 +223,7 @@
 ||rtlog-va.tiktokv.com^
 ||rtlog-va-useast2a.tiktokv.com^
 ||rtlog15-normal-useast1a.tiktokv.com^
+||rtlog15-normal-useast2a.tiktokv.com^
 ||rtlog16-applog-useast1a.tiktokv.com^
 ||rtlog16-applog-useast2a.tiktokv.com^
 ||rtlog16-normal.tiktokv.com^
