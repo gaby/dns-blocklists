@@ -369,6 +369,8 @@
 ||events*.data.msn.*^
 ||measure.office.com^
 ||pipe.aria.microsoft.com^
+! Outlook mobile app
+@@||mobile.pipe.aria.microsoft.com^
 ||telemetry*.microsoft.com^
 ||vortex*.data.microsoft.com^
 ! Windows / Xbox-Achievments
@@ -509,8 +511,8 @@
 ! Issues: https://github.com/hagezi/dns-blocklists/issues
 ! License: https://github.com/hagezi/dns-blocklists/blob/main/LICENSE.md
 ! Expires: Updated regularly
-! Last modified: 22 Jan 2023 05:22 UTC
-! Version: 2023.0122.0522.55
+! Last modified: 22 Jan 2023 13:15 UTC
+! Version: 2023.0122.1315.10
 ! Syntax: AdBlock
 ! Domains: 12028
 !
