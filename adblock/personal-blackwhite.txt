@@ -511,8 +511,8 @@
 ! Issues: https://github.com/hagezi/dns-blocklists/issues
 ! License: https://github.com/hagezi/dns-blocklists/blob/main/LICENSE.md
 ! Expires: Updated regularly
-! Last modified: 22 Jan 2023 13:32 UTC
-! Version: 2023.0122.1332.37
+! Last modified: 22 Jan 2023 13:48 UTC
+! Version: 2023.0122.1348.56
 ! Syntax: AdBlock
 ! Domains: 12029
 !
@@ -18313,6 +18313,10 @@
 @@||nexusrules.officeapps.live.com^
 @@|self-events-data.trafficmanager.net^
 @@|self.events.data.microsoft.com^
+! Outlook mobile app
+! https://github.com/hagezi/dns-blocklists/issues/233
+@@|mobile.pipe.aria.microsoft.com^
+@@|mobile.events.data.trafficmanager.net^
 
 ! NVidia
 @@|activation.gfe.nvidia.com^
@@ -19693,7 +19697,7 @@
 @@|www.norden.social^
 
 ! Breaks naver.com
-@@||tivan.naver.com^
+@@|tivan.naver.com^
 
 ! Greek school sites
 @@||sch.gr^
