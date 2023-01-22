@@ -511,10 +511,10 @@
 ! Issues: https://github.com/hagezi/dns-blocklists/issues
 ! License: https://github.com/hagezi/dns-blocklists/blob/main/LICENSE.md
 ! Expires: Updated regularly
-! Last modified: 22 Jan 2023 13:15 UTC
-! Version: 2023.0122.1315.10
+! Last modified: 22 Jan 2023 13:32 UTC
+! Version: 2023.0122.1332.37
 ! Syntax: AdBlock
-! Domains: 12028
+! Domains: 12029
 !
 ||00px.net^
 ||021jf.com^
@@ -7775,6 +7775,7 @@
 ||ntracker-collector.naver.com^
 ||er.search.naver.com^
 ||sp.naver.com^
+||g.tivan.naver.com^
 ||logapi.tv.naver.com^
 ||veta.naver.com^
 ||wcs.naver.com^
