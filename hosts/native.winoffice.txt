@@ -4,28 +4,19 @@
 # Issues: https://github.com/hagezi/dns-blocklists/issues
 # License: https://github.com/hagezi/dns-blocklists/blob/main/LICENSE.md
 # Expires: Updated regularly
-# Last modified: 16 Jan 2023 23:24 UTC
-# Version: 2023.0116.2324.40
+# Last modified: 22 Jan 2023 13:16 UTC
+# Version: 2023.0122.1316.47
 # Syntax: Hosts
-# Domains: 145
+# Domains: 109
 #
-0.0.0.0 nexusrules.live.com.akadns.net
-0.0.0.0 prod.nexusrules.live.com.akadns.net
 0.0.0.0 asimov-win.settings.data.microsoft.com.akadns.net
-0.0.0.0 vortex.data.microsoft.com.akadns.net
 0.0.0.0 cy2.vortex.data.microsoft.com.akadns.net
 0.0.0.0 db5.vortex.data.microsoft.com.akadns.net
 0.0.0.0 geo.vortex.data.microsoft.com.akadns.net
-0.0.0.0 v10-win.vortex.data.microsoft.com.akadns.net
 0.0.0.0 watson.data.microsoft.com.akadns.net
 0.0.0.0 modern.watson.data.microsoft.com.akadns.net
-0.0.0.0 nexusrules.live.com
 0.0.0.0 excel-telemetry.officeapps.live.com
-0.0.0.0 nexus.officeapps.live.com
-0.0.0.0 nexusrules.officeapps.live.com
-0.0.0.0 pipe.aria.microsoft.com
 0.0.0.0 browser.pipe.aria.microsoft.com
-0.0.0.0 mobile.pipe.aria.microsoft.com
 0.0.0.0 pf.pipe.aria.microsoft.com
 0.0.0.0 server1.pipe.aria.microsoft.com
 0.0.0.0 server2.pipe.aria.microsoft.com
@@ -37,25 +28,17 @@
 0.0.0.0 server8.pipe.aria.microsoft.com
 0.0.0.0 tb.pipe.aria.microsoft.com
 0.0.0.0 us.pipe.aria.microsoft.com
-0.0.0.0 events.data.microsoft.com
 0.0.0.0 adhs.events.data.microsoft.com
 0.0.0.0 apac.events.data.microsoft.com
-0.0.0.0 au-v10.events.data.microsoft.com
 0.0.0.0 au-v10c.events.data.microsoft.com
-0.0.0.0 au-v20.events.data.microsoft.com
-0.0.0.0 browser.events.data.microsoft.com
 0.0.0.0 emea.events.data.microsoft.com
 0.0.0.0 eu-mobile.events.data.microsoft.com
 0.0.0.0 eu-office.events.data.microsoft.com
 0.0.0.0 eu-teams.events.data.microsoft.com
-0.0.0.0 eu-v10.events.data.microsoft.com
 0.0.0.0 eu-v10c.events.data.microsoft.com
-0.0.0.0 eu-v20.events.data.microsoft.com
 0.0.0.0 functional.events.data.microsoft.com
 0.0.0.0 ic3.events.data.microsoft.com
-0.0.0.0 jp-v10.events.data.microsoft.com
 0.0.0.0 jp-v10c.events.data.microsoft.com
-0.0.0.0 jp-v20.events.data.microsoft.com
 0.0.0.0 kmwatson.events.data.microsoft.com
 0.0.0.0 kmwatsonc.events.data.microsoft.com
 0.0.0.0 mobile.events.data.microsoft.com
@@ -64,35 +47,24 @@
 0.0.0.0 office-c.events.data.microsoft.com
 0.0.0.0 office-g.events.data.microsoft.com
 0.0.0.0 pf.events.data.microsoft.com
-0.0.0.0 self.events.data.microsoft.com
 0.0.0.0 server.events.data.microsoft.com
 0.0.0.0 tb.events.data.microsoft.com
 0.0.0.0 teams.events.data.microsoft.com
-0.0.0.0 uk-v20.events.data.microsoft.com
 0.0.0.0 umwatson.events.data.microsoft.com
 0.0.0.0 umwatsonc.events.data.microsoft.com
 0.0.0.0 us-mobile.events.data.microsoft.com
-0.0.0.0 us-v10.events.data.microsoft.com
 0.0.0.0 us-v10c.events.data.microsoft.com
-0.0.0.0 us-v20.events.data.microsoft.com
-0.0.0.0 us4-v20.events.data.microsoft.com
-0.0.0.0 us5-v20.events.data.microsoft.com
-0.0.0.0 v10.events.data.microsoft.com
 0.0.0.0 v10c.events.data.microsoft.com
-0.0.0.0 v20.events.data.microsoft.com
 0.0.0.0 watson.events.data.microsoft.com
 0.0.0.0 watsonc.events.data.microsoft.com
 0.0.0.0 events-sandbox.data.microsoft.com
 0.0.0.0 vortex.data.microsoft.com
 0.0.0.0 web.vortex.data.microsoft.com
-0.0.0.0 vortex-win.data.microsoft.com
 0.0.0.0 au.vortex-win.data.microsoft.com
 0.0.0.0 de.vortex-win.data.microsoft.com
 0.0.0.0 eu.vortex-win.data.microsoft.com
 0.0.0.0 uk.vortex-win.data.microsoft.com
 0.0.0.0 us.vortex-win.data.microsoft.com
-0.0.0.0 v10.vortex-win.data.microsoft.com
-0.0.0.0 v20.vortex-win.data.microsoft.com
 0.0.0.0 vortex-win-sandbox.data.microsoft.com
 0.0.0.0 watson.officeint.microsoft.com
 0.0.0.0 telemetry.microsoft.com
@@ -119,20 +91,15 @@
 0.0.0.0 events-sandbox.data.msn.com
 0.0.0.0 fp.measure.office.com
 0.0.0.0 hubblecontent.osi.office.net
-0.0.0.0 events.data.trafficmanager.net
 0.0.0.0 apac.events.data.trafficmanager.net
 0.0.0.0 aria.events.data.trafficmanager.net
 0.0.0.0 eu.aria.events.data.trafficmanager.net
 0.0.0.0 global.aria.events.data.trafficmanager.net
 0.0.0.0 us.aria.events.data.trafficmanager.net
-0.0.0.0 asimov.events.data.trafficmanager.net
-0.0.0.0 global.asimov.events.data.trafficmanager.net
 0.0.0.0 blobcollector.events.data.trafficmanager.net
-0.0.0.0 browser.events.data.trafficmanager.net
 0.0.0.0 emea.events.data.trafficmanager.net
 0.0.0.0 eu.events.data.trafficmanager.net
 0.0.0.0 jp.events.data.trafficmanager.net
-0.0.0.0 mobile.events.data.trafficmanager.net
 0.0.0.0 noam.events.data.trafficmanager.net
 0.0.0.0 pf.events.data.trafficmanager.net
 0.0.0.0 l5.pf.events.data.trafficmanager.net
@@ -144,10 +111,7 @@
 0.0.0.0 legacywatson.trafficmanager.net
 0.0.0.0 o365diagtelemetry.trafficmanager.net
 0.0.0.0 office-events-data.trafficmanager.net
-0.0.0.0 self-events-data.trafficmanager.net
 0.0.0.0 teams-events-data.trafficmanager.net
-0.0.0.0 activity.windows.com
-0.0.0.0 assets.activity.windows.com
 0.0.0.0 ceuswatcab01.blob.core.windows.net
 0.0.0.0 ceuswatcab02.blob.core.windows.net
 0.0.0.0 eaus2watcab01.blob.core.windows.net
