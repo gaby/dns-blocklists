@@ -509,10 +509,10 @@
 ! Issues: https://github.com/hagezi/dns-blocklists/issues
 ! License: https://github.com/hagezi/dns-blocklists/blob/main/LICENSE.md
 ! Expires: Updated regularly
-! Last modified: 22 Jan 2023 00:05 UTC
-! Version: 2023.0122.0005.03
+! Last modified: 22 Jan 2023 05:05 UTC
+! Version: 2023.0122.0505.03
 ! Syntax: AdBlock
-! Domains: 12029
+! Domains: 12028
 !
 ||00px.net^
 ||021jf.com^
@@ -3174,7 +3174,6 @@
 ||agility.cnn.com^
 ||zion-telemetry.api.cnn.io^
 ||collector.cdp.cnn.com^
-||z.cdp-dev.cnn.com^
 ||mms.cnn.com^
 ||sharefb.cnnd.vn^
 ||v20.cnnd.vn^
@@ -20357,6 +20356,12 @@
 ! https://github.com/hagezi/dns-blocklists/issues/228
 @@|swile.co^
 @@|www.swile.co^
+
+! https://github.com/hagezi/dns-blocklists/issues/229
+@@|z.cdp-dev.cnn.com^
+
+! https://github.com/hagezi/dns-blocklists/issues/231
+@@|1weather.onelouder.com^
 
 
 ! Title: HaGeZi's White-/Allowlist Referral for Black & White list
