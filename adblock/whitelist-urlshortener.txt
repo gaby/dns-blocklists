@@ -1,3 +1,14 @@
+! Title: HaGeZi's White-/Allowlist URL Shortener
+! Description: This list unblocks url shortener.
+! Sources: https://raw.githubusercontent.com/nextdns/url-shorteners-domains/main/domains
+!          https://raw.githubusercontent.com/boutetnico/url-shorteners/master/list.txt
+!          https://raw.githubusercontent.com/PeterDaveHello/url-shorteners/master/list
+! Homepage: https://github.com/hagezi/dns-blocklists
+! Issues: https://github.com/hagezi/dns-blocklists/issues
+! Expires: Updated regularly
+! Syntax: AdBlock
+
+@@||go.9nl.com^
 @@||0.gp^
 @@||02faq.com^
 @@||0a.fit^
@@ -80,7 +91,6 @@
 @@||9k.gg^
 @@||9mp.com^
 @@||9nl.com^
-@@||go.9nl.com^
 @@||9qr.de^
 @@||9splay.store^
 @@||a.co^
@@ -114,7 +124,6 @@
 @@||adobe.ly^
 @@||adv.li^
 @@||adweek.it^
-@@||y.ahoo.it^
 @@||ai6.net^
 @@||ajn.me^
 @@||aka.gr^
@@ -134,6 +143,7 @@
 @@||ana.ms^
 @@||anon.to^
 @@||any.gs^
+@@||anyimage.io^
 @@||aol.it^
 @@||apne.ws^
 @@||apple.co^
@@ -197,13 +207,13 @@
 @@||bo.st^
 @@||boa.la^
 @@||boi.re^
+@@||boile.rs^
 @@||bom.so^
 @@||bonap.it^
 @@||booki.ng^
 @@||bote.me^
 @@||bougn.at^
 @@||bp.cool^
-@@||on.bp.com^
 @@||br4.in^
 @@||bravo.ly^
 @@||bre.is^
@@ -273,7 +283,6 @@
 @@||cnet.co^
 @@||cnn.it^
 @@||cnnmon.ie^
-@@||genie.co.kr^
 @@||cockroa.ch^
 @@||comca.st^
 @@||conta.cc^
@@ -307,7 +316,6 @@
 @@||dai.ly^
 @@||dailym.ai^
 @@||db.tt^
-@@||go.dbs.com^
 @@||dcps.co^
 @@||dd.ma^
 @@||ddp.net^
@@ -386,7 +394,6 @@
 @@||fave.co^
 @@||fb.me^
 @@||fb.watch^
-@@||on.fb.me^
 @@||fbshort.com^
 @@||fetnet.tw^
 @@||fevo.me^
@@ -408,7 +415,6 @@
 @@||foodtv.com^
 @@||forms.gle^
 @@||freze.it^
-@@||on.ft.com^
 @@||ftnt.net^
 @@||ftt.tw^
 @@||fumacrom.com^
@@ -422,7 +428,6 @@
 @@||g02.ir^
 @@||gaw.kr^
 @@||gbte.tech^
-@@||go.gcash.com^
 @@||gcc.gl^
 @@||gdurl.com^
 @@||gek.link^
@@ -511,27 +516,24 @@
 @@||icit.fr^
 @@||ick.li^
 @@||icks.ro^
-@@||go.id.me^
-@@||w.idg.de^
+@@||iea.li^
 @@||ift.tt^
 @@||ihr.fm^
 @@||iii.im^
 @@||iiiii.in^
 @@||iiil.io^
-@@||kl.ik.my^
 @@||iky.fr^
 @@||ilix.in^
+@@||illin.is^
 @@||iln.io^
 @@||ilnk.io^
 @@||imdb.to^
 @@||indeedhi.re^
-@@||link.infini.fr^
+@@||indy.st^
 @@||info.ms^
 @@||insd.io^
 @@||instagr.am^
 @@||intel.ly^
-@@||go.intel-academy.com^
-@@||go.intigriti.com^
 @@||inx.lv^
 @@||iplogger.com^
 @@||iplogger.org^
@@ -552,6 +554,7 @@
 @@||jp22.net^
 @@||jpeg.ly^
 @@||jqw.de^
+@@||jsparty.fm^
 @@||kask.us^
 @@||katzr.net^
 @@||kbank.co^
@@ -562,7 +565,6 @@
 @@||kkday.me^
 @@||kko.to^
 @@||kkstre.am^
-@@||hi.kktv.to^
 @@||kli.cx^
 @@||ko.gl^
 @@||korta.nu^
@@ -582,7 +584,6 @@
 @@||l9k.net^
 @@||laco.st^
 @@||lam.bo^
-@@||go.lamotte.fr^
 @@||lat.ms^
 @@||lativ.tw^
 @@||lbtw.tw^
@@ -621,7 +622,6 @@
 @@||linkbun.com^
 @@||linkd.in^
 @@||linkd.pl^
-@@||l.linklyhq.com^
 @@||linkn.co^
 @@||linko.page^
 @@||linkr.in^
@@ -685,7 +685,6 @@
 @@||migre.me^
 @@||minilink.io^
 @@||minu.me^
-@@||on.mktw.net^
 @@||mney.co^
 @@||mojo.ly^
 @@||momo.dm^
@@ -700,7 +699,6 @@
 @@||mub.me^
 @@||mut.lu^
 @@||mybmw.tw^
-@@||short.mypaste.fun^
 @@||mypoya.com^
 @@||myppt.cc^
 @@||mysp.ac^
@@ -712,7 +710,6 @@
 @@||n.pr^
 @@||n9.cl^
 @@||name.ly^
-@@||go.nasa.gov^
 @@||nav.cx^
 @@||naver.me^
 @@||nbc4dc.com^
@@ -727,11 +724,11 @@
 @@||nicou.ch^
 @@||nig.gr^
 @@||nkbp.jp^
+@@||nnn.is^
 @@||nnnna.store^
 @@||nokia.ly^
 @@||notlong.com^
 @@||nov.io^
-@@||go.nowth.is^
 @@||nq.st^
 @@||ntnx.tw^
 @@||nus.edu^
@@ -740,7 +737,6 @@
 @@||nxb.tw^
 @@||nxdr.co^
 @@||nxy.in^
-@@||on.ny.gov^
 @@||nydn.us^
 @@||nyer.cm^
 @@||nym.ag^
@@ -751,6 +747,7 @@
 @@||o-x.fr^
 @@||oal.lu^
 @@||obank.tw^
+@@||oc.cm^
 @@||ock.cn^
 @@||ocul.us^
 @@||oe.cd^
@@ -768,7 +765,6 @@
 @@||oran.ge^
 @@||orlo.uk^
 @@||osdb.link^
-@@||go.osu.edu^
 @@||ou.af^
 @@||ou.gd^
 @@||oua.be^
@@ -788,7 +784,6 @@
 @@||parg.co^
 @@||parky.tv^
 @@||past.is^
-@@||to.pbs.org^
 @@||pchome.link^
 @@||pck.tv^
 @@||pckd.me^
@@ -821,7 +816,7 @@
 @@||ppst.me^
 @@||ppt.cc^
 @@||ppt.li^
-@@||l.prageru.com^
+@@||ppurl.io^
 @@||prejit.cz^
 @@||preml.ge^
 @@||prf.hn^
@@ -844,7 +839,6 @@
 @@||py6.ru^
 @@||pzdls.co^
 @@||q.gs^
-@@||go.qb.by^
 @@||qbn.ru^
 @@||qnap.to^
 @@||qqc.co^
@@ -863,7 +857,6 @@
 @@||rch.lt^
 @@||rcknr.io^
 @@||rdz.me^
-@@||go.rebel.pl^
 @@||rebelne.ws^
 @@||rebrand.ly^
 @@||reconis.co^
@@ -879,7 +872,6 @@
 @@||reise.lc^
 @@||relink.fr^
 @@||rem.ax^
-@@||t.rend.tw^
 @@||replug.link^
 @@||rethinktw.cc^
 @@||reurl.cc^
@@ -914,7 +906,6 @@
 @@||safelinking.net^
 @@||sagyap.tk^
 @@||sail.to^
-@@||hi.sat.cool^
 @@||sbsne.ws^
 @@||sbux.co^
 @@||sck.io^
@@ -934,7 +925,6 @@
 @@||sh.st^
 @@||shar.as^
 @@||shar.es^
-@@||go.shell.com^
 @@||shiny.link^
 @@||sho.pe^
 @@||shope.ee^
@@ -946,20 +936,16 @@
 @@||shorte.st^
 @@||shorten.asia^
 @@||shortest.link^
-@@||shortmy.link^
 @@||shorturl.ae^
 @@||shorturl.asia^
 @@||shorturl.at^
 @@||shorturl.com^
 @@||shorturl.gg^
 @@||shp.ee^
-@@||go.shr.lc^
 @@||shrt.in^
 @@||shrt.ml^
 @@||shrtco.de^
-@@||www.shrunken.com^
 @@||shutr.bz^
-@@||u.shxj.pw^
 @@||shy.si^
 @@||sicax.net^
 @@||sie.ag^
@@ -970,7 +956,6 @@
 @@||sinyi.biz^
 @@||sinyi.in^
 @@||sk.gy^
-@@||go.skilllabs.io^
 @@||skimmth.is^
 @@||skl.sh^
 @@||skr.sk^
@@ -994,7 +979,6 @@
 @@||soc.cr^
 @@||sokrati.ru^
 @@||solsn.se^
-@@||go.sony.tw^
 @@||soo.gd^
 @@||spcne.ws^
 @@||split.to^
@@ -1002,7 +986,6 @@
 @@||spoti.fi^
 @@||spotify.link^
 @@||spr.ly^
-@@||ms.spr.ly^
 @@||sprtsnt.ca^
 @@||sptfy.com^
 @@||sq6.ru^
@@ -1024,7 +1007,6 @@
 @@||sux.cz^
 @@||svy.mk^
 @@||swa.is^
-@@||hi.switchy.io^
 @@||swiy.co^
 @@||swoo.sh^
 @@||swtt.cc^
@@ -1045,15 +1027,12 @@
 @@||tanks.ly^
 @@||tatung.site^
 @@||tau.pe^
-@@||m.tb.cn^
 @@||tbb.tw^
 @@||tcat.tc^
 @@||tcrn.ch^
-@@||on.tcs.com^
 @@||tdjt.cz^
 @@||tdy.sg^
 @@||tek.io^
-@@||www.temporary-url.com^
 @@||ter.li^
 @@||tg.pe^
 @@||tgam.ca^
@@ -1140,14 +1119,12 @@
 @@||ukoeln.de^
 @@||ul.rs^
 @@||ul.to^
-@@||s.ul.com^
 @@||ul3.ir^
 @@||ulmt.in^
 @@||ume.la^
 @@||undrarmr.co^
 @@||uni.cf^
 @@||unipapa.co^
-@@||s.uniqlo.com^
 @@||unlc.us^
 @@||unr.ly^
 @@||uoft.me^
@@ -1179,10 +1156,8 @@
 @@||urlz.fr^
 @@||urlzs.com^
 @@||urub.us^
-@@||go.usa.gov^
 @@||usanet.tv^
 @@||usat.ly^
-@@||go.ustwo.games^
 @@||utfg.sk^
 @@||utm.to^
 @@||utn.pl^
@@ -1200,7 +1175,7 @@
 @@||verd.in^
 @@||vgn.me^
 @@||vi.sa^
-@@||at.vibe.com^
+@@||viaalto.me^
 @@||vivo.tl^
 @@||vk.cc^
 @@||vk.sv^
@@ -1255,11 +1230,9 @@
 @@||wpbeg.in^
 @@||wrctr.co^
 @@||wrd.cm^
-@@||on.wsj.com^
 @@||wtc.la^
 @@||wu.cz^
 @@||wu.to^
-@@||pm.wu.cz^
 @@||ww7.fr^
 @@||wwp.news^
 @@||wwy.me^
@@ -1274,7 +1247,6 @@
 @@||xav.cc^
 @@||xbx.lv^
 @@||xep.li^
-@@||2u.xf.cz^
 @@||xfl.ag^
 @@||xfru.it^
 @@||xgd.in^
@@ -1319,7 +1291,6 @@
 @@||zcu.io^
 @@||zd.net^
 @@||zecz.ec^
-@@||r.zecz.ec^
 @@||zeek.ir^
 @@||zeep.ly^
 @@||zez.kr^
@@ -1342,3 +1313,51 @@
 @@||zxq.net^
 @@||zyva.org^
 @@||zzb.bz^
+@@||y.ahoo.it^
+@@||on.bp.com^
+@@||genie.co.kr^
+@@||go.dbs.com^
+@@||on.fb.me^
+@@||on.ft.com^
+@@||go.gcash.com^
+@@||go.id.me^
+@@||w.idg.de^
+@@||kl.ik.my^
+@@||link.infini.fr^
+@@||go.intel-academy.com^
+@@||go.intigriti.com^
+@@||hi.kktv.to^
+@@||go.lamotte.fr^
+@@||l.linklyhq.com^
+@@||on.mktw.net^
+@@||short.mypaste.fun^
+@@||go.nasa.gov^
+@@||go.nowth.is^
+@@||on.ny.gov^
+@@||go.osu.edu^
+@@||to.pbs.org^
+@@||l.prageru.com^
+@@||go.qb.by^
+@@||go.rebel.pl^
+@@||t.rend.tw^
+@@||hi.sat.cool^
+@@||go.shell.com^
+@@||go.shr.lc^
+@@||www.shrunken.com^
+@@||u.shxj.pw^
+@@||go.skilllabs.io^
+@@||go.sony.tw^
+@@||ms.spr.ly^
+@@||hi.switchy.io^
+@@||m.tb.cn^
+@@||on.tcs.com^
+@@||www.temporary-url.com^
+@@||s.ul.com^
+@@||s.uniqlo.com^
+@@||go.usa.gov^
+@@||go.ustwo.games^
+@@||at.vibe.com^
+@@||on.wsj.com^
+@@||pm.wu.cz^
+@@||2u.xf.cz^
+@@||r.zecz.ec^
