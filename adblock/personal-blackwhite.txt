@@ -511,8 +511,8 @@
 ! Issues: https://github.com/hagezi/dns-blocklists/issues
 ! License: https://github.com/hagezi/dns-blocklists/blob/main/LICENSE.md
 ! Expires: Updated regularly
-! Last modified: 22 Jan 2023 13:48 UTC
-! Version: 2023.0122.1348.56
+! Last modified: 22 Jan 2023 20:31 UTC
+! Version: 2023.0122.2031.22
 ! Syntax: AdBlock
 ! Domains: 12029
 !
@@ -18151,7 +18151,7 @@
 @@|api*.amazonalexa.com^
 @@|arcus-*.amazon.com^
 @@|avs-alexa*.amazon.com^
-@@|dcape-*.amazon.com ^
+@@|dcape-*.amazon.com^
 @@|dp-gw-*.amazon.com^
 @@|dxz5jxhrrzigf.cloudfront.net^
 @@|msh.amazon.co.uk^
@@ -20372,6 +20372,9 @@
 
 ! Nytimes Account
 @@|myaccount.nytimes.com^
+
+! Images/Videos on various sites, e.g. RTL.de
+@@|bilder-a.akamaihd.net^
 
 
 ! Title: HaGeZi's White-/Allowlist Referral for Black & White list
