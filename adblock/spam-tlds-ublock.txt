@@ -7,8 +7,8 @@
 ! Issues: https://github.com/hagezi/dns-blocklists/issues
 ! License: https://github.com/hagezi/dns-blocklists/blob/main/LICENSE.md
 ! Expires: Updated regularly
-! Last modified: 22 Jan 2023 19:35 UTC
-! Version: 2023.0122.1935.01
+! Last modified: 22 Jan 2023 19:42 UTC
+! Version: 2023.0122.1942.34
 ! Syntax: uBlock
 !
 ||agency^$doc,domain=~battlefield.agency|~shortcut.agency
@@ -16,7 +16,6 @@
 ||bid^$doc
 ||cf^$doc,domain=~google.cf|~rths.cf|~acap.cf
 ||cfd^$doc
-||cn^$doc
 ||degree^$doc,domain=~opf.degree|~three60.degree
 ||discount^$doc
 ||fit^$doc,domain=~appetit.fit|~clubb.fit|~justget.fit|~pridegym.fit
