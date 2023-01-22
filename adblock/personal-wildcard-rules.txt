@@ -370,6 +370,8 @@
 ||events*.data.msn.*^
 ||measure.office.com^
 ||pipe.aria.microsoft.com^
+! Outlook mobile app
+@@||mobile.pipe.aria.microsoft.com^
 ||telemetry*.microsoft.com^
 ||vortex*.data.microsoft.com^
 ! Windows / Xbox-Achievments
