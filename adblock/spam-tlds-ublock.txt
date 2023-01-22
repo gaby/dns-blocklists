@@ -7,8 +7,8 @@
 ! Issues: https://github.com/hagezi/dns-blocklists/issues
 ! License: https://github.com/hagezi/dns-blocklists/blob/main/LICENSE.md
 ! Expires: Updated regularly
-! Last modified: 20 Jan 2023 23:24 UTC
-! Version: 2023.0120.2324.27
+! Last modified: 22 Jan 2023 19:35 UTC
+! Version: 2023.0122.1935.01
 ! Syntax: uBlock
 !
 ||agency^$doc,domain=~battlefield.agency|~shortcut.agency
@@ -20,7 +20,7 @@
 ||degree^$doc,domain=~opf.degree|~three60.degree
 ||discount^$doc
 ||fit^$doc,domain=~appetit.fit|~clubb.fit|~justget.fit|~pridegym.fit
-||fun^$doc,domain=~20anime.fun|~355.fun|~955.fun|~98e.fun|~apkmody.fun|~applemc.fun|~bestgore.fun|~bqg.fun|~cdn.fun|~d21.fun|~dedmoroz.fun|~dramaserial.fun|~dy18.fun|~egybist.fun|~enza.fun|~filmapik21.fun|~gaggle.fun|~hifiporn.fun|~klik.fun|~libgen.fun|~likenews.fun|~lordserial.fun|~luotphim.fun|~memesoundboard.fun|~mh18.fun|~movies21.fun|~mypornvid.fun|~neal.fun|~oldmovies.fun|~plutonews.fun|~porncum.fun|~pornking.fun|~pornmaster.fun|~solarmovie.fun|~team1x1.fun|~terbit21.fun|~thepiratebay-plus.strem.fun|~uploding.fun|~videosxxx.fun|~vigoo.fun|~www.wondertrip.fun
+||fun^$doc,domain=~155.fun|~20anime.fun|~355.fun|~955.fun|~98e.fun|~apkmody.fun|~applemc.fun|~bc.fun|~bestgore.fun|~bqg.fun|~cdn.fun|~d21.fun|~dedmoroz.fun|~dramaserial.fun|~dy18.fun|~egybist.fun|~enza.fun|~enza.fun|~filmapik21.fun|~gaggle.fun|~isohunt.fun|~klik.fun|~libgen.fun|~likenews.fun|~lordserial.fun|~luotphim.fun|~memesoundboard.fun|~mh18.fun|~movies21.fun|~moviesdada.fun|~neal.fun|~oldmovies.fun|~plutonews.fun|~porncum.fun|~sexhd.fun|~solarmovie.fun|~streampiay.fun|~team1x1.fun|~terbit21.fun|~thepiratebay-plus.strem.fun|~tideswing.fun|~uploding.fun|~videosxxx.fun|~vigoo.fun|~www.wondertrip.fun|~x-videos.fun|~xxx-sex.fun|~xxxmovies.fun
 ||ga^$doc,domain=~google.ga|~filtri-dns.ga|~dgdi.ga|~9191.ga|~animevsub.ga
 ||gdn^$doc
 ||gq^$doc,domain=~inege.gq|~tvgelive.gq
