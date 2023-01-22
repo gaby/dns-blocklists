@@ -193,7 +193,11 @@
 @@||nexusrules.officeapps.live.com^
 @@|self-events-data.trafficmanager.net^
 @@|self.events.data.microsoft.com^
-
+! Outlook mobile app
+! https://github.com/hagezi/dns-blocklists/issues/233
+@@|mobile.pipe.aria.microsoft.com^
+@@|mobile.events.data.trafficmanager.net^
+@@| ^
 ! NVidia
 @@|activation.gfe.nvidia.com^
 @@|events.gfe.nvidia.com^
@@ -1580,7 +1584,7 @@
 @@|www.norden.social^
 
 ! Breaks naver.com
-@@||tivan.naver.com^
+@@|tivan.naver.com^
 
 ! Greek school sites
 @@||sch.gr^
