@@ -509,12 +509,14 @@
 @@|dcfdata.espn.com^
 @@|players.brightcove.net^
 
-! https://github.com/notracking/hosts-blocklists/issues/787
-! !!! Will not be unblocked, the domains are used for ads/tracking and are quite common !!!
-! m1.fwmrm.net
-! m2.fwmrm.net
-! mssl.fwmrm.net
-! mssl.fwmrm.net.edgesuite.net
+! Videos on various sites
+@@|m1.fwmrm.net^
+@@|m1.fwmrm.net-v1.edgesuite.net^
+@@|m2.fwmrm.net^
+@@|m2.fwmrm.net-v1.edgesuite.net^
+@@|mssl.fwmrm.net^
+@@|mssl.fwmrm.net.edgesuite.net^
+@@|v.fwmrm.net^
 
 ! https://github.com/notracking/hosts-blocklists/issues/786
 @@|above.com^
@@ -1671,10 +1673,8 @@
 @@||seu*.cleverreach.com^
 
 ! Manage kmail lists
+@@|manage.kmail-lists.com^
 @@|static.klaviyo.com^
-
-! Unsubscribe from Newsletters?
-! static-tracking.klaviyo.com
 
 ! https://github.com/hagezi/dns-blocklists/issues/72
 @@|manli.com^
@@ -2293,7 +2293,10 @@
 
 ! https://github.com/hagezi/dns-blocklists/issues/242
 @@||boldchat.com^
+@@|dyson.nanorep.co^
+@@|us1-1.nanorep.co^
 @@|mcpwgrxj4n94hv1pvdyqw0zwdxyq.device.marketingcloudapis.com^
+@@|s50.device.marketingcloudapis.com^
 
 ! https://github.com/hagezi/dns-blocklists/issues/243
 @@|review-rating.mncdn.com^
