@@ -4,10 +4,10 @@
 # Issues: https://github.com/hagezi/dns-blocklists/issues
 # License: https://github.com/hagezi/dns-blocklists/blob/main/LICENSE.md
 # Expires: Updated regularly
-# Last modified: 22 Jan 2023 13:16 UTC
-# Version: 2023.0122.1316.47
+# Last modified: 24 Jan 2023 23:26 UTC
+# Version: 2023.0124.2326.21
 # Syntax: Domains Wildcard (DNSCrypt/YogaDNS/...)
-# Domains: 86
+# Domains: 85
 #
 *.asimov-win.settings.data.microsoft.com.akadns.net
 *.cy2.vortex.data.microsoft.com.akadns.net
@@ -15,7 +15,6 @@
 *.geo.vortex.data.microsoft.com.akadns.net
 *.watson.data.microsoft.com.akadns.net
 *.excel-telemetry.officeapps.live.com
-*.browser.pipe.aria.microsoft.com
 *.pf.pipe.aria.microsoft.com
 *.server1.pipe.aria.microsoft.com
 *.server2.pipe.aria.microsoft.com

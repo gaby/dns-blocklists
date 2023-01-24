@@ -4,10 +4,10 @@
 # Issues: https://github.com/hagezi/dns-blocklists/issues
 # License: https://github.com/hagezi/dns-blocklists/blob/main/LICENSE.md
 # Expires: Updated regularly
-# Last modified: 16 Jan 2023 23:24 UTC
-# Version: 2023.0116.2324.43
+# Last modified: 24 Jan 2023 23:27 UTC
+# Version: 2023.0124.2327.19
 # Syntax: DNSMasq
-# Domains: 59
+# Domains: 60
 #
 address=/ubacollect-drcn.cloud.dbankcloud.cn/#
 address=/metrics-dre.data.dbankcloud.cn/#
@@ -29,6 +29,7 @@ address=/metrics5.dt.dbankcloud.ru/#
 address=/grs.dbankcloud.asia/#
 address=/grs.dbankcloud.cn/#
 address=/grs.dbankcloud.com/#
+address=/grs.dbankcloud.eu/#
 address=/adx-dra.op.dbankcloud.com/#
 address=/adx-drcn.op.dbankcloud.cn/#
 address=/adx-dre.op.dbankcloud.com/#

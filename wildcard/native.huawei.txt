@@ -4,10 +4,10 @@
 # Issues: https://github.com/hagezi/dns-blocklists/issues
 # License: https://github.com/hagezi/dns-blocklists/blob/main/LICENSE.md
 # Expires: Updated regularly
-# Last modified: 16 Jan 2023 23:24 UTC
-# Version: 2023.0116.2324.43
+# Last modified: 24 Jan 2023 23:27 UTC
+# Version: 2023.0124.2327.19
 # Syntax: Domains Wildcard (DNSCrypt/YogaDNS/...)
-# Domains: 59
+# Domains: 60
 #
 *.ubacollect-drcn.cloud.dbankcloud.cn
 *.metrics-dre.data.dbankcloud.cn
@@ -29,6 +29,7 @@
 *.grs.dbankcloud.asia
 *.grs.dbankcloud.cn
 *.grs.dbankcloud.com
+*.grs.dbankcloud.eu
 *.adx-dra.op.dbankcloud.com
 *.adx-drcn.op.dbankcloud.cn
 *.adx-dre.op.dbankcloud.com

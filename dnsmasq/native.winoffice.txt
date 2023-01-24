@@ -4,10 +4,10 @@
 # Issues: https://github.com/hagezi/dns-blocklists/issues
 # License: https://github.com/hagezi/dns-blocklists/blob/main/LICENSE.md
 # Expires: Updated regularly
-# Last modified: 22 Jan 2023 13:16 UTC
-# Version: 2023.0122.1316.47
+# Last modified: 24 Jan 2023 23:26 UTC
+# Version: 2023.0124.2326.21
 # Syntax: DNSMasq
-# Domains: 86
+# Domains: 85
 #
 address=/asimov-win.settings.data.microsoft.com.akadns.net/#
 address=/cy2.vortex.data.microsoft.com.akadns.net/#
@@ -15,7 +15,6 @@ address=/db5.vortex.data.microsoft.com.akadns.net/#
 address=/geo.vortex.data.microsoft.com.akadns.net/#
 address=/watson.data.microsoft.com.akadns.net/#
 address=/excel-telemetry.officeapps.live.com/#
-address=/browser.pipe.aria.microsoft.com/#
 address=/pf.pipe.aria.microsoft.com/#
 address=/server1.pipe.aria.microsoft.com/#
 address=/server2.pipe.aria.microsoft.com/#

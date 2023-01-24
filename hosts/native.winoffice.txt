@@ -4,10 +4,10 @@
 # Issues: https://github.com/hagezi/dns-blocklists/issues
 # License: https://github.com/hagezi/dns-blocklists/blob/main/LICENSE.md
 # Expires: Updated regularly
-# Last modified: 22 Jan 2023 13:16 UTC
-# Version: 2023.0122.1316.47
+# Last modified: 24 Jan 2023 23:26 UTC
+# Version: 2023.0124.2326.21
 # Syntax: Hosts
-# Domains: 109
+# Domains: 108
 #
 0.0.0.0 asimov-win.settings.data.microsoft.com.akadns.net
 0.0.0.0 cy2.vortex.data.microsoft.com.akadns.net
@@ -16,7 +16,6 @@
 0.0.0.0 watson.data.microsoft.com.akadns.net
 0.0.0.0 modern.watson.data.microsoft.com.akadns.net
 0.0.0.0 excel-telemetry.officeapps.live.com
-0.0.0.0 browser.pipe.aria.microsoft.com
 0.0.0.0 pf.pipe.aria.microsoft.com
 0.0.0.0 server1.pipe.aria.microsoft.com
 0.0.0.0 server2.pipe.aria.microsoft.com

@@ -4,10 +4,10 @@
 # Issues: https://github.com/hagezi/dns-blocklists/issues
 # License: https://github.com/hagezi/dns-blocklists/blob/main/LICENSE.md
 # Expires: Updated regularly
-# Last modified: 16 Jan 2023 23:24 UTC
-# Version: 2023.0116.2324.43
+# Last modified: 24 Jan 2023 23:27 UTC
+# Version: 2023.0124.2327.19
 # Syntax: Hosts
-# Domains: 65
+# Domains: 66
 #
 0.0.0.0 ubacollect-drcn.cloud.dbankcloud.cn
 0.0.0.0 metrics-dre.data.dbankcloud.cn
@@ -29,6 +29,7 @@
 0.0.0.0 grs.dbankcloud.asia
 0.0.0.0 grs.dbankcloud.cn
 0.0.0.0 grs.dbankcloud.com
+0.0.0.0 grs.dbankcloud.eu
 0.0.0.0 adx-dra.op.dbankcloud.com
 0.0.0.0 adx-drcn.op.dbankcloud.cn
 0.0.0.0 adx-dre.op.dbankcloud.com
