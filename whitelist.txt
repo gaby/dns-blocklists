@@ -2057,3 +2057,14 @@ famatel.com
 # https://github.com/hagezi/dns-blocklists/issues/240
 get.revolut.com
 
+# Needed for BBC iPlayer and BBC Sounds app (only Android TV)
+mybbc-analytics.files.bbci.co.uk
+mybbc-analytics.files.bbci.co.uk.edgekey.net
+
+# Images in SpeedDial 2 Browser Extension
+logo.clearbit.com
+thumb.highdeliveryscdn.com
+
+# https://github.com/hagezi/dns-blocklists/issues/242
+*.boldchat.com
+
