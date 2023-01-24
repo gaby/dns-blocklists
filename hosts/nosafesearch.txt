@@ -3,10 +3,10 @@
 # Homepage: https://github.com/hagezi/dns-blocklists
 # Issues: https://github.com/hagezi/dns-blocklists/issues
 # Expires: Updated regularly
-# Last modified: 20 Jan 2023 23:17 UTC
-# Version: 2023.0120.2317.09
+# Last modified: 24 Jan 2023 23:17 UTC
+# Version: 2023.0124.2317.14
 # Syntax: Hosts
-# Domains: 146
+# Domains: 149
 #
 0.0.0.0 search.0xcb.dev
 0.0.0.0 searx.32bitflo.at
@@ -76,6 +76,9 @@
 0.0.0.0 searx.mastodontech.de
 0.0.0.0 search.mdosch.de
 0.0.0.0 metacrawler.com
+0.0.0.0 metager.de
+0.0.0.0 metager.org
+0.0.0.0 metager3.de
 0.0.0.0 metasearch.nl
 0.0.0.0 mijisou.com
 0.0.0.0 search.modalogi.com

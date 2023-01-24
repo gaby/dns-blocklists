@@ -3,10 +3,10 @@
 ! Homepage: https://github.com/hagezi/dns-blocklists
 ! Issues: https://github.com/hagezi/dns-blocklists/issues
 ! Expires: Updated regularly
-! Last modified: 20 Jan 2023 23:17 UTC
-! Version: 2023.0120.2317.09
+! Last modified: 24 Jan 2023 23:17 UTC
+! Version: 2023.0124.2317.14
 ! Syntax: AdBlock
-! Domains: 143
+! Domains: 146
 !
 ||search.0xcb.dev^
 ||searx.32bitflo.at^
@@ -75,6 +75,9 @@
 ||searx.mastodontech.de^
 ||search.mdosch.de^
 ||metacrawler.com^
+||metager.de^
+||metager.org^
+||metager3.de^
 ||metasearch.nl^
 ||mijisou.com^
 ||search.modalogi.com^
