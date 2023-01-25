@@ -393,7 +393,8 @@
 ||nlo-stl-web.azureedge.net^
 ||pestcontrol-uc1.azureedge.net^
 ||sdtagging.azureedge.net^
-||serviceschipotlecom.trafficmanager.net^
+! CNAME services.chipotle.com - breaks Chipotle order
+@@||serviceschipotlecom.trafficmanager.net^
 
 ! Netflix
 ||beacon*.netflix.net^

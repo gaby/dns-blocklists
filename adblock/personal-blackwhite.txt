@@ -392,7 +392,8 @@
 ||nlo-stl-web.azureedge.net^
 ||pestcontrol-uc1.azureedge.net^
 ||sdtagging.azureedge.net^
-||serviceschipotlecom.trafficmanager.net^
+! CNAME services.chipotle.com - breaks Chipotle order
+@@||serviceschipotlecom.trafficmanager.net^
 
 ! Netflix
 ||beacon*.netflix.net^
@@ -514,8 +515,8 @@
 ! Issues: https://github.com/hagezi/dns-blocklists/issues
 ! License: https://github.com/hagezi/dns-blocklists/blob/main/LICENSE.md
 ! Expires: Updated regularly
-! Last modified: 25 Jan 2023 18:16 UTC
-! Version: 2023.0125.1816.22
+! Last modified: 25 Jan 2023 19:05 UTC
+! Version: 2023.0125.1905.13
 ! Syntax: AdBlock
 ! Domains: 12417
 !
