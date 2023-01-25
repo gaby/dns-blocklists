@@ -1,0 +1,49 @@
+; Title: HaGeZi's Apple Tracker DNS Blocklist
+; Description: Blocks Apple native broadband tracker that track your activity.
+; Homepage: https://github.com/hagezi/dns-blocklists
+; Issues: https://github.com/hagezi/dns-blocklists/issues
+; License: https://github.com/hagezi/dns-blocklists/blob/main/LICENSE.md
+; Expires: Updated regularly
+; Last modified: 16 Jan 2023 08:36 UTC
+; Version: 2023.0116.0836.19
+; Syntax: RPZ
+; Domains: 19
+;
+api-adservices.apple.com CNAME .
+*.api-adservices.apple.com CNAME .
+books-analytics-events.apple.com CNAME .
+*.books-analytics-events.apple.com CNAME .
+iadsdk.apple.com CNAME .
+*.iadsdk.apple.com CNAME .
+metrics.apple.com CNAME .
+*.metrics.apple.com CNAME .
+notes-analytics-events.apple.com CNAME .
+*.notes-analytics-events.apple.com CNAME .
+securemetrics.apple.com CNAME .
+*.securemetrics.apple.com CNAME .
+securemvt.apple.com CNAME .
+*.securemvt.apple.com CNAME .
+stocks-analytics-events.apple.com CNAME .
+*.stocks-analytics-events.apple.com CNAME .
+supportmetrics.apple.com CNAME .
+*.supportmetrics.apple.com CNAME .
+weather-analytics-events.apple.com CNAME .
+*.weather-analytics-events.apple.com CNAME .
+acfeedbackws.icloud.com CNAME .
+*.acfeedbackws.icloud.com CNAME .
+feedbackws.icloud.com CNAME .
+*.feedbackws.icloud.com CNAME .
+metrics.icloud.com CNAME .
+*.metrics.icloud.com CNAME .
+dzc-metrics.mzstatic.com CNAME .
+*.dzc-metrics.mzstatic.com CNAME .
+metrics.mzstatic.com CNAME .
+*.metrics.mzstatic.com CNAME .
+books-analytics-events.news.apple-dns.net CNAME .
+*.books-analytics-events.news.apple-dns.net CNAME .
+notes-analytics-events.news.apple-dns.net CNAME .
+*.notes-analytics-events.news.apple-dns.net CNAME .
+stocks-analytics-events.news.apple-dns.net CNAME .
+*.stocks-analytics-events.news.apple-dns.net CNAME .
+weather-analytics-events.news.apple-dns.net CNAME .
+*.weather-analytics-events.news.apple-dns.net CNAME .
