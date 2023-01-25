@@ -3,10 +3,10 @@
 # Homepage: https://github.com/hagezi/dns-blocklists
 # Issues: https://github.com/hagezi/dns-blocklists/issues
 # Expires: 1 day (update frequency)
-# Last modified: 24 Jan 2023 22:05 UTC
-# Version: 2023.0124.2205.12
+# Last modified: 25 Jan 2023 00:12 UTC
+# Version: 2023.0125.0012.18
 # Syntax: Domains Wildcard (DNSCrypt/YogaDNS/...)
-# Domains: 127403
+# Domains: 127466
 #
 *.0-000.store
 *.0001.best
@@ -251,6 +251,7 @@
 *.albatross.10086.cn
 *.go.10086.cn
 *.sdc.10086.cn
+*.1008691.com
 *.100dollars-seo.com
 *.100fenlm.com
 *.100free.com
@@ -6775,8 +6776,7 @@
 *.public-webservice.apdc1n.adpushup.com
 *.aplogger-geo.apdc2n.adpushup.com
 *.public-webservice.apdc2n.adpushup.com
-*.aplogger-geo.apdc3n.adpushup.com
-*.public-webservice.apdc3n.adpushup.com
+*.apdc3n.adpushup.com
 *.apex.adpushup.com
 *.aplogger-geo.adpushup.com
 *.app.adpushup.com
@@ -6788,8 +6788,7 @@
 *.cdn-ads.adpushup.com
 *.e3.adpushup.com
 *.feedback.adpushup.com
-*.amp-public-webservice.geo.adpushup.com
-*.public-webservice.geo.adpushup.com
+*.geo.adpushup.com
 *.inside.adpushup.com
 *.mediation.adpushup.com
 *.s2s.adpushup.com
@@ -6894,6 +6893,7 @@
 *.ads.gold
 *.ads-6686.top
 *.ads-blue.com
+*.ads-check.com
 *.ads-click.com
 *.ads-connect.com
 *.ads-i2i.jp
@@ -7822,6 +7822,7 @@
 *.ssp.advertising.com
 *.uac.advertising.com
 *.advertising-cdn.com
+*.advertising-check.ru
 *.advertising-support.com
 *.advertising365.com
 *.advertisingagent.com
@@ -10451,6 +10452,7 @@
 *.marketing.alsearsmd.com
 *.alsedu.tech
 *.alsehha.net
+*.alsfor.com
 *.alshafaf.ae
 *.alshahbademo.com
 *.alshariq.com
@@ -10678,31 +10680,65 @@
 *.ads.amazingmedia.com
 *.amazingsab.com
 *.amazingtraders.net
+*.aax-eu-dub.amazon.com
 *.advertising.amazon.de
 *.advertising.amazon.dev
 *.advertising-api-eu.amazon.com
 *.advertising-eu.amazon.com
 *.aax.amazon-adsystem.amazon.com
+*.aax-cpm.amazon-adsystem.amazon.com
+*.aax-us-cpm.amazon-adsystem.amazon.com
 *.applab-sdk.amazon.com
 *.astore.amazon.com
+*.aviary.amazon.com
+*.aviary.amazon.de
 *.identity.browserapps.amazon.de
+*.device-metrics-us.amazon.com
+*.device-metrics-us-2.amazon.com
 *.smetrics.flex.amazon.com
+*.fls-cn.amazon.cn
+*.fls-eu.amazon.ae
+*.fls-eu.amazon.com
+*.fls-eu.amazon.de
 *.fls-eu.amazon.eg
+*.fls-eu.amazon.es
+*.fls-eu.amazon.fr
+*.fls-eu.amazon.in
+*.fls-eu.amazon.it
+*.fls-eu.amazon.nl
 *.fls-eu.amazon.pl
+*.fls-eu.amazon.sa
+*.fls-eu.amazon.se
+*.fls-fe.amazon.com
+*.fls-fe.amazon.sg
+*.fls-fe-opf.amazon.com
+*.fls-na.amazon.ca
 *.g-images.amazon.com
 *.mads.amazon.com
 *.mads-eu.amazon.com
 *.rcm.amazon.com
+*.rcm-de.amazon.de
+*.rcm-images.amazon.com
 *.rcm-it.amazon.it
 *.uedata.amazon.com
 *.unagi.amazon.ae
 *.unagi.amazon.ca
+*.unagi.amazon.cn
+*.unagi.amazon.com
+*.unagi.amazon.de
 *.unagi.amazon.eg
+*.unagi.amazon.es
+*.unagi.amazon.fr
+*.unagi.amazon.in
+*.unagi.amazon.it
 *.unagi.amazon.nl
 *.unagi.amazon.pl
 *.unagi.amazon.sa
 *.unagi.amazon.se
 *.unagi.amazon.sg
+*.unagi-eu.amazon.com
+*.unagi-fe.amazon.com
+*.unagi-na.amazon.com
 *.ws.amazon.com
 *.aax-dtb-cf.amazon-adsystem.com
 *.aax-dtb-mobile-geo.amazon-adsystem.com
@@ -12236,8 +12272,7 @@
 *.cloud-based-service.us-south.cf.appdomain.cloud
 *.appdriver.cn
 *.appdriver.jp
-*.analytics.api.appdynamics.com
-*.synthetic.api.appdynamics.com
+*.api.appdynamics.com
 *.eum-api.appdynamics.com
 *.identity-api.appdynamics.com
 *.saas.appdynamics.com
@@ -14032,6 +14067,7 @@
 *.counters.auctionwatch.com
 *.sponsors-v2.auctionzip.com
 *.counters.auctiva.com
+*.auctodian.quest
 *.ad.aucview.com
 *.audaciousdefault.com
 *.audacity.de
@@ -16360,6 +16396,7 @@
 *.bawdylytta.com
 *.bawdypets.com
 *.bawlerhanoi.website
+*.baxavxa.com
 *.baxkit.com
 *.baxofalis.com
 *.sp.baxterbulletin.com
@@ -16720,6 +16757,7 @@
 *.becamesensational.com
 *.becanium.com
 *.becasvasconcelos.com
+*.becaul.com
 *.becausebun.com
 *.bechatotan.com
 *.images.connect.becker.com
@@ -21897,7 +21935,6 @@
 *.can-get-so.me
 *.can-get-some.in
 *.can-get-some.net
-*.canabnatural.com
 *.canadaalltax.com
 *.canadabaam.ca
 *.min.canadacodeses.com
@@ -26155,6 +26192,7 @@
 *.d3p27nzp3rc51k.cloudfront.net
 *.d3p2b5qewrnsyv.cloudfront.net
 *.d3p8w7to4066sy.cloudfront.net
+*.d3p8zr0ffa9t17.cloudfront.net
 *.d3pa7i465rtx1n.cloudfront.net
 *.d3pe8wzpurrzss.cloudfront.net
 *.d3pel2vlstnlu9.cloudfront.net
@@ -26247,6 +26285,7 @@
 *.d5nxst8fruw4z.cloudfront.net
 *.d5onopbfw009h.cloudfront.net
 *.d5pb47xzjz3fc.cloudfront.net
+*.d5wxfe8ietrpg.cloudfront.net
 *.d5z42oph1suk.cloudfront.net
 *.d60y8cj1tje2a.cloudfront.net
 *.d62mrph0xm5hi.cloudfront.net
@@ -27033,7 +27072,12 @@
 *.aan.amazon.co.uk
 *.advertising.amazon.co.jp
 *.advertising.amazon.co.uk
+*.aviary.amazon.co.jp
+*.fls-eu.amazon.co.uk
+*.fls-fe.amazon.co.jp
 *.rcm-jp.amazon.co.jp
+*.unagi.amazon.co.jp
+*.unagi.amazon.co.uk
 *.ambicaphotos.co.in
 *.amdesigns.co.in
 *.smetrics.amp.co.nz
@@ -29827,7 +29871,14 @@
 *.amarylissemijoias.com.br
 *.amavmt.com.br
 *.c.amazinglybrilliant.com.au
+*.fls-eu.amazon.com.be
 *.fls-eu.amazon.com.tr
+*.fls-fe.amazon.com.au
+*.fls-na.amazon.com.br
+*.fls-na.amazon.com.mx
+*.unagi.amazon.com.au
+*.unagi.amazon.com.be
+*.unagi.amazon.com.br
 *.unagi.amazon.com.mx
 *.unagi.amazon.com.tr
 *.ambarfashionmall.com.mx
@@ -36773,6 +36824,7 @@
 *.grs.dbankcloud.asia
 *.grs.dbankcloud.cn
 *.grs.dbankcloud.com
+*.grs.dbankcloud.eu
 *.grs.platform.dbankcloud.ru
 *.dbboutique.ca
 *.dbbschools.com
@@ -45012,10 +45064,7 @@
 *.ensegypt.com
 *.ensemble4cyclisme.com
 *.cardinal.ensembleblock.com
-*.fidelity.activate.ensighten.com
-*.maurices.activate.ensighten.com
-*.tripadvisor.activate.ensighten.com
-*.united.activate.ensighten.com
+*.activate.ensighten.com
 *.analytics.ensighten.com
 *.measure.ensighten.com
 *.ens-us-central1-a.nexus.ensighten.com
@@ -45580,6 +45629,7 @@
 *.espaciofanbu.com
 *.ads.espaciolatino.com
 *.espantapajarosmusic.com
+*.especialistasencasa.com
 *.esperantoint.com
 *.esperobrakeparts.ae
 *.espidal.ir
@@ -51449,6 +51499,7 @@
 *.gadspms.com
 *.gadspmz.com
 *.adserver.gadu-gadu.pl
+*.gaelsdaniele.website
 *.smetrics.gaes.es
 *.gafdelins.com
 *.gagacon.com
@@ -57713,6 +57764,7 @@
 *.hirurdou.net
 *.hirzona24.com
 *.hiscgroup.org
+*.hiseewhatmyou.xyz
 *.analytics.shop.hisense.com
 *.api-gps-em.hismarttv.com
 *.api-gps-na.hismarttv.com
@@ -59340,6 +59392,7 @@
 *.hvd-store.com
 *.hvd1t.com
 *.hvgcfx1.com
+*.hvhudp.xyz
 *.hviewpdf.com
 *.hvmmaderasnativas.cl
 *.hvmxvowx.top
@@ -60366,6 +60419,7 @@
 *.ijkcmm.com
 *.ijkqwopm.xyz
 *.ijmnhxd5t.click
+*.ijommwpcv.com
 *.ijoyzymama.com
 *.ijpihs.pk
 *.ijqbhuubyg.com
@@ -63246,6 +63300,7 @@
 *.ixcbqp.com
 *.ixcgvh.cn
 *.ixcris.com
+*.ixelcpo.cn
 *.ixi.lv
 *.ixiaa.com
 *.ixihet.cn
@@ -64319,6 +64374,7 @@
 *.jmrnews.pro
 *.jmrnpzbpqla.com
 *.jmsdubai.com
+*.jmtfayivbon.com
 *.exxwhi.jmty.jp
 *.jmvisuals.com
 *.jmvsmarthome.com
@@ -72025,7 +72081,6 @@
 *.track-cn.magictavern.com
 *.onlineads.magicvalley.com
 *.stats.magicwindow.cn
-*.magiczoomco.com
 *.magifirst.com
 *.magikerp.com
 *.magikveda.com
@@ -73265,6 +73320,7 @@
 *.gayal.maxmasnick.com
 *.maxmoney.com
 *.maxmusics.com
+*.maxnaxnyfwn.com
 *.maxnetpay.com
 *.maxnovelty.com
 *.maxon-trade.jp
@@ -83411,6 +83467,7 @@
 *.ohldsplu.com
 *.ohmatb.top
 *.ohmcasting.com
+*.ohmpyq.xyz
 *.ohmstudio.fr
 *.ohmwrite.com
 *.ohmyad.co
@@ -94741,7 +94798,6 @@
 *.quwszc49.top
 *.quwuzf312.top
 *.quwvah62.top
-*.quwvjw96.top
 *.quwwut65.top
 *.quwxhn410.top
 *.quwxmz15.top
@@ -100933,6 +100989,7 @@
 *.analytics.seekxr.com
 *.seemaflowers.in
 *.seemascakes.com
+*.seemedgrucche.com
 *.marketing.seemonterey.com
 *.seemoraldisobey.com
 *.seemygf.com
@@ -103356,6 +103413,7 @@
 *.gqhfjr.sizeofficial.es
 *.sizesforyou.com
 *.sizesidewalk.com
+*.siziermamas.com
 *.sizilien-haus.de
 *.sizinikeleskills.com
 *.sizmek.com
@@ -109497,6 +109555,7 @@
 *.tbex.ru
 *.tbhenherthertindn.xyz
 *.tbjcr.org
+*.tbktyg.top
 *.tblazenaija.ng
 *.metrics.tbliab.net
 *.tbm09.com
@@ -109705,6 +109764,7 @@
 *.tearingreasoningempower.com
 *.tearpilotzoo.com
 *.teasacomsys.xyz
+*.teaser.cc
 *.teaser-goods.ru
 *.teaser-mobile.com
 *.teasereach.com
@@ -114038,6 +114098,7 @@
 *.triawlf.com
 *.tribalfusion.com
 *.tribalfusion.net
+*.tribalstrived.com
 *.tribblemulct.com
 *.tribedone.org
 *.account.paypal-inc.tribesiren.com
@@ -115076,6 +115137,7 @@
 *.kzsicw.tvtoday.de
 *.tvtube.vip
 *.tvtymyooisiay.top
+*.tvvghs.top
 *.tvvianet.xyz
 *.tvw8edxhpf.ru
 *.tvwump.top
@@ -116308,6 +116370,7 @@
 *.unityads.unity3d.com
 *.config.unityads.unitychina.cn
 *.unityestates.in
+*.cd242.signing.unitynotarypublic.com
 *.unityroom.ir
 *.linux.unitys3d.com
 *.uniusclaws.com
@@ -117606,6 +117669,7 @@
 *.vaymuanham.com
 *.vazhak-tablo.ir
 *.vazir.me
+*.vazirih.shop
 *.vazypteke.pro
 *.vbanalytics.com
 *.vbanm.com
@@ -122363,6 +122427,7 @@
 *.woaembayed.uno
 *.woafoame.net
 *.woaijiba.com
+*.woaneeti.com
 *.woaneezy.com
 *.woathail.net
 *.woazowup.net
@@ -122404,6 +122469,7 @@
 *.3347.wolf-gordon.com
 *.gastdn.wolfandbadger.com
 *.wolfedcedule.com
+*.wolfermissies.com
 *.wolffashion.de
 *.wolfgaming.co
 *.wolfgang-hoeltzel.de
@@ -123150,6 +123216,7 @@
 *.wwkedpbh4lwdmq16okwhiteiim9nwpds2.com
 *.wwm24.de
 *.seagull.wwnorton.com
+*.wwnyubs.cn
 *.go.wwof.com
 *.wwoglde.top
 *.wwopenclick.space
@@ -123175,13 +123242,8 @@
 *.www-google.nl
 *.www-irs-form.top
 *.www-irsforms-us.top
-*.www-microsofteams.top
-*.www-microsoftteams.top
 *.www-mlcrosofteams.top
-*.www-obsproject.top
-*.www-onenote.top
 *.www-onenote-com.top
-*.www-orbit-promo.ru
 *.www-path.com
 *.www-realvnc.top
 *.www-sina-cn-com.com
@@ -125447,6 +125509,7 @@
 *.yoonog.org
 *.yoopigoopi.com
 *.yootui19999.com
+*.yooumoughtc.xyz
 *.nlgzhd.yoox.com
 *.yopard.com
 *.yoptaejrj2kkf8nj09.com
