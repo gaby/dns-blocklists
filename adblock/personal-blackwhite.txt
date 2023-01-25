@@ -514,8 +514,8 @@
 ! Issues: https://github.com/hagezi/dns-blocklists/issues
 ! License: https://github.com/hagezi/dns-blocklists/blob/main/LICENSE.md
 ! Expires: Updated regularly
-! Last modified: 25 Jan 2023 17:15 UTC
-! Version: 2023.0125.1715.25
+! Last modified: 25 Jan 2023 18:16 UTC
+! Version: 2023.0125.1816.22
 ! Syntax: AdBlock
 ! Domains: 12417
 !
@@ -20661,6 +20661,9 @@
 ! privacy-focussed cybersecurity company
 @@|polygraph.net^
 @@|www.polygraph.net^
+
+! https://github.com/hagezi/dns-blocklists/issues/245
+@@|serviceschipotlecom.trafficmanager.net^
 
 
 ! Title: HaGeZi's White-/Allowlist Referral for Black & White list
