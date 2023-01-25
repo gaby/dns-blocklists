@@ -4,10 +4,10 @@
 # Issues: https://github.com/hagezi/dns-blocklists/issues
 # License: https://github.com/hagezi/dns-blocklists/blob/main/LICENSE.md
 # Expires: Updated regularly
-# Last modified: 24 Jan 2023 10:33 UTC
-# Version: 2023.0124.1033.11
+# Last modified: 25 Jan 2023 00:07 UTC
+# Version: 2023.0125.0007.56
 # Syntax: DNSMasq
-# Domains: 14569
+# Domains: 14575
 #
 address=/00px.net/#
 address=/021jf.com/#
@@ -3074,6 +3074,8 @@ address=/clean.gg/#
 address=/clean-1-clean.club/#
 address=/clean-2-clean.club/#
 address=/cleanmediaads.com/#
+address=/ga.clearbit.com/#
+address=/reveal.clearbit.com/#
 address=/clearbitjs.com/#
 address=/clearbitscripts.com/#
 address=/clenchedyouthmatching.com/#
@@ -4075,6 +4077,7 @@ address=/dapperfloor.com/#
 address=/darghinruskin.com/#
 address=/dariolunus.com/#
 address=/darkestfertil.com/#
+address=/statistics.darkreader.app/#
 address=/stats.darkreader.app/#
 address=/trk.darkreading.com/#
 address=/dartonim.com/#
@@ -4126,6 +4129,8 @@ address=/commercial.daznservices.com/#
 address=/mit.db.com/#
 address=/wtk.db.com/#
 address=/cs02-pps-drcn.dbankcdn.com/#
+address=/metrics-dre.dt.dbankcloud.cn/#
+address=/grs.dbankcloud.eu/#
 address=/dblks.net/#
 address=/dc-storm.com/#
 address=/dc-tag.jp/#
@@ -5318,8 +5323,7 @@ address=/flyersquare.com/#
 address=/flygame.io/#
 address=/flyingsquirellsmooch.com/#
 address=/flymangoo.com/#
-address=/rtb-eu.fmlabsonline.com/#
-address=/rtb-useast.fmlabsonline.com/#
+address=/fmlabsonline.com/#
 address=/tms.fmm.io/#
 address=/fmnetwork.nl/#
 address=/fmpub.net/#
@@ -5531,6 +5535,7 @@ address=/g990421676.co/#
 address=/logs.gaana.com/#
 address=/gaconnector.com/#
 address=/gadscc.xyz/#
+address=/gaelsdaniele.website/#
 address=/uep.gaijin.net/#
 address=/gaiqgs.xyz/#
 address=/galanasorra.com/#
@@ -8142,6 +8147,7 @@ address=/navigation-timing.meinestadt.de/#
 address=/trackingapi.meinprospekt.de/#
 address=/stat.meitudata.com/#
 address=/mm.melia.com/#
+address=/mellow-game.pro/#
 address=/mellowads.com/#
 address=/melodramaticlaughingbrandy.com/#
 address=/melredirnxt.top/#
@@ -8226,7 +8232,6 @@ address=/microad.net/#
 address=/microadinc.com/#
 address=/microanalytics.io/#
 address=/smetric.ads.microsoft.com/#
-address=/browser.pipe.aria.microsoft.com/#
 address=/eu-mobile.events.data.microsoft.com/#
 address=/vortex.data.microsoft.com/#
 address=/fpt.microsoft.com/#
@@ -11304,6 +11309,7 @@ address=/smetrics.science.org/#
 address=/detnmz.sciencing.com/#
 address=/gtrack.scientistplus.com/#
 address=/event.scimo.io/#
+address=/sciniphruffin.com/#
 address=/scintillatingsilver.com/#
 address=/tagger.ope.scmp.com/#
 address=/os.scmpacdn.com/#
@@ -14242,6 +14248,7 @@ address=/sub.xxx-porn-tube.com/#
 address=/xxxiijmp.com/#
 address=/xxxijmp.com/#
 address=/xxxivjmp.com/#
+address=/xxxnewvideos.com/#
 address=/count.xxxssk.com/#
 address=/xxxtarget.com/#
 address=/xxxviijmp.com/#
@@ -14557,6 +14564,7 @@ address=/zqtk.net/#
 address=/ssp.zryydi.com/#
 address=/zscwdu.com/#
 address=/zsxrhkrfwwv.com/#
+address=/ztrck.me/#
 address=/ztsrv.com/#
 address=/zubivu.com/#
 address=/zucks.net/#
