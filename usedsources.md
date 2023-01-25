@@ -3,7 +3,7 @@
 #### LIGHT
 [whitelisted domains](https://raw.githubusercontent.com/hagezi/dns-data-collection/main/data/light-removed-white.txt) | [whitelisted referral domains](https://raw.githubusercontent.com/hagezi/dns-data-collection/main/data/light-removed-referral.txt) | [dead domains](https://raw.githubusercontent.com/hagezi/dns-data-collection/main/data/light-removed-dead.txt)
 ```
-303859 total unique domains | 267949 (88%) included | 2182 (1%) removed | 33728 (11%) dead
+302490 total unique domains | 266304 (88%) included | 2184 (1%) removed | 34002 (11%) dead
 
  Nr | Included | Dead | Removed | URL/File
   1 |     100% |   0% |      0% | light.extension.domains
@@ -23,33 +23,30 @@ For domain and host lists, additionally: matching/missing subdomains (see at the
 #### MULTI
 [whitelisted domains](https://raw.githubusercontent.com/hagezi/dns-data-collection/main/data/multi-removed-white.txt) | [whitelisted referral domains](https://raw.githubusercontent.com/hagezi/dns-data-collection/main/data/multi-removed-referral.txt) | [dead domains](https://raw.githubusercontent.com/hagezi/dns-data-collection/main/data/multi-removed-dead.txt)
 ```
-1175540 total unique domains | 1045277 (89%) included | 2375 (0%) removed | 127888 (11%) dead
+1174629 total unique domains | 1043720 (89%) included | 2375 (0%) removed | 128534 (11%) dead
 
  Nr | Included | Dead | Removed | URL/File
   1 |     100% |   0% |      0% | multi.extension.domains
   2 |      68% |  32% |      0% | https://raw.githubusercontent.com/StevenBlack/hosts/master/hosts
   3 |      97% |   3% |      0% | oisd.domains.txt
-  4 |     100% |   0% |      0% | native.apple.txt
-  5 |     100% |   0% |      0% | native.huawei.txt
-  6 |     100% |   0% |      0% | native.winoffice.txt
-  7 |     100% |   0% |      0% | light.txt
-  8 |     100% |   0% |      0% | light.extension.domains
-  9 |      97% |   1% |      2% | https://raw.githubusercontent.com/badmojr/1Hosts/master/Lite/hosts.txt
- 10 |      91% |   8% |      1% | https://adguardteam.github.io/AdGuardSDNSFilter/Filters/filter.txt
- 11 |      91% |   9% |      0% | https://threatfox.abuse.ch/downloads/hostfile
- 12 |     100% |   0% |      0% | https://urlhaus.abuse.ch/downloads/hostfile
- 13 |      80% |  20% |      0% | https://raw.githubusercontent.com/elliotwutingfeng/Inversion-DNSBL-Blocklists/main/Google_hostnames_light.txt
- 14 |      89% |  11% |      0% | https://raw.githubusercontent.com/AssoEchap/stalkerware-indicators/master/generated/hosts_full
- 15 |      98% |   1% |      1% | black.list
- 16 |     100% |   0% |      0% | personal.txt
- 17 |     100% |   0% |      0% | fake.txt
+  4 |     100% |   0% |      0% | light.txt
+  5 |     100% |   0% |      0% | light.extension.domains
+  6 |      97% |   1% |      2% | https://raw.githubusercontent.com/badmojr/1Hosts/master/Lite/hosts.txt
+  7 |      91% |   8% |      1% | https://adguardteam.github.io/AdGuardSDNSFilter/Filters/filter.txt
+  8 |      91% |   9% |      0% | https://threatfox.abuse.ch/downloads/hostfile
+  9 |     100% |   0% |      0% | https://urlhaus.abuse.ch/downloads/hostfile
+ 10 |      80% |  20% |      0% | https://raw.githubusercontent.com/elliotwutingfeng/Inversion-DNSBL-Blocklists/main/Google_hostnames_light.txt
+ 11 |      89% |  11% |      0% | https://raw.githubusercontent.com/AssoEchap/stalkerware-indicators/master/generated/hosts_full
+ 12 |      98% |   1% |      1% | black.list
+ 13 |     100% |   0% |      0% | personal.txt
+ 14 |     100% |   0% |      0% | fake.txt
 
 For domain and host lists, additionally: matching/missing subdomains (see at the bottom)
 ```
 #### PRO
 [whitelisted domains](https://raw.githubusercontent.com/hagezi/dns-data-collection/main/data/pro-removed-white.txt) | [whitelisted referral domains](https://raw.githubusercontent.com/hagezi/dns-data-collection/main/data/pro-removed-referral.txt) | [dead domains](https://raw.githubusercontent.com/hagezi/dns-data-collection/main/data/pro-removed-dead.txt)
 ```
-1553914 total unique domains | 1251423 (81%) included | 2461 (0%) removed | 300030 (19%) dead
+1553022 total unique domains | 1249813 (80%) included | 2461 (0%) removed | 300748 (19%) dead
 
  Nr | Included | Dead | Removed | URL/File
   1 |     100% |   0% |      0% | pro.extension.domains
