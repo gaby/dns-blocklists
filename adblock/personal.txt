@@ -4,10 +4,10 @@
 ! Issues: https://github.com/hagezi/dns-blocklists/issues
 ! License: https://github.com/hagezi/dns-blocklists/blob/main/LICENSE.md
 ! Expires: Updated regularly
-! Last modified: 26 Jan 2023 10:28 UTC
-! Version: 2023.0126.1028.33
+! Last modified: 26 Jan 2023 14:43 UTC
+! Version: 2023.0126.1443.45
 ! Syntax: AdBlock
-! Domains: 14793
+! Domains: 14830
 !
 ||00px.net^
 ||021jf.com^
@@ -222,6 +222,7 @@
 ||7ca78m3csgbrid7ge.com^
 ||7e1e8f3eba.com^
 ||7fc0966988.com^
+||7mmtv.top^
 ||xc.7msport.com^
 ||7search.com^
 ||vz.7vid.net^
@@ -566,7 +567,6 @@
 ||adingo.jp^
 ||adinplay.com^
 ||adipolo.com^
-||adfarm1.adition.com^
 ||aditserve.com^
 ||adizio.com^
 ||adjns.com^
@@ -832,7 +832,7 @@
 ||adtech-digital.ru^
 ||adtechium.com^
 ||adtechjp.com^
-||adtechus.com^
+||adserver.adtechus.com^
 ||adtelligence.de^
 ||adtelligent.com^
 ||adten.eu^
@@ -1136,6 +1136,7 @@
 ||akisinn.info^
 ||int.akisinn.site^
 ||aklamator.com^
+||analytics.aklamio.com^
 ||akmxts.com^
 ||akstat.io^
 ||akutapro.com^
@@ -1249,17 +1250,22 @@
 ||device-metrics-us.amazon.com^
 ||device-metrics-us-2.amazon.com^
 ||smetrics.flex.amazon.com^
-||fls-eu.amazon.eg^
-||fls-eu.amazon.pl^
 ||rcm.amazon.com^
 ||unagi.amazon.ae^
 ||unagi.amazon.ca^
+||unagi.amazon.cn^
+||unagi.amazon.de^
 ||unagi.amazon.eg^
+||unagi.amazon.es^
+||unagi.amazon.fr^
+||unagi.amazon.in^
+||unagi.amazon.it^
 ||unagi.amazon.nl^
 ||unagi.amazon.pl^
 ||unagi.amazon.sa^
 ||unagi.amazon.se^
 ||unagi.amazon.sg^
+||unagi-eu.amazon.com^
 ||rcm-eu.amazon-adsystem.com^
 ||rcm-fe.amazon-adsystem.com^
 ||rcm-na.amazon-adsystem.com^
@@ -1325,7 +1331,6 @@
 ||amp.services^
 ||amp.vg^
 ||ampclicks.com^
-||api.amplitude.com^
 ||api2.amplitude.com^
 ||cdn.amplitude.com^
 ||api.eu.amplitude.com^
@@ -1453,7 +1458,6 @@
 ||appboycdn.com^
 ||appclick.co^
 ||appcpi.net^
-||appdynamics.com^
 ||tenant-content.apm.appfolio-analytics.com^
 ||apphomeforbests.com^
 ||appier.net^
@@ -3224,6 +3228,7 @@
 ||live.alljobs.co.il^
 ||scout.alpinetrek.co.uk^
 ||aviary.amazon.co.jp^
+||unagi.amazon.co.uk^
 ||crta.and.co.uk^
 ||iad.anm.co.uk^
 ||pixel.archipro.co.nz^
@@ -3514,7 +3519,9 @@
 ||adx.com.ru^
 ||afilio.com.br^
 ||ahedrankslowl.com.ua^
-||fls-eu.amazon.com.tr^
+||unagi.amazon.com.au^
+||unagi.amazon.com.be^
+||unagi.amazon.com.br^
 ||unagi.amazon.com.mx^
 ||unagi.amazon.com.tr^
 ||andoldifiscqa.com.ua^
@@ -4787,7 +4794,6 @@
 ||elevisions.biz^
 ||res.elle.fr^
 ||elonreptiloid.com^
-||t.eloqua.com^
 ||pxlctl.elpais.com^
 ||smetrics.elpais.com^
 ||metrics.elsevier.com^
@@ -7332,6 +7338,7 @@
 ||scookies-adobe.kbc.be^
 ||scookies-adobe.kbc-group.com^
 ||e.kc-education.com^
+||kcddjusnew.com^
 ||ev.kck.st^
 ||t.kck.st^
 ||kctag.net^
@@ -8693,6 +8700,7 @@
 ||r.my.com^
 ||top-js-metrics.top.my.ua^
 ||tracker-api.my.com^
+||my1elitclub.com^
 ||cdn.myadmessenger.com^
 ||banners.myads.ge^
 ||myaffiliateprogram.com^
@@ -9547,7 +9555,19 @@
 ||ouphouch.com^
 ||ourl.link^
 ||d276.ourmidland.com^
-||outbrain.com^
+||amplify.outbrain.com^
+||amplifypixel.outbrain.com^
+||eventlog.outbrain.com^
+||hpr.outbrain.com^
+||log.outbrain.com^
+||log-ird.outbrain.com^
+||paid.outbrain.com^
+||rva.outbrain.com^
+||stas.outbrain.com^
+||sync.outbrain.com^
+||tr.outbrain.com^
+||videoevents.outbrain.com^
+||widget-pixels.outbrain.com^
 ||outbrainimg.com^
 ||privacy.outdoorsg.com^
 ||outfunnel.com^
@@ -9666,7 +9686,8 @@
 ||parrecleftne.xyz^
 ||fpa-cdn.parse.ly^
 ||parsec.media^
-||parsely.com^
+||pixel.parsely.com^
+||static.parsely.com^
 ||analytics.partcommunity.com^
 ||ad.particlenews.com^
 ||log.particlenews.com^
@@ -10118,7 +10139,7 @@
 ||jslog.post.cz^
 ||d.post-gazette.com^
 ||post-redirecting.com^
-||postaffiliatepro.com^
+||netech.postaffiliatepro.com^
 ||aa.postbank.de^
 ||at.postbank.de^
 ||posthog.com^
@@ -10160,6 +10181,7 @@
 ||prehistoriceast.com^
 ||prelandappslab.com^
 ||preloanflubs.com^
+||premclubs.com^
 ||smetrics.premera.com^
 ||smetrics.premierinn.com^
 ||premiumvertising.com^
@@ -10409,6 +10431,7 @@
 ||pushub.net^
 ||pushwelcome.com^
 ||pushwoosh.com^
+||pusishegre.com^
 ||puwpush.com^
 ||pvclouds.com^
 ||pvd.to^
@@ -12537,7 +12560,17 @@
 ||taaqhr6axacd2um.com^
 ||tabici.com^
 ||telemetry.tableausoftware.com^
-||taboola.com^
+||am-trc-events.taboola.com^
+||am-vid-events.taboola.com^
+||cdn.taboola.com^
+||la-sync.taboola.com^
+||match.taboola.com^
+||nr-events.taboola.com^
+||opps.taboola.com^
+||sync.taboola.com^
+||trc.taboola.com^
+||vidstat.taboola.com^
+||wf.taboola.com^
 ||arnasynir.tac.is^
 ||activate.tacdn.com^
 ||tacoda.net^
@@ -12905,6 +12938,7 @@
 ||titsandtits.com^
 ||tiwhaiph.net^
 ||tjekscores.dk^
+||tjme.io^
 ||swa.tjmaxx.tjx.com^
 ||tkbo.com^
 ||creative.live.tktube.com^
@@ -14640,6 +14674,7 @@
 ||zadauque.net^
 ||adtima-media.zadn.vn^
 ||adtima-static.zadn.vn^
+||mda.zadn.vn^
 ||sdk.zadn.vn^
 ||zaful.com^
 ||xml.zaimads.com^
@@ -14691,6 +14726,7 @@
 ||connectfpc.zebra.com^
 ||images.seemore.zebra.com^
 ||swebmetrics.zebra.com^
+||mme.zedcdn.me^
 ||logsink.zedge.net^
 ||zedo.com^
 ||zedoaryrejects.com^
@@ -14800,5 +14836,6 @@
 ||zybrdr.com^
 ||zyf03k.xyz^
 ||zysheptany.com^
+||s.zzcdn.me^
 ||zzyl.mobi^
 ||zzzperform.com^

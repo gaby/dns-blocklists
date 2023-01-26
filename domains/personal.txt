@@ -4,10 +4,10 @@
 # Issues: https://github.com/hagezi/dns-blocklists/issues
 # License: https://github.com/hagezi/dns-blocklists/blob/main/LICENSE.md
 # Expires: Updated regularly
-# Last modified: 26 Jan 2023 10:28 UTC
-# Version: 2023.0126.1028.33
+# Last modified: 26 Jan 2023 14:43 UTC
+# Version: 2023.0126.1443.45
 # Syntax: Domains
-# Domains: 21363
+# Domains: 21373
 #
 00px.net
 021jf.com
@@ -330,6 +330,8 @@ www.7a7f07591f.com
 29dddc2119.7e1e8f3eba.com
 7fc0966988.com
 www.7fc0966988.com
+7mmtv.top
+www.7mmtv.top
 xc.7msport.com
 7search.com
 www.7search.com
@@ -910,7 +912,6 @@ adinplay.com
 www.adinplay.com
 adipolo.com
 www.adipolo.com
-adfarm1.adition.com
 aditserve.com
 www.aditserve.com
 adizio.com
@@ -1459,9 +1460,7 @@ adtechium.com
 www.adtechium.com
 adtechjp.com
 www.adtechjp.com
-adtechus.com
 adserver.adtechus.com
-www.adtechus.com
 adtelligence.de
 www.adtelligence.de
 adtelligent.com
@@ -1951,6 +1950,7 @@ int.akisinn.site
 www.akisinn.info
 aklamator.com
 www.aklamator.com
+analytics.aklamio.com
 akmxts.com
 akstat.io
 www.akstat.io
@@ -2101,17 +2101,22 @@ aviary.amazon.de
 device-metrics-us.amazon.com
 device-metrics-us-2.amazon.com
 smetrics.flex.amazon.com
-fls-eu.amazon.eg
-fls-eu.amazon.pl
 rcm.amazon.com
 unagi.amazon.ae
 unagi.amazon.ca
+unagi.amazon.cn
+unagi.amazon.de
 unagi.amazon.eg
+unagi.amazon.es
+unagi.amazon.fr
+unagi.amazon.in
+unagi.amazon.it
 unagi.amazon.nl
 unagi.amazon.pl
 unagi.amazon.sa
 unagi.amazon.se
 unagi.amazon.sg
+unagi-eu.amazon.com
 rcm-eu.amazon-adsystem.com
 rcm-fe.amazon-adsystem.com
 rcm-na.amazon-adsystem.com
@@ -2187,7 +2192,6 @@ www.amp.services
 www.amp.vg
 ampclicks.com
 www.ampclicks.com
-api.amplitude.com
 api2.amplitude.com
 cdn.amplitude.com
 api.eu.amplitude.com
@@ -2380,8 +2384,6 @@ other.appcpi.net
 remain.appcpi.net
 usertrack.appcpi.net
 www.appcpi.net
-appdynamics.com
-www.appdynamics.com
 tenant-content.apm.appfolio-analytics.com
 apphomeforbests.com
 www.apphomeforbests.com
@@ -4878,6 +4880,7 @@ web.e.aldermore.co.uk
 live.alljobs.co.il
 scout.alpinetrek.co.uk
 aviary.amazon.co.jp
+unagi.amazon.co.uk
 crta.and.co.uk
 iad.anm.co.uk
 pixel.archipro.co.nz
@@ -5195,7 +5198,9 @@ adtarget.com.tr
 adx.com.ru
 afilio.com.br
 ahedrankslowl.com.ua
-fls-eu.amazon.com.tr
+unagi.amazon.com.au
+unagi.amazon.com.be
+unagi.amazon.com.br
 unagi.amazon.com.mx
 unagi.amazon.com.tr
 andoldifiscqa.com.ua
@@ -6964,7 +6969,6 @@ elevisions.biz
 res.elle.fr
 elonreptiloid.com
 www.elonreptiloid.com
-t.eloqua.com
 pxlctl.elpais.com
 smetrics.elpais.com
 metrics.elsevier.com
@@ -10601,6 +10605,8 @@ smetrics.kbb.com
 scookies-adobe.kbc.be
 scookies-adobe.kbc-group.com
 e.kc-education.com
+kcddjusnew.com
+www.kcddjusnew.com
 ev.kck.st
 t.kck.st
 kctag.net
@@ -12542,6 +12548,9 @@ mxzijg.com
 r.my.com
 top-js-metrics.top.my.ua
 tracker-api.my.com
+my1elitclub.com
+track.my1elitclub.com
+www.my1elitclub.com
 cdn.myadmessenger.com
 banners.myads.ge
 myaffiliateprogram.com
@@ -13292,6 +13301,7 @@ smetrics.oakley.com
 smetrics.oakleysi.com
 tracking.learn.oakstreethealth.com
 oalsauwy.net
+ak.oalsauwy.net
 oalsoagn.com
 oamtorsa.net
 oaphoace.net
@@ -13728,14 +13738,12 @@ ouphouch.com
 www.ouphouch.com
 ourl.link
 d276.ourmidland.com
-outbrain.com
 amplify.outbrain.com
 amplifypixel.outbrain.com
 eventlog.outbrain.com
 hpr.outbrain.com
 log.outbrain.com
 log-ird.outbrain.com
-odb.outbrain.com
 paid.outbrain.com
 rva.outbrain.com
 stas.outbrain.com
@@ -13743,7 +13751,6 @@ sync.outbrain.com
 tr.outbrain.com
 videoevents.outbrain.com
 widget-pixels.outbrain.com
-www.outbrain.com
 outbrainimg.com
 log.outbrainimg.com
 tcheck.outbrainimg.com
@@ -13901,10 +13908,8 @@ parrecleftne.xyz
 fpa-cdn.parse.ly
 parsec.media
 www.parsec.media
-parsely.com
 pixel.parsely.com
 static.parsely.com
-www.parsely.com
 analytics.partcommunity.com
 ad.particlenews.com
 log.particlenews.com
@@ -14538,9 +14543,7 @@ possibleboats.com
 jslog.post.cz
 d.post-gazette.com
 post-redirecting.com
-postaffiliatepro.com
 netech.postaffiliatepro.com
-www.postaffiliatepro.com
 aa.postbank.de
 at.postbank.de
 posthog.com
@@ -14601,6 +14604,8 @@ www.prehistoriceast.com
 prelandappslab.com
 www.prelandappslab.com
 preloanflubs.com
+premclubs.com
+www.premclubs.com
 smetrics.premera.com
 smetrics.premierinn.com
 premiumvertising.com
@@ -15006,6 +15011,8 @@ cp.pushwoosh.com
 ha-api.pushwoosh.com
 post-log.pushwoosh.com
 www.pushwoosh.com
+pusishegre.com
+www.pusishegre.com
 puwpush.com
 pvclouds.com
 www.pvclouds.com
@@ -18012,7 +18019,6 @@ taaqhr6axacd2um.com
 tabici.com
 www.tabici.com
 telemetry.tableausoftware.com
-taboola.com
 am-trc-events.taboola.com
 am-vid-events.taboola.com
 cdn.taboola.com
@@ -18024,7 +18030,6 @@ sync.taboola.com
 trc.taboola.com
 vidstat.taboola.com
 wf.taboola.com
-www.taboola.com
 arnasynir.tac.is
 activate.tacdn.com
 tacoda.net
@@ -18503,6 +18508,8 @@ titsandtits.com
 tiwhaiph.net
 tjekscores.dk
 www.tjekscores.dk
+tjme.io
+www.tjme.io
 swa.tjmaxx.tjx.com
 tkbo.com
 creative.live.tktube.com
@@ -21153,6 +21160,7 @@ www.zabanit.xyz
 zadauque.net
 adtima-media.zadn.vn
 adtima-static.zadn.vn
+mda.zadn.vn
 sdk.zadn.vn
 zaful.com
 www.zaful.com
@@ -21217,6 +21225,7 @@ connect.zebra.com
 connectfpc.zebra.com
 images.seemore.zebra.com
 swebmetrics.zebra.com
+mme.zedcdn.me
 logsink.zedge.net
 zedo.com
 saxp.zedo.com
@@ -21370,5 +21379,6 @@ zyf03k.xyz
 www.zyf03k.xyz
 zysheptany.com
 www.zysheptany.com
+s.zzcdn.me
 zzyl.mobi
 zzzperform.com

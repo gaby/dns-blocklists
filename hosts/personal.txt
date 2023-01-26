@@ -4,10 +4,10 @@
 # Issues: https://github.com/hagezi/dns-blocklists/issues
 # License: https://github.com/hagezi/dns-blocklists/blob/main/LICENSE.md
 # Expires: Updated regularly
-# Last modified: 26 Jan 2023 10:28 UTC
-# Version: 2023.0126.1028.33
+# Last modified: 26 Jan 2023 14:43 UTC
+# Version: 2023.0126.1443.45
 # Syntax: Hosts
-# Domains: 21363
+# Domains: 21373
 #
 0.0.0.0 00px.net
 0.0.0.0 021jf.com
@@ -330,6 +330,8 @@
 0.0.0.0 29dddc2119.7e1e8f3eba.com
 0.0.0.0 7fc0966988.com
 0.0.0.0 www.7fc0966988.com
+0.0.0.0 7mmtv.top
+0.0.0.0 www.7mmtv.top
 0.0.0.0 xc.7msport.com
 0.0.0.0 7search.com
 0.0.0.0 www.7search.com
@@ -910,7 +912,6 @@
 0.0.0.0 www.adinplay.com
 0.0.0.0 adipolo.com
 0.0.0.0 www.adipolo.com
-0.0.0.0 adfarm1.adition.com
 0.0.0.0 aditserve.com
 0.0.0.0 www.aditserve.com
 0.0.0.0 adizio.com
@@ -1459,9 +1460,7 @@
 0.0.0.0 www.adtechium.com
 0.0.0.0 adtechjp.com
 0.0.0.0 www.adtechjp.com
-0.0.0.0 adtechus.com
 0.0.0.0 adserver.adtechus.com
-0.0.0.0 www.adtechus.com
 0.0.0.0 adtelligence.de
 0.0.0.0 www.adtelligence.de
 0.0.0.0 adtelligent.com
@@ -1951,6 +1950,7 @@
 0.0.0.0 www.akisinn.info
 0.0.0.0 aklamator.com
 0.0.0.0 www.aklamator.com
+0.0.0.0 analytics.aklamio.com
 0.0.0.0 akmxts.com
 0.0.0.0 akstat.io
 0.0.0.0 www.akstat.io
@@ -2101,17 +2101,22 @@
 0.0.0.0 device-metrics-us.amazon.com
 0.0.0.0 device-metrics-us-2.amazon.com
 0.0.0.0 smetrics.flex.amazon.com
-0.0.0.0 fls-eu.amazon.eg
-0.0.0.0 fls-eu.amazon.pl
 0.0.0.0 rcm.amazon.com
 0.0.0.0 unagi.amazon.ae
 0.0.0.0 unagi.amazon.ca
+0.0.0.0 unagi.amazon.cn
+0.0.0.0 unagi.amazon.de
 0.0.0.0 unagi.amazon.eg
+0.0.0.0 unagi.amazon.es
+0.0.0.0 unagi.amazon.fr
+0.0.0.0 unagi.amazon.in
+0.0.0.0 unagi.amazon.it
 0.0.0.0 unagi.amazon.nl
 0.0.0.0 unagi.amazon.pl
 0.0.0.0 unagi.amazon.sa
 0.0.0.0 unagi.amazon.se
 0.0.0.0 unagi.amazon.sg
+0.0.0.0 unagi-eu.amazon.com
 0.0.0.0 rcm-eu.amazon-adsystem.com
 0.0.0.0 rcm-fe.amazon-adsystem.com
 0.0.0.0 rcm-na.amazon-adsystem.com
@@ -2187,7 +2192,6 @@
 0.0.0.0 www.amp.vg
 0.0.0.0 ampclicks.com
 0.0.0.0 www.ampclicks.com
-0.0.0.0 api.amplitude.com
 0.0.0.0 api2.amplitude.com
 0.0.0.0 cdn.amplitude.com
 0.0.0.0 api.eu.amplitude.com
@@ -2380,8 +2384,6 @@
 0.0.0.0 remain.appcpi.net
 0.0.0.0 usertrack.appcpi.net
 0.0.0.0 www.appcpi.net
-0.0.0.0 appdynamics.com
-0.0.0.0 www.appdynamics.com
 0.0.0.0 tenant-content.apm.appfolio-analytics.com
 0.0.0.0 apphomeforbests.com
 0.0.0.0 www.apphomeforbests.com
@@ -4878,6 +4880,7 @@
 0.0.0.0 live.alljobs.co.il
 0.0.0.0 scout.alpinetrek.co.uk
 0.0.0.0 aviary.amazon.co.jp
+0.0.0.0 unagi.amazon.co.uk
 0.0.0.0 crta.and.co.uk
 0.0.0.0 iad.anm.co.uk
 0.0.0.0 pixel.archipro.co.nz
@@ -5195,7 +5198,9 @@
 0.0.0.0 adx.com.ru
 0.0.0.0 afilio.com.br
 0.0.0.0 ahedrankslowl.com.ua
-0.0.0.0 fls-eu.amazon.com.tr
+0.0.0.0 unagi.amazon.com.au
+0.0.0.0 unagi.amazon.com.be
+0.0.0.0 unagi.amazon.com.br
 0.0.0.0 unagi.amazon.com.mx
 0.0.0.0 unagi.amazon.com.tr
 0.0.0.0 andoldifiscqa.com.ua
@@ -6964,7 +6969,6 @@
 0.0.0.0 res.elle.fr
 0.0.0.0 elonreptiloid.com
 0.0.0.0 www.elonreptiloid.com
-0.0.0.0 t.eloqua.com
 0.0.0.0 pxlctl.elpais.com
 0.0.0.0 smetrics.elpais.com
 0.0.0.0 metrics.elsevier.com
@@ -10601,6 +10605,8 @@
 0.0.0.0 scookies-adobe.kbc.be
 0.0.0.0 scookies-adobe.kbc-group.com
 0.0.0.0 e.kc-education.com
+0.0.0.0 kcddjusnew.com
+0.0.0.0 www.kcddjusnew.com
 0.0.0.0 ev.kck.st
 0.0.0.0 t.kck.st
 0.0.0.0 kctag.net
@@ -12542,6 +12548,9 @@
 0.0.0.0 r.my.com
 0.0.0.0 top-js-metrics.top.my.ua
 0.0.0.0 tracker-api.my.com
+0.0.0.0 my1elitclub.com
+0.0.0.0 track.my1elitclub.com
+0.0.0.0 www.my1elitclub.com
 0.0.0.0 cdn.myadmessenger.com
 0.0.0.0 banners.myads.ge
 0.0.0.0 myaffiliateprogram.com
@@ -13292,6 +13301,7 @@
 0.0.0.0 smetrics.oakleysi.com
 0.0.0.0 tracking.learn.oakstreethealth.com
 0.0.0.0 oalsauwy.net
+0.0.0.0 ak.oalsauwy.net
 0.0.0.0 oalsoagn.com
 0.0.0.0 oamtorsa.net
 0.0.0.0 oaphoace.net
@@ -13728,14 +13738,12 @@
 0.0.0.0 www.ouphouch.com
 0.0.0.0 ourl.link
 0.0.0.0 d276.ourmidland.com
-0.0.0.0 outbrain.com
 0.0.0.0 amplify.outbrain.com
 0.0.0.0 amplifypixel.outbrain.com
 0.0.0.0 eventlog.outbrain.com
 0.0.0.0 hpr.outbrain.com
 0.0.0.0 log.outbrain.com
 0.0.0.0 log-ird.outbrain.com
-0.0.0.0 odb.outbrain.com
 0.0.0.0 paid.outbrain.com
 0.0.0.0 rva.outbrain.com
 0.0.0.0 stas.outbrain.com
@@ -13743,7 +13751,6 @@
 0.0.0.0 tr.outbrain.com
 0.0.0.0 videoevents.outbrain.com
 0.0.0.0 widget-pixels.outbrain.com
-0.0.0.0 www.outbrain.com
 0.0.0.0 outbrainimg.com
 0.0.0.0 log.outbrainimg.com
 0.0.0.0 tcheck.outbrainimg.com
@@ -13901,10 +13908,8 @@
 0.0.0.0 fpa-cdn.parse.ly
 0.0.0.0 parsec.media
 0.0.0.0 www.parsec.media
-0.0.0.0 parsely.com
 0.0.0.0 pixel.parsely.com
 0.0.0.0 static.parsely.com
-0.0.0.0 www.parsely.com
 0.0.0.0 analytics.partcommunity.com
 0.0.0.0 ad.particlenews.com
 0.0.0.0 log.particlenews.com
@@ -14538,9 +14543,7 @@
 0.0.0.0 jslog.post.cz
 0.0.0.0 d.post-gazette.com
 0.0.0.0 post-redirecting.com
-0.0.0.0 postaffiliatepro.com
 0.0.0.0 netech.postaffiliatepro.com
-0.0.0.0 www.postaffiliatepro.com
 0.0.0.0 aa.postbank.de
 0.0.0.0 at.postbank.de
 0.0.0.0 posthog.com
@@ -14601,6 +14604,8 @@
 0.0.0.0 prelandappslab.com
 0.0.0.0 www.prelandappslab.com
 0.0.0.0 preloanflubs.com
+0.0.0.0 premclubs.com
+0.0.0.0 www.premclubs.com
 0.0.0.0 smetrics.premera.com
 0.0.0.0 smetrics.premierinn.com
 0.0.0.0 premiumvertising.com
@@ -15006,6 +15011,8 @@
 0.0.0.0 ha-api.pushwoosh.com
 0.0.0.0 post-log.pushwoosh.com
 0.0.0.0 www.pushwoosh.com
+0.0.0.0 pusishegre.com
+0.0.0.0 www.pusishegre.com
 0.0.0.0 puwpush.com
 0.0.0.0 pvclouds.com
 0.0.0.0 www.pvclouds.com
@@ -18012,7 +18019,6 @@
 0.0.0.0 tabici.com
 0.0.0.0 www.tabici.com
 0.0.0.0 telemetry.tableausoftware.com
-0.0.0.0 taboola.com
 0.0.0.0 am-trc-events.taboola.com
 0.0.0.0 am-vid-events.taboola.com
 0.0.0.0 cdn.taboola.com
@@ -18024,7 +18030,6 @@
 0.0.0.0 trc.taboola.com
 0.0.0.0 vidstat.taboola.com
 0.0.0.0 wf.taboola.com
-0.0.0.0 www.taboola.com
 0.0.0.0 arnasynir.tac.is
 0.0.0.0 activate.tacdn.com
 0.0.0.0 tacoda.net
@@ -18503,6 +18508,8 @@
 0.0.0.0 tiwhaiph.net
 0.0.0.0 tjekscores.dk
 0.0.0.0 www.tjekscores.dk
+0.0.0.0 tjme.io
+0.0.0.0 www.tjme.io
 0.0.0.0 swa.tjmaxx.tjx.com
 0.0.0.0 tkbo.com
 0.0.0.0 creative.live.tktube.com
@@ -21153,6 +21160,7 @@
 0.0.0.0 zadauque.net
 0.0.0.0 adtima-media.zadn.vn
 0.0.0.0 adtima-static.zadn.vn
+0.0.0.0 mda.zadn.vn
 0.0.0.0 sdk.zadn.vn
 0.0.0.0 zaful.com
 0.0.0.0 www.zaful.com
@@ -21217,6 +21225,7 @@
 0.0.0.0 connectfpc.zebra.com
 0.0.0.0 images.seemore.zebra.com
 0.0.0.0 swebmetrics.zebra.com
+0.0.0.0 mme.zedcdn.me
 0.0.0.0 logsink.zedge.net
 0.0.0.0 zedo.com
 0.0.0.0 saxp.zedo.com
@@ -21370,5 +21379,6 @@
 0.0.0.0 www.zyf03k.xyz
 0.0.0.0 zysheptany.com
 0.0.0.0 www.zysheptany.com
+0.0.0.0 s.zzcdn.me
 0.0.0.0 zzyl.mobi
 0.0.0.0 zzzperform.com
