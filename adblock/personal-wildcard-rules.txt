@@ -102,9 +102,13 @@
 ! @@||c.amazon-adsystem.com^
 ||advertising.amazon.*^
 ||assoc-amazon.*^
-||fls*.amazon.*^
+!||fls*.amazon.*^
 ||mads*.amazon.*^
 ||unagi*.amazon.*^
+! Amazon Apps / Kindle / Fire-Tablet
+@@||unagi.amazon.com^
+@@||unagi-fe.amazon.com^
+@@||unagi-na.amazon.com^
 
 ! Amazon Device Metrics
 ||d3p8zr0ffa9t17.cloudfront.net^
