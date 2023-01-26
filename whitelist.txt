@@ -19,7 +19,10 @@ c00.adobe.com
 *.cc-api-data.adobe.io
 
 # Amazon AWS
+aws.amazon.com
+bbuseruploads.s3.amazonaws.com
 kinesis.*.amazonaws.com
+s3.amazonaws.com
 
 # Amazon Devices
 *.acsechocaptiveportal.com
@@ -29,6 +32,7 @@ kinesis.*.amazonaws.com
 api*.amazonalexa.com
 arcus-*.amazon.com
 avs-alexa*.amazon.com
+d3p8zr0ffa9t17.cloudfront.net
 dcape-*.amazon.com
 dp-gw-*.amazon.com
 dxz5jxhrrzigf.cloudfront.net
@@ -39,7 +43,7 @@ web.diagnostic.networking.aws.dev
 # https://github.com/Perflyst/PiHoleBlocklist/issues/138
 mas-*.amazon.com
 
-# Amazon Shopping (in-app links)
+# Amazon Shopping / Apps
 *.images-amazon.com
 aax-*-retail-direct.amazon-adsystem.com
 aax-*-retail-direct.amazon.com
@@ -59,7 +63,54 @@ aax-fe.amazon.co.jp
 aax-fe.amazon.com
 aax-fe.amazon.com.au
 aax-fe.amazon.sg
-# c.amazon-adsystem.com
+c.amazon-adsystem.com
+fls-*.amazon-adsystem.com
+fls-*.amazon.ae
+fls-*.amazon.ca
+fls-*.amazon.cn
+fls-*.amazon.co.jp
+fls-*.amazon.co.uk
+fls-*.amazon.com
+fls-*.amazon.com.au
+fls-*.amazon.com.be
+fls-*.amazon.com.br
+fls-*.amazon.com.mx
+fls-*.amazon.de
+fls-*.amazon.es
+fls-*.amazon.fr
+fls-*.amazon.in
+fls-*.amazon.it
+fls-*.amazon.nl
+fls-*.amazon.sa
+fls-*.amazon.se
+fls-*.amazon.sg
+rcm-*.amazon.com
+rcm-*.amazon.de
+# CNAME fls-*.amazon.com
+*.forester.a2z.com
+unagi-*.amazon.com
+unagi.amazon.cn
+unagi.amazon.co.jp
+unagi.amazon.co.uk
+unagi.amazon.com
+unagi.amazon.com.au
+unagi.amazon.com.be
+unagi.amazon.com.br
+unagi.amazon.de
+unagi.amazon.es
+unagi.amazon.fr
+unagi.amazon.in
+unagi.amazon.it
+
+# Amazon Video
+*.aiv-cdn.net
+*.aiv-cdn.net.c.footprint.net
+*.aiv-delivery.net
+*.amazonvideo.com
+*.atv-ext*.amazon.com
+*.atv-ps.amazon.com
+*.primevideo.com
+*.pv-cdn.net
 
 # Apple
 # https://support.apple.com/en-us/HT210060
@@ -67,19 +118,34 @@ aax-fe.amazon.sg
 *.cdn-apple.com
 *.gc.apple.com
 *.gc.fe.apple-dns.net
+*.push.apple.com
 *.safebrowsing.apple
 *.smoot.apple.com
-*.push.apple.com
+# Breaks Apple Watch update, stucks on "Search for update"
+*.xp.apple.com
+apple-dns.net
+apple.tt.omtrdc.net
 c.apple.com
 cstat.apple.com
 inappcheck*.apple.com
 iphone-ld.apple.com
+iphone-ld.origin-apple.com.akadns.net
 ocsp*.apple.com
 smp-device-content.apple.com
 stats.gc.apple.com
 trackingshipment.apple.com
-# Breaks Apple Watch update, stucks on "Search for update"
-*.xp.apple.com
+
+# Certificates
+*.digicert.com
+*.entrust.net
+*.geotrust.com
+*.lencr.org
+*.verisign.net
+
+# Cloudflare
+cdn.cloudflare.net
+cdnjs.cloudflare.co
+cdnjs.cloudflare.com
 
 # Facebook
 *graph-fallback.facebook.com
@@ -98,6 +164,7 @@ i.instagram.com
 
 # Google
 afs.googleusercontent.com
+ajax.googleapis.com
 analyticsinsights-pa.googleapis.com
 analyticssearch-pa.googleapis.com
 appspot-preview.l.google.com
@@ -109,7 +176,11 @@ firebasedynamiclinks-ipv6.googleapis.com
 firebasedynamiclinks.googleapis.com
 firebaseinappmessaging.googleapis.com
 firebaseinstallations.googleapis.com
+firebaseremoteconfig.googleapis.com
+firebasestorage.googleapis.com
 fonts.google.com
+fonts.googleapis.com
+fonts.gstatic.com
 footprints-pa.googleapis.com
 geller-pa.googleapis.com
 geomobileservices-pa.googleapis.com
@@ -212,11 +283,15 @@ syndication.twitter.com
 t.co
 
 # Youtube
+*.googlevideo.com
+*.ytimg.com
 i.ytimg.com
 i1.ytimg.com
 s.youtube.com
 s.ytimg.com
 s2.youtube.com
+youtu.be
+youtube-nocookie.com
 
 # -----------------------------------------------------------------------
 
