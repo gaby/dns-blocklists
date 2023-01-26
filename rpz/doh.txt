@@ -1,3 +1,7 @@
+$TTL 30
+@ SOA rpz.hagezi.doh. hostmaster.hagezi.doh. 1674687600 300 1800 604800 30
+ NS localhost.
+;
 ; Title: HaGeZi's Encrypted DNS Bypass DNS Blocklist
 ; Description: Prevent methods to bypass your DNS, blocks encrypted DNS only
 ; Note: To ensure the bootstrap is your DNS server: Redirect standard DNS outbound (UDP 53) to an internal server. Block all DoT (TCP 853) outbound.

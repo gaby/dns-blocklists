@@ -1,3 +1,7 @@
+$TTL 30
+@ SOA rpz.hagezi.hoster. hostmaster.hagezi.hoster. 1674687600 300 1800 604800 30
+ NS localhost.
+;
 ; Title: HaGeZi's Badware Hoster DNS Blocklist
 ; Description: Blocks known free hosters that also host badware via user content to prevent the use of these hosters for malicious purposes.
 ; Homepage: https://github.com/hagezi/dns-blocklists

@@ -1,13 +1,17 @@
+$TTL 30
+@ SOA rpz.hagezi.fake. hostmaster.hagezi.fake. 1674687600 300 1800 604800 30
+ NS localhost.
+;
 ; Title: HaGeZi's Fake DNS Blocklist
 ; Description: Protects against internet scams, traps & fakes! Blocks fake stores, -news, -science, -streaming, rip-offs, cost traps and co.
 ; Homepage: https://github.com/hagezi/dns-blocklists
 ; Issues: https://github.com/hagezi/dns-blocklists/issues
 ; License: https://github.com/hagezi/dns-blocklists/blob/main/LICENSE.md
 ; Expires: Updated regularly
-; Last modified: 24 Jan 2023 23:28 UTC
-; Version: 2023.0124.2328.22
+; Last modified: 26 Jan 2023 13:27 UTC
+; Version: 2023.0126.1327.06
 ; Syntax: RPZ
-; Domains: 5413
+; Domains: 5412
 ;
 1euro.at CNAME .
 *.1euro.at CNAME .
@@ -1581,8 +1585,6 @@ blumestar.com CNAME .
 *.blumestar.com CNAME .
 blushysilk.com CNAME .
 *.blushysilk.com CNAME .
-blvcks.com CNAME .
-*.blvcks.com CNAME .
 bobbyananta.com CNAME .
 *.bobbyananta.com CNAME .
 bocarora.com CNAME .
@@ -2291,8 +2293,6 @@ eliesem.com CNAME .
 *.eliesem.com CNAME .
 ellaclothy.com CNAME .
 *.ellaclothy.com CNAME .
-ellalady.com CNAME .
-*.ellalady.com CNAME .
 ellalily.com CNAME .
 *.ellalily.com CNAME .
 ellecloset.com CNAME .
@@ -3197,6 +3197,8 @@ julireh.com CNAME .
 *.julireh.com CNAME .
 juretro.com CNAME .
 *.juretro.com CNAME .
+de.justfashionnow.com CNAME .
+*.de.justfashionnow.com CNAME .
 justshopbetter.com CNAME .
 *.justshopbetter.com CNAME .
 justshopy4u.com CNAME .
@@ -8331,6 +8333,8 @@ ostergartenhermesdorf.de CNAME .
 *.ostergartenhermesdorf.de CNAME .
 otto-angebote.de CNAME .
 *.otto-angebote.de CNAME .
+ouraltis.de CNAME .
+*.ouraltis.de CNAME .
 outdoor-repel.de CNAME .
 *.outdoor-repel.de CNAME .
 owlkaminholz.de CNAME .
@@ -10733,8 +10737,6 @@ wmusify.top CNAME .
 *.wmusify.top CNAME .
 xsanrashop.top CNAME .
 *.xsanrashop.top CNAME .
-yhealing.top CNAME .
-*.yhealing.top CNAME .
 zdcome.top CNAME .
 *.zdcome.top CNAME .
 zinstincta.top CNAME .

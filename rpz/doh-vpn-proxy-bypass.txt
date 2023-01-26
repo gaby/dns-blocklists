@@ -1,13 +1,17 @@
+$TTL 30
+@ SOA rpz.hagezi.doh-vpn-proxy-bypass. hostmaster.hagezi.doh-vpn-proxy-bypass. 1674687600 300 1800 604800 30
+ NS localhost.
+;
 ; Title: HaGeZi's Enyrypted DNS/VPN/TOR/Proxy Bypass DNS Blocklist
 ; Description: Prevent methods to bypass your DNS, blocks encrypted DNS, VPN, TOR, Proxies.
 ; Note: To ensure the bootstrap is your DNS server: Redirect standard DNS outbound (UDP 53) to an internal server. Block all DoT (TCP 853) outbound.
 ; Homepage: https://github.com/hagezi/dns-blocklists
 ; Issues: https://github.com/hagezi/dns-blocklists/issues
 ; Expires: Updated regularly
-; Last modified: 19 Jan 2023 13:47 UTC
-; Version: 2023.0119.1347.34
+; Last modified: 26 Jan 2023 09:39 UTC
+; Version: 2023.0126.0939.58
 ; Syntax: RPZ
-; Domains: 1313
+; Domains: 1314
 ;
 vpn.ac CNAME .
 *.vpn.ac CNAME .
@@ -1181,6 +1185,8 @@ usawebproxy.com CNAME .
 *.usawebproxy.com CNAME .
 vectroproxy.com CNAME .
 *.vectroproxy.com CNAME .
+veepn.com CNAME .
+*.veepn.com CNAME .
 veripn.com CNAME .
 *.veripn.com CNAME .
 videounblock.com CNAME .

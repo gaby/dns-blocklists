@@ -1,3 +1,7 @@
+$TTL 30
+@ SOA rpz.hagezi.native.apple. hostmaster.hagezi.native.apple. 1674687600 300 1800 604800 30
+ NS localhost.
+;
 ; Title: HaGeZi's Apple Tracker DNS Blocklist
 ; Description: Blocks Apple native broadband tracker that track your activity.
 ; Homepage: https://github.com/hagezi/dns-blocklists

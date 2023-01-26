@@ -1,3 +1,7 @@
+$TTL 30
+@ SOA rpz.hagezi.dyndns. hostmaster.hagezi.dyndns. 1674687600 300 1800 604800 30
+ NS localhost.
+;
 ; Title: HaGeZi's DynDNS Blocklist
 ; Description: Blocks dynamic DNS services to protect against malicious use in phishing campaigns and others.
 ; Homepage: https://github.com/hagezi/dns-blocklists
