@@ -4,10 +4,10 @@
 # Issues: https://github.com/hagezi/dns-blocklists/issues
 # License: https://github.com/hagezi/dns-blocklists/blob/main/LICENSE.md
 # Expires: Updated regularly
-# Last modified: 26 Jan 2023 14:43 UTC
-# Version: 2023.0126.1443.45
+# Last modified: 26 Jan 2023 23:50 UTC
+# Version: 2023.0126.2350.48
 # Syntax: DNSMasq
-# Domains: 14830
+# Domains: 14837
 #
 address=/00px.net/#
 address=/021jf.com/#
@@ -2050,6 +2050,7 @@ address=/lsv5.belambra.fr/#
 address=/belboon.de/#
 address=/smtx.belfius.be/#
 address=/sstats.belgiantrain.be/#
+address=/belgud.com/#
 address=/belickitungchan.com/#
 address=/believersheet.com/#
 address=/analytics.belk.com/#
@@ -2897,6 +2898,7 @@ address=/tracking.channelsight.com/#
 address=/logscafef.channelvn.net/#
 address=/collect.chaordicsystems.com/#
 address=/events.chaordicsystems.com/#
+address=/chargebee.com/#
 address=/info.charityvillage.com/#
 address=/s5.charliehebdo.fr/#
 address=/charltonmedia.com/#
@@ -3228,6 +3230,7 @@ address=/web.e.aldermore.co.uk/#
 address=/live.alljobs.co.il/#
 address=/scout.alpinetrek.co.uk/#
 address=/aviary.amazon.co.jp/#
+address=/rcm-uk.amazon.co.uk/#
 address=/unagi.amazon.co.uk/#
 address=/crta.and.co.uk/#
 address=/iad.anm.co.uk/#
@@ -3818,6 +3821,7 @@ address=/convertro.com/#
 address=/cws.conviva.com/#
 address=/pings.conviva.com/#
 address=/convrse.media/#
+address=/consent.cookiefirst.com/#
 address=/cookieless-data.com/#
 address=/policy.cookiereports.com/#
 address=/cookietagmanager.net/#
@@ -4116,7 +4120,6 @@ address=/datingtoday.top/#
 address=/aem-collector.daumkakao.io/#
 address=/oj.daunnotes.com/#
 address=/stats.davidickedelivery.com/#
-address=/davzwyavjm.com/#
 address=/dawin.tv/#
 address=/dawn3host.com/#
 address=/dawutobliged.com/#
@@ -5106,7 +5109,7 @@ address=/edgedc.falabella.com/#
 address=/sadobe.falabella.com/#
 address=/falcoware.com/#
 address=/fallaciousfifth.com/#
-address=/qb.falsenalice.com/#
+address=/falsenalice.com/#
 address=/falsifylilac.com/#
 address=/fam-8.net/#
 address=/fam-ad.com/#
@@ -7166,6 +7169,7 @@ address=/jergocast.com/#
 address=/jerridlarded.com/#
 address=/somnistats.jetblue.com/#
 address=/sstat.jetsetter.com/#
+address=/jetsomkhulda.com/#
 address=/jewishcontentnetwork.com/#
 address=/jfivafkigju.com/#
 address=/cdn.jhoncj.com/#
@@ -8422,6 +8426,7 @@ address=/smetrics.misumi-ec.com/#
 address=/text.mitarbeiterangebote.at/#
 address=/text.mitarbeiterangebote.de/#
 address=/sreport.mitsubishicars.com/#
+address=/mittylargen.com/#
 address=/r.browser.miui.com/#
 address=/api.brs.intl.miui.com/#
 address=/api.newsfeed.intl.miui.com/#
@@ -10726,9 +10731,7 @@ address=/aegis.qq.com/#
 address=/analy.qq.com/#
 address=/beacon.qq.com/#
 address=/btrace.qq.com/#
-address=/android.bugly.qq.com/#
-address=/astat.bugly.qq.com/#
-address=/ios.bugly.qq.com/#
+address=/bugly.qq.com/#
 address=/e.qq.com/#
 address=/gdt.qq.com/#
 address=/mqqad.html5.qq.com/#
@@ -11034,6 +11037,7 @@ address=/gqjppj.rentcafe.com/#
 address=/smetrics.rentprogress.com/#
 address=/rentracks.jp/#
 address=/renzhongjiaoyu.xyz/#
+address=/reoreexpresi.xyz/#
 address=/repealamintor.com/#
 address=/repeatsweater.com/#
 address=/repixel.co/#
@@ -11248,6 +11252,7 @@ address=/rotate4all.com/#
 address=/rotate5url.com/#
 address=/rote8mino.com/#
 address=/rou3.xyz/#
+address=/roucoutaivers.com/#
 address=/roudoduor.com/#
 address=/roumucee.com/#
 address=/rouonixon.com/#
@@ -12846,6 +12851,7 @@ address=/metrics.theworlds50best.com/#
 address=/thewowfeed.com/#
 address=/thighargu.com/#
 address=/tracker.thinkindot.com/#
+address=/thinksuggest.org/#
 address=/thinktot.com/#
 address=/thirawogla.com/#
 address=/marketing.thisiscleveland.com/#
@@ -14556,6 +14562,7 @@ address=/metrics.yellowpages.com/#
 address=/rek.yemlee.com/#
 address=/yengo.com/#
 address=/web.info.yeppon.it/#
+address=/yerto.info/#
 address=/bi.yeshen.com/#
 address=/yespetor.com/#
 address=/t.yesware.com/#

@@ -4,10 +4,10 @@
 # Issues: https://github.com/hagezi/dns-blocklists/issues
 # License: https://github.com/hagezi/dns-blocklists/blob/main/LICENSE.md
 # Expires: Updated regularly
-# Last modified: 26 Jan 2023 14:43 UTC
-# Version: 2023.0126.1443.45
+# Last modified: 26 Jan 2023 23:50 UTC
+# Version: 2023.0126.2350.48
 # Syntax: Hosts
-# Domains: 21373
+# Domains: 21390
 #
 0.0.0.0 00px.net
 0.0.0.0 021jf.com
@@ -3191,6 +3191,8 @@
 0.0.0.0 www.belboon.de
 0.0.0.0 smtx.belfius.be
 0.0.0.0 sstats.belgiantrain.be
+0.0.0.0 belgud.com
+0.0.0.0 www.belgud.com
 0.0.0.0 belickitungchan.com
 0.0.0.0 believersheet.com
 0.0.0.0 www.believersheet.com
@@ -4412,6 +4414,8 @@
 0.0.0.0 logscafef.channelvn.net
 0.0.0.0 collect.chaordicsystems.com
 0.0.0.0 events.chaordicsystems.com
+0.0.0.0 chargebee.com
+0.0.0.0 www.chargebee.com
 0.0.0.0 info.charityvillage.com
 0.0.0.0 s5.charliehebdo.fr
 0.0.0.0 charltonmedia.com
@@ -4880,6 +4884,7 @@
 0.0.0.0 live.alljobs.co.il
 0.0.0.0 scout.alpinetrek.co.uk
 0.0.0.0 aviary.amazon.co.jp
+0.0.0.0 rcm-uk.amazon.co.uk
 0.0.0.0 unagi.amazon.co.uk
 0.0.0.0 crta.and.co.uk
 0.0.0.0 iad.anm.co.uk
@@ -5565,6 +5570,7 @@
 0.0.0.0 pings.conviva.com
 0.0.0.0 convrse.media
 0.0.0.0 www.convrse.media
+0.0.0.0 consent.cookiefirst.com
 0.0.0.0 cookieless-data.com
 0.0.0.0 www.cookieless-data.com
 0.0.0.0 policy.cookiereports.com
@@ -5999,7 +6005,6 @@
 0.0.0.0 aem-collector.daumkakao.io
 0.0.0.0 oj.daunnotes.com
 0.0.0.0 stats.davidickedelivery.com
-0.0.0.0 davzwyavjm.com
 0.0.0.0 dawin.tv
 0.0.0.0 www.dawin.tv
 0.0.0.0 dawn3host.com
@@ -7441,6 +7446,7 @@
 0.0.0.0 falcoware.com
 0.0.0.0 www.falcoware.com
 0.0.0.0 fallaciousfifth.com
+0.0.0.0 falsenalice.com
 0.0.0.0 qb.falsenalice.com
 0.0.0.0 falsifylilac.com
 0.0.0.0 www.falsifylilac.com
@@ -10357,6 +10363,7 @@
 0.0.0.0 jerridlarded.com
 0.0.0.0 somnistats.jetblue.com
 0.0.0.0 sstat.jetsetter.com
+0.0.0.0 jetsomkhulda.com
 0.0.0.0 jewishcontentnetwork.com
 0.0.0.0 www.jewishcontentnetwork.com
 0.0.0.0 jfivafkigju.com
@@ -12142,6 +12149,7 @@
 0.0.0.0 text.mitarbeiterangebote.at
 0.0.0.0 text.mitarbeiterangebote.de
 0.0.0.0 sreport.mitsubishicars.com
+0.0.0.0 mittylargen.com
 0.0.0.0 r.browser.miui.com
 0.0.0.0 api.brs.intl.miui.com
 0.0.0.0 api.newsfeed.intl.miui.com
@@ -15339,6 +15347,7 @@
 0.0.0.0 analy.qq.com
 0.0.0.0 beacon.qq.com
 0.0.0.0 btrace.qq.com
+0.0.0.0 bugly.qq.com
 0.0.0.0 android.bugly.qq.com
 0.0.0.0 astat.bugly.qq.com
 0.0.0.0 ios.bugly.qq.com
@@ -15787,6 +15796,8 @@
 0.0.0.0 www.rentracks.jp
 0.0.0.0 renzhongjiaoyu.xyz
 0.0.0.0 www.renzhongjiaoyu.xyz
+0.0.0.0 reoreexpresi.xyz
+0.0.0.0 www.reoreexpresi.xyz
 0.0.0.0 repealamintor.com
 0.0.0.0 repeatsweater.com
 0.0.0.0 repixel.co
@@ -16119,6 +16130,8 @@
 0.0.0.0 www.rote8mino.com
 0.0.0.0 rou3.xyz
 0.0.0.0 www.rou3.xyz
+0.0.0.0 roucoutaivers.com
+0.0.0.0 www.roucoutaivers.com
 0.0.0.0 roudoduor.com
 0.0.0.0 roumucee.com
 0.0.0.0 rouonixon.com
@@ -18396,6 +18409,8 @@
 0.0.0.0 thighargu.com
 0.0.0.0 www.thighargu.com
 0.0.0.0 tracker.thinkindot.com
+0.0.0.0 thinksuggest.org
+0.0.0.0 www.thinksuggest.org
 0.0.0.0 thinktot.com
 0.0.0.0 thirawogla.com
 0.0.0.0 www.thirawogla.com
@@ -20977,6 +20992,8 @@
 0.0.0.0 code.yengo.com
 0.0.0.0 www.yengo.com
 0.0.0.0 web.info.yeppon.it
+0.0.0.0 yerto.info
+0.0.0.0 www.yerto.info
 0.0.0.0 bi.yeshen.com
 0.0.0.0 yespetor.com
 0.0.0.0 t.yesware.com
