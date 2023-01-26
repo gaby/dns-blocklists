@@ -4,10 +4,10 @@
 # Homepage: https://github.com/hagezi/dns-blocklists
 # Issues: https://github.com/hagezi/dns-blocklists/issues
 # Expires: Updated regularly
-# Last modified: 19 Jan 2023 13:47 UTC
-# Version: 2023.0119.1347.34
+# Last modified: 26 Jan 2023 09:39 UTC
+# Version: 2023.0126.0939.58
 # Syntax: DNSMasq
-# Domains: 1313
+# Domains: 1314
 #
 address=/0000a-fast-proxy.de/#
 address=/012proxy.ga/#
@@ -1175,6 +1175,7 @@ address=/usvpn.cf/#
 address=/utunnel.io/#
 address=/uvpn.me/#
 address=/vectroproxy.com/#
+address=/veepn.com/#
 address=/veripn.com/#
 address=/videounblock.com/#
 address=/videounblocker.net/#
