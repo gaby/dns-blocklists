@@ -33,11 +33,11 @@
 #### ***Multi blocklist version and size overview:***
 | Version | Hosts | Pro++ | Pro | Normal | Light | [Fake](#fake) | [TIF](#tif) | [Personal](#personal) | 
 |:--------|---:|:---:|:------:|:-----:|:----:|:---:|:------:|:----------:|
-| [Light](#light)             | 265865<br>126983     | |   |   | = | X | P | X |
-| [Normal](#normal)       | 1040684<br>365956     | |   | = | X | X | P | X |
-| [Pro](#pro)              | 1248774<br>454407         | | = | X | X | X | P | X |
-| [Pro++](#proplus)    | 1361349<br>471563 | | ++ | X | X | X | P |  X |
-| [Ultimate](#ultimate)    | 2059847<br>828975 | ++ | X | X | X | X | X |  X |
+| [Light](#light)             | 265285<br>126832     | |   |   | = | X | P | X |
+| [Normal](#normal)       | 1040679<br>365953     | |   | = | X | X | P | X |
+| [Pro](#pro)              | 1248769<br>454404         | | = | X | X | X | P | X |
+| [Pro++](#proplus)    | 1361343<br>471560 | | ++ | X | X | X | P |  X |
+| [Ultimate](#ultimate)    | 2059841<br>828972 | ++ | X | X | X | X | X |  X |
            
 *X = contains the named lists in the column header*       
 *P = partially contains the named list in the column header*       
@@ -49,7 +49,7 @@
       
 *Hand brush - Cleans the Internet and protects your privacy! Blocks Ads, Tracking, Metrics, some Malware and Fake.*
           
-**Entries:** *265865 domains/hosts - 126983 compressed domains* | [Sources/Statistics](https://github.com/hagezi/dns-blocklists/blob/main/usedsources.md#light)         
+**Entries:** *265285 domains/hosts - 126832 compressed domains* | [Sources/Statistics](https://github.com/hagezi/dns-blocklists/blob/main/usedsources.md#light)         
          
 | Format | Link | Can be used for |
 |:-------|:-----|:----------------|
@@ -64,7 +64,7 @@
       
 *Broom - Cleans the Internet and protects your privacy! Blocks Ads, Affiliate, Tracking, Metrics, Telemetry, Phishing, Malware, Scam, Fake, Coins and other "Crap".*
          
-**Entries:** *1040684 domains/hosts - 365956 compressed domains* | [Sources/Statistics](https://github.com/hagezi/dns-blocklists/blob/main/usedsources.md#multi)        
+**Entries:** *1040679 domains/hosts - 365953 compressed domains* | [Sources/Statistics](https://github.com/hagezi/dns-blocklists/blob/main/usedsources.md#multi)        
           
 | Format | Link | Can be used for |
 |:-------|:-----|:----------------|
@@ -79,7 +79,7 @@
       
 *Big broom - Cleans the Internet and protects your privacy! Blocks Ads, Affiliate, Tracking, Metrics, Telemetry, Phishing, Malware, Scam, Fake, Coins and other "Crap".*
          
-**Entries:** *1248774 domains/hosts - 454407 compressed domains* | [Sources/Statistics](https://github.com/hagezi/dns-blocklists/blob/main/usedsources.md#pro)        
+**Entries:** *1248769 domains/hosts - 454404 compressed domains* | [Sources/Statistics](https://github.com/hagezi/dns-blocklists/blob/main/usedsources.md#pro)        
            
 | Format | Link | Can be used for |
 |:-------|:-----|:----------------|
@@ -96,7 +96,7 @@
          
 *More aggressive version of the Multi PRO blocklist. It may contain few false positive domains that limit functionality. Therefore it should only be used by experienced users. Furthermore, an admin should be available to unblock incorrectly blocked domains. Reported false positive domains will be removed from the list!*
 
-**Entries:** *1361349 domains/hosts - 471563 compressed domains* | [Sources/Statistics](https://github.com/hagezi/dns-blocklists/blob/main/usedsources.md#proplus)    
+**Entries:** *1361343 domains/hosts - 471560 compressed domains* | [Sources/Statistics](https://github.com/hagezi/dns-blocklists/blob/main/usedsources.md#proplus)    
                                                 
 | Format | Link | Can be used for |
 |:-------|:-----|:----------------|
@@ -113,7 +113,7 @@
          
 *Stricter version of the Multi PRO++ blocklist. It may contain false positive domains that limit functionality. Therefore it should only be used by experienced users. Furthermore, an admin should be available to unblock incorrectly blocked domains. Reported false positive domains will be removed from the list!*
 
-**Entries:** *2059847 domains/hosts - 828975 compressed domains* | [Sources/Statistics](https://github.com/hagezi/dns-blocklists/blob/main/usedsources.md#ultimate)    
+**Entries:** *2059841 domains/hosts - 828972 compressed domains* | [Sources/Statistics](https://github.com/hagezi/dns-blocklists/blob/main/usedsources.md#ultimate)    
                                                 
 | Format | Link | Can be used for |
 |:-------|:-----|:----------------|
