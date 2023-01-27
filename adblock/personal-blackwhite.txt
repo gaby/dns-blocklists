@@ -520,8 +520,8 @@
 ! Issues: https://github.com/hagezi/dns-blocklists/issues
 ! License: https://github.com/hagezi/dns-blocklists/blob/main/LICENSE.md
 ! Expires: Updated regularly
-! Last modified: 27 Jan 2023 17:38 UTC
-! Version: 2023.0127.1738.46
+! Last modified: 27 Jan 2023 17:52 UTC
+! Version: 2023.0127.1752.56
 ! Syntax: AdBlock
 ! Domains: 12482
 !
@@ -20870,6 +20870,9 @@
 ! https://github.com/hagezi/dns-blocklists/issues/261
 @@|betanews.com^
 @@|www.betanews.com^
+
+! Finnish fibre optics ISP
+@@|asiakas.valokuitunen.fi^
 
 
 ! Title: HaGeZi's White-/Allowlist Referral for Black & White list
