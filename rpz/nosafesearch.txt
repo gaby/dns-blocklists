@@ -1,5 +1,5 @@
 $TTL 30
-@ SOA rpz.hagezi.nosafesearch. hostmaster.hagezi.nosafesearch. 1674687600 300 1800 604800 30
+@ SOA rpz.hagezi.nosafesearch. hostmaster.hagezi.nosafesearch. 1674774000 300 1800 604800 30
  NS localhost.
 ;
 ; Title: HaGeZi's safesearch not supported DNS Blocklist
@@ -7,10 +7,10 @@ $TTL 30
 ; Homepage: https://github.com/hagezi/dns-blocklists
 ; Issues: https://github.com/hagezi/dns-blocklists/issues
 ; Expires: Updated regularly
-; Last modified: 24 Jan 2023 23:17 UTC
-; Version: 2023.0124.2317.14
+; Last modified: 26 Jan 2023 23:03 UTC
+; Version: 2023.0126.2303.51
 ; Syntax: RPZ
-; Domains: 146
+; Domains: 149
 ;
 searx.32bitflo.at CNAME .
 *.searx.32bitflo.at CNAME .
@@ -48,6 +48,8 @@ dogpile.com CNAME .
 *.dogpile.com CNAME .
 searx.dojocasts.com CNAME .
 *.searx.dojocasts.com CNAME .
+results.excite.com CNAME .
+*.results.excite.com CNAME .
 gibiru.com CNAME .
 *.gibiru.com CNAME .
 gigablast.com CNAME .
@@ -76,6 +78,8 @@ oscobo.com CNAME .
 *.oscobo.com CNAME .
 peekier.com CNAME .
 *.peekier.com CNAME .
+lite.qwant.com CNAME .
+*.lite.qwant.com CNAME .
 searchencrypt.com CNAME .
 *.searchencrypt.com CNAME .
 searx.semipvt.com CNAME .
@@ -180,6 +184,8 @@ searx.ir CNAME .
 *.searx.ir CNAME .
 searx.devol.it CNAME .
 *.searx.devol.it CNAME .
+websearch.excite.co.jp CNAME .
+*.websearch.excite.co.jp CNAME .
 searx.foo.li CNAME .
 *.searx.foo.li CNAME .
 searx.nightmare.life CNAME .

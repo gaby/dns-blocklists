@@ -1,5 +1,5 @@
 $TTL 30
-@ SOA rpz.hagezi.personal. hostmaster.hagezi.personal. 1674687600 300 1800 604800 30
+@ SOA rpz.hagezi.personal. hostmaster.hagezi.personal. 1674774000 300 1800 604800 30
  NS localhost.
 ;
 ; Title: HaGeZi's Personal DNS Blocklist
@@ -8,10 +8,10 @@ $TTL 30
 ; Issues: https://github.com/hagezi/dns-blocklists/issues
 ; License: https://github.com/hagezi/dns-blocklists/blob/main/LICENSE.md
 ; Expires: Updated regularly
-; Last modified: 26 Jan 2023 14:43 UTC
-; Version: 2023.0126.1443.45
+; Last modified: 26 Jan 2023 23:50 UTC
+; Version: 2023.0126.2350.48
 ; Syntax: RPZ
-; Domains: 14830
+; Domains: 14837
 ;
 marketing.globalpointofcare.abbott CNAME .
 *.marketing.globalpointofcare.abbott CNAME .
@@ -4165,6 +4165,8 @@ adm.beimg.com CNAME .
 *.adm.beimg.com CNAME .
 beklefkiom.com CNAME .
 *.beklefkiom.com CNAME .
+belgud.com CNAME .
+*.belgud.com CNAME .
 belickitungchan.com CNAME .
 *.belickitungchan.com CNAME .
 believersheet.com CNAME .
@@ -5347,6 +5349,8 @@ collect.chaordicsystems.com CNAME .
 *.collect.chaordicsystems.com CNAME .
 events.chaordicsystems.com CNAME .
 *.events.chaordicsystems.com CNAME .
+chargebee.com CNAME .
+*.chargebee.com CNAME .
 info.charityvillage.com CNAME .
 *.info.charityvillage.com CNAME .
 charltonmedia.com CNAME .
@@ -6019,6 +6023,8 @@ cws.conviva.com CNAME .
 *.cws.conviva.com CNAME .
 pings.conviva.com CNAME .
 *.pings.conviva.com CNAME .
+consent.cookiefirst.com CNAME .
+*.consent.cookiefirst.com CNAME .
 cookieless-data.com CNAME .
 *.cookieless-data.com CNAME .
 policy.cookiereports.com CNAME .
@@ -6403,8 +6409,6 @@ oj.daunnotes.com CNAME .
 *.oj.daunnotes.com CNAME .
 stats.davidickedelivery.com CNAME .
 *.stats.davidickedelivery.com CNAME .
-davzwyavjm.com CNAME .
-*.davzwyavjm.com CNAME .
 dawn3host.com CNAME .
 *.dawn3host.com CNAME .
 dawutobliged.com CNAME .
@@ -7687,8 +7691,8 @@ falcoware.com CNAME .
 *.falcoware.com CNAME .
 fallaciousfifth.com CNAME .
 *.fallaciousfifth.com CNAME .
-qb.falsenalice.com CNAME .
-*.qb.falsenalice.com CNAME .
+falsenalice.com CNAME .
+*.falsenalice.com CNAME .
 falsifylilac.com CNAME .
 *.falsifylilac.com CNAME .
 fam-ad.com CNAME .
@@ -10393,6 +10397,8 @@ somnistats.jetblue.com CNAME .
 *.somnistats.jetblue.com CNAME .
 sstat.jetsetter.com CNAME .
 *.sstat.jetsetter.com CNAME .
+jetsomkhulda.com CNAME .
+*.jetsomkhulda.com CNAME .
 jewishcontentnetwork.com CNAME .
 *.jewishcontentnetwork.com CNAME .
 jfivafkigju.com CNAME .
@@ -12123,6 +12129,8 @@ smetrics.misumi-ec.com CNAME .
 *.smetrics.misumi-ec.com CNAME .
 sreport.mitsubishicars.com CNAME .
 *.sreport.mitsubishicars.com CNAME .
+mittylargen.com CNAME .
+*.mittylargen.com CNAME .
 r.browser.miui.com CNAME .
 *.r.browser.miui.com CNAME .
 api.brs.intl.miui.com CNAME .
@@ -14739,12 +14747,8 @@ beacon.qq.com CNAME .
 *.beacon.qq.com CNAME .
 btrace.qq.com CNAME .
 *.btrace.qq.com CNAME .
-android.bugly.qq.com CNAME .
-*.android.bugly.qq.com CNAME .
-astat.bugly.qq.com CNAME .
-*.astat.bugly.qq.com CNAME .
-ios.bugly.qq.com CNAME .
-*.ios.bugly.qq.com CNAME .
+bugly.qq.com CNAME .
+*.bugly.qq.com CNAME .
 e.qq.com CNAME .
 *.e.qq.com CNAME .
 gdt.qq.com CNAME .
@@ -15471,6 +15475,8 @@ rotate5url.com CNAME .
 *.rotate5url.com CNAME .
 rote8mino.com CNAME .
 *.rote8mino.com CNAME .
+roucoutaivers.com CNAME .
+*.roucoutaivers.com CNAME .
 roudoduor.com CNAME .
 *.roudoduor.com CNAME .
 roumucee.com CNAME .
@@ -22087,6 +22093,8 @@ willalland.info CNAME .
 *.willalland.info CNAME .
 wowreality.info CNAME .
 *.wowreality.info CNAME .
+yerto.info CNAME .
+*.yerto.info CNAME .
 ysuchtjhwasp.info CNAME .
 *.ysuchtjhwasp.info CNAME .
 s.0cf.io CNAME .
@@ -26881,6 +26889,8 @@ engage.td.org CNAME .
 *.engage.td.org CNAME .
 info.theaba.org CNAME .
 *.info.theaba.org CNAME .
+thinksuggest.org CNAME .
+*.thinksuggest.org CNAME .
 nexus.ensighten.tiaa.org CNAME .
 *.nexus.ensighten.tiaa.org CNAME .
 smetrics.tiaa.org CNAME .
@@ -28475,6 +28485,8 @@ web.e.aldermore.co.uk CNAME .
 *.web.e.aldermore.co.uk CNAME .
 scout.alpinetrek.co.uk CNAME .
 *.scout.alpinetrek.co.uk CNAME .
+rcm-uk.amazon.co.uk CNAME .
+*.rcm-uk.amazon.co.uk CNAME .
 unagi.amazon.co.uk CNAME .
 *.unagi.amazon.co.uk CNAME .
 crta.and.co.uk CNAME .
@@ -29507,6 +29519,8 @@ rebunb.xyz CNAME .
 *.rebunb.xyz CNAME .
 renzhongjiaoyu.xyz CNAME .
 *.renzhongjiaoyu.xyz CNAME .
+reoreexpresi.xyz CNAME .
+*.reoreexpresi.xyz CNAME .
 rexadvert.xyz CNAME .
 *.rexadvert.xyz CNAME .
 ricewaterhou.xyz CNAME .
