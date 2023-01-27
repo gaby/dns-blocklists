@@ -1861,6 +1861,8 @@ t.9gag.com CNAME .
 *.t.9gag.com CNAME .
 ywrcqa.9news.com CNAME .
 *.ywrcqa.9news.com CNAME .
+cdn.9to5terminal.com CNAME .
+*.cdn.9to5terminal.com CNAME .
 9v58v.com CNAME .
 *.9v58v.com CNAME .
 9xob25oszs.com CNAME .
@@ -16055,8 +16057,12 @@ sessioncam.com CNAME .
 *.sessioncam.com CNAME .
 sessionstack.com CNAME .
 *.sessionstack.com CNAME .
+hg-statsd.setapp.com CNAME .
+*.hg-statsd.setapp.com CNAME .
 mtga.setapp.com CNAME .
 *.mtga.setapp.com CNAME .
+stats.setapp.com CNAME .
+*.stats.setapp.com CNAME .
 setnessalgy.com CNAME .
 *.setnessalgy.com CNAME .
 cloud.setupad.com CNAME .
@@ -22731,8 +22737,14 @@ segmetrics.io CNAME .
 *.segmetrics.io CNAME .
 usage.seibert-media.io CNAME .
 *.usage.seibert-media.io CNAME .
-sentry.io CNAME .
-*.sentry.io CNAME .
+ingest.sentry.io CNAME .
+*.ingest.sentry.io CNAME .
+insecure.sentry.io CNAME .
+*.insecure.sentry.io CNAME .
+my.sentry.io CNAME .
+*.my.sentry.io CNAME .
+status.sentry.io CNAME .
+*.status.sentry.io CNAME .
 seoab.io CNAME .
 *.seoab.io CNAME .
 seon.io CNAME .
@@ -23407,6 +23419,8 @@ analytics.cdn.live CNAME .
 *.analytics.cdn.live CNAME .
 chethgentman.live CNAME .
 *.chethgentman.live CNAME .
+claimcoderz.live CNAME .
+*.claimcoderz.live CNAME .
 contextads.live CNAME .
 *.contextads.live CNAME .
 ganalytics.live CNAME .
@@ -26677,6 +26691,8 @@ fctms.fidelitycharitable.org CNAME .
 *.fctms.fidelitycharitable.org CNAME .
 finnan2you.org CNAME .
 *.finnan2you.org CNAME .
+fundanemt.org CNAME .
+*.fundanemt.org CNAME .
 fxclub.org CNAME .
 *.fxclub.org CNAME .
 cdnads.geeksforgeeks.org CNAME .
@@ -26951,8 +26967,6 @@ wheredoyoucomefrom.ovh CNAME .
 *.wheredoyoucomefrom.ovh CNAME .
 id.google.com.pa CNAME .
 *.id.google.com.pa CNAME .
-instant.page CNAME .
-*.instant.page CNAME .
 smetrics.bbva.pe CNAME .
 *.smetrics.bbva.pe CNAME .
 sadobe.falabella.com.pe CNAME .
