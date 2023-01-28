@@ -2463,3 +2463,16 @@
 ! consent.yahoo.com
 @@|consent.yahoo.com^
 
+! https://github.com/hagezi/dns-blocklists/issues/265
+@@|embed.ly^
+@@|www.embed.ly^
+
+! https://github.com/hagezi/dns-blocklists/issues/266
+@@|api-secure.solvemedia.com^
+
+! https://github.com/hagezi/dns-blocklists/issues/267
+@@|check.ddos-guard.net^
+
+! https://github.com/hagezi/dns-blocklists/issues/268
+@@||pdcdn1.top^
+
