@@ -520,8 +520,8 @@
 ! Issues: https://github.com/hagezi/dns-blocklists/issues
 ! License: https://github.com/hagezi/dns-blocklists/blob/main/LICENSE.md
 ! Expires: Updated regularly
-! Last modified: 27 Jan 2023 23:58 UTC
-! Version: 2023.0127.2358.45
+! Last modified: 28 Jan 2023 04:33 UTC
+! Version: 2023.0128.0433.32
 ! Syntax: AdBlock
 ! Domains: 12507
 !
@@ -20903,6 +20903,9 @@
 
 ! Contabo Object Storage
 @@||contabostorage.com^
+
+! consent.yahoo.com
+@@|consent.yahoo.com^
 
 
 ! Title: HaGeZi's White-/Allowlist Referral for Black & White list
