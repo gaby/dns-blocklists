@@ -1,5 +1,5 @@
 $TTL 30
-@ SOA rpz.hagezi.fake. hostmaster.hagezi.fake. 1674774000 300 1800 604800 30
+@ SOA rpz.hagezi.fake. hostmaster.hagezi.fake. 1674860400 300 1800 604800 30
  NS localhost.
 ;
 ; Title: HaGeZi's Fake DNS Blocklist
@@ -8,10 +8,10 @@ $TTL 30
 ; Issues: https://github.com/hagezi/dns-blocklists/issues
 ; License: https://github.com/hagezi/dns-blocklists/blob/main/LICENSE.md
 ; Expires: Updated regularly
-; Last modified: 26 Jan 2023 13:27 UTC
-; Version: 2023.0126.1327.06
+; Last modified: 27 Jan 2023 23:17 UTC
+; Version: 2023.0127.2317.27
 ; Syntax: RPZ
-; Domains: 5412
+; Domains: 5411
 ;
 1euro.at CNAME .
 *.1euro.at CNAME .
@@ -4081,8 +4081,6 @@ nohrak.com CNAME .
 *.nohrak.com CNAME .
 nordischesdesign.com CNAME .
 *.nordischesdesign.com CNAME .
-nordvian.com CNAME .
-*.nordvian.com CNAME .
 norfolkhotels24.com CNAME .
 *.norfolkhotels24.com CNAME .
 normado.com CNAME .
