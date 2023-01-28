@@ -1,5 +1,5 @@
 $TTL 30
-@ SOA rpz.hagezi.fake. hostmaster.hagezi.fake. 1674860400 300 1800 604800 30
+@ SOA rpz.hagezi.fake. hostmaster.hagezi.fake. 1674946800 300 1800 604800 30
  NS localhost.
 ;
 ; Title: HaGeZi's Fake DNS Blocklist
@@ -8,10 +8,10 @@ $TTL 30
 ; Issues: https://github.com/hagezi/dns-blocklists/issues
 ; License: https://github.com/hagezi/dns-blocklists/blob/main/LICENSE.md
 ; Expires: Updated regularly
-; Last modified: 27 Jan 2023 23:17 UTC
-; Version: 2023.0127.2317.27
+; Last modified: 28 Jan 2023 23:20 UTC
+; Version: 2023.0128.2320.54
 ; Syntax: RPZ
-; Domains: 5411
+; Domains: 5421
 ;
 1euro.at CNAME .
 *.1euro.at CNAME .
@@ -379,6 +379,8 @@ georgie.at CNAME .
 *.georgie.at CNAME .
 geschenkzone.at CNAME .
 *.geschenkzone.at CNAME .
+gewerbe-datenanzeiger.at CNAME .
+*.gewerbe-datenanzeiger.at CNAME .
 gh-stadtwald.at CNAME .
 *.gh-stadtwald.at CNAME .
 golawien.at CNAME .
@@ -1533,6 +1535,8 @@ besttoolkits.com CNAME .
 *.besttoolkits.com CNAME .
 beta-re.com CNAME .
 *.beta-re.com CNAME .
+betrugsdezernat.com CNAME .
+*.betrugsdezernat.com CNAME .
 bettyshops.com CNAME .
 *.bettyshops.com CNAME .
 bewaremarts.com CNAME .
@@ -1579,12 +1583,12 @@ blue-immo.com CNAME .
 *.blue-immo.com CNAME .
 bluefanc.com CNAME .
 *.bluefanc.com CNAME .
-bluemuli.com CNAME .
-*.bluemuli.com CNAME .
 blumestar.com CNAME .
 *.blumestar.com CNAME .
 blushysilk.com CNAME .
 *.blushysilk.com CNAME .
+blvcks.com CNAME .
+*.blvcks.com CNAME .
 bobbyananta.com CNAME .
 *.bobbyananta.com CNAME .
 bocarora.com CNAME .
@@ -1857,6 +1861,8 @@ cinire.com CNAME .
 *.cinire.com CNAME .
 cintok.com CNAME .
 *.cintok.com CNAME .
+ck-trans.com CNAME .
+*.ck-trans.com CNAME .
 cklinen.com CNAME .
 *.cklinen.com CNAME .
 clara-holz.com CNAME .
@@ -2651,6 +2657,8 @@ game-stopdeutschland.com CNAME .
 *.game-stopdeutschland.com CNAME .
 gamebasic-de.com CNAME .
 *.gamebasic-de.com CNAME .
+gamesstudionuernberg.com CNAME .
+*.gamesstudionuernberg.com CNAME .
 gamestopshopde.com CNAME .
 *.gamestopshopde.com CNAME .
 gametimejerseys.com CNAME .
@@ -2675,6 +2683,8 @@ gdetivtope.com CNAME .
 *.gdetivtope.com CNAME .
 gecycles.com CNAME .
 *.gecycles.com CNAME .
+gedanusa.com CNAME .
+*.gedanusa.com CNAME .
 geertvanharen.com CNAME .
 *.geertvanharen.com CNAME .
 generica-farmacia24.com CNAME .
@@ -2981,8 +2991,6 @@ hotdates18.com CNAME .
 *.hotdates18.com CNAME .
 hotels-colombo.com CNAME .
 *.hotels-colombo.com CNAME .
-hotels-in-tyrol.com CNAME .
-*.hotels-in-tyrol.com CNAME .
 hotelsofmenorca.com CNAME .
 *.hotelsofmenorca.com CNAME .
 hotideabuy.com CNAME .
@@ -4249,8 +4257,6 @@ peachsodas.com CNAME .
 *.peachsodas.com CNAME .
 pebasic.com CNAME .
 *.pebasic.com CNAME .
-peekachill.com CNAME .
-*.peekachill.com CNAME .
 peiaoa.com CNAME .
 *.peiaoa.com CNAME .
 pellet-holz.com CNAME .
@@ -4469,6 +4475,8 @@ radteamtrikots.com CNAME .
 *.radteamtrikots.com CNAME .
 radyo-muzik.com CNAME .
 *.radyo-muzik.com CNAME .
+rafells.com CNAME .
+*.rafells.com CNAME .
 raidntrail.com CNAME .
 *.raidntrail.com CNAME .
 rainbeating.com CNAME .
@@ -4695,6 +4703,8 @@ saritapiotrowski.com CNAME .
 *.saritapiotrowski.com CNAME .
 sarvamits.com CNAME .
 *.sarvamits.com CNAME .
+saturn-markt.com CNAME .
+*.saturn-markt.com CNAME .
 sauconydeutschland.com CNAME .
 *.sauconydeutschland.com CNAME .
 sauconylaufschuhe.com CNAME .
@@ -5379,6 +5389,8 @@ uniqdsn.com CNAME .
 *.uniqdsn.com CNAME .
 unity-real.com CNAME .
 *.unity-real.com CNAME .
+univerheizung.com CNAME .
+*.univerheizung.com CNAME .
 universalbundle.com CNAME .
 *.universalbundle.com CNAME .
 untilya.com CNAME .
@@ -7575,6 +7587,8 @@ juergen-runge.de CNAME .
 *.juergen-runge.de CNAME .
 justvanilla.de CNAME .
 *.justvanilla.de CNAME .
+kadiwo.de CNAME .
+*.kadiwo.de CNAME .
 kadonimo.de CNAME .
 *.kadonimo.de CNAME .
 kaffee-verliebt.de CNAME .
@@ -9489,6 +9503,8 @@ woodoclock.de CNAME .
 *.woodoclock.de CNAME .
 woopy-bikes.de CNAME .
 *.woopy-bikes.de CNAME .
+workclothesique.de CNAME .
+*.workclothesique.de CNAME .
 wotena.de CNAME .
 *.wotena.de CNAME .
 wotoba.de CNAME .
@@ -10137,6 +10153,8 @@ autoteilepreisvergleich.org CNAME .
 *.autoteilepreisvergleich.org CNAME .
 ayahayfoundation.org CNAME .
 *.ayahayfoundation.org CNAME .
+betrugsdezernat.org CNAME .
+*.betrugsdezernat.org CNAME .
 bittpayoptions.org CNAME .
 *.bittpayoptions.org CNAME .
 bottic.org CNAME .
@@ -10505,6 +10523,8 @@ hovko.store CNAME .
 *.hovko.store CNAME .
 likesell.store CNAME .
 *.likesell.store CNAME .
+media-world.store CNAME .
+*.media-world.store CNAME .
 medimaxdeutschland.store CNAME .
 *.medimaxdeutschland.store CNAME .
 megahood.store CNAME .
