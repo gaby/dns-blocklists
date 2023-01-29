@@ -2471,9 +2471,13 @@
 @@||contabostorage.com^
 
 ! Yahoo App/Mail
+! https://github.com/hagezi/dns-blocklists/issues/269
 @@|consent.yahoo.com^
+@@|geo.yahoo.com^
 @@|guce.oath.com^
 @@|m.yap.yahoo.com^
+@@|pr.comet.yahoo.com^
+@@|udc.yahoo.com^
 @@|udcm.yahoo.com^
 
 ! https://github.com/hagezi/dns-blocklists/issues/265
@@ -2498,4 +2502,14 @@
 
 ! Justwatch - pick a country a movie/show
 @@|click.justwatch.com^
+
+! https://github.com/hagezi/dns-blocklists/issues/270
+@@|data.tmsapi.com^
+@@|td-mashery-tm-use1.mashery.com^
+@@|td-tms.mashery.com^
+@@|tms.api.mashery.com^
+
+! https://github.com/hagezi/dns-blocklists/issues/271
+@@|captive.roku.com^
+@@|d1k85ogl73rd7b.cloudfront.net^
 
