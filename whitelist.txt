@@ -235,6 +235,7 @@ beacon.*.c-msedge.net
 continuum.dds.microsoft.com
 cs.dds.microsoft.com
 fp.msedge.net
+fpt.live.com
 g-msn-com-nsatc.trafficmanager.net
 g.live.com
 g.msn.com
@@ -246,6 +247,7 @@ insideruser.microsoft.com
 insideruser.trafficmanager.net
 js.monitor.azure.com
 login.microsoftonline.com
+nexus.live.com
 onecollector.cloudapp.aria.akadns.net
 onedscolprd*.cloudapp.azure.com
 settings-prod-*.cloudapp.azure.com
@@ -2281,4 +2283,12 @@ apollopushserver.xyz
 
 # https://github.com/hagezi/dns-blocklists/issues/272
 code.createjs.com
+
+# SmartThings - https://github.com/hagezi/dns-blocklists/issues/273
+api.st-av.net
+uimetadata.samsungiotcloud.com
+*.mcsvc.samsung.com
+
+# Discord Server List
+discords.com
 
