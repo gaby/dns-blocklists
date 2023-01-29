@@ -4,10 +4,10 @@
 # Issues: https://github.com/hagezi/dns-blocklists/issues
 # License: https://github.com/hagezi/dns-blocklists/blob/main/LICENSE.md
 # Expires: Updated regularly
-# Last modified: 27 Jan 2023 23:57 UTC
-# Version: 2023.0127.2357.34
+# Last modified: 29 Jan 2023 00:01 UTC
+# Version: 2023.0129.0001.53
 # Syntax: Hosts
-# Domains: 21450
+# Domains: 21505
 #
 0.0.0.0 00px.net
 0.0.0.0 021jf.com
@@ -92,6 +92,8 @@
 0.0.0.0 odc.1und1.de
 0.0.0.0 pixel.1und1.de
 0.0.0.0 t.1und1.de
+0.0.0.0 200088d4e2.com
+0.0.0.0 www.200088d4e2.com
 0.0.0.0 2020mustang.com
 0.0.0.0 www.2020mustang.com
 0.0.0.0 2022welcome.com
@@ -854,6 +856,7 @@
 0.0.0.0 api.adfly.vn
 0.0.0.0 www.adfly.vn
 0.0.0.0 xml.adflyer.media
+0.0.0.0 xml-v4.adflyer.media
 0.0.0.0 adforgames.com
 0.0.0.0 www.adforgames.com
 0.0.0.0 adform.com
@@ -1657,6 +1660,7 @@
 0.0.0.0 xml.adzestocp.com
 0.0.0.0 adzgame.com
 0.0.0.0 rtb-eu.adzgame.com
+0.0.0.0 rtb-uswest.adzgame.com
 0.0.0.0 sub.adzgame.com
 0.0.0.0 www.adzgame.com
 0.0.0.0 xml.adzgame.com
@@ -1998,6 +2002,7 @@
 0.0.0.0 alikeaddition.com
 0.0.0.0 alimama.com
 0.0.0.0 www.alimama.com
+0.0.0.0 tr.news.alinea.com
 0.0.0.0 collect.alipay.com
 0.0.0.0 aliveachiever.com
 0.0.0.0 beacon-api.aliyuncs.com
@@ -2349,6 +2354,7 @@
 0.0.0.0 aphition.com
 0.0.0.0 2893.aphition.com
 0.0.0.0 www.aphition.com
+0.0.0.0 collector.api.video
 0.0.0.0 s.api.no
 0.0.0.0 api64.com
 0.0.0.0 www.api64.com
@@ -3136,6 +3142,8 @@
 0.0.0.0 trck.bdi-services.de
 0.0.0.0 ecma.bdimg.com
 0.0.0.0 ecmb.bdimg.com
+0.0.0.0 bdrbmfnxuhcdaxp.com
+0.0.0.0 www.bdrbmfnxuhcdaxp.com
 0.0.0.0 sofire.bdstatic.com
 0.0.0.0 zz.bdstatic.com
 0.0.0.0 dig.bdurl.net
@@ -3340,6 +3348,8 @@
 0.0.0.0 bhabhiporn.pro
 0.0.0.0 asg.bhabhiporn.pro
 0.0.0.0 www.bhabhiporn.pro
+0.0.0.0 bharalhallahs.com
+0.0.0.0 www.bharalhallahs.com
 0.0.0.0 bhcont.com
 0.0.0.0 www.bhcont.com
 0.0.0.0 ensighten.bhphoto.com
@@ -3735,6 +3745,8 @@
 0.0.0.0 botndm.nl
 0.0.0.0 bottlerobust.com
 0.0.0.0 www.bottlerobust.com
+0.0.0.0 bouhaisaufy.com
+0.0.0.0 www.bouhaisaufy.com
 0.0.0.0 tag.boulanger.fr
 0.0.0.0 bounceads.net
 0.0.0.0 www.bounceads.net
@@ -4055,6 +4067,8 @@
 0.0.0.0 c1exchange.com
 0.0.0.0 www.c1exchange.com
 0.0.0.0 c212.net
+0.0.0.0 c212a79d53.com
+0.0.0.0 www.c212a79d53.com
 0.0.0.0 smetrics.c2fo.com
 0.0.0.0 c3tag.com
 0.0.0.0 www.c3tag.com
@@ -5234,6 +5248,7 @@
 0.0.0.0 smetrics.bbvanet.com.co
 0.0.0.0 smetrics.bbvanet.com.mx
 0.0.0.0 berthformttet.com.ua
+0.0.0.0 metrics.bestrecipes.com.au
 0.0.0.0 breaktime.com.tw
 0.0.0.0 btg360.com.br
 0.0.0.0 admsapi.businessweekly.com.tw
@@ -6272,6 +6287,8 @@
 0.0.0.0 www.dfnetwork.link
 0.0.0.0 shzzzz.dftoutiao.com
 0.0.0.0 info.dgq.de
+0.0.0.0 dgqlwqedzowhqb.com
+0.0.0.0 www.dgqlwqedzowhqb.com
 0.0.0.0 dgxmvglp.com
 0.0.0.0 www.dgxmvglp.com
 0.0.0.0 ltecrf.dhgate.com
@@ -6776,6 +6793,8 @@
 0.0.0.0 track.eadv.it
 0.0.0.0 www.eadv.it
 0.0.0.0 absinfo.eagle.org
+0.0.0.0 eaglid.com
+0.0.0.0 www.eaglid.com
 0.0.0.0 h5.eagllwin.com
 0.0.0.0 eargentssep.one
 0.0.0.0 early-birds.io
@@ -6959,6 +6978,8 @@
 0.0.0.0 detnmz.ehow.com
 0.0.0.0 logger.eigene.io
 0.0.0.0 receiver.eigene.io
+0.0.0.0 eighthwaspish.com
+0.0.0.0 www.eighthwaspish.com
 0.0.0.0 dcclaa.einfachbacken.de
 0.0.0.0 tracker.einfachbacken.de
 0.0.0.0 eisys-bcs.jp
@@ -7479,6 +7500,8 @@
 0.0.0.0 om.familysearch.org
 0.0.0.0 trx3.famousfix.com
 0.0.0.0 smetrics.famousfootwear.com
+0.0.0.0 fanagentmu.pics
+0.0.0.0 www.fanagentmu.pics
 0.0.0.0 ab.fanatical.com
 0.0.0.0 ef.fanatical.com
 0.0.0.0 fancyactivity.com
@@ -7644,7 +7667,9 @@
 0.0.0.0 www.fiksu.com
 0.0.0.0 file-subiz.com
 0.0.0.0 www.file-subiz.com
+0.0.0.0 file3size.com
 0.0.0.0 secure.file3size.com
+0.0.0.0 www.file3size.com
 0.0.0.0 smetrics.filemaker.com
 0.0.0.0 tracking-widget.fillr.com
 0.0.0.0 finad.de
@@ -8738,6 +8763,7 @@
 0.0.0.0 stats.grafana.org
 0.0.0.0 grafthivecrocus.cam
 0.0.0.0 www.grafthivecrocus.cam
+0.0.0.0 ablink.mail.grailed.com
 0.0.0.0 smetrics.grainger.com
 0.0.0.0 grairsoa.com
 0.0.0.0 grairtoorgey.com
@@ -8967,6 +8993,8 @@
 0.0.0.0 as1.m.hao123.com
 0.0.0.0 happeningdeliverancenorth.com
 0.0.0.0 www.happeningdeliverancenorth.com
+0.0.0.0 happi.cyou
+0.0.0.0 www.happi.cyou
 0.0.0.0 metrics.happycolor.app
 0.0.0.0 widget.happyfoxchat.com
 0.0.0.0 hapyak.com
@@ -9552,6 +9580,8 @@
 0.0.0.0 hwpnocpctu.com
 0.0.0.0 hxgqqxopf.com
 0.0.0.0 www.hxgqqxopf.com
+0.0.0.0 hxlvqndylyoi.xyz
+0.0.0.0 www.hxlvqndylyoi.xyz
 0.0.0.0 hxoewq.com
 0.0.0.0 so8.hyatt.com
 0.0.0.0 hybrid.ai
@@ -9864,6 +9894,7 @@
 0.0.0.0 www.infoprodata.com
 0.0.0.0 zgody.infor.pl
 0.0.0.0 analytics.inform.com
+0.0.0.0 smetrics.maritimeintelligence.informa.com
 0.0.0.0 smetrics.pharmaintelligence.informa.com
 0.0.0.0 trk.informaconnect.com
 0.0.0.0 widgets.informars.com
@@ -10195,6 +10226,7 @@
 0.0.0.0 iqoption.com
 0.0.0.0 www.iqoption.com
 0.0.0.0 response.iqpc.com
+0.0.0.0 eloquatracking.iqvia.com
 0.0.0.0 iqyqqfduxeql.com
 0.0.0.0 www.iqyqqfduxeql.com
 0.0.0.0 iqzone.com
@@ -10937,6 +10969,8 @@
 0.0.0.0 lagettomurein.com
 0.0.0.0 laggerozonid.website
 0.0.0.0 lainaumi.com
+0.0.0.0 laiwhost.net
+0.0.0.0 www.laiwhost.net
 0.0.0.0 smetrics.lakeshorelearning.com
 0.0.0.0 smetrics.lakeside.com
 0.0.0.0 laluvygy.com
@@ -11531,6 +11565,7 @@
 0.0.0.0 www.madcpms.com
 0.0.0.0 madinad.com
 0.0.0.0 www.madinad.com
+0.0.0.0 partners.madisonminutes.com
 0.0.0.0 madkudu.com
 0.0.0.0 www.madkudu.com
 0.0.0.0 madriyelowd.com
@@ -12177,9 +12212,7 @@
 0.0.0.0 news.mirtesen.ru
 0.0.0.0 misear.com
 0.0.0.0 www.misear.com
-0.0.0.0 missav.com
 0.0.0.0 creative.live.missav.com
-0.0.0.0 www.missav.com
 0.0.0.0 missena.io
 0.0.0.0 ad.missena.io
 0.0.0.0 mistletoeethicleak.com
@@ -12281,6 +12314,7 @@
 0.0.0.0 xml-v4.mobifly.net
 0.0.0.0 a.mobify.com
 0.0.0.0 cqishr.mobile.de
+0.0.0.0 marketing.mobile.org
 0.0.0.0 mobilead.vn
 0.0.0.0 adsmetadata.mobileadexchange.net
 0.0.0.0 mobileadvertise.de
@@ -13449,6 +13483,8 @@
 0.0.0.0 0.oldgyhogola.com
 0.0.0.0 www.oldgyhogola.com
 0.0.0.0 tracking.oldnational.com
+0.0.0.0 oleariaalgenib.com
+0.0.0.0 www.oleariaalgenib.com
 0.0.0.0 t.olemisssports.com
 0.0.0.0 olgknseruf.com
 0.0.0.0 olivefail.com
@@ -14466,6 +14502,8 @@
 0.0.0.0 www.pntrs.com
 0.0.0.0 poatoursiign.xyz
 0.0.0.0 www.poatoursiign.xyz
+0.0.0.0 poavoabe.net
+0.0.0.0 www.poavoabe.net
 0.0.0.0 pocketads.pl
 0.0.0.0 pocketfaucet.com
 0.0.0.0 pocli.click
@@ -14618,6 +14656,8 @@
 0.0.0.0 trek.powtoon.com
 0.0.0.0 ppcnt.org
 0.0.0.0 ppcnt.pro
+0.0.0.0 ppltxv.xyz
+0.0.0.0 www.ppltxv.xyz
 0.0.0.0 ppro.de
 0.0.0.0 pqszpa.com
 0.0.0.0 practicbog.com
@@ -14804,6 +14844,8 @@
 0.0.0.0 propu.sh
 0.0.0.0 www.propu.sh
 0.0.0.0 prosboshas.com
+0.0.0.0 prosperent.com
+0.0.0.0 www.prosperent.com
 0.0.0.0 prosthong.com
 0.0.0.0 www.prosthong.com
 0.0.0.0 protagcdn.com
@@ -16215,6 +16257,7 @@
 0.0.0.0 rtb-eu.rtbadzesto.com
 0.0.0.0 rtb-useast.rtbadzesto.com
 0.0.0.0 www.rtbadzesto.com
+0.0.0.0 inventory-useast.rtbanalytica.com
 0.0.0.0 rtbanalytics.com
 0.0.0.0 www.rtbanalytics.com
 0.0.0.0 rtbbnr.com
@@ -16403,6 +16446,8 @@
 0.0.0.0 smetrics.salliemae.com
 0.0.0.0 smetrics.salomon.com
 0.0.0.0 salsify-ecdn.com
+0.0.0.0 salutationcheerlessdemote.com
+0.0.0.0 www.salutationcheerlessdemote.com
 0.0.0.0 salwaysesureto.info
 0.0.0.0 samaniclucked.com
 0.0.0.0 aa.samaniclucked.com
@@ -16707,6 +16752,8 @@
 0.0.0.0 mango.seloger.com
 0.0.0.0 selornews.com
 0.0.0.0 www.selornews.com
+0.0.0.0 selsattherean.xyz
+0.0.0.0 www.selsattherean.xyz
 0.0.0.0 semantiqo.com
 0.0.0.0 semasio.net
 0.0.0.0 www.semasio.net
@@ -17266,6 +17313,8 @@
 0.0.0.0 analytics-pro.smartvel.com
 0.0.0.0 smartyads.com
 0.0.0.0 www.smartyads.com
+0.0.0.0 smartzonessva.com
+0.0.0.0 www.smartzonessva.com
 0.0.0.0 smashquartz.com
 0.0.0.0 smashsurprise.com
 0.0.0.0 smct.co
@@ -17993,6 +18042,8 @@
 0.0.0.0 tk.svsound.com
 0.0.0.0 analytics.svt.se
 0.0.0.0 svtrd.com
+0.0.0.0 swallowaccidentdrip.com
+0.0.0.0 www.swallowaccidentdrip.com
 0.0.0.0 swamissou.com
 0.0.0.0 swaptrap.live
 0.0.0.0 track.swaptrap.live
@@ -18377,6 +18428,7 @@
 0.0.0.0 theadx.com
 0.0.0.0 www.theadx.com
 0.0.0.0 theardent.group
+0.0.0.0 cpm.theardent.group
 0.0.0.0 www.theardent.group
 0.0.0.0 track.thebase.in
 0.0.0.0 smetrics.thebay.com
@@ -19979,6 +20031,7 @@
 0.0.0.0 marketing.visitdenver.com
 0.0.0.0 tracking.visitdubai.com
 0.0.0.0 marketing.visitgreaterpalmsprings.com
+0.0.0.0 marketing.visitindy.com
 0.0.0.0 marketing.visitloscabos.travel
 0.0.0.0 marketing.visitmilwaukee.org
 0.0.0.0 marketing.visitmusiccity.com
@@ -20281,6 +20334,8 @@
 0.0.0.0 www.wbidder2.com
 0.0.0.0 wboptim.online
 0.0.0.0 www.wboptim.online
+0.0.0.0 wbqosw.xyz
+0.0.0.0 www.wbqosw.xyz
 0.0.0.0 wbtrk.net
 0.0.0.0 www.wbtrk.net
 0.0.0.0 wcfbc.net
@@ -21187,6 +21242,8 @@
 0.0.0.0 www.youvisit.com
 0.0.0.0 yovoads.com
 0.0.0.0 www.yovoads.com
+0.0.0.0 yovqnwnmpzz.com
+0.0.0.0 www.yovqnwnmpzz.com
 0.0.0.0 logger.yp.ca
 0.0.0.0 ypvrnyovntabcfp.xyz
 0.0.0.0 yqgpic.xyz
