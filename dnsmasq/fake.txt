@@ -4,8 +4,8 @@
 # Issues: https://github.com/hagezi/dns-blocklists/issues
 # License: https://github.com/hagezi/dns-blocklists/blob/main/LICENSE.md
 # Expires: Updated regularly
-# Last modified: 28 Jan 2023 23:20 UTC
-# Version: 2023.0128.2320.54
+# Last modified: 29 Jan 2023 23:16 UTC
+# Version: 2023.0129.2316.55
 # Syntax: DNSMasq
 # Domains: 5421
 #
@@ -3530,6 +3530,7 @@ address=/shop.nordic-electronics.de/#
 address=/nordiccoastgames.de/#
 address=/nordischesdesign.com/#
 address=/nordsee-hooksiel.de/#
+address=/nordvian.com/#
 address=/norfolkhotels24.com/#
 address=/normado.com/#
 address=/normandy-omaha.fr/#
@@ -4684,7 +4685,6 @@ address=/technikschaefer.de/#
 address=/techno-max.de/#
 address=/techno-x.de/#
 address=/techswap.de/#
-address=/tedex.co/#
 address=/teichmann-fashion.de/#
 address=/tekhnostore.com/#
 address=/tekonta.de/#
