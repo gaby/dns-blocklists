@@ -2477,10 +2477,12 @@
 @@|consent.yahoo.com^
 @@|geo.yahoo.com^
 @@|guce.oath.com^
-@@|m.yap.yahoo.com^
 @@|pr.comet.yahoo.com^
 @@|udc.yahoo.com^
 @@|udcm.yahoo.com^
+
+! Yahoo Finance App -  no News are shown
+@@|m.yap.yahoo.com^
 
 ! https://github.com/hagezi/dns-blocklists/issues/265
 @@|embed.ly^
@@ -2545,4 +2547,7 @@
 
 ! Typeform
 @@|embed.typeform.com^
+
+! G5 Games - World of Adventures - Login and Accountsynchronisation
+@@|api.pgpl.g5e.com^
 
