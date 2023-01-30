@@ -7,8 +7,8 @@
 ! Issues: https://github.com/hagezi/dns-blocklists/issues
 ! License: https://github.com/hagezi/dns-blocklists/blob/main/LICENSE.md
 ! Expires: Updated regularly
-! Last modified: 22 Jan 2023 19:42 UTC
-! Version: 2023.0122.1942.34
+! Last modified: 30 Jan 2023 14:56 UTC
+! Version: 2023.0130.1456.11
 ! Syntax: AdGuard
 !
 |*.agency^$denyallow=battlefield.agency|shortcut.agency
@@ -23,7 +23,6 @@
 |*.ga^$denyallow=google.ga|filtri-dns.ga|dgdi.ga|9191.ga|animevsub.ga
 |*.gdn^
 |*.gq^$denyallow=inege.gq|tvgelive.gq
-|*.live^
 |*.loan^
 |*.loans^
 |*.ml^$denyallow=amap.ml|beatbump.ml|biblioreads.ml|google.ml|info-matin.ml|lemmy.ml|lingva.ml|mastodon.ml|melody.ml|nothingprivate.ml|prompt.ml
@@ -34,7 +33,7 @@
 |*.quest^$denyallow=0x00.quest|prednisonetab.quest
 |*.rest^
 |*.sbs^
-|*.site^$denyallow=anitube.site|blocklist.site|business.site|cdmstudy.site|fitgirl-repacks.site|fmoviesto.site|metrolagu.site|notube.site|secreto.site|wuxiaworld.site
+|*.site^$denyallow=anitube.site|blocklist.site|business.site|cdmstudy.site|first-party.site|fitgirl-repacks.site|fmoviesto.site|metrolagu.site|notube.site|secreto.site|good.third-party.site|wuxiaworld.site
 |*.surf^$denyallow=kayaking.surf|quran.surf|s-wings.surf|surfstation.surf
 |*.tk^$denyallow=bstweaker.tk|budterence.tk|c0d3c.tk|coolcmd.tk|coppersurfer.tk|fakaofo.tk|google.tk|goshujin.tk|gotofap.tk|graph.tk|loljp-wiki.tk|nbd-media.tk|ninetail.tk|nolfrevival.tk|tokelau-info.tk|transportnews.tk
 |*.top^$denyallow=caitlin.top|corriente.top|gdtot.top|nicenature.top|reminder.top|magocoro.top|castlevania.top|suiten.top|shucks.top|1stream.top|ambr.top|techblog.top|changlam10.top|changlam11.top|pdcdn1.top|mastodon.top|pressplay.top|chillx.top
