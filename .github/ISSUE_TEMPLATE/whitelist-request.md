@@ -20,6 +20,6 @@ assignees: hagezi
 
 <!-- Type before this tag! -->
 
-#### Why should the domain(s) be unblocked, please describe the steps to reproduce?
+#### Why should the domain(s) be unblocked? If necessary, please describe the steps to reproduce.
 
 <!-- Type before this tag! -->
