@@ -1,5 +1,5 @@
 $TTL 30
-@ SOA rpz.hagezi.fake. hostmaster.hagezi.fake. 1675119600 86400 3600 604800 30
+@ SOA rpz.hagezi.fake. hostmaster.hagezi.fake. 1675206000 86400 3600 604800 30
  NS localhost.
 ;
 ; Title: HaGeZi's Fake DNS Blocklist
@@ -8,10 +8,10 @@ $TTL 30
 ; Issues: https://github.com/hagezi/dns-blocklists/issues
 ; License: https://github.com/hagezi/dns-blocklists/blob/main/LICENSE.md
 ; Expires: Updated regularly
-; Last modified: 30 Jan 2023 23:17 UTC
-; Version: 2023.0130.2317.09
+; Last modified: 31 Jan 2023 23:17 UTC
+; Version: 2023.0131.2317.01
 ; Syntax: RPZ
-; Domains: 5384
+; Domains: 5382
 ;
 1euro.at CNAME .
 *.1euro.at CNAME .
@@ -1635,6 +1635,8 @@ brennholzbestpreis.com CNAME .
 *.brennholzbestpreis.com CNAME .
 brennholzshop24.com CNAME .
 *.brennholzshop24.com CNAME .
+brennholzuniversum.com CNAME .
+*.brennholzuniversum.com CNAME .
 brgab.com CNAME .
 *.brgab.com CNAME .
 bricksb.com CNAME .
@@ -1689,8 +1691,6 @@ buysnetwork.com CNAME .
 *.buysnetwork.com CNAME .
 bzghee.com CNAME .
 *.bzghee.com CNAME .
-c21watches.com CNAME .
-*.c21watches.com CNAME .
 caandcolimited.com CNAME .
 *.caandcolimited.com CNAME .
 calcaterrachallenge.com CNAME .
@@ -1863,8 +1863,6 @@ climbdmm.com CNAME .
 *.climbdmm.com CNAME .
 climissions.com CNAME .
 *.climissions.com CNAME .
-cllovery.com CNAME .
-*.cllovery.com CNAME .
 clockersbcn.com CNAME .
 *.clockersbcn.com CNAME .
 clothes-limited.com CNAME .
@@ -2859,8 +2857,6 @@ healthbenefitsf.com CNAME .
 *.healthbenefitsf.com CNAME .
 healthcarebanker.com CNAME .
 *.healthcarebanker.com CNAME .
-healthful-pills.com CNAME .
-*.healthful-pills.com CNAME .
 heatersairpurifiers.com CNAME .
 *.heatersairpurifiers.com CNAME .
 heavenallure.com CNAME .
@@ -3175,6 +3171,8 @@ julireh.com CNAME .
 *.julireh.com CNAME .
 juretro.com CNAME .
 *.juretro.com CNAME .
+de.justfashionnow.com CNAME .
+*.de.justfashionnow.com CNAME .
 justshopbetter.com CNAME .
 *.justshopbetter.com CNAME .
 justshopy4u.com CNAME .
@@ -5271,8 +5269,6 @@ travisscottofficial.com CNAME .
 *.travisscottofficial.com CNAME .
 treatcosmetic.com CNAME .
 *.treatcosmetic.com CNAME .
-trencystore.com CNAME .
-*.trencystore.com CNAME .
 trend-held.com CNAME .
 *.trend-held.com CNAME .
 trend-helden.com CNAME .
