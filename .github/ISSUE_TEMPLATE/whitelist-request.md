@@ -2,7 +2,7 @@
 name: Whitelist Request
 about: Report incorrectly blocked domain(s).
 title: ''
-labels: ''
+labels: white
 assignees: hagezi
 
 ---

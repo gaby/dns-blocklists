@@ -2,7 +2,7 @@
 name: Miscellaneous
 about: Other concerns.
 title: ''
-labels: ''
+labels: question
 assignees: hagezi
 
 ---
