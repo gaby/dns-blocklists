@@ -2,7 +2,7 @@
 name: Blacklist Request
 about: Report missing blockable domain(s).
 title: ''
-labels: black
+labels: black, white
 assignees: hagezi
 
 ---
@@ -10,9 +10,7 @@ assignees: hagezi
 #### Which domain(s) should be blocked?
 
 <!-- Type before this tag! -->
-<br>
 
 #### Why should the domain(s) be blocked?
 
 <!-- Type before this tag! -->
-<br>
