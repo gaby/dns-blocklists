@@ -4,10 +4,10 @@
 ! Issues: https://github.com/hagezi/dns-blocklists/issues
 ! License: https://github.com/hagezi/dns-blocklists/blob/main/LICENSE.md
 ! Expires: Updated regularly
-! Last modified: 31 Jan 2023 09:00 UTC
-! Version: 2023.0131.0900.52
+! Last modified: 31 Jan 2023 16:20 UTC
+! Version: 2023.0131.1620.06
 ! Syntax: AdBlock
-! Domains: 30555
+! Domains: 30493
 !
 ||007vww.com^
 ||00go.com^
@@ -3113,6 +3113,7 @@
 ||wa.appsflyer.com^
 ||websdk.appsflyer.com^
 ||cdn-settings.appsflyersdk.com^
+||inapps.appsflyersdk.com^
 ||launches.appsflyersdk.com^
 ||appsforlive.fun^
 ||appsformypc.com^
@@ -6538,17 +6539,6 @@
 ||montelena-rcv.gmarket.co.kr^
 ||uts.gmarket.co.kr^
 ||wa.gmx.co.uk^
-||id.google.co.cr^
-||id.google.co.id^
-||id.google.co.il^
-||id.google.co.in^
-||id.google.co.jp^
-||id.google.co.kr^
-||id.google.co.nz^
-||id.google.co.th^
-||id.google.co.uk^
-||id.google.co.ve^
-||id.google.co.za^
 ||grapeshot.co.uk^
 ||guardianapps.co.uk^
 ||gurgaon.co.in^
@@ -7058,27 +7048,6 @@
 ||goldenleafmotel.com.au^
 ||adservice.google.com.iq^
 ||adservice.google.com.tn^
-||id.google.com.ar^
-||id.google.com.au^
-||id.google.com.br^
-||id.google.com.co^
-||id.google.com.do^
-||id.google.com.ec^
-||id.google.com.gt^
-||id.google.com.hk^
-||id.google.com.mx^
-||id.google.com.my^
-||id.google.com.pa^
-||id.google.com.pe^
-||id.google.com.ph^
-||id.google.com.pk^
-||id.google.com.pr^
-||id.google.com.sg^
-||id.google.com.sv^
-||id.google.com.tr^
-||id.google.com.tw^
-||id.google.com.ua^
-||id.google.com.vn^
 ||gulozguneraltin.com.tr^
 ||saam.gumtree.com.au^
 ||tracking.gvm.com.tw^
@@ -9772,7 +9741,7 @@
 ||dramaticdirection.com^
 ||dratingmaject.com^
 ||drawbacksof.com^
-||uo.drawbaroddly.com^
+||drawbaroddly.com^
 ||dream-of-the-bloodmoon.com^
 ||dreambooknews.com^
 ||dreamdata.io^
@@ -9817,6 +9786,7 @@
 ||telemetry.v.dropbox.com^
 ||dropboxfingerprintjs.com^
 ||dropkickmedia.com^
+||droppedbanking.com^
 ||dropshipaccess.com^
 ||drpease.com^
 ||saa.drphil.com^
@@ -13107,6 +13077,7 @@
 ||goodlov.online^
 ||email-staging.goodrx.com^
 ||goodtruebeautifulinc.com^
+||goodvibesmatterforus.com^
 ||googe.com^
 ||googele.com^
 ||analytics.google.com^
@@ -13114,41 +13085,6 @@
 ||fcmatch.google.com^
 ||fundingchoices.google.com^
 ||fundingchoicesmessages.google.com^
-||id.google.ae^
-||id.google.as^
-||id.google.at^
-||id.google.be^
-||id.google.bg^
-||id.google.ca^
-||id.google.ch^
-||id.google.cl^
-||id.google.cm^
-||id.google.com^
-||id.google.cz^
-||id.google.de^
-||id.google.dk^
-||id.google.es^
-||id.google.fi^
-||id.google.fr^
-||id.google.gr^
-||id.google.hn^
-||id.google.hr^
-||id.google.hu^
-||id.google.ie^
-||id.google.it^
-||id.google.kz^
-||id.google.lk^
-||id.google.lt^
-||id.google.lu^
-||id.google.nl^
-||id.google.no^
-||id.google.pl^
-||id.google.pt^
-||id.google.ro^
-||id.google.rs^
-||id.google.ru^
-||id.google.se^
-||id.google.sk^
 ||crashlytics2.l.google.com^
 ||id.l.google.com^
 ||pagead-googlehosted.l.google.com^
@@ -15921,6 +15857,7 @@
 ||khayatarai.com^
 ||khbsvn.top^
 ||khekwufgwbl.com^
+||khment.com^
 ||khoa-online.com^
 ||ywrcqa.khou.com^
 ||ki6lhg.icu^
@@ -16233,6 +16170,7 @@
 ||events.kumulos.com^
 ||stats.kumulos.com^
 ||kundencontroller.de^
+||kundendienstnflx.com^
 ||kundenserver.de^
 ||kuno-gae.com^
 ||stat.kununu.cz^
@@ -23716,8 +23654,8 @@
 ||sahargahlaban.ir^
 ||ws.sahibinden.com^
 ||said3page.com^
-||ak.sail-horizon.com^
-||aws-api.sail-personalize.com^
+||sail-horizon.com^
+||sail-personalize.com^
 ||api.sail-track.com^
 ||aws-api.sail-track.com^
 ||sailormoonlive.com^
@@ -24540,6 +24478,7 @@
 ||smetrics.showtime.com^
 ||smetrics.showtimeanytime.com^
 ||shox.cc^
+||shrewrotl.com^
 ||shreyabanerjee.com^
 ||shrfbdg004.com^
 ||shrillspoon.com^
@@ -25923,6 +25862,7 @@
 ||analytics.syf.com^
 ||metrics.syf.com^
 ||somni.syf.com^
+||sylvatealonely.com^
 ||nsg.symantec.com^
 ||symplr.de^
 ||sync.tv^

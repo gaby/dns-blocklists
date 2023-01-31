@@ -4,10 +4,10 @@
 # Issues: https://github.com/hagezi/dns-blocklists/issues
 # License: https://github.com/hagezi/dns-blocklists/blob/main/LICENSE.md
 # Expires: Updated regularly
-# Last modified: 31 Jan 2023 09:00 UTC
-# Version: 2023.0131.0900.52
+# Last modified: 31 Jan 2023 16:20 UTC
+# Version: 2023.0131.1620.06
 # Syntax: Hosts
-# Domains: 73792
+# Domains: 73732
 #
 0.0.0.0 007vww.com
 0.0.0.0 www.007vww.com
@@ -8894,6 +8894,7 @@
 0.0.0.0 wa.appsflyer.com
 0.0.0.0 websdk.appsflyer.com
 0.0.0.0 cdn-settings.appsflyersdk.com
+0.0.0.0 inapps.appsflyersdk.com
 0.0.0.0 launches.appsflyersdk.com
 0.0.0.0 appsforlive.fun
 0.0.0.0 www.appsforlive.fun
@@ -12084,7 +12085,6 @@
 0.0.0.0 smetrics.bncollege.com
 0.0.0.0 smetrics.bncvirtual.com
 0.0.0.0 bndl-trp.com
-0.0.0.0 www.bndl-trp.com
 0.0.0.0 bnet.com
 0.0.0.0 www.bnet.com
 0.0.0.0 bnfscribbles.com
@@ -12670,7 +12670,6 @@
 0.0.0.0 briskeagle.io
 0.0.0.0 briskpelican.io
 0.0.0.0 briskrange.com
-0.0.0.0 www.briskrange.com
 0.0.0.0 brissapogaic.uno
 0.0.0.0 bristoninterior.com
 0.0.0.0 www.bristoninterior.com
@@ -12825,7 +12824,6 @@
 0.0.0.0 btez8.xyz
 0.0.0.0 www.btez8.xyz
 0.0.0.0 btione.com
-0.0.0.0 www.btione.com
 0.0.0.0 btksps.top
 0.0.0.0 btloader.com
 0.0.0.0 api.btloader.com
@@ -13436,7 +13434,6 @@
 0.0.0.0 candy-network.com
 0.0.0.0 ad1.candy-network.com
 0.0.0.0 caneddir.com
-0.0.0.0 www.caneddir.com
 0.0.0.0 canem-auris.com
 0.0.0.0 canineclubla.com
 0.0.0.0 www.canineclubla.com
@@ -15893,7 +15890,6 @@
 0.0.0.0 casino770.com
 0.0.0.0 www.casino770.com
 0.0.0.0 casinobetflix.work
-0.0.0.0 www.casinobetflix.work
 0.0.0.0 casinogameronline.com
 0.0.0.0 casinoonnet.com
 0.0.0.0 www.casinoonnet.com
@@ -15919,7 +15915,6 @@
 0.0.0.0 t.castle.io
 0.0.0.0 ausclh.castlery.com
 0.0.0.0 casualient.com
-0.0.0.0 www.casualient.com
 0.0.0.0 casumoaffiliates.com
 0.0.0.0 www.casumoaffiliates.com
 0.0.0.0 catad5959.com
@@ -16667,7 +16662,6 @@
 0.0.0.0 cigma-it.nl
 0.0.0.0 www.cigma-it.nl
 0.0.0.0 cigorsica.com
-0.0.0.0 www.cigorsica.com
 0.0.0.0 ciiwd0.icu
 0.0.0.0 ciksolre.net
 0.0.0.0 cildah.top
@@ -16842,7 +16836,6 @@
 0.0.0.0 www.clanklastingfur.com
 0.0.0.0 collector.clareity.net
 0.0.0.0 claresoloway.com
-0.0.0.0 www.claresoloway.com
 0.0.0.0 claring-loccelkin.com
 0.0.0.0 smetrics.claris.com
 0.0.0.0 clarity.ms
@@ -16893,7 +16886,6 @@
 0.0.0.0 www.clcktrax.com
 0.0.0.0 clckysudks.com
 0.0.0.0 cldbkonline.com
-0.0.0.0 www.cldbkonline.com
 0.0.0.0 clean.gg
 0.0.0.0 i.clean.gg
 0.0.0.0 clean-1-clean.club
@@ -17740,17 +17732,6 @@
 0.0.0.0 montelena-rcv.gmarket.co.kr
 0.0.0.0 uts.gmarket.co.kr
 0.0.0.0 wa.gmx.co.uk
-0.0.0.0 id.google.co.cr
-0.0.0.0 id.google.co.id
-0.0.0.0 id.google.co.il
-0.0.0.0 id.google.co.in
-0.0.0.0 id.google.co.jp
-0.0.0.0 id.google.co.kr
-0.0.0.0 id.google.co.nz
-0.0.0.0 id.google.co.th
-0.0.0.0 id.google.co.uk
-0.0.0.0 id.google.co.ve
-0.0.0.0 id.google.co.za
 0.0.0.0 grapeshot.co.uk
 0.0.0.0 irishtimes.grapeshot.co.uk
 0.0.0.0 johnston.grapeshot.co.uk
@@ -18502,27 +18483,6 @@
 0.0.0.0 goldenleafmotel.com.au
 0.0.0.0 adservice.google.com.iq
 0.0.0.0 adservice.google.com.tn
-0.0.0.0 id.google.com.ar
-0.0.0.0 id.google.com.au
-0.0.0.0 id.google.com.br
-0.0.0.0 id.google.com.co
-0.0.0.0 id.google.com.do
-0.0.0.0 id.google.com.ec
-0.0.0.0 id.google.com.gt
-0.0.0.0 id.google.com.hk
-0.0.0.0 id.google.com.mx
-0.0.0.0 id.google.com.my
-0.0.0.0 id.google.com.pa
-0.0.0.0 id.google.com.pe
-0.0.0.0 id.google.com.ph
-0.0.0.0 id.google.com.pk
-0.0.0.0 id.google.com.pr
-0.0.0.0 id.google.com.sg
-0.0.0.0 id.google.com.sv
-0.0.0.0 id.google.com.tr
-0.0.0.0 id.google.com.tw
-0.0.0.0 id.google.com.ua
-0.0.0.0 id.google.com.vn
 0.0.0.0 gulozguneraltin.com.tr
 0.0.0.0 saam.gumtree.com.au
 0.0.0.0 tracking.gvm.com.tw
@@ -19106,7 +19066,6 @@
 0.0.0.0 cdn.rates.consumertrack.com
 0.0.0.0 www.consumertrack.com
 0.0.0.0 consumerweekly.org
-0.0.0.0 www.consumerweekly.org
 0.0.0.0 contactatonce.com
 0.0.0.0 cdn.contactatonce.com
 0.0.0.0 dm4.contactatonce.com
@@ -19994,7 +19953,6 @@
 0.0.0.0 cresfpho2ntesepapillo3.com
 0.0.0.0 crgcfw.top
 0.0.0.0 criarysm.com
-0.0.0.0 www.criarysm.com
 0.0.0.0 tag.cribnotes.jp
 0.0.0.0 cridglobal.org
 0.0.0.0 www.cridglobal.org
@@ -26676,7 +26634,9 @@
 0.0.0.0 dratingmaject.com
 0.0.0.0 drawbacksof.com
 0.0.0.0 www.drawbacksof.com
+0.0.0.0 drawbaroddly.com
 0.0.0.0 uo.drawbaroddly.com
+0.0.0.0 www.drawbaroddly.com
 0.0.0.0 dream-of-the-bloodmoon.com
 0.0.0.0 www.dream-of-the-bloodmoon.com
 0.0.0.0 dreambooknews.com
@@ -26747,6 +26707,8 @@
 0.0.0.0 usr.dropkickmedia.com
 0.0.0.0 cdn.usr.dropkickmedia.com
 0.0.0.0 www.dropkickmedia.com
+0.0.0.0 droppedbanking.com
+0.0.0.0 www.droppedbanking.com
 0.0.0.0 dropshipaccess.com
 0.0.0.0 www.dropshipaccess.com
 0.0.0.0 drpease.com
@@ -33320,6 +33282,8 @@
 0.0.0.0 email-staging.goodrx.com
 0.0.0.0 goodtruebeautifulinc.com
 0.0.0.0 www.goodtruebeautifulinc.com
+0.0.0.0 goodvibesmatterforus.com
+0.0.0.0 www.goodvibesmatterforus.com
 0.0.0.0 googe.com
 0.0.0.0 www.googe.com
 0.0.0.0 googele.com
@@ -33330,41 +33294,6 @@
 0.0.0.0 fcmatch.google.com
 0.0.0.0 fundingchoices.google.com
 0.0.0.0 fundingchoicesmessages.google.com
-0.0.0.0 id.google.ae
-0.0.0.0 id.google.as
-0.0.0.0 id.google.at
-0.0.0.0 id.google.be
-0.0.0.0 id.google.bg
-0.0.0.0 id.google.ca
-0.0.0.0 id.google.ch
-0.0.0.0 id.google.cl
-0.0.0.0 id.google.cm
-0.0.0.0 id.google.com
-0.0.0.0 id.google.cz
-0.0.0.0 id.google.de
-0.0.0.0 id.google.dk
-0.0.0.0 id.google.es
-0.0.0.0 id.google.fi
-0.0.0.0 id.google.fr
-0.0.0.0 id.google.gr
-0.0.0.0 id.google.hn
-0.0.0.0 id.google.hr
-0.0.0.0 id.google.hu
-0.0.0.0 id.google.ie
-0.0.0.0 id.google.it
-0.0.0.0 id.google.kz
-0.0.0.0 id.google.lk
-0.0.0.0 id.google.lt
-0.0.0.0 id.google.lu
-0.0.0.0 id.google.nl
-0.0.0.0 id.google.no
-0.0.0.0 id.google.pl
-0.0.0.0 id.google.pt
-0.0.0.0 id.google.ro
-0.0.0.0 id.google.rs
-0.0.0.0 id.google.ru
-0.0.0.0 id.google.se
-0.0.0.0 id.google.sk
 0.0.0.0 crashlytics2.l.google.com
 0.0.0.0 id.l.google.com
 0.0.0.0 pagead-googlehosted.l.google.com
@@ -39636,6 +39565,8 @@
 0.0.0.0 www.khbsvn.top
 0.0.0.0 khekwufgwbl.com
 0.0.0.0 www.khekwufgwbl.com
+0.0.0.0 khment.com
+0.0.0.0 www.khment.com
 0.0.0.0 khoa-online.com
 0.0.0.0 www.khoa-online.com
 0.0.0.0 ywrcqa.khou.com
@@ -40161,6 +40092,8 @@
 0.0.0.0 stats.kumulos.com
 0.0.0.0 kundencontroller.de
 0.0.0.0 www.kundencontroller.de
+0.0.0.0 kundendienstnflx.com
+0.0.0.0 www.kundendienstnflx.com
 0.0.0.0 kundenserver.de
 0.0.0.0 emig.kundenserver.de
 0.0.0.0 mx00.emig.kundenserver.de
@@ -57592,8 +57525,13 @@
 0.0.0.0 said3page.com
 0.0.0.0 secure.said3page.com
 0.0.0.0 www.said3page.com
+0.0.0.0 sail-horizon.com
 0.0.0.0 ak.sail-horizon.com
+0.0.0.0 www.sail-horizon.com
+0.0.0.0 sail-personalize.com
+0.0.0.0 api.sail-personalize.com
 0.0.0.0 aws-api.sail-personalize.com
+0.0.0.0 www.sail-personalize.com
 0.0.0.0 api.sail-track.com
 0.0.0.0 aws-api.sail-track.com
 0.0.0.0 sailormoonlive.com
@@ -59203,6 +59141,8 @@
 0.0.0.0 smetrics.showtimeanytime.com
 0.0.0.0 shox.cc
 0.0.0.0 www.shox.cc
+0.0.0.0 shrewrotl.com
+0.0.0.0 www.shrewrotl.com
 0.0.0.0 shreyabanerjee.com
 0.0.0.0 www.shreyabanerjee.com
 0.0.0.0 shrfbdg004.com
@@ -63504,6 +63444,8 @@
 0.0.0.0 analytics.syf.com
 0.0.0.0 metrics.syf.com
 0.0.0.0 somni.syf.com
+0.0.0.0 sylvatealonely.com
+0.0.0.0 www.sylvatealonely.com
 0.0.0.0 nsg.symantec.com
 0.0.0.0 symplr.de
 0.0.0.0 cdns.symplr.de
