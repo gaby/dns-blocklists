@@ -4,10 +4,10 @@
 # Homepage: https://github.com/hagezi/dns-blocklists
 # Issues: https://github.com/hagezi/dns-blocklists/issues
 # Expires: Updated regularly
-# Last modified: 26 Jan 2023 09:39 UTC
-# Version: 2023.0126.0939.58
+# Last modified: 31 Jan 2023 23:04 UTC
+# Version: 2023.0131.2304.51
 # Syntax: DNSMasq
-# Domains: 1314
+# Domains: 1316
 #
 address=/0000a-fast-proxy.de/#
 address=/012proxy.ga/#
@@ -414,6 +414,7 @@ address=/freedevpn.com/#
 address=/freeeuroproxy.com/#
 address=/freehiddenvpn.gq/#
 address=/freeopenproxy.com/#
+address=/freeopenvpn.org/#
 address=/freeproxy.asia/#
 address=/freeproxy.io/#
 address=/freeproxy.me/#
@@ -440,6 +441,7 @@ address=/freevpnsoftware.net/#
 address=/freexite.com/#
 address=/freeyouproxytube.com/#
 address=/freeyoutube.net/#
+address=/french-vpn.com/#
 address=/frootvpn.com/#
 address=/doh.futa.gg/#
 address=/dns.futuredns.me/#

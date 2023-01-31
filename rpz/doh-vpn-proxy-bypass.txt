@@ -1,5 +1,5 @@
 $TTL 30
-@ SOA rpz.hagezi.doh-vpn-proxy-bypass. hostmaster.hagezi.doh-vpn-proxy-bypass. 1675119600 86400 3600 604800 30
+@ SOA rpz.hagezi.doh-vpn-proxy-bypass. hostmaster.hagezi.doh-vpn-proxy-bypass. 1675206000 86400 3600 604800 30
  NS localhost.
 ;
 ; Title: HaGeZi's Enyrypted DNS/VPN/TOR/Proxy Bypass DNS Blocklist
@@ -8,10 +8,10 @@ $TTL 30
 ; Homepage: https://github.com/hagezi/dns-blocklists
 ; Issues: https://github.com/hagezi/dns-blocklists/issues
 ; Expires: Updated regularly
-; Last modified: 26 Jan 2023 09:39 UTC
-; Version: 2023.0126.0939.58
+; Last modified: 31 Jan 2023 23:04 UTC
+; Version: 2023.0131.2304.51
 ; Syntax: RPZ
-; Domains: 1314
+; Domains: 1316
 ;
 vpn.ac CNAME .
 *.vpn.ac CNAME .
@@ -545,6 +545,8 @@ freexite.com CNAME .
 *.freexite.com CNAME .
 freeyouproxytube.com CNAME .
 *.freeyouproxytube.com CNAME .
+french-vpn.com CNAME .
+*.french-vpn.com CNAME .
 frootvpn.com CNAME .
 *.frootvpn.com CNAME .
 gamers-nor.com CNAME .
@@ -2275,6 +2277,8 @@ dontblockme.org CNAME .
 *.dontblockme.org CNAME .
 fakeip.org CNAME .
 *.fakeip.org CNAME .
+freeopenvpn.org CNAME .
+*.freeopenvpn.org CNAME .
 freevpn.org CNAME .
 *.freevpn.org CNAME .
 freevpnapp.org CNAME .
