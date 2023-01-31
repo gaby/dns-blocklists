@@ -2475,14 +2475,12 @@
 ! Yahoo App/Mail
 ! https://github.com/hagezi/dns-blocklists/issues/269
 @@|consent.yahoo.com^
-@@|geo.yahoo.com^
 @@|guce.oath.com^
 @@|pr.comet.yahoo.com^
-@@|udc.yahoo.com^
-@@|udcm.yahoo.com^
 
 ! Yahoo Finance App -  no News are shown
-@@|m.yap.yahoo.com^
+! supplies ads!
+! m.yap.yahoo.com
 
 ! https://github.com/hagezi/dns-blocklists/issues/265
 @@|embed.ly^
