@@ -2,7 +2,7 @@
 name: Blacklist Request
 about: Report missing blockable domain(s).
 title: ''
-labels: black
+labels: black, white
 assignees: hagezi
 
 ---
