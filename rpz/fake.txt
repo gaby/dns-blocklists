@@ -8,10 +8,10 @@ $TTL 30
 ; Issues: https://github.com/hagezi/dns-blocklists/issues
 ; License: https://github.com/hagezi/dns-blocklists/blob/main/LICENSE.md
 ; Expires: Updated regularly
-; Last modified: 31 Jan 2023 23:17 UTC
-; Version: 2023.0131.2317.01
+; Last modified: 01 Feb 2023 17:30 UTC
+; Version: 2023.0201.1730.46
 ; Syntax: RPZ
-; Domains: 5382
+; Domains: 5384
 ;
 1euro.at CNAME .
 *.1euro.at CNAME .
@@ -2577,6 +2577,8 @@ fotopr-online.com CNAME .
 *.fotopr-online.com CNAME .
 fotosocken.com CNAME .
 *.fotosocken.com CNAME .
+foxxum.com CNAME .
+*.foxxum.com CNAME .
 fpjollet.com CNAME .
 *.fpjollet.com CNAME .
 frankiemakeupartist.com CNAME .
@@ -8517,6 +8519,8 @@ rehasportberatung.de CNAME .
 *.rehasportberatung.de CNAME .
 rehauevents.de CNAME .
 *.rehauevents.de CNAME .
+reichwahl.de CNAME .
+*.reichwahl.de CNAME .
 reifen-altendorf.de CNAME .
 *.reifen-altendorf.de CNAME .
 reifen-glaser.de CNAME .
