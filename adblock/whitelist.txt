@@ -63,43 +63,6 @@
 @@|aax-fe.amazon.com^
 @@|aax-fe.amazon.com.au^
 @@|aax-fe.amazon.sg^
-@@|c.amazon-adsystem.com^
-@@|fls-cn.amazon.cn^
-@@|fls-eu.amazon-adsystem.com^
-@@|fls-eu.amazon.ae^
-@@|fls-eu.amazon.ca^
-@@|fls-eu.amazon.co.uk^
-@@|fls-eu.amazon.com^
-@@|fls-eu.amazon.com.be^
-@@|fls-eu.amazon.com.tr^
-@@|fls-eu.amazon.de^
-@@|fls-eu.amazon.eg^
-@@|fls-eu.amazon.es^
-@@|fls-eu.amazon.fr^
-@@|fls-eu.amazon.in^
-@@|fls-eu.amazon.it^
-@@|fls-eu.amazon.nl^
-@@|fls-eu.amazon.pl^
-@@|fls-eu.amazon.sa^
-@@|fls-eu.amazon.se^
-@@|fls-fe-opf.amazon.com^
-@@|fls-fe.amazon-adsystem.com^
-@@|fls-fe.amazon.co.jp^
-@@|fls-fe.amazon.com^
-@@|fls-fe.amazon.com.au^
-@@|fls-fe.amazon.sg^
-@@|fls-na.amazon-adsystem.com^
-@@|fls-na.amazon.ca^
-@@|fls-na.amazon.com^
-@@|fls-na.amazon.com.br^
-@@|fls-na.amazon.com.mx^
-! CNAME fls-*.amazon.com
-@@||forester.a2z.com^
-@@|unagi-fe.amazon.com^
-@@|unagi-na.amazon.com^
-@@|ipv6.unagi-na.amazon.com^
-@@|unagi.amazon.co.jp^
-@@|unagi.amazon.com^
 
 ! Amazon Video
 @@||aiv-cdn.net^
@@ -263,6 +226,7 @@
 @@|windowsupdate.s.llnwi.net^
 ! Office Forms
 @@||forms.office.com^
+@@|browser.pipe.aria.microsoft.com^
 @@|browser.events.data.microsoft.com^
 @@|browser.events.data.trafficmanager.net^
 @@|c.msn.com^
@@ -279,6 +243,8 @@
 ! Outlook mobile app
 ! https://github.com/hagezi/dns-blocklists/issues/233
 @@|mobile.pipe.aria.microsoft.com^
+@@|mobile.events.data.microsoft.com^
+@@|*-mobile.events.data.microsoft.com^
 @@|mobile.events.data.trafficmanager.net^
 
 ! NVidia
@@ -2571,4 +2537,8 @@
 
 ! https://github.com/hagezi/dns-blocklists/issues/283
 @@||buymeacoffee.com^
+
+! https://github.com/hagezi/dns-blocklists/issues/288
+@@||tls1.yospace.com^
+@@||bln1.yospace.com^
 
