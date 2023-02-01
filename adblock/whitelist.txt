@@ -2447,8 +2447,15 @@
 @@|consent-pref.trustarc.com^
 @@|adstream.com^
 @@|www.adstream.com^
-@@|extremereach.com^
-@@|www.extremereach.com^
+
+! https://github.com/hagezi/dns-blocklists/issues/287
+@@|abcnews.extremereach.com^
+@@|abc-twitter.extremereach.com^
+@@|agents.extremereach.com^
+@@|app.extremereach.com^
+@@|download.extremereach.com^
+@@|dv.extremereach.com^
+@@|updates.extremereach.com^
 
 ! https://github.com/hagezi/dns-blocklists/issues/259
 @@||instant.page^
