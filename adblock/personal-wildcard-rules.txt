@@ -104,6 +104,7 @@
 ! @@||c.amazon-adsystem.com^
 ||advertising.amazon.*^
 ||assoc-amazon.*^
+! Some say it limits features, some say it doesn't. I honestly don't know if I should block it or not.
 !||fls*.amazon.*^
 ||mads*.amazon.*^
 ||unagi*.amazon.*^
@@ -144,13 +145,15 @@
 |track.*.*^
 ! Referral links
 @@||track.cj.akadns.net^
-! Mainly referral links
 @@||track.aftership.com^
+@@||track.productsup.io^
+@@||track.seadform.net^
+@@||track.shoparize.com^
+@@||track.webgains.com^
 ! Parcel tracking
 @@||track.aliexpress.com^
 @@||track.customer.io^
 @@||track.effiliation.com^
-! Parcel tracking
 @@||track.goshippo.com^
 ! Tracking application status of https://ceac.state.gov/ceac/
 @@||track.moyu.ac.cn^
@@ -158,28 +161,23 @@
 @@||track.nzz.ch^
 ! Torrent Tracker
 @@||track.plop.pm^
-@@||track.productsup.io^
-@@||track.seadform.net^
-@@||track.shoparize.com^
 ! Time Tracking
 @@||track.toggl.com^
-@@||track.webgains.com^
 |tracking.*.*^
 ! Mainly referral links
+@@||tracking.publicidees.com^
+@@||tracking.s24.com^
+@@||tracking.truthfinder.com^
+@@||tracking.magnetmail.net^
+@@||tracking.ubisoft.com^
 ! Parcel tracking
 @@||tracking.dpd.de^
 ! Purchase games on Epic Game Store
 @@||tracking.epicgames.com^
 ! Tools to uncover how tracking and profiling have an impact on society 
 @@||tracking.exposed^
-@@||tracking.magnetmail.net^
 ! Parcel tracking
 @@||tracking.post.japanpost.jp^
-@@||tracking.publicidees.com^
-@@||tracking.s24.com^
-@@||tracking.truthfinder.com^
-@@||tracking.ubisoft.com^
-@@||tracking.magnetmail.net^
 |gtrack.*.*^
 |trk.*.*^
 ! Mainly referral links
@@ -298,6 +296,8 @@
 ||iadsdk.apple.com^
 ||metrics*.icloud.com^
 ||securemvt.apple.com^
+! It's app store tracking, but sometimes it breaks Apple watch/i/mac/tv OS updates!
+@@||xp.apple.com^
 
 ! Bugtracker
 ||*-bugs-*.rtl.de^
@@ -337,9 +337,6 @@
 ||doubleclick.net
 ! Google Search referral links
 @@||ad.doubleclick.net^
-!||fls.doubleclick.net^
-!||g.doubleclick.net^
-!||static.doubleclick.net^
 ! Google Reviews
 @@||id.google.*^
 
@@ -381,7 +378,6 @@
 ! Windows / Xbox-Achievments
 @@||*v10.events.data.microsoft.com^
 @@||*v20.events.data.microsoft.com^
-||events*.data.msn.*^
 ||measure.office.com^
 ||pipe.aria.microsoft.com^
 ! Outlook mobile app
@@ -392,6 +388,8 @@
 @@||*v10.vortex-win.data.microsoft.com^
 @@||*v20.vortex-win.data.microsoft.com^
 ||watson*.microsoft.com^
+! MSN
+||events*.data.msn.*^
 
 ! Microsoft Tracker
 ||adv-cloudfilse.azureedge.net^
