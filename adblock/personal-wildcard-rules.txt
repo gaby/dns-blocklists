@@ -104,14 +104,17 @@
 ! @@||c.amazon-adsystem.com^
 ||advertising.amazon.*^
 ||assoc-amazon.*^
-! Some say it limits features, some say it doesn't. I honestly don't know if I should block it or not.
-!||fls*.amazon.*^
+! Forrester Log Service - market analytics company
+! https://docs.aws.amazon.com/workspaces/latest/adminguide/workspaces-port-requirements.html
+||fls*.amazon.*^
+||forester.a2z.com^
 ||mads*.amazon.*^
 ||unagi*.amazon.*^
 ! Amazon Apps / Kindle / Fire-Tablet
-@@||unagi.amazon.com^
-@@||unagi-fe.amazon.com^
-@@||unagi-na.amazon.com^
+! Some say the following "unagi's" limits features, some say it doesn't. I could not notice any limitations so far!
+! @@||unagi.amazon.com^
+! @@||unagi-fe.amazon.com^
+! @@||unagi-na.amazon.com^
 ||rcm*.amazon.*^
 
 ! Amazon Device Metrics
@@ -285,6 +288,7 @@
 ||device.marketingcloudapis.com^
 ! Dyson App - Digital Assistant
 @@||mcpwgrxj4n94hv1pvdyqw0zwdxyq.device.marketingcloudapis.com^
+||t.eloqua.com^
 
 ! Apple
 ||*analytics-events.apple.com^
