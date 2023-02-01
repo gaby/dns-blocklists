@@ -4,10 +4,10 @@
 # Issues: https://github.com/hagezi/dns-blocklists/issues
 # License: https://github.com/hagezi/dns-blocklists/blob/main/LICENSE.md
 # Expires: Updated regularly
-# Last modified: 30 Jan 2023 23:14 UTC
-# Version: 2023.0130.2314.11
+# Last modified: 01 Feb 2023 23:13 UTC
+# Version: 2023.0201.2313.32
 # Syntax: DNSMasq
-# Domains: 84
+# Domains: 81
 #
 address=/asimov-win.settings.data.microsoft.com.akadns.net/#
 address=/cy2.vortex.data.microsoft.com.akadns.net/#
@@ -30,7 +30,6 @@ address=/adhs.events.data.microsoft.com/#
 address=/apac.events.data.microsoft.com/#
 address=/au-v10c.events.data.microsoft.com/#
 address=/emea.events.data.microsoft.com/#
-address=/eu-mobile.events.data.microsoft.com/#
 address=/eu-office.events.data.microsoft.com/#
 address=/eu-teams.events.data.microsoft.com/#
 address=/eu-v10c.events.data.microsoft.com/#
@@ -39,7 +38,6 @@ address=/ic3.events.data.microsoft.com/#
 address=/jp-v10c.events.data.microsoft.com/#
 address=/kmwatson.events.data.microsoft.com/#
 address=/kmwatsonc.events.data.microsoft.com/#
-address=/mobile.events.data.microsoft.com/#
 address=/noam.events.data.microsoft.com/#
 address=/nw-umwatson.events.data.microsoft.com/#
 address=/office-c.events.data.microsoft.com/#
@@ -50,7 +48,6 @@ address=/tb.events.data.microsoft.com/#
 address=/teams.events.data.microsoft.com/#
 address=/umwatson.events.data.microsoft.com/#
 address=/umwatsonc.events.data.microsoft.com/#
-address=/us-mobile.events.data.microsoft.com/#
 address=/us-v10c.events.data.microsoft.com/#
 address=/v10c.events.data.microsoft.com/#
 address=/watson.events.data.microsoft.com/#

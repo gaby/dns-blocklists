@@ -4,10 +4,10 @@
 # Issues: https://github.com/hagezi/dns-blocklists/issues
 # License: https://github.com/hagezi/dns-blocklists/blob/main/LICENSE.md
 # Expires: Updated regularly
-# Last modified: 30 Jan 2023 23:14 UTC
-# Version: 2023.0130.2314.11
+# Last modified: 01 Feb 2023 23:13 UTC
+# Version: 2023.0201.2313.32
 # Syntax: Domains Wildcard (DNSCrypt/YogaDNS/...)
-# Domains: 84
+# Domains: 81
 #
 *.asimov-win.settings.data.microsoft.com.akadns.net
 *.cy2.vortex.data.microsoft.com.akadns.net
@@ -30,7 +30,6 @@
 *.apac.events.data.microsoft.com
 *.au-v10c.events.data.microsoft.com
 *.emea.events.data.microsoft.com
-*.eu-mobile.events.data.microsoft.com
 *.eu-office.events.data.microsoft.com
 *.eu-teams.events.data.microsoft.com
 *.eu-v10c.events.data.microsoft.com
@@ -39,7 +38,6 @@
 *.jp-v10c.events.data.microsoft.com
 *.kmwatson.events.data.microsoft.com
 *.kmwatsonc.events.data.microsoft.com
-*.mobile.events.data.microsoft.com
 *.noam.events.data.microsoft.com
 *.nw-umwatson.events.data.microsoft.com
 *.office-c.events.data.microsoft.com
@@ -50,7 +48,6 @@
 *.teams.events.data.microsoft.com
 *.umwatson.events.data.microsoft.com
 *.umwatsonc.events.data.microsoft.com
-*.us-mobile.events.data.microsoft.com
 *.us-v10c.events.data.microsoft.com
 *.v10c.events.data.microsoft.com
 *.watson.events.data.microsoft.com

@@ -1,5 +1,5 @@
 $TTL 30
-@ SOA rpz.hagezi.native.winoffice. hostmaster.hagezi.native.winoffice. 1675206000 86400 3600 604800 30
+@ SOA rpz.hagezi.native.winoffice. hostmaster.hagezi.native.winoffice. 1675292400 86400 3600 604800 30
  NS localhost.
 ;
 ; Title: HaGeZi's Windows/Office Tracker DNS Blocklist
@@ -8,10 +8,10 @@ $TTL 30
 ; Issues: https://github.com/hagezi/dns-blocklists/issues
 ; License: https://github.com/hagezi/dns-blocklists/blob/main/LICENSE.md
 ; Expires: Updated regularly
-; Last modified: 30 Jan 2023 23:14 UTC
-; Version: 2023.0130.2314.11
+; Last modified: 01 Feb 2023 23:13 UTC
+; Version: 2023.0201.2313.32
 ; Syntax: RPZ
-; Domains: 84
+; Domains: 81
 ;
 events.data.msn.cn CNAME .
 *.events.data.msn.cn CNAME .
@@ -47,8 +47,6 @@ au-v10c.events.data.microsoft.com CNAME .
 *.au-v10c.events.data.microsoft.com CNAME .
 emea.events.data.microsoft.com CNAME .
 *.emea.events.data.microsoft.com CNAME .
-eu-mobile.events.data.microsoft.com CNAME .
-*.eu-mobile.events.data.microsoft.com CNAME .
 eu-office.events.data.microsoft.com CNAME .
 *.eu-office.events.data.microsoft.com CNAME .
 eu-teams.events.data.microsoft.com CNAME .
@@ -65,8 +63,6 @@ kmwatson.events.data.microsoft.com CNAME .
 *.kmwatson.events.data.microsoft.com CNAME .
 kmwatsonc.events.data.microsoft.com CNAME .
 *.kmwatsonc.events.data.microsoft.com CNAME .
-mobile.events.data.microsoft.com CNAME .
-*.mobile.events.data.microsoft.com CNAME .
 noam.events.data.microsoft.com CNAME .
 *.noam.events.data.microsoft.com CNAME .
 nw-umwatson.events.data.microsoft.com CNAME .
@@ -87,8 +83,6 @@ umwatson.events.data.microsoft.com CNAME .
 *.umwatson.events.data.microsoft.com CNAME .
 umwatsonc.events.data.microsoft.com CNAME .
 *.umwatsonc.events.data.microsoft.com CNAME .
-us-mobile.events.data.microsoft.com CNAME .
-*.us-mobile.events.data.microsoft.com CNAME .
 us-v10c.events.data.microsoft.com CNAME .
 *.us-v10c.events.data.microsoft.com CNAME .
 v10c.events.data.microsoft.com CNAME .
