@@ -1,5 +1,5 @@
 $TTL 30
-@ SOA rpz.hagezi.fake. hostmaster.hagezi.fake. 1675206000 86400 3600 604800 30
+@ SOA rpz.hagezi.fake. hostmaster.hagezi.fake. 1675292400 86400 3600 604800 30
  NS localhost.
 ;
 ; Title: HaGeZi's Fake DNS Blocklist
@@ -8,10 +8,10 @@ $TTL 30
 ; Issues: https://github.com/hagezi/dns-blocklists/issues
 ; License: https://github.com/hagezi/dns-blocklists/blob/main/LICENSE.md
 ; Expires: Updated regularly
-; Last modified: 01 Feb 2023 17:30 UTC
-; Version: 2023.0201.1730.46
+; Last modified: 01 Feb 2023 23:16 UTC
+; Version: 2023.0201.2316.19
 ; Syntax: RPZ
-; Domains: 5384
+; Domains: 5385
 ;
 1euro.at CNAME .
 *.1euro.at CNAME .
@@ -603,6 +603,8 @@ rohrreinigung24-7.at CNAME .
 *.rohrreinigung24-7.at CNAME .
 rolladenreparatur.at CNAME .
 *.rolladenreparatur.at CNAME .
+rolly-energie.at CNAME .
+*.rolly-energie.at CNAME .
 royalkitten.at CNAME .
 *.royalkitten.at CNAME .
 salomon-osterreich.at CNAME .
