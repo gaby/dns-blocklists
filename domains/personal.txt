@@ -4,10 +4,10 @@
 # Issues: https://github.com/hagezi/dns-blocklists/issues
 # License: https://github.com/hagezi/dns-blocklists/blob/main/LICENSE.md
 # Expires: Updated regularly
-# Last modified: 01 Feb 2023 18:23 UTC
-# Version: 2023.0201.1823.12
+# Last modified: 01 Feb 2023 22:39 UTC
+# Version: 2023.0201.2239.20
 # Syntax: Domains
-# Domains: 77378
+# Domains: 77377
 #
 007vww.com
 www.007vww.com
@@ -1699,6 +1699,7 @@ bugsnag-event.monitor.core.app.alexa.a2z.com
 bugsnag-session.monitor.core.app.alexa.a2z.com
 notify.bugsnag.appstore.a2z.com
 metrics.client-eng.a2z.com
+forester.a2z.com
 na.prod.pdss.paladin.a2z.com
 new-telemetry.insights.video.a2z.com
 eu-central-1.new-telemetry.insights.video.a2z.com
@@ -2079,6 +2080,8 @@ www.acecounter.com
 acedigitalhub.com
 www.acedigitalhub.com
 us.acedirect.net
+acemlnb.com
+www.acemlnb.com
 acendantoftheq.xyz
 acerostyle.cl
 www.acerostyle.cl
@@ -7349,6 +7352,24 @@ aviary.amazon.de
 device-metrics-us.amazon.com
 device-metrics-us-2.amazon.com
 smetrics.flex.amazon.com
+fls-cn.amazon.cn
+fls-eu.amazon.ae
+fls-eu.amazon.com
+fls-eu.amazon.de
+fls-eu.amazon.eg
+fls-eu.amazon.es
+fls-eu.amazon.fr
+fls-eu.amazon.in
+fls-eu.amazon.it
+fls-eu.amazon.nl
+fls-eu.amazon.pl
+fls-eu.amazon.sa
+fls-eu.amazon.se
+fls-fe.amazon.com
+fls-fe.amazon.sg
+fls-fe-opf.amazon.com
+fls-na.amazon.ca
+fls-na.amazon.com
 g-images.amazon.com
 mads.amazon.com
 mads-eu.amazon.com
@@ -7356,6 +7377,7 @@ rcm.amazon.com
 unagi.amazon.ae
 unagi.amazon.ca
 unagi.amazon.cn
+unagi.amazon.com
 unagi.amazon.de
 unagi.amazon.eg
 unagi.amazon.es
@@ -7368,6 +7390,8 @@ unagi.amazon.sa
 unagi.amazon.se
 unagi.amazon.sg
 unagi-eu.amazon.com
+unagi-fe.amazon.com
+unagi-na.amazon.com
 ws.amazon.com
 aax.amazon-adsystem.com
 aax-cpm.amazon-adsystem.com
@@ -7384,7 +7408,11 @@ aax-us-east.amazon-adsystem.com
 aax-us-east-ott.amazon-adsystem.com
 aax-us-pdx.amazon-adsystem.com
 at-us-east.amazon-adsystem.com
+c.amazon-adsystem.com
 cdn-a.amazon-adsystem.com
+fls-eu.amazon-adsystem.com
+fls-fe.amazon-adsystem.com
+fls-na.amazon-adsystem.com
 imdb.amazon-adsystem.com
 ir-ca.amazon-adsystem.com
 ir-de.amazon-adsystem.com
@@ -11037,6 +11065,8 @@ smetrics.bedbathandbeyond.ca
 smetrics.bedbathandbeyond.com
 beddingcadetexploded.com
 www.beddingcadetexploded.com
+bedeaflakism.com
+www.bedeaflakism.com
 bedmantaximan.com
 bedrapiona.com
 bedsberry.com
@@ -18073,7 +18103,10 @@ aan.amazon.co.uk
 advertising.amazon.co.jp
 advertising.amazon.co.uk
 aviary.amazon.co.jp
+fls-eu.amazon.co.uk
+fls-fe.amazon.co.jp
 rcm-uk.amazon.co.uk
+unagi.amazon.co.jp
 unagi.amazon.co.uk
 and.co.uk
 crta.and.co.uk
@@ -18879,6 +18912,11 @@ alert.com.mt
 all-slovenia.com.ua
 ads.allaccess.com.ph
 allindia.com.au
+fls-eu.amazon.com.be
+fls-eu.amazon.com.tr
+fls-fe.amazon.com.au
+fls-na.amazon.com.br
+fls-na.amazon.com.mx
 unagi.amazon.com.au
 unagi.amazon.com.be
 unagi.amazon.com.br
@@ -43791,7 +43829,6 @@ t.locasun.fr
 t.locasun-vp.fr
 api.locately.com
 locinealy.com
-www.locinealy.com
 locked-games.com
 www.locked-games.com
 locked4.com
@@ -43839,7 +43876,6 @@ logicallyfaithful.com
 www.logicallyfaithful.com
 buzz.logility.com
 login-cloud-myaccount-mail.ru
-www.login-cloud-myaccount-mail.ru
 login-verification.top
 www.login-verification.top
 login-verify.top
@@ -44000,7 +44036,6 @@ lovelypackage.com
 www.lovelypackage.com
 tracking.lovematchflirt.com
 lovemeshy.com
-www.lovemeshy.com
 sdk.loveota.net
 loverevenue.com
 www.loverevenue.com
@@ -44014,7 +44049,6 @@ lowerabdominalpainguide.com
 www.lowerabdominalpainguide.com
 smetrics.lowes.com
 lowpostnews.com
-www.lowpostnews.com
 lowrance.top
 www.lowrance.top
 lowrihouston.pro
@@ -45217,7 +45251,6 @@ casino-ad-mediation.me2zengame.com
 mea-bh.com
 www.mea-bh.com
 mealiertins.com
-www.mealiertins.com
 mean8sigh.com
 secure.mean8sigh.com
 www.mean8sigh.com
@@ -46039,7 +46072,6 @@ adhs.events.data.microsoft.com
 apac.events.data.microsoft.com
 au-v10c.events.data.microsoft.com
 emea.events.data.microsoft.com
-eu-mobile.events.data.microsoft.com
 eu-office.events.data.microsoft.com
 eu-teams.events.data.microsoft.com
 eu-v10c.events.data.microsoft.com
@@ -46058,7 +46090,6 @@ tb.events.data.microsoft.com
 teams.events.data.microsoft.com
 umwatson.events.data.microsoft.com
 umwatsonc.events.data.microsoft.com
-us-mobile.events.data.microsoft.com
 us-v10c.events.data.microsoft.com
 v10c.events.data.microsoft.com
 watson.events.data.microsoft.com
@@ -50553,8 +50584,6 @@ px-us-e-2.ns1p.net
 px-us-w-2.ns1p.net
 rt.ns1p.net
 s.ns1p.net
-choice.microsoft.com.nsatc.net
-sqm.telemetry.microsoft.com.nsatc.net
 nsaudience.pl
 dmp.nsaudience.pl
 api.dmp.nsaudience.pl
@@ -54802,38 +54831,6 @@ possibleboats.com
 jslog.post.cz
 d.post-gazette.com
 post-redirecting.com
-1stphorm.postaffiliatepro.com
-airhelp.postaffiliatepro.com
-apresnail.postaffiliatepro.com
-artlist.postaffiliatepro.com
-autotempest.postaffiliatepro.com
-azurestandard.postaffiliatepro.com
-berkeyfilters.postaffiliatepro.com
-blackwells.postaffiliatepro.com
-carvertical.postaffiliatepro.com
-chiefexecutivegroup.postaffiliatepro.com
-evike.postaffiliatepro.com
-fishingbooker.postaffiliatepro.com
-footway.postaffiliatepro.com
-guitartricks.postaffiliatepro.com
-holavpn.postaffiliatepro.com
-iso.postaffiliatepro.com
-eu1.iso.postaffiliatepro.com
-na.iso.postaffiliatepro.com
-legionathletics.postaffiliatepro.com
-loopmasters.postaffiliatepro.com
-lovecrafts.postaffiliatepro.com
-medbridge.postaffiliatepro.com
-netech.postaffiliatepro.com
-oofos.postaffiliatepro.com
-perimeter81.postaffiliatepro.com
-repfitness.postaffiliatepro.com
-selfdecode.postaffiliatepro.com
-shipbob.postaffiliatepro.com
-sumup.postaffiliatepro.com
-thermoworks.postaffiliatepro.com
-ubiquiti.postaffiliatepro.com
-xeroshoes.postaffiliatepro.com
 aa.postbank.de
 at.postbank.de
 posteezy.com
@@ -59893,6 +59890,8 @@ ropemoon.com
 www.ropemoon.com
 roq.ad
 www.roq.ad
+rorgoops.com
+www.rorgoops.com
 roseliamanga.com
 rosha.ir
 www.rosha.ir

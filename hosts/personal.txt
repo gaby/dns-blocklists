@@ -4,10 +4,10 @@
 # Issues: https://github.com/hagezi/dns-blocklists/issues
 # License: https://github.com/hagezi/dns-blocklists/blob/main/LICENSE.md
 # Expires: Updated regularly
-# Last modified: 01 Feb 2023 18:23 UTC
-# Version: 2023.0201.1823.12
+# Last modified: 01 Feb 2023 22:39 UTC
+# Version: 2023.0201.2239.20
 # Syntax: Hosts
-# Domains: 77378
+# Domains: 77377
 #
 0.0.0.0 007vww.com
 0.0.0.0 www.007vww.com
@@ -1699,6 +1699,7 @@
 0.0.0.0 bugsnag-session.monitor.core.app.alexa.a2z.com
 0.0.0.0 notify.bugsnag.appstore.a2z.com
 0.0.0.0 metrics.client-eng.a2z.com
+0.0.0.0 forester.a2z.com
 0.0.0.0 na.prod.pdss.paladin.a2z.com
 0.0.0.0 new-telemetry.insights.video.a2z.com
 0.0.0.0 eu-central-1.new-telemetry.insights.video.a2z.com
@@ -2079,6 +2080,8 @@
 0.0.0.0 acedigitalhub.com
 0.0.0.0 www.acedigitalhub.com
 0.0.0.0 us.acedirect.net
+0.0.0.0 acemlnb.com
+0.0.0.0 www.acemlnb.com
 0.0.0.0 acendantoftheq.xyz
 0.0.0.0 acerostyle.cl
 0.0.0.0 www.acerostyle.cl
@@ -7349,6 +7352,24 @@
 0.0.0.0 device-metrics-us.amazon.com
 0.0.0.0 device-metrics-us-2.amazon.com
 0.0.0.0 smetrics.flex.amazon.com
+0.0.0.0 fls-cn.amazon.cn
+0.0.0.0 fls-eu.amazon.ae
+0.0.0.0 fls-eu.amazon.com
+0.0.0.0 fls-eu.amazon.de
+0.0.0.0 fls-eu.amazon.eg
+0.0.0.0 fls-eu.amazon.es
+0.0.0.0 fls-eu.amazon.fr
+0.0.0.0 fls-eu.amazon.in
+0.0.0.0 fls-eu.amazon.it
+0.0.0.0 fls-eu.amazon.nl
+0.0.0.0 fls-eu.amazon.pl
+0.0.0.0 fls-eu.amazon.sa
+0.0.0.0 fls-eu.amazon.se
+0.0.0.0 fls-fe.amazon.com
+0.0.0.0 fls-fe.amazon.sg
+0.0.0.0 fls-fe-opf.amazon.com
+0.0.0.0 fls-na.amazon.ca
+0.0.0.0 fls-na.amazon.com
 0.0.0.0 g-images.amazon.com
 0.0.0.0 mads.amazon.com
 0.0.0.0 mads-eu.amazon.com
@@ -7356,6 +7377,7 @@
 0.0.0.0 unagi.amazon.ae
 0.0.0.0 unagi.amazon.ca
 0.0.0.0 unagi.amazon.cn
+0.0.0.0 unagi.amazon.com
 0.0.0.0 unagi.amazon.de
 0.0.0.0 unagi.amazon.eg
 0.0.0.0 unagi.amazon.es
@@ -7368,6 +7390,8 @@
 0.0.0.0 unagi.amazon.se
 0.0.0.0 unagi.amazon.sg
 0.0.0.0 unagi-eu.amazon.com
+0.0.0.0 unagi-fe.amazon.com
+0.0.0.0 unagi-na.amazon.com
 0.0.0.0 ws.amazon.com
 0.0.0.0 aax.amazon-adsystem.com
 0.0.0.0 aax-cpm.amazon-adsystem.com
@@ -7384,7 +7408,11 @@
 0.0.0.0 aax-us-east-ott.amazon-adsystem.com
 0.0.0.0 aax-us-pdx.amazon-adsystem.com
 0.0.0.0 at-us-east.amazon-adsystem.com
+0.0.0.0 c.amazon-adsystem.com
 0.0.0.0 cdn-a.amazon-adsystem.com
+0.0.0.0 fls-eu.amazon-adsystem.com
+0.0.0.0 fls-fe.amazon-adsystem.com
+0.0.0.0 fls-na.amazon-adsystem.com
 0.0.0.0 imdb.amazon-adsystem.com
 0.0.0.0 ir-ca.amazon-adsystem.com
 0.0.0.0 ir-de.amazon-adsystem.com
@@ -11037,6 +11065,8 @@
 0.0.0.0 smetrics.bedbathandbeyond.com
 0.0.0.0 beddingcadetexploded.com
 0.0.0.0 www.beddingcadetexploded.com
+0.0.0.0 bedeaflakism.com
+0.0.0.0 www.bedeaflakism.com
 0.0.0.0 bedmantaximan.com
 0.0.0.0 bedrapiona.com
 0.0.0.0 bedsberry.com
@@ -18073,7 +18103,10 @@
 0.0.0.0 advertising.amazon.co.jp
 0.0.0.0 advertising.amazon.co.uk
 0.0.0.0 aviary.amazon.co.jp
+0.0.0.0 fls-eu.amazon.co.uk
+0.0.0.0 fls-fe.amazon.co.jp
 0.0.0.0 rcm-uk.amazon.co.uk
+0.0.0.0 unagi.amazon.co.jp
 0.0.0.0 unagi.amazon.co.uk
 0.0.0.0 and.co.uk
 0.0.0.0 crta.and.co.uk
@@ -18879,6 +18912,11 @@
 0.0.0.0 all-slovenia.com.ua
 0.0.0.0 ads.allaccess.com.ph
 0.0.0.0 allindia.com.au
+0.0.0.0 fls-eu.amazon.com.be
+0.0.0.0 fls-eu.amazon.com.tr
+0.0.0.0 fls-fe.amazon.com.au
+0.0.0.0 fls-na.amazon.com.br
+0.0.0.0 fls-na.amazon.com.mx
 0.0.0.0 unagi.amazon.com.au
 0.0.0.0 unagi.amazon.com.be
 0.0.0.0 unagi.amazon.com.br
@@ -43791,7 +43829,6 @@
 0.0.0.0 t.locasun-vp.fr
 0.0.0.0 api.locately.com
 0.0.0.0 locinealy.com
-0.0.0.0 www.locinealy.com
 0.0.0.0 locked-games.com
 0.0.0.0 www.locked-games.com
 0.0.0.0 locked4.com
@@ -43839,7 +43876,6 @@
 0.0.0.0 www.logicallyfaithful.com
 0.0.0.0 buzz.logility.com
 0.0.0.0 login-cloud-myaccount-mail.ru
-0.0.0.0 www.login-cloud-myaccount-mail.ru
 0.0.0.0 login-verification.top
 0.0.0.0 www.login-verification.top
 0.0.0.0 login-verify.top
@@ -44000,7 +44036,6 @@
 0.0.0.0 www.lovelypackage.com
 0.0.0.0 tracking.lovematchflirt.com
 0.0.0.0 lovemeshy.com
-0.0.0.0 www.lovemeshy.com
 0.0.0.0 sdk.loveota.net
 0.0.0.0 loverevenue.com
 0.0.0.0 www.loverevenue.com
@@ -44014,7 +44049,6 @@
 0.0.0.0 www.lowerabdominalpainguide.com
 0.0.0.0 smetrics.lowes.com
 0.0.0.0 lowpostnews.com
-0.0.0.0 www.lowpostnews.com
 0.0.0.0 lowrance.top
 0.0.0.0 www.lowrance.top
 0.0.0.0 lowrihouston.pro
@@ -45217,7 +45251,6 @@
 0.0.0.0 mea-bh.com
 0.0.0.0 www.mea-bh.com
 0.0.0.0 mealiertins.com
-0.0.0.0 www.mealiertins.com
 0.0.0.0 mean8sigh.com
 0.0.0.0 secure.mean8sigh.com
 0.0.0.0 www.mean8sigh.com
@@ -46039,7 +46072,6 @@
 0.0.0.0 apac.events.data.microsoft.com
 0.0.0.0 au-v10c.events.data.microsoft.com
 0.0.0.0 emea.events.data.microsoft.com
-0.0.0.0 eu-mobile.events.data.microsoft.com
 0.0.0.0 eu-office.events.data.microsoft.com
 0.0.0.0 eu-teams.events.data.microsoft.com
 0.0.0.0 eu-v10c.events.data.microsoft.com
@@ -46058,7 +46090,6 @@
 0.0.0.0 teams.events.data.microsoft.com
 0.0.0.0 umwatson.events.data.microsoft.com
 0.0.0.0 umwatsonc.events.data.microsoft.com
-0.0.0.0 us-mobile.events.data.microsoft.com
 0.0.0.0 us-v10c.events.data.microsoft.com
 0.0.0.0 v10c.events.data.microsoft.com
 0.0.0.0 watson.events.data.microsoft.com
@@ -50553,8 +50584,6 @@
 0.0.0.0 px-us-w-2.ns1p.net
 0.0.0.0 rt.ns1p.net
 0.0.0.0 s.ns1p.net
-0.0.0.0 choice.microsoft.com.nsatc.net
-0.0.0.0 sqm.telemetry.microsoft.com.nsatc.net
 0.0.0.0 nsaudience.pl
 0.0.0.0 dmp.nsaudience.pl
 0.0.0.0 api.dmp.nsaudience.pl
@@ -54802,38 +54831,6 @@
 0.0.0.0 jslog.post.cz
 0.0.0.0 d.post-gazette.com
 0.0.0.0 post-redirecting.com
-0.0.0.0 1stphorm.postaffiliatepro.com
-0.0.0.0 airhelp.postaffiliatepro.com
-0.0.0.0 apresnail.postaffiliatepro.com
-0.0.0.0 artlist.postaffiliatepro.com
-0.0.0.0 autotempest.postaffiliatepro.com
-0.0.0.0 azurestandard.postaffiliatepro.com
-0.0.0.0 berkeyfilters.postaffiliatepro.com
-0.0.0.0 blackwells.postaffiliatepro.com
-0.0.0.0 carvertical.postaffiliatepro.com
-0.0.0.0 chiefexecutivegroup.postaffiliatepro.com
-0.0.0.0 evike.postaffiliatepro.com
-0.0.0.0 fishingbooker.postaffiliatepro.com
-0.0.0.0 footway.postaffiliatepro.com
-0.0.0.0 guitartricks.postaffiliatepro.com
-0.0.0.0 holavpn.postaffiliatepro.com
-0.0.0.0 iso.postaffiliatepro.com
-0.0.0.0 eu1.iso.postaffiliatepro.com
-0.0.0.0 na.iso.postaffiliatepro.com
-0.0.0.0 legionathletics.postaffiliatepro.com
-0.0.0.0 loopmasters.postaffiliatepro.com
-0.0.0.0 lovecrafts.postaffiliatepro.com
-0.0.0.0 medbridge.postaffiliatepro.com
-0.0.0.0 netech.postaffiliatepro.com
-0.0.0.0 oofos.postaffiliatepro.com
-0.0.0.0 perimeter81.postaffiliatepro.com
-0.0.0.0 repfitness.postaffiliatepro.com
-0.0.0.0 selfdecode.postaffiliatepro.com
-0.0.0.0 shipbob.postaffiliatepro.com
-0.0.0.0 sumup.postaffiliatepro.com
-0.0.0.0 thermoworks.postaffiliatepro.com
-0.0.0.0 ubiquiti.postaffiliatepro.com
-0.0.0.0 xeroshoes.postaffiliatepro.com
 0.0.0.0 aa.postbank.de
 0.0.0.0 at.postbank.de
 0.0.0.0 posteezy.com
@@ -59893,6 +59890,8 @@
 0.0.0.0 www.ropemoon.com
 0.0.0.0 roq.ad
 0.0.0.0 www.roq.ad
+0.0.0.0 rorgoops.com
+0.0.0.0 www.rorgoops.com
 0.0.0.0 roseliamanga.com
 0.0.0.0 rosha.ir
 0.0.0.0 www.rosha.ir

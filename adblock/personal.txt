@@ -4,10 +4,10 @@
 ! Issues: https://github.com/hagezi/dns-blocklists/issues
 ! License: https://github.com/hagezi/dns-blocklists/blob/main/LICENSE.md
 ! Expires: Updated regularly
-! Last modified: 01 Feb 2023 18:23 UTC
-! Version: 2023.0201.1823.12
+! Last modified: 01 Feb 2023 22:39 UTC
+! Version: 2023.0201.2239.20
 ! Syntax: AdBlock
-! Domains: 31258
+! Domains: 31261
 !
 ||007vww.com^
 ||00go.com^
@@ -856,6 +856,7 @@
 ||bugsnag-session.monitor.core.app.alexa.a2z.com^
 ||notify.bugsnag.appstore.a2z.com^
 ||metrics.client-eng.a2z.com^
+||forester.a2z.com^
 ||na.prod.pdss.paladin.a2z.com^
 ||new-telemetry.insights.video.a2z.com^
 ||telemetry.insights.video.a2z.com^
@@ -1042,6 +1043,7 @@
 ||acecounter.com^
 ||acedigitalhub.com^
 ||us.acedirect.net^
+||acemlnb.com^
 ||acendantoftheq.xyz^
 ||acerostyle.cl^
 ||acertb.com^
@@ -2653,6 +2655,24 @@
 ||device-metrics-us.amazon.com^
 ||device-metrics-us-2.amazon.com^
 ||smetrics.flex.amazon.com^
+||fls-cn.amazon.cn^
+||fls-eu.amazon.ae^
+||fls-eu.amazon.com^
+||fls-eu.amazon.de^
+||fls-eu.amazon.eg^
+||fls-eu.amazon.es^
+||fls-eu.amazon.fr^
+||fls-eu.amazon.in^
+||fls-eu.amazon.it^
+||fls-eu.amazon.nl^
+||fls-eu.amazon.pl^
+||fls-eu.amazon.sa^
+||fls-eu.amazon.se^
+||fls-fe.amazon.com^
+||fls-fe.amazon.sg^
+||fls-fe-opf.amazon.com^
+||fls-na.amazon.ca^
+||fls-na.amazon.com^
 ||g-images.amazon.com^
 ||mads.amazon.com^
 ||mads-eu.amazon.com^
@@ -2660,6 +2680,7 @@
 ||unagi.amazon.ae^
 ||unagi.amazon.ca^
 ||unagi.amazon.cn^
+||unagi.amazon.com^
 ||unagi.amazon.de^
 ||unagi.amazon.eg^
 ||unagi.amazon.es^
@@ -2672,6 +2693,8 @@
 ||unagi.amazon.se^
 ||unagi.amazon.sg^
 ||unagi-eu.amazon.com^
+||unagi-fe.amazon.com^
+||unagi-na.amazon.com^
 ||ws.amazon.com^
 ||aax.amazon-adsystem.com^
 ||aax-cpm.amazon-adsystem.com^
@@ -2688,7 +2711,11 @@
 ||aax-us-east-ott.amazon-adsystem.com^
 ||aax-us-pdx.amazon-adsystem.com^
 ||at-us-east.amazon-adsystem.com^
+||c.amazon-adsystem.com^
 ||cdn-a.amazon-adsystem.com^
+||fls-eu.amazon-adsystem.com^
+||fls-fe.amazon-adsystem.com^
+||fls-na.amazon-adsystem.com^
 ||imdb.amazon-adsystem.com^
 ||ir-ca.amazon-adsystem.com^
 ||ir-de.amazon-adsystem.com^
@@ -4234,6 +4261,7 @@
 ||smetrics.bedbathandbeyond.ca^
 ||smetrics.bedbathandbeyond.com^
 ||beddingcadetexploded.com^
+||bedeaflakism.com^
 ||bedmantaximan.com^
 ||bedrapiona.com^
 ||bedsberry.com^
@@ -6583,7 +6611,10 @@
 ||advertising.amazon.co.jp^
 ||advertising.amazon.co.uk^
 ||aviary.amazon.co.jp^
+||fls-eu.amazon.co.uk^
+||fls-fe.amazon.co.jp^
 ||rcm-uk.amazon.co.uk^
+||unagi.amazon.co.jp^
 ||unagi.amazon.co.uk^
 ||and.co.uk^
 ||iad.anm.co.uk^
@@ -7108,6 +7139,11 @@
 ||all-slovenia.com.ua^
 ||ads.allaccess.com.ph^
 ||allindia.com.au^
+||fls-eu.amazon.com.be^
+||fls-eu.amazon.com.tr^
+||fls-fe.amazon.com.au^
+||fls-na.amazon.com.br^
+||fls-na.amazon.com.mx^
 ||unagi.amazon.com.au^
 ||unagi.amazon.com.be^
 ||unagi.amazon.com.br^
@@ -18497,7 +18533,6 @@
 ||apac.events.data.microsoft.com^
 ||au-v10c.events.data.microsoft.com^
 ||emea.events.data.microsoft.com^
-||eu-mobile.events.data.microsoft.com^
 ||eu-office.events.data.microsoft.com^
 ||eu-teams.events.data.microsoft.com^
 ||eu-v10c.events.data.microsoft.com^
@@ -18516,7 +18551,6 @@
 ||teams.events.data.microsoft.com^
 ||umwatson.events.data.microsoft.com^
 ||umwatsonc.events.data.microsoft.com^
-||us-mobile.events.data.microsoft.com^
 ||us-v10c.events.data.microsoft.com^
 ||v10c.events.data.microsoft.com^
 ||watson.events.data.microsoft.com^
@@ -20191,8 +20225,6 @@
 ||exc.ns.nl^
 ||ps.ns-cdn.com^
 ||ns1p.net^
-||choice.microsoft.com.nsatc.net^
-||sqm.telemetry.microsoft.com.nsatc.net^
 ||nsaudience.pl^
 ||nsbjrf.top^
 ||nscash.com^
@@ -22001,36 +22033,6 @@
 ||jslog.post.cz^
 ||d.post-gazette.com^
 ||post-redirecting.com^
-||1stphorm.postaffiliatepro.com^
-||airhelp.postaffiliatepro.com^
-||apresnail.postaffiliatepro.com^
-||artlist.postaffiliatepro.com^
-||autotempest.postaffiliatepro.com^
-||azurestandard.postaffiliatepro.com^
-||berkeyfilters.postaffiliatepro.com^
-||blackwells.postaffiliatepro.com^
-||carvertical.postaffiliatepro.com^
-||chiefexecutivegroup.postaffiliatepro.com^
-||evike.postaffiliatepro.com^
-||fishingbooker.postaffiliatepro.com^
-||footway.postaffiliatepro.com^
-||guitartricks.postaffiliatepro.com^
-||holavpn.postaffiliatepro.com^
-||iso.postaffiliatepro.com^
-||legionathletics.postaffiliatepro.com^
-||loopmasters.postaffiliatepro.com^
-||lovecrafts.postaffiliatepro.com^
-||medbridge.postaffiliatepro.com^
-||netech.postaffiliatepro.com^
-||oofos.postaffiliatepro.com^
-||perimeter81.postaffiliatepro.com^
-||repfitness.postaffiliatepro.com^
-||selfdecode.postaffiliatepro.com^
-||shipbob.postaffiliatepro.com^
-||sumup.postaffiliatepro.com^
-||thermoworks.postaffiliatepro.com^
-||ubiquiti.postaffiliatepro.com^
-||xeroshoes.postaffiliatepro.com^
 ||aa.postbank.de^
 ||at.postbank.de^
 ||posteezy.com^
@@ -23993,6 +23995,7 @@
 ||root-top.com^
 ||ropemoon.com^
 ||roq.ad^
+||rorgoops.com^
 ||roseliamanga.com^
 ||rosha.ir^
 ||rosiedaulos.com^
