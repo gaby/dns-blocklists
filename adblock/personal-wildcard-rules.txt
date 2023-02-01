@@ -376,6 +376,7 @@
 ||events*.data.microsoft.com^
 ! Office 365 Apps and Services
 @@||browser.events.data.microsoft.com^
+@@||*mobile.events.data.microsoft.com^
 @@||self.events.data.microsoft.com^
 ! Windows / Xbox-Achievments
 @@||*v10.events.data.microsoft.com^
