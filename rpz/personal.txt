@@ -1,5 +1,5 @@
 $TTL 30
-@ SOA rpz.hagezi.personal. hostmaster.hagezi.personal. 1675206000 86400 3600 604800 30
+@ SOA rpz.hagezi.personal. hostmaster.hagezi.personal. 1675292400 86400 3600 604800 30
  NS localhost.
 ;
 ; Title: HaGeZi's Personal DNS Blocklist
@@ -8,10 +8,10 @@ $TTL 30
 ; Issues: https://github.com/hagezi/dns-blocklists/issues
 ; License: https://github.com/hagezi/dns-blocklists/blob/main/LICENSE.md
 ; Expires: Updated regularly
-; Last modified: 01 Feb 2023 18:23 UTC
-; Version: 2023.0201.1823.12
+; Last modified: 01 Feb 2023 23:58 UTC
+; Version: 2023.0201.2358.12
 ; Syntax: RPZ
-; Domains: 31258
+; Domains: 31261
 ;
 marketing.globalpointofcare.abbott CNAME .
 *.marketing.globalpointofcare.abbott CNAME .
@@ -33,6 +33,8 @@ as.ebalovo.adult CNAME .
 *.as.ebalovo.adult CNAME .
 aba.ae CNAME .
 *.aba.ae CNAME .
+fls-eu.amazon.ae CNAME .
+*.fls-eu.amazon.ae CNAME .
 unagi.amazon.ae CNAME .
 *.unagi.amazon.ae CNAME .
 arabiancenter.ae CNAME .
@@ -391,6 +393,8 @@ aedlocator.com.au CNAME .
 *.aedlocator.com.au CNAME .
 allindia.com.au CNAME .
 *.allindia.com.au CNAME .
+fls-fe.amazon.com.au CNAME .
+*.fls-fe.amazon.com.au CNAME .
 unagi.amazon.com.au CNAME .
 *.unagi.amazon.com.au CNAME .
 dd.auspost.com.au CNAME .
@@ -617,6 +621,8 @@ securedata.collectandgo.be CNAME .
 *.securedata.collectandgo.be CNAME .
 securedata.colruyt.be CNAME .
 *.securedata.colruyt.be CNAME .
+fls-eu.amazon.com.be CNAME .
+*.fls-eu.amazon.com.be CNAME .
 unagi.amazon.com.be CNAME .
 *.unagi.amazon.com.be CNAME .
 securedata.dreamland.be CNAME .
@@ -1081,6 +1087,8 @@ abcbox.com.br CNAME .
 *.abcbox.com.br CNAME .
 afilio.com.br CNAME .
 *.afilio.com.br CNAME .
+fls-na.amazon.com.br CNAME .
+*.fls-na.amazon.com.br CNAME .
 unagi.amazon.com.br CNAME .
 *.unagi.amazon.com.br CNAME .
 atomplay.com.br CNAME .
@@ -1313,6 +1321,8 @@ agilecoachcampcanada.ca CNAME .
 *.agilecoachcampcanada.ca CNAME .
 starget.airmiles.ca CNAME .
 *.starget.airmiles.ca CNAME .
+fls-na.amazon.ca CNAME .
+*.fls-na.amazon.ca CNAME .
 unagi.amazon.ca CNAME .
 *.unagi.amazon.ca CNAME .
 assoc-amazon.ca CNAME .
@@ -2077,6 +2087,8 @@ akashina.cn CNAME .
 *.akashina.cn CNAME .
 alimama.cn CNAME .
 *.alimama.cn CNAME .
+fls-cn.amazon.cn CNAME .
+*.fls-cn.amazon.cn CNAME .
 unagi.amazon.cn CNAME .
 *.unagi.amazon.cn CNAME .
 analysys.cn CNAME .
@@ -3925,6 +3937,8 @@ notify.bugsnag.appstore.a2z.com CNAME .
 *.notify.bugsnag.appstore.a2z.com CNAME .
 metrics.client-eng.a2z.com CNAME .
 *.metrics.client-eng.a2z.com CNAME .
+forester.a2z.com CNAME .
+*.forester.a2z.com CNAME .
 na.prod.pdss.paladin.a2z.com CNAME .
 *.na.prod.pdss.paladin.a2z.com CNAME .
 new-telemetry.insights.video.a2z.com CNAME .
@@ -4149,6 +4163,8 @@ acecounter.com CNAME .
 *.acecounter.com CNAME .
 acedigitalhub.com CNAME .
 *.acedigitalhub.com CNAME .
+acemlnb.com CNAME .
+*.acemlnb.com CNAME .
 acertb.com CNAME .
 *.acertb.com CNAME .
 acexedge.com CNAME .
@@ -6117,6 +6133,14 @@ device-metrics-us-2.amazon.com CNAME .
 *.device-metrics-us-2.amazon.com CNAME .
 smetrics.flex.amazon.com CNAME .
 *.smetrics.flex.amazon.com CNAME .
+fls-eu.amazon.com CNAME .
+*.fls-eu.amazon.com CNAME .
+fls-fe.amazon.com CNAME .
+*.fls-fe.amazon.com CNAME .
+fls-fe-opf.amazon.com CNAME .
+*.fls-fe-opf.amazon.com CNAME .
+fls-na.amazon.com CNAME .
+*.fls-na.amazon.com CNAME .
 g-images.amazon.com CNAME .
 *.g-images.amazon.com CNAME .
 mads.amazon.com CNAME .
@@ -6125,8 +6149,14 @@ mads-eu.amazon.com CNAME .
 *.mads-eu.amazon.com CNAME .
 rcm.amazon.com CNAME .
 *.rcm.amazon.com CNAME .
+unagi.amazon.com CNAME .
+*.unagi.amazon.com CNAME .
 unagi-eu.amazon.com CNAME .
 *.unagi-eu.amazon.com CNAME .
+unagi-fe.amazon.com CNAME .
+*.unagi-fe.amazon.com CNAME .
+unagi-na.amazon.com CNAME .
+*.unagi-na.amazon.com CNAME .
 ws.amazon.com CNAME .
 *.ws.amazon.com CNAME .
 aax.amazon-adsystem.com CNAME .
@@ -6159,8 +6189,16 @@ aax-us-pdx.amazon-adsystem.com CNAME .
 *.aax-us-pdx.amazon-adsystem.com CNAME .
 at-us-east.amazon-adsystem.com CNAME .
 *.at-us-east.amazon-adsystem.com CNAME .
+c.amazon-adsystem.com CNAME .
+*.c.amazon-adsystem.com CNAME .
 cdn-a.amazon-adsystem.com CNAME .
 *.cdn-a.amazon-adsystem.com CNAME .
+fls-eu.amazon-adsystem.com CNAME .
+*.fls-eu.amazon-adsystem.com CNAME .
+fls-fe.amazon-adsystem.com CNAME .
+*.fls-fe.amazon-adsystem.com CNAME .
+fls-na.amazon-adsystem.com CNAME .
+*.fls-na.amazon-adsystem.com CNAME .
 imdb.amazon-adsystem.com CNAME .
 *.imdb.amazon-adsystem.com CNAME .
 ir-ca.amazon-adsystem.com CNAME .
@@ -8407,6 +8445,8 @@ smetrics.bedbathandbeyond.com CNAME .
 *.smetrics.bedbathandbeyond.com CNAME .
 beddingcadetexploded.com CNAME .
 *.beddingcadetexploded.com CNAME .
+bedeaflakism.com CNAME .
+*.bedeaflakism.com CNAME .
 bedmantaximan.com CNAME .
 *.bedmantaximan.com CNAME .
 bedrapiona.com CNAME .
@@ -25025,8 +25065,6 @@ au-v10c.events.data.microsoft.com CNAME .
 *.au-v10c.events.data.microsoft.com CNAME .
 emea.events.data.microsoft.com CNAME .
 *.emea.events.data.microsoft.com CNAME .
-eu-mobile.events.data.microsoft.com CNAME .
-*.eu-mobile.events.data.microsoft.com CNAME .
 eu-office.events.data.microsoft.com CNAME .
 *.eu-office.events.data.microsoft.com CNAME .
 eu-teams.events.data.microsoft.com CNAME .
@@ -25063,8 +25101,6 @@ umwatson.events.data.microsoft.com CNAME .
 *.umwatson.events.data.microsoft.com CNAME .
 umwatsonc.events.data.microsoft.com CNAME .
 *.umwatsonc.events.data.microsoft.com CNAME .
-us-mobile.events.data.microsoft.com CNAME .
-*.us-mobile.events.data.microsoft.com CNAME .
 us-v10c.events.data.microsoft.com CNAME .
 *.us-v10c.events.data.microsoft.com CNAME .
 v10c.events.data.microsoft.com CNAME .
@@ -29407,66 +29443,6 @@ d.post-gazette.com CNAME .
 *.d.post-gazette.com CNAME .
 post-redirecting.com CNAME .
 *.post-redirecting.com CNAME .
-1stphorm.postaffiliatepro.com CNAME .
-*.1stphorm.postaffiliatepro.com CNAME .
-airhelp.postaffiliatepro.com CNAME .
-*.airhelp.postaffiliatepro.com CNAME .
-apresnail.postaffiliatepro.com CNAME .
-*.apresnail.postaffiliatepro.com CNAME .
-artlist.postaffiliatepro.com CNAME .
-*.artlist.postaffiliatepro.com CNAME .
-autotempest.postaffiliatepro.com CNAME .
-*.autotempest.postaffiliatepro.com CNAME .
-azurestandard.postaffiliatepro.com CNAME .
-*.azurestandard.postaffiliatepro.com CNAME .
-berkeyfilters.postaffiliatepro.com CNAME .
-*.berkeyfilters.postaffiliatepro.com CNAME .
-blackwells.postaffiliatepro.com CNAME .
-*.blackwells.postaffiliatepro.com CNAME .
-carvertical.postaffiliatepro.com CNAME .
-*.carvertical.postaffiliatepro.com CNAME .
-chiefexecutivegroup.postaffiliatepro.com CNAME .
-*.chiefexecutivegroup.postaffiliatepro.com CNAME .
-evike.postaffiliatepro.com CNAME .
-*.evike.postaffiliatepro.com CNAME .
-fishingbooker.postaffiliatepro.com CNAME .
-*.fishingbooker.postaffiliatepro.com CNAME .
-footway.postaffiliatepro.com CNAME .
-*.footway.postaffiliatepro.com CNAME .
-guitartricks.postaffiliatepro.com CNAME .
-*.guitartricks.postaffiliatepro.com CNAME .
-holavpn.postaffiliatepro.com CNAME .
-*.holavpn.postaffiliatepro.com CNAME .
-iso.postaffiliatepro.com CNAME .
-*.iso.postaffiliatepro.com CNAME .
-legionathletics.postaffiliatepro.com CNAME .
-*.legionathletics.postaffiliatepro.com CNAME .
-loopmasters.postaffiliatepro.com CNAME .
-*.loopmasters.postaffiliatepro.com CNAME .
-lovecrafts.postaffiliatepro.com CNAME .
-*.lovecrafts.postaffiliatepro.com CNAME .
-medbridge.postaffiliatepro.com CNAME .
-*.medbridge.postaffiliatepro.com CNAME .
-netech.postaffiliatepro.com CNAME .
-*.netech.postaffiliatepro.com CNAME .
-oofos.postaffiliatepro.com CNAME .
-*.oofos.postaffiliatepro.com CNAME .
-perimeter81.postaffiliatepro.com CNAME .
-*.perimeter81.postaffiliatepro.com CNAME .
-repfitness.postaffiliatepro.com CNAME .
-*.repfitness.postaffiliatepro.com CNAME .
-selfdecode.postaffiliatepro.com CNAME .
-*.selfdecode.postaffiliatepro.com CNAME .
-shipbob.postaffiliatepro.com CNAME .
-*.shipbob.postaffiliatepro.com CNAME .
-sumup.postaffiliatepro.com CNAME .
-*.sumup.postaffiliatepro.com CNAME .
-thermoworks.postaffiliatepro.com CNAME .
-*.thermoworks.postaffiliatepro.com CNAME .
-ubiquiti.postaffiliatepro.com CNAME .
-*.ubiquiti.postaffiliatepro.com CNAME .
-xeroshoes.postaffiliatepro.com CNAME .
-*.xeroshoes.postaffiliatepro.com CNAME .
 posteezy.com CNAME .
 *.posteezy.com CNAME .
 posthog.com CNAME .
@@ -31787,6 +31763,8 @@ root-top.com CNAME .
 *.root-top.com CNAME .
 ropemoon.com CNAME .
 *.ropemoon.com CNAME .
+rorgoops.com CNAME .
+*.rorgoops.com CNAME .
 roseliamanga.com CNAME .
 *.roseliamanga.com CNAME .
 rosiedaulos.com CNAME .
@@ -41669,6 +41647,8 @@ advertising.amazon.de CNAME .
 *.advertising.amazon.de CNAME .
 aviary.amazon.de CNAME .
 *.aviary.amazon.de CNAME .
+fls-eu.amazon.de CNAME .
+*.fls-eu.amazon.de CNAME .
 unagi.amazon.de CNAME .
 *.unagi.amazon.de CNAME .
 amunx.de CNAME .
@@ -42763,6 +42743,8 @@ ingress.linktr.ee CNAME .
 *.ingress.linktr.ee CNAME .
 rce.ee CNAME .
 *.rce.ee CNAME .
+fls-eu.amazon.eg CNAME .
+*.fls-eu.amazon.eg CNAME .
 unagi.amazon.eg CNAME .
 *.unagi.amazon.eg CNAME .
 monofeya.gov.eg CNAME .
@@ -42787,6 +42769,8 @@ airlite.es CNAME .
 *.airlite.es CNAME .
 teijs.alcampo.es CNAME .
 *.teijs.alcampo.es CNAME .
+fls-eu.amazon.es CNAME .
+*.fls-eu.amazon.es CNAME .
 unagi.amazon.es CNAME .
 *.unagi.amazon.es CNAME .
 assoc-amazon.es CNAME .
@@ -43073,6 +43057,8 @@ tk.airfrance.fr CNAME .
 *.tk.airfrance.fr CNAME .
 wz.allianz.fr CNAME .
 *.wz.allianz.fr CNAME .
+fls-eu.amazon.fr CNAME .
+*.fls-eu.amazon.fr CNAME .
 unagi.amazon.fr CNAME .
 *.unagi.amazon.fr CNAME .
 assoc-amazon.fr CNAME .
@@ -44067,6 +44053,8 @@ adsplay.in CNAME .
 *.adsplay.in CNAME .
 digianalytics.airtel.in CNAME .
 *.digianalytics.airtel.in CNAME .
+fls-eu.amazon.in CNAME .
+*.fls-eu.amazon.in CNAME .
 unagi.amazon.in CNAME .
 *.unagi.amazon.in CNAME .
 appads.in CNAME .
@@ -46071,6 +46059,8 @@ adshrink.it CNAME .
 *.adshrink.it CNAME .
 agasitalimpiantisrls.it CNAME .
 *.agasitalimpiantisrls.it CNAME .
+fls-eu.amazon.it CNAME .
+*.fls-eu.amazon.it CNAME .
 unagi.amazon.it CNAME .
 *.unagi.amazon.it CNAME .
 assoc-amazon.it CNAME .
@@ -46277,6 +46267,10 @@ advertising.amazon.co.jp CNAME .
 *.advertising.amazon.co.jp CNAME .
 aviary.amazon.co.jp CNAME .
 *.aviary.amazon.co.jp CNAME .
+fls-fe.amazon.co.jp CNAME .
+*.fls-fe.amazon.co.jp CNAME .
+unagi.amazon.co.jp CNAME .
+*.unagi.amazon.co.jp CNAME .
 boost-next.co.jp CNAME .
 *.boost-next.co.jp CNAME .
 casti.co.jp CNAME .
@@ -47691,6 +47685,8 @@ cieh.mx CNAME .
 *.cieh.mx CNAME .
 agencianvm.com.mx CNAME .
 *.agencianvm.com.mx CNAME .
+fls-na.amazon.com.mx CNAME .
+*.fls-na.amazon.com.mx CNAME .
 unagi.amazon.com.mx CNAME .
 *.unagi.amazon.com.mx CNAME .
 artecinema.com.mx CNAME .
@@ -52335,10 +52331,6 @@ nr-data.net CNAME .
 *.nr-data.net CNAME .
 ns1p.net CNAME .
 *.ns1p.net CNAME .
-choice.microsoft.com.nsatc.net CNAME .
-*.choice.microsoft.com.nsatc.net CNAME .
-sqm.telemetry.microsoft.com.nsatc.net CNAME .
-*.sqm.telemetry.microsoft.com.nsatc.net CNAME .
 cdn.nsimg.net CNAME .
 *.cdn.nsimg.net CNAME .
 nspenchan.net CNAME .
@@ -54221,6 +54213,8 @@ adscience.nl CNAME .
 *.adscience.nl CNAME .
 adzs.nl CNAME .
 *.adzs.nl CNAME .
+fls-eu.amazon.nl CNAME .
+*.fls-eu.amazon.nl CNAME .
 unagi.amazon.nl CNAME .
 *.unagi.amazon.nl CNAME .
 beautysalontogether.nl CNAME .
@@ -55763,6 +55757,8 @@ adview.pl CNAME .
 *.adview.pl CNAME .
 vhsrwd.aip24.pl CNAME .
 *.vhsrwd.aip24.pl CNAME .
+fls-eu.amazon.pl CNAME .
+*.fls-eu.amazon.pl CNAME .
 unagi.amazon.pl CNAME .
 *.unagi.amazon.pl CNAME .
 s.bankier.pl CNAME .
@@ -57767,6 +57763,8 @@ wide-composition-planned-gun.run CNAME .
 *.wide-composition-planned-gun.run CNAME .
 url.rw CNAME .
 *.url.rw CNAME .
+fls-eu.amazon.sa CNAME .
+*.fls-eu.amazon.sa CNAME .
 unagi.amazon.sa CNAME .
 *.unagi.amazon.sa CNAME .
 mcsalrass.org.sa CNAME .
@@ -57779,6 +57777,8 @@ ragilab.science CNAME .
 *.ragilab.science CNAME .
 aline.se CNAME .
 *.aline.se CNAME .
+fls-eu.amazon.se CNAME .
+*.fls-eu.amazon.se CNAME .
 unagi.amazon.se CNAME .
 *.unagi.amazon.se CNAME .
 ipfs.best-practice.se CNAME .
@@ -57865,6 +57865,8 @@ analytics.sieuviet.services CNAME .
 *.analytics.sieuviet.services CNAME .
 y0utube.services CNAME .
 *.y0utube.services CNAME .
+fls-fe.amazon.sg CNAME .
+*.fls-fe.amazon.sg CNAME .
 unagi.amazon.sg CNAME .
 *.unagi.amazon.sg CNAME .
 smetrics.citibank.com.sg CNAME .
@@ -59859,6 +59861,8 @@ admatic.com.tr CNAME .
 *.admatic.com.tr CNAME .
 adtarget.com.tr CNAME .
 *.adtarget.com.tr CNAME .
+fls-eu.amazon.com.tr CNAME .
+*.fls-eu.amazon.com.tr CNAME .
 unagi.amazon.com.tr CNAME .
 *.unagi.amazon.com.tr CNAME .
 basthome.com.tr CNAME .
@@ -60351,6 +60355,8 @@ aan.amazon.co.uk CNAME .
 *.aan.amazon.co.uk CNAME .
 advertising.amazon.co.uk CNAME .
 *.advertising.amazon.co.uk CNAME .
+fls-eu.amazon.co.uk CNAME .
+*.fls-eu.amazon.co.uk CNAME .
 rcm-uk.amazon.co.uk CNAME .
 *.rcm-uk.amazon.co.uk CNAME .
 unagi.amazon.co.uk CNAME .
