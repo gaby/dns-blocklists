@@ -542,8 +542,8 @@
 ! Issues: https://github.com/hagezi/dns-blocklists/issues
 ! License: https://github.com/hagezi/dns-blocklists/blob/main/LICENSE.md
 ! Expires: Updated regularly
-! Last modified: 02 Feb 2023 08:29 UTC
-! Version: 2023.0202.0829.04
+! Last modified: 02 Feb 2023 10:26 UTC
+! Version: 2023.0202.1026.29
 ! Syntax: AdBlock
 ! Domains: 26609
 !
@@ -35085,6 +35085,16 @@
 ! https://github.com/hagezi/dns-blocklists/issues/289
 @@|m1.com^
 @@|www.m1.com^
+
+! Videos on theguardian.com
+@@|interactive.guim.co.uk^
+
+! Breaks site layout chaturbate
+@@|static-assets.highwebmedia.com^
+
+! Torrent tracker
+@@|tracker.tleechreload.org^
+@@|tracker.empornium.sx^
 
 
 ! Title: HaGeZi's White-/Allowlist Referral for Black & White list
