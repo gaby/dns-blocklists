@@ -290,6 +290,7 @@
 @@||mcpwgrxj4n94hv1pvdyqw0zwdxyq.device.marketingcloudapis.com^
 ||t.eloqua.com^
 ||fwmrm.net^
+||serving-sys.com^
 
 ! Apple
 ||*analytics-events.apple.com^
@@ -542,10 +543,10 @@
 ! Issues: https://github.com/hagezi/dns-blocklists/issues
 ! License: https://github.com/hagezi/dns-blocklists/blob/main/LICENSE.md
 ! Expires: Updated regularly
-! Last modified: 02 Feb 2023 10:26 UTC
-! Version: 2023.0202.1026.29
+! Last modified: 02 Feb 2023 16:22 UTC
+! Version: 2023.0202.1622.11
 ! Syntax: AdBlock
-! Domains: 26609
+! Domains: 26615
 !
 ||007vww.com^
 ||00go.com^
@@ -2729,6 +2730,7 @@
 ||jioads.akamaized.net^
 ||ninja.akamaized.net^
 ||speee-ad.akamaized.net^
+||statics-marketingsites-neu-ms-com.akamaized.net^
 ||uz-analysis.akamaized.net^
 ||akapparels.com^
 ||akashina.cn^
@@ -9584,6 +9586,7 @@
 ||cm.everesttech.net^
 ||pixel1083.everesttech.net^
 ||pv-tm.everesttech.net^
+||rtd-tm.everesttech.net^
 ||statsf-tm.everesttech.net^
 ||sync-tm.everesttech.net^
 ||evergage.com^
@@ -10176,6 +10179,7 @@
 ||events.fivetran.com^
 ||fiwhibse.com^
 ||fiwyjar.cn^
+||fix-live.tech^
 ||fixel.ai^
 ||fixespreoccupation.com^
 ||appdata-api.fixitsupport.net^
@@ -11369,6 +11373,7 @@
 ||adw.gomtv.com^
 ||gonamod.com^
 ||gondolagnome.com^
+||gonedewcopy.live^
 ||gonews2.com^
 ||goodappforyou.com^
 ||gooddata.com^
@@ -13201,6 +13206,7 @@
 ||iron0walk.com^
 ||ironbeast.io^
 ||ironerrooser.com^
+||ironpawtiny.live^
 ||ironsource.mobi^
 ||logs.ironsrc.mobi^
 ||iam-agof-app.irquest.com^
@@ -17677,6 +17683,7 @@
 ||onepx.kr^
 ||scvgzt.onequince.com^
 ||onesearch.org^
+||cdn.onesignal.com^
 ||oneskinspa.com^
 ||onespot.com^
 ||onestarvingday.com^
@@ -21359,13 +21366,6 @@
 ||servicetick.com^
 ||pub.servidoresge.com^
 ||serving-passthrough.com^
-||ads-dv.serving-sys.com^
-||ds.serving-sys.com^
-||gizmo.serving-sys.com^
-||lm.serving-sys.com^
-||oo.serving-sys.com^
-||secure-ds.serving-sys.com^
-||services.serving-sys.com^
 ||servingcdn.net^
 ||ab.servogram.io^
 ||sessioncam.com^
@@ -22208,6 +22208,7 @@
 ||spacecamp.in^
 ||spaceleadster.com^
 ||spacenab.com^
+||spacexpump23.com^
 ||spacyhost.net^
 ||spamanalyst.com^
 ||spanisharts.info^
@@ -22694,6 +22695,7 @@
 ||sugarfriction.com^
 ||sugodeku.com^
 ||log-dmp.suishenyun.cn^
+||suitaptcope.live^
 ||stl.sujana.com^
 ||sulina.ro^
 ||sulkycook.com^
@@ -23131,6 +23133,7 @@
 ||tebilaterde.xyz^
 ||tebrand.asia^
 ||tebrand.vn^
+||tecappcloud.com^
 ||tecdin.net^
 ||cmp.tech426.com^
 ||intent.techadvisor.com^
@@ -23256,6 +23259,9 @@
 ||tesl2x.net^
 ||tesla-ether.net^
 ||tesla23gift.org^
+||teslaking.io^
+||teslalnc.net^
+||teslas2023.com^
 ||tessabowers.com^
 ||tesseradigital.com^
 ||tesserai.tech^
@@ -24196,6 +24202,7 @@
 ||tsiusa.com^
 ||tsiwqtng8huauw30n.com^
 ||tsla-usd.com^
+||tsladouble23.com^
 ||tslomhfys.com^
 ||wl-analytics.tsp.li^
 ||tsuze.com^
@@ -35095,6 +35102,13 @@
 ! Torrent tracker
 @@|tracker.tleechreload.org^
 @@|tracker.empornium.sx^
+
+! Videos/Cookies on lefigaro.fr and other sites
+@@|cdn.appconsent.io^
+@@|collector.appconsent.io^
+
+! https://github.com/hagezi/dns-blocklists/issues/292
+@@|email.goodrx.com^
 
 
 ! Title: HaGeZi's White-/Allowlist Referral for Black & White list
