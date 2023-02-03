@@ -33,9 +33,9 @@
 #### ***Multi blocklist version and size overview:***
 | Version | Hosts | Pro++ | Pro | Normal | Light | [Fake](#fake) | [TIF](#tif) | [Personal](#personal) | 
 |:--------|---:|:---:|:------:|:-----:|:----:|:---:|:------:|:----------:|
-| [Light](#light)             | 277174<br>130332     | |   |   | = | X | P | X |
-| [Normal](#normal)       | 947457<br>318243     | |   | = | X | X | P | X |
-| [Pro](#pro)              | 1243634<br>460959         | | = | X | X | X | P | X |
+| [Light](#light)             | 283625<br>133566     | |   |   | = | X | P | X |
+| [Normal](#normal)       | 948221<br>318685     | |   | = | X | X | P | X |
+| [Pro](#pro)              | 1244364<br>461395         | | = | X | X | X | P | X |
 | [Pro++](#proplus)    | 1358111<br>479303 | | ++ | X | X | X | P |  X |
 | [Ultimate](#ultimate)    | 2069527<br>828482 | ++ | X | X | X | X | X |  X |
            
@@ -49,7 +49,7 @@
       
 *Hand brush - Cleans the Internet and protects your privacy! Blocks Ads, Tracking, Metrics, some Malware and Fake.*
           
-**Entries:** *277174 domains/hosts - 130332 compressed domains* | [Sources/Statistics](https://github.com/hagezi/dns-blocklists/blob/main/usedsources.md#light)         
+**Entries:** *283625 domains/hosts - 133566 compressed domains* | [Sources/Statistics](https://github.com/hagezi/dns-blocklists/blob/main/usedsources.md#light)         
          
 | Format | Link | Can be used for |
 |:-------|:-----|:----------------|
@@ -65,7 +65,7 @@
       
 *Broom - Cleans the Internet and protects your privacy! Blocks Ads, Affiliate, Tracking, Metrics, Telemetry, Phishing, Malware, Scam, Fake, Coins and other "Crap".*
          
-**Entries:** *947457 domains/hosts - 318243 compressed domains* | [Sources/Statistics](https://github.com/hagezi/dns-blocklists/blob/main/usedsources.md#multi)        
+**Entries:** *948221 domains/hosts - 318685 compressed domains* | [Sources/Statistics](https://github.com/hagezi/dns-blocklists/blob/main/usedsources.md#multi)        
           
 | Format | Link | Can be used for |
 |:-------|:-----|:----------------|
@@ -81,7 +81,7 @@
       
 *Big broom - Cleans the Internet and protects your privacy! Blocks Ads, Affiliate, Tracking, Metrics, Telemetry, Phishing, Malware, Scam, Fake, Coins and other "Crap".*
          
-**Entries:** *1243634 domains/hosts - 460959 compressed domains* | [Sources/Statistics](https://github.com/hagezi/dns-blocklists/blob/main/usedsources.md#pro)        
+**Entries:** *1244364 domains/hosts - 461395 compressed domains* | [Sources/Statistics](https://github.com/hagezi/dns-blocklists/blob/main/usedsources.md#pro)        
            
 | Format | Link | Can be used for |
 |:-------|:-----|:----------------|

@@ -3,7 +3,7 @@
 #### LIGHT
 [whitelisted domains](https://raw.githubusercontent.com/hagezi/dns-data-collection/main/data/light-removed-white.txt) | [whitelisted referral domains](https://raw.githubusercontent.com/hagezi/dns-data-collection/main/data/light-removed-referral.txt) | [dead domains](https://raw.githubusercontent.com/hagezi/dns-data-collection/main/data/light-removed-dead.txt)
 ```
-315524 total unique domains | 277174 (88%) included | 1860 (1%) removed | 36490 (12%) dead
+322377 total unique domains | 283625 (88%) included | 1860 (1%) removed | 36892 (11%) dead
 
  Nr | Included | Dead | Removed | URL/File
   1 |     100% |   0% |      0% | light.extension.domains
@@ -13,41 +13,31 @@
   5 |      89% |  11% |      0% | https://threatfox.abuse.ch/downloads/hostfile
   6 |     100% |   0% |      0% | https://urlhaus.abuse.ch/downloads/hostfile
   7 |      79% |  21% |      0% | https://raw.githubusercontent.com/elliotwutingfeng/Inversion-DNSBL-Blocklists/main/Google_hostnames_light.txt
-  8 |      89% |  11% |      0% | https://raw.githubusercontent.com/AssoEchap/stalkerware-indicators/master/generated/hosts_full
-  9 |      98% |   2% |      0% | https://raw.githubusercontent.com/durablenapkin/scamblocklist/master/hosts.txt
- 10 |      93% |   1% |      6% | black.list
- 11 |     100% |   0% |      0% | personal.txt
- 12 |     100% |   0% |      0% | fake.txt
+  8 |      83% |  17% |      0% | https://threatview.io/Downloads/DOMAIN-High-Confidence-Feed.txt
+  9 |      89% |  11% |      0% | https://raw.githubusercontent.com/AssoEchap/stalkerware-indicators/master/generated/hosts_full
+ 10 |      98% |   2% |      0% | https://raw.githubusercontent.com/durablenapkin/scamblocklist/master/hosts.txt
+ 11 |      93% |   1% |      6% | black.list
+ 12 |     100% |   0% |      0% | personal.txt
+ 13 |     100% |   0% |      0% | fake.txt
 
 For domain and host lists, additionally: matching/missing subdomains (see at the bottom)
 ```
 #### MULTI
 [whitelisted domains](https://raw.githubusercontent.com/hagezi/dns-data-collection/main/data/multi-removed-white.txt) | [whitelisted referral domains](https://raw.githubusercontent.com/hagezi/dns-data-collection/main/data/multi-removed-referral.txt) | [dead domains](https://raw.githubusercontent.com/hagezi/dns-data-collection/main/data/multi-removed-dead.txt)
 ```
-1024914 total unique domains | 947457 (92%) included | 2189 (0%) removed | 75268 (7%) dead
+1010704 total unique domains | 948221 (94%) included | 664 (0%) removed | 61819 (6%) dead
 
  Nr | Included | Dead | Removed | URL/File
   1 |     100% |   0% |      0% | multi.extension.domains
   2 |      96% |   4% |      0% | oisd.domains.txt
   3 |     100% |   0% |      0% | light.txt
-  4 |     100% |   0% |      0% | light.extension.domains
-  5 |      97% |   1% |      2% | https://raw.githubusercontent.com/badmojr/1Hosts/master/Lite/hosts.txt
-  6 |      92% |   8% |      0% | https://adguardteam.github.io/AdGuardSDNSFilter/Filters/filter.txt
-  7 |      89% |  11% |      0% | https://threatfox.abuse.ch/downloads/hostfile
-  8 |     100% |   0% |      0% | https://urlhaus.abuse.ch/downloads/hostfile
-  9 |      79% |  21% |      0% | https://raw.githubusercontent.com/elliotwutingfeng/Inversion-DNSBL-Blocklists/main/Google_hostnames_light.txt
- 10 |      89% |  11% |      0% | https://raw.githubusercontent.com/AssoEchap/stalkerware-indicators/master/generated/hosts_full
- 11 |      98% |   2% |      0% | https://raw.githubusercontent.com/durablenapkin/scamblocklist/master/hosts.txt
- 12 |      93% |   1% |      6% | black.list
- 13 |     100% |   0% |      0% | personal.txt
- 14 |     100% |   0% |      0% | fake.txt
 
 For domain and host lists, additionally: matching/missing subdomains (see at the bottom)
 ```
 #### PRO
 [whitelisted domains](https://raw.githubusercontent.com/hagezi/dns-data-collection/main/data/pro-removed-white.txt) | [whitelisted referral domains](https://raw.githubusercontent.com/hagezi/dns-data-collection/main/data/pro-removed-referral.txt) | [dead domains](https://raw.githubusercontent.com/hagezi/dns-data-collection/main/data/pro-removed-dead.txt)
 ```
-1549432 total unique domains | 1243634 (80%) included | 2541 (0%) removed | 303257 (20%) dead
+1520803 total unique domains | 1244364 (82%) included | 861 (0%) removed | 275578 (18%) dead
 
  Nr | Included | Dead | Removed | URL/File
   1 |     100% |   0% |      0% | pro.extension.domains
@@ -56,20 +46,6 @@ For domain and host lists, additionally: matching/missing subdomains (see at the
   4 |      75% |  25% |      0% | https://raw.githubusercontent.com/notracking/hosts-blocklists/master/dnscrypt-proxy/dnscrypt-proxy.blacklist.txt
   5 |      67% |  33% |      0% | https://raw.githubusercontent.com/StevenBlack/hosts/master/hosts
   6 |     100% |   0% |      0% | multi.txt
-  7 |     100% |   0% |      0% | multi.extension.domains
-  8 |      96% |   4% |      0% | oisd.domains.txt
-  9 |     100% |   0% |      0% | light.txt
- 10 |     100% |   0% |      0% | light.extension.domains
- 11 |      97% |   1% |      2% | https://raw.githubusercontent.com/badmojr/1Hosts/master/Lite/hosts.txt
- 12 |      92% |   8% |      0% | https://adguardteam.github.io/AdGuardSDNSFilter/Filters/filter.txt
- 13 |      89% |  11% |      0% | https://threatfox.abuse.ch/downloads/hostfile
- 14 |     100% |   0% |      0% | https://urlhaus.abuse.ch/downloads/hostfile
- 15 |      79% |  21% |      0% | https://raw.githubusercontent.com/elliotwutingfeng/Inversion-DNSBL-Blocklists/main/Google_hostnames_light.txt
- 16 |      89% |  11% |      0% | https://raw.githubusercontent.com/AssoEchap/stalkerware-indicators/master/generated/hosts_full
- 17 |      98% |   2% |      0% | https://raw.githubusercontent.com/durablenapkin/scamblocklist/master/hosts.txt
- 18 |      93% |   1% |      6% | black.list
- 19 |     100% |   0% |      0% | personal.txt
- 20 |     100% |   0% |      0% | fake.txt
 
 For domain and host lists, additionally: matching/missing subdomains (see at the bottom)
 ```
