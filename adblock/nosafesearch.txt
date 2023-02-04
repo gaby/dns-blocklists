@@ -3,10 +3,10 @@
 ! Homepage: https://github.com/hagezi/dns-blocklists
 ! Issues: https://github.com/hagezi/dns-blocklists/issues
 ! Expires: Updated regularly
-! Last modified: 26 Jan 2023 23:03 UTC
-! Version: 2023.0126.2303.51
+! Last modified: 04 Feb 2023 23:05 UTC
+! Version: 2023.0204.2305.07
 ! Syntax: AdBlock
-! Domains: 149
+! Domains: 150
 !
 ||search.0xcb.dev^
 ||searx.32bitflo.at^
@@ -153,6 +153,7 @@
 ||webcrawler.com^
 ||searx.wegeeks.win^
 ||search.yahoo.com^
+||yep.com^
 ||yippy.com^
 ||you.com^
 ||searx.zapashcanon.fr^
