@@ -544,8 +544,8 @@
 ! Issues: https://github.com/hagezi/dns-blocklists/issues
 ! License: https://github.com/hagezi/dns-blocklists/blob/main/LICENSE.md
 ! Expires: Updated regularly
-! Last modified: 04 Feb 2023 04:20 UTC
-! Version: 2023.0204.0420.19
+! Last modified: 04 Feb 2023 15:51 UTC
+! Version: 2023.0204.1551.12
 ! Syntax: AdBlock
 ! Domains: 31700
 !
@@ -40231,6 +40231,9 @@
 
 ! https://github.com/hagezi/dns-blocklists/issues/294
 @@|tracker.scenetime.com^
+
+! Customer care of Swiggy Food Delivery App
+@@||pubnub.com^
 
 
 ! Title: HaGeZi's White-/Allowlist Referral for Black & White list
