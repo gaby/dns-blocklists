@@ -544,8 +544,8 @@
 ! Issues: https://github.com/hagezi/dns-blocklists/issues
 ! License: https://github.com/hagezi/dns-blocklists/blob/main/LICENSE.md
 ! Expires: Updated regularly
-! Last modified: 03 Feb 2023 23:59 UTC
-! Version: 2023.0203.2359.21
+! Last modified: 04 Feb 2023 04:20 UTC
+! Version: 2023.0204.0420.19
 ! Syntax: AdBlock
 ! Domains: 31700
 !
@@ -40228,6 +40228,9 @@
 
 ! https://github.com/hagezi/dns-blocklists/issues/292
 @@|email.goodrx.com^
+
+! https://github.com/hagezi/dns-blocklists/issues/294
+@@|tracker.scenetime.com^
 
 
 ! Title: HaGeZi's White-/Allowlist Referral for Black & White list
