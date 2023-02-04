@@ -7,8 +7,8 @@
 ! Issues: https://github.com/hagezi/dns-blocklists/issues
 ! License: https://github.com/hagezi/dns-blocklists/blob/main/LICENSE.md
 ! Expires: Updated regularly
-! Last modified: 02 Feb 2023 23:11 UTC
-! Version: 2023.0202.2311.49
+! Last modified: 04 Feb 2023 23:12 UTC
+! Version: 2023.0204.2312.46
 ! Syntax: AdGuard
 !
 |*.agency^$denyallow=battlefield.agency|shortcut.agency
@@ -39,4 +39,5 @@
 |*.surf^$denyallow=kayaking.surf|quran.surf|s-wings.surf|surfstation.surf
 |*.tk^$denyallow=bstweaker.tk|budterence.tk|c0d3c.tk|coolcmd.tk|coppersurfer.tk|fakaofo.tk|google.tk|goshujin.tk|gotofap.tk|graph.tk|loljp-wiki.tk|nbd-media.tk|ninetail.tk|nolfrevival.tk|tokelau-info.tk|transportnews.tk
 |*.top^$denyallow=caitlin.top|corriente.top|gdtot.top|nicenature.top|reminder.top|magocoro.top|castlevania.top|suiten.top|shucks.top|1stream.top|ambr.top|techblog.top|changlam10.top|changlam11.top|pdcdn1.top|mastodon.top|pressplay.top|chillx.top
+|*.uno^
 |*.zone^$denyallow=itsm.zone|kidtopia.zone|kinogo.zone|martech.zone|typinggames.zone
