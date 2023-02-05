@@ -7,8 +7,8 @@
 ! Issues: https://github.com/hagezi/dns-blocklists/issues
 ! License: https://github.com/hagezi/dns-blocklists/blob/main/LICENSE.md
 ! Expires: Updated regularly
-! Last modified: 04 Feb 2023 23:12 UTC
-! Version: 2023.0204.2312.46
+! Last modified: 05 Feb 2023 23:12 UTC
+! Version: 2023.0205.2312.45
 ! Syntax: uBlock
 !
 ||agency^$doc,domain=~battlefield.agency|~shortcut.agency
@@ -27,7 +27,7 @@
 ||loan^$doc
 ||loans^$doc
 ||ml^$doc,domain=~amap.ml|~beatbump.ml|~biblioreads.ml|~google.ml|~info-matin.ml|~lemmy.ml|~lingva.ml|~mastodon.ml|~melody.ml|~nothingprivate.ml|~prompt.ml
-||monster^$doc,domain=~egybest.monster|~yts.monster|~cloudcdn.monster|~fedi.monster
+||monster^$doc,domain=~egybest.monster|~yts.monster|~cloudcdn.monster|~fedi.monster|~rollenspiel.monster
 ||okinawa^$doc
 ||online^$doc,domain=~allhen.online|~amedia.online|~chainsaw-man-manga.online|~ero-labs.online|~manga1st.online
 ||ooo^$doc
