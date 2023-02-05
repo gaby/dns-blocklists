@@ -1,5 +1,5 @@
 $TTL 30
-@ SOA rpz.hagezi.fake. hostmaster.hagezi.fake. 1675551600 86400 3600 604800 30
+@ SOA rpz.hagezi.fake. hostmaster.hagezi.fake. 1675638000 86400 3600 604800 30
  NS localhost.
 ;
 ; Title: HaGeZi's Fake DNS Blocklist
@@ -8,10 +8,10 @@ $TTL 30
 ; Issues: https://github.com/hagezi/dns-blocklists/issues
 ; License: https://github.com/hagezi/dns-blocklists/blob/main/LICENSE.md
 ; Expires: Updated regularly
-; Last modified: 04 Feb 2023 23:16 UTC
-; Version: 2023.0204.2316.32
+; Last modified: 05 Feb 2023 23:16 UTC
+; Version: 2023.0205.2316.30
 ; Syntax: RPZ
-; Domains: 5420
+; Domains: 5421
 ;
 1euro.at CNAME .
 *.1euro.at CNAME .
@@ -551,8 +551,6 @@ panamajackwien.at CNAME .
 *.panamajackwien.at CNAME .
 pc-akku.at CNAME .
 *.pc-akku.at CNAME .
-performance-gloves.at CNAME .
-*.performance-gloves.at CNAME .
 petersdorf2.at CNAME .
 *.petersdorf2.at CNAME .
 pfm-magazin.at CNAME .
@@ -1583,6 +1581,8 @@ blue-immo.com CNAME .
 *.blue-immo.com CNAME .
 bluefanc.com CNAME .
 *.bluefanc.com CNAME .
+bluemuli.com CNAME .
+*.bluemuli.com CNAME .
 blumestar.com CNAME .
 *.blumestar.com CNAME .
 blushysilk.com CNAME .
@@ -1883,6 +1883,8 @@ climbdmm.com CNAME .
 *.climbdmm.com CNAME .
 climissions.com CNAME .
 *.climissions.com CNAME .
+cllovery.com CNAME .
+*.cllovery.com CNAME .
 clockersbcn.com CNAME .
 *.clockersbcn.com CNAME .
 clothes-limited.com CNAME .
@@ -7479,6 +7481,8 @@ iamkamu.de CNAME .
 *.iamkamu.de CNAME .
 icm-consulting.de CNAME .
 *.icm-consulting.de CNAME .
+iconmobel.de CNAME .
+*.iconmobel.de CNAME .
 ideal-elektro.de CNAME .
 *.ideal-elektro.de CNAME .
 igbce-stolberg.de CNAME .
@@ -8343,8 +8347,6 @@ ostergartenhermesdorf.de CNAME .
 *.ostergartenhermesdorf.de CNAME .
 otto-angebote.de CNAME .
 *.otto-angebote.de CNAME .
-ouraltis.de CNAME .
-*.ouraltis.de CNAME .
 outdoor-repel.de CNAME .
 *.outdoor-repel.de CNAME .
 owlkaminholz.de CNAME .
