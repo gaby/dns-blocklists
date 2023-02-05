@@ -2347,3 +2347,6 @@ h.imguol.com
 # Fix BBC Videos (Consent banner blocked)
 *.fundingchoicesmessages.google.com
 
+# https://github.com/hagezi/dns-blocklists/issues/300
+*.stat.gov.pl
+
