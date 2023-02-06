@@ -1,5 +1,5 @@
 $TTL 30
-@ SOA rpz.hagezi.fake. hostmaster.hagezi.fake. 1675638000 86400 3600 604800 30
+@ SOA rpz.hagezi.fake. hostmaster.hagezi.fake. 1675724400 86400 3600 604800 30
  NS localhost.
 ;
 ; Title: HaGeZi's Fake DNS Blocklist
@@ -8,10 +8,10 @@ $TTL 30
 ; Issues: https://github.com/hagezi/dns-blocklists/issues
 ; License: https://github.com/hagezi/dns-blocklists/blob/main/LICENSE.md
 ; Expires: Updated regularly
-; Last modified: 05 Feb 2023 23:16 UTC
-; Version: 2023.0205.2316.30
+; Last modified: 06 Feb 2023 23:17 UTC
+; Version: 2023.0206.2317.16
 ; Syntax: RPZ
-; Domains: 5421
+; Domains: 5417
 ;
 1euro.at CNAME .
 *.1euro.at CNAME .
@@ -1581,8 +1581,6 @@ blue-immo.com CNAME .
 *.blue-immo.com CNAME .
 bluefanc.com CNAME .
 *.bluefanc.com CNAME .
-bluemuli.com CNAME .
-*.bluemuli.com CNAME .
 blumestar.com CNAME .
 *.blumestar.com CNAME .
 blushysilk.com CNAME .
@@ -1883,8 +1881,6 @@ climbdmm.com CNAME .
 *.climbdmm.com CNAME .
 climissions.com CNAME .
 *.climissions.com CNAME .
-cllovery.com CNAME .
-*.cllovery.com CNAME .
 clockersbcn.com CNAME .
 *.clockersbcn.com CNAME .
 clothes-limited.com CNAME .
@@ -2607,8 +2603,6 @@ fotopr-online.com CNAME .
 *.fotopr-online.com CNAME .
 fotosocken.com CNAME .
 *.fotosocken.com CNAME .
-foxxum.com CNAME .
-*.foxxum.com CNAME .
 fpjollet.com CNAME .
 *.fpjollet.com CNAME .
 frankiemakeupartist.com CNAME .
@@ -3661,8 +3655,8 @@ mcoaltmeds.com CNAME .
 *.mcoaltmeds.com CNAME .
 mctrl-marktforschung.com CNAME .
 *.mctrl-marktforschung.com CNAME .
-mdates.com CNAME .
-*.mdates.com CNAME .
+bl.mdates.com CNAME .
+*.bl.mdates.com CNAME .
 media-heinemann.com CNAME .
 *.media-heinemann.com CNAME .
 media-palmer.com CNAME .
@@ -5769,8 +5763,6 @@ luxus.dating CNAME .
 *.2rad-schwarz.de CNAME .
 2radwelten.de CNAME .
 *.2radwelten.de CNAME .
-30netzteil.de CNAME .
-*.30netzteil.de CNAME .
 365ersatzteile.de CNAME .
 *.365ersatzteile.de CNAME .
 3clin.de CNAME .
