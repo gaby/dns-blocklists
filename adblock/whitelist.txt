@@ -2595,8 +2595,7 @@
 @@||stat.gov.pl^
 
 ! https://github.com/hagezi/dns-blocklists/issues/303
-@@|unmineable.com^
-@@|www.unmineable.com^
+@@||unmineable.com^
 
 ! https://github.com/hagezi/dns-blocklists/issues/302
 @@|phishingquiz.withgoogle.com^
@@ -2611,4 +2610,8 @@
 
 ! Images on rabble.se
 @@|rabble-res.cloudinary.com^
+
+! https://github.com/hagezi/dns-blocklists/issues/307
+@@|benefithub.com^
+@@|www.benefithub.com^
 
