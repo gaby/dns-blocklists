@@ -8,10 +8,10 @@ $TTL 30
 ; Homepage: https://github.com/hagezi/dns-blocklists
 ; Issues: https://github.com/hagezi/dns-blocklists/issues
 ; Expires: Updated regularly
-; Last modified: 31 Jan 2023 23:04 UTC
-; Version: 2023.0131.2304.51
+; Last modified: 07 Feb 2023 10:37 UTC
+; Version: 2023.0207.1037.35
 ; Syntax: RPZ
-; Domains: 1316
+; Domains: 1312
 ;
 vpn.ac CNAME .
 *.vpn.ac CNAME .
@@ -2471,12 +2471,6 @@ dee.su CNAME .
 *.dee.su CNAME .
 crypto.sx CNAME .
 *.crypto.sx CNAME .
-android-vpn.tk CNAME .
-*.android-vpn.tk CNAME .
-anhomevpns.tk CNAME .
-*.anhomevpns.tk CNAME .
-anonymousboozebagvpn.tk CNAME .
-*.anonymousboozebagvpn.tk CNAME .
 lmpproxyssurfukvpn.tk CNAME .
 *.lmpproxyssurfukvpn.tk CNAME .
 doh.post-factum.tk CNAME .
@@ -2627,8 +2621,6 @@ panyyhh.xyz CNAME .
 *.panyyhh.xyz CNAME .
 panzend.xyz CNAME .
 *.panzend.xyz CNAME .
-a.passcloud.xyz CNAME .
-*.a.passcloud.xyz CNAME .
 i.passcloud.xyz CNAME .
 *.i.passcloud.xyz CNAME .
 pinkproxy.xyz CNAME .

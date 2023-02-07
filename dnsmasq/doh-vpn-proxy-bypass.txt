@@ -4,10 +4,10 @@
 # Homepage: https://github.com/hagezi/dns-blocklists
 # Issues: https://github.com/hagezi/dns-blocklists/issues
 # Expires: Updated regularly
-# Last modified: 31 Jan 2023 23:04 UTC
-# Version: 2023.0131.2304.51
+# Last modified: 07 Feb 2023 10:37 UTC
+# Version: 2023.0207.1037.35
 # Syntax: DNSMasq
-# Domains: 1316
+# Domains: 1312
 #
 address=/0000a-fast-proxy.de/#
 address=/012proxy.ga/#
@@ -65,16 +65,13 @@ address=/dsl-app.s3.us-east-2.amazonaws.com/#
 address=/americaproxy.info/#
 address=/anchorfree.net/#
 address=/anchorfree.us/#
-address=/android-vpn.tk/#
 address=/androvpn.com/#
-address=/anhomevpns.tk/#
 address=/aniscartujo.com/#
 address=/anonine.com/#
 address=/anonvpn.io/#
 address=/anonymize.com/#
 address=/anonymizer.com/#
 address=/anonymous-proxies.net/#
-address=/anonymousboozebagvpn.tk/#
 address=/anonymouse.org/#
 address=/anonymousvpn.info/#
 address=/anonymousvpn.org/#
@@ -748,7 +745,6 @@ address=/pantoto.xyz/#
 address=/panyyhh.xyz/#
 address=/panzend.xyz/#
 address=/parrotsec.org/#
-address=/a.passcloud.xyz/#
 address=/i.passcloud.xyz/#
 address=/rpz-public-resolver1.rrdns.pch.net/#
 address=/perfect-privacy.com/#
