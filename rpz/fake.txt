@@ -1,5 +1,5 @@
 $TTL 30
-@ SOA rpz.hagezi.fake. hostmaster.hagezi.fake. 1675724400 86400 3600 604800 30
+@ SOA rpz.hagezi.fake. hostmaster.hagezi.fake. 1675810800 86400 3600 604800 30
  NS localhost.
 ;
 ; Title: HaGeZi's Fake DNS Blocklist
@@ -8,10 +8,10 @@ $TTL 30
 ; Issues: https://github.com/hagezi/dns-blocklists/issues
 ; License: https://github.com/hagezi/dns-blocklists/blob/main/LICENSE.md
 ; Expires: Updated regularly
-; Last modified: 07 Feb 2023 10:48 UTC
-; Version: 2023.0207.1048.53
+; Last modified: 07 Feb 2023 23:16 UTC
+; Version: 2023.0207.2316.59
 ; Syntax: RPZ
-; Domains: 5408
+; Domains: 5388
 ;
 1euro.at CNAME .
 *.1euro.at CNAME .
@@ -1605,8 +1605,6 @@ bookingmallorca-villas.com CNAME .
 *.bookingmallorca-villas.com CNAME .
 boomaya.com CNAME .
 *.boomaya.com CNAME .
-bootsclearanus.com CNAME .
-*.bootsclearanus.com CNAME .
 bootsdeutschland.com CNAME .
 *.bootsdeutschland.com CNAME .
 bossoutletsau.com CNAME .
@@ -1617,8 +1615,6 @@ bottegarocchi.com CNAME .
 *.bottegarocchi.com CNAME .
 botyloves.com CNAME .
 *.botyloves.com CNAME .
-boutique-motos.com CNAME .
-*.boutique-motos.com CNAME .
 bphpself.com CNAME .
 *.bphpself.com CNAME .
 brandieco.com CNAME .
@@ -1639,14 +1635,10 @@ brennholzbestpreis.com CNAME .
 *.brennholzbestpreis.com CNAME .
 brennholzshop24.com CNAME .
 *.brennholzshop24.com CNAME .
-brennholzuniversum.com CNAME .
-*.brennholzuniversum.com CNAME .
 brgab.com CNAME .
 *.brgab.com CNAME .
 bricksb.com CNAME .
 *.bricksb.com CNAME .
-bridgsol.com CNAME .
-*.bridgsol.com CNAME .
 bringbikestore.com CNAME .
 *.bringbikestore.com CNAME .
 bringwish.com CNAME .
@@ -1697,8 +1689,6 @@ buysnetwork.com CNAME .
 *.buysnetwork.com CNAME .
 bzghee.com CNAME .
 *.bzghee.com CNAME .
-caandcolimited.com CNAME .
-*.caandcolimited.com CNAME .
 calcaterrachallenge.com CNAME .
 *.calcaterrachallenge.com CNAME .
 calocalsale.com CNAME .
@@ -1707,8 +1697,6 @@ camperberlin.com CNAME .
 *.camperberlin.com CNAME .
 canbrace.com CNAME .
 *.canbrace.com CNAME .
-canderro.com CNAME .
-*.canderro.com CNAME .
 canizaresarchitects.com CNAME .
 *.canizaresarchitects.com CNAME .
 canvascosta.com CNAME .
@@ -1745,8 +1733,6 @@ carvanamarkt.com CNAME .
 *.carvanamarkt.com CNAME .
 casamorode.com CNAME .
 *.casamorode.com CNAME .
-caseking-elektro.com CNAME .
-*.caseking-elektro.com CNAME .
 casual-lust.com CNAME .
 *.casual-lust.com CNAME .
 casualdates24.com CNAME .
@@ -1875,8 +1861,6 @@ clothes-limited.com CNAME .
 *.clothes-limited.com CNAME .
 clothmyths.com CNAME .
 *.clothmyths.com CNAME .
-cloudcryptoexpert.com CNAME .
-*.cloudcryptoexpert.com CNAME .
 kua.clubestyle.com CNAME .
 *.kua.clubestyle.com CNAME .
 coachfactoryoutlet.co.com CNAME .
@@ -1915,8 +1899,6 @@ comfymiss.com CNAME .
 *.comfymiss.com CNAME .
 comfyplan.com CNAME .
 *.comfyplan.com CNAME .
-comgat.com CNAME .
-*.comgat.com CNAME .
 comicsbyhaemi.com CNAME .
 *.comicsbyhaemi.com CNAME .
 component-hk.com CNAME .
@@ -3503,8 +3485,6 @@ lonestarchaos.com CNAME .
 *.lonestarchaos.com CNAME .
 loomzo.com CNAME .
 *.loomzo.com CNAME .
-loosshy.com CNAME .
-*.loosshy.com CNAME .
 lotjei.com CNAME .
 *.lotjei.com CNAME .
 lovecatzone.com CNAME .
@@ -6115,8 +6095,6 @@ blum-film.de CNAME .
 *.blum-film.de CNAME .
 blunada.de CNAME .
 *.blunada.de CNAME .
-bmw-e36.de CNAME .
-*.bmw-e36.de CNAME .
 bntol-mietwagen.de CNAME .
 *.bntol-mietwagen.de CNAME .
 boardss.de CNAME .
@@ -6271,8 +6249,6 @@ ccdc2012.de CNAME .
 *.ccdc2012.de CNAME .
 cci-immobilien.de CNAME .
 *.cci-immobilien.de CNAME .
-cecol-handel.de CNAME .
-*.cecol-handel.de CNAME .
 celmak.de CNAME .
 *.celmak.de CNAME .
 celondo.de CNAME .
@@ -6319,8 +6295,6 @@ cloudschuhesale.de CNAME .
 *.cloudschuhesale.de CNAME .
 clubsoundradio.de CNAME .
 *.clubsoundradio.de CNAME .
-coach-rosenheim.de CNAME .
-*.coach-rosenheim.de CNAME .
 cocktail-projekt.de CNAME .
 *.cocktail-projekt.de CNAME .
 coflix.de CNAME .
@@ -6353,16 +6327,12 @@ compixa.de CNAME .
 *.compixa.de CNAME .
 computerzubehoer22.de CNAME .
 *.computerzubehoer22.de CNAME .
-consilium-golke.de CNAME .
-*.consilium-golke.de CNAME .
 consolestar.de CNAME .
 *.consolestar.de CNAME .
 cooponline.de CNAME .
 *.cooponline.de CNAME .
 copenhagenschuhesale.de CNAME .
 *.copenhagenschuhesale.de CNAME .
-cornelia-schaefer.de CNAME .
-*.cornelia-schaefer.de CNAME .
 cosamoda.de CNAME .
 *.cosamoda.de CNAME .
 cosgos.de CNAME .
@@ -9877,8 +9847,6 @@ belmarkt.net CNAME .
 *.belmarkt.net CNAME .
 bitcoin-trader.net CNAME .
 *.bitcoin-trader.net CNAME .
-bossfactorysusa.net CNAME .
-*.bossfactorysusa.net CNAME .
 burberryoutlet-online.net CNAME .
 *.burberryoutlet-online.net CNAME .
 caprin.net CNAME .
@@ -9891,8 +9859,6 @@ coach-shoes.net CNAME .
 *.coach-shoes.net CNAME .
 coachclearance.net CNAME .
 *.coachclearance.net CNAME .
-coinchaininvest.net CNAME .
-*.coinchaininvest.net CNAME .
 daddeln.net CNAME .
 *.daddeln.net CNAME .
 darkbodybuilding.net CNAME .
@@ -10567,16 +10533,12 @@ wellreplicas.to CNAME .
 *.wellreplicas.to CNAME .
 beautifulcity365.top CNAME .
 *.beautifulcity365.top CNAME .
-bufnkce.top CNAME .
-*.bufnkce.top CNAME .
 cambuyg.top CNAME .
 *.cambuyg.top CNAME .
 cantopen.top CNAME .
 *.cantopen.top CNAME .
 carlov.top CNAME .
 *.carlov.top CNAME .
-chcgkr.top CNAME .
-*.chcgkr.top CNAME .
 converseromaniaonline.top CNAME .
 *.converseromaniaonline.top CNAME .
 cuoed.top CNAME .
@@ -10753,8 +10715,6 @@ bestjackets.co.uk CNAME .
 *.bestjackets.co.uk CNAME .
 bidabc.co.uk CNAME .
 *.bidabc.co.uk CNAME .
-carhirenice.co.uk CNAME .
-*.carhirenice.co.uk CNAME .
 cfcs.co.uk CNAME .
 *.cfcs.co.uk CNAME .
 exclusivekicks.co.uk CNAME .
