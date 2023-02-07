@@ -1,5 +1,5 @@
 $TTL 30
-@ SOA rpz.hagezi.doh. hostmaster.hagezi.doh. 1675724400 86400 3600 604800 30
+@ SOA rpz.hagezi.doh. hostmaster.hagezi.doh. 1675810800 86400 3600 604800 30
  NS localhost.
 ;
 ; Title: HaGeZi's Encrypted DNS Bypass DNS Blocklist
@@ -9,10 +9,10 @@ $TTL 30
 ; Issues: https://github.com/hagezi/dns-blocklists/issues
 ; License: https://github.com/hagezi/dns-blocklists/blob/main/LICENSE.md
 ; Expires: Updated regularly
-; Last modified: 07 Feb 2023 10:38 UTC
-; Version: 2023.0207.1038.42
+; Last modified: 07 Feb 2023 23:07 UTC
+; Version: 2023.0207.2307.06
 ; Syntax: RPZ
-; Domains: 276
+; Domains: 277
 ;
 doh.disconnect.app CNAME .
 *.doh.disconnect.app CNAME .
@@ -306,6 +306,8 @@ unicast.censurfridns.dk CNAME .
 *.unicast.censurfridns.dk CNAME .
 dns.paesa.es CNAME .
 *.dns.paesa.es CNAME .
+dns0.eu CNAME .
+*.dns0.eu CNAME .
 lelux.fi CNAME .
 *.lelux.fi CNAME .
 doh.42l.fr CNAME .

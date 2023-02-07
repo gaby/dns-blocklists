@@ -5,10 +5,10 @@
 # Issues: https://github.com/hagezi/dns-blocklists/issues
 # License: https://github.com/hagezi/dns-blocklists/blob/main/LICENSE.md
 # Expires: Updated regularly
-# Last modified: 07 Feb 2023 10:38 UTC
-# Version: 2023.0207.1038.42
+# Last modified: 07 Feb 2023 23:07 UTC
+# Version: 2023.0207.2307.06
 # Syntax: Domains Wildcard (DNSCrypt/YogaDNS/...)
-# Domains: 276
+# Domains: 277
 #
 *.1and1-dns.de
 *.233py.com
@@ -104,6 +104,7 @@
 *.dns.watch
 *.tls-dns-u.odvr.dns-oarc.net
 *.dns.dns-over-https.com
+*.dns0.eu
 *.ns1.recursive.dnsbycomodo.com
 *.ns2.recursive.dnsbycomodo.com
 *.2.dnscrypt-cert.shield-2.dnsbycomodo.com
