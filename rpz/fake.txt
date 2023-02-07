@@ -8,10 +8,10 @@ $TTL 30
 ; Issues: https://github.com/hagezi/dns-blocklists/issues
 ; License: https://github.com/hagezi/dns-blocklists/blob/main/LICENSE.md
 ; Expires: Updated regularly
-; Last modified: 06 Feb 2023 23:17 UTC
-; Version: 2023.0206.2317.16
+; Last modified: 07 Feb 2023 10:48 UTC
+; Version: 2023.0207.1048.53
 ; Syntax: RPZ
-; Domains: 5417
+; Domains: 5408
 ;
 1euro.at CNAME .
 *.1euro.at CNAME .
@@ -1275,8 +1275,6 @@ anthonylogrande.com CNAME .
 *.anthonylogrande.com CNAME .
 antminerfarm.com CNAME .
 *.antminerfarm.com CNAME .
-any-estates.com CNAME .
-*.any-estates.com CNAME .
 anzugewspeichern.com CNAME .
 *.anzugewspeichern.com CNAME .
 group.ap-real.com CNAME .
@@ -1317,8 +1315,6 @@ armodamobilya.com CNAME .
 *.armodamobilya.com CNAME .
 aromaleben.com CNAME .
 *.aromaleben.com CNAME .
-arulnathan.com CNAME .
-*.arulnathan.com CNAME .
 ascelteria.com CNAME .
 *.ascelteria.com CNAME .
 asgeirpetursson.com CNAME .
@@ -1471,8 +1467,6 @@ beautypassword.com CNAME .
 *.beautypassword.com CNAME .
 befashion24.com CNAME .
 *.befashion24.com CNAME .
-befillus.com CNAME .
-*.befillus.com CNAME .
 behead-offers.com CNAME .
 *.behead-offers.com CNAME .
 bekleidungsoutlet.com CNAME .
@@ -1501,8 +1495,6 @@ berlintag.com CNAME .
 *.berlintag.com CNAME .
 berzolana.com CNAME .
 *.berzolana.com CNAME .
-besondereprasente.com CNAME .
-*.besondereprasente.com CNAME .
 bestchooes.com CNAME .
 *.bestchooes.com CNAME .
 bestdiscountsforyou.com CNAME .
@@ -1529,14 +1521,10 @@ bestronik.com CNAME .
 *.bestronik.com CNAME .
 bestsellon.com CNAME .
 *.bestsellon.com CNAME .
-besttoolkits.com CNAME .
-*.besttoolkits.com CNAME .
 beta-re.com CNAME .
 *.beta-re.com CNAME .
 betrugsdezernat.com CNAME .
 *.betrugsdezernat.com CNAME .
-bettyshops.com CNAME .
-*.bettyshops.com CNAME .
 bewaremarts.com CNAME .
 *.bewaremarts.com CNAME .
 beziehungen.com CNAME .
@@ -2603,6 +2591,8 @@ fotopr-online.com CNAME .
 *.fotopr-online.com CNAME .
 fotosocken.com CNAME .
 *.fotosocken.com CNAME .
+foxxum.com CNAME .
+*.foxxum.com CNAME .
 fpjollet.com CNAME .
 *.fpjollet.com CNAME .
 frankiemakeupartist.com CNAME .
@@ -3655,8 +3645,8 @@ mcoaltmeds.com CNAME .
 *.mcoaltmeds.com CNAME .
 mctrl-marktforschung.com CNAME .
 *.mctrl-marktforschung.com CNAME .
-bl.mdates.com CNAME .
-*.bl.mdates.com CNAME .
+mdates.com CNAME .
+*.mdates.com CNAME .
 media-heinemann.com CNAME .
 *.media-heinemann.com CNAME .
 media-palmer.com CNAME .
@@ -4607,6 +4597,8 @@ rosasommer.com CNAME .
 *.rosasommer.com CNAME .
 rosedoris.com CNAME .
 *.rosedoris.com CNAME .
+roselinlin.com CNAME .
+*.roselinlin.com CNAME .
 rosetata.com CNAME .
 *.rosetata.com CNAME .
 rosewoo.com CNAME .
@@ -5985,8 +5977,6 @@ badabang.de CNAME .
 *.badabang.de CNAME .
 badeanzugtreff.de CNAME .
 *.badeanzugtreff.de CNAME .
-baetz-malerei.de CNAME .
-*.baetz-malerei.de CNAME .
 bagsev.de CNAME .
 *.bagsev.de CNAME .
 balzbambii.de CNAME .
@@ -6103,8 +6093,6 @@ bioherby.de CNAME .
 *.bioherby.de CNAME .
 biologischestation.de CNAME .
 *.biologischestation.de CNAME .
-biorampe.de CNAME .
-*.biorampe.de CNAME .
 bios-batterie-cmos.de CNAME .
 *.bios-batterie-cmos.de CNAME .
 biromotion.de CNAME .
@@ -8339,6 +8327,8 @@ ostergartenhermesdorf.de CNAME .
 *.ostergartenhermesdorf.de CNAME .
 otto-angebote.de CNAME .
 *.otto-angebote.de CNAME .
+ouraltis.de CNAME .
+*.ouraltis.de CNAME .
 outdoor-repel.de CNAME .
 *.outdoor-repel.de CNAME .
 owlkaminholz.de CNAME .
@@ -9785,8 +9775,6 @@ replica.is CNAME .
 *.replica.is CNAME .
 watchesreplica.is CNAME .
 *.watchesreplica.is CNAME .
-armoniabeb.it CNAME .
-*.armoniabeb.it CNAME .
 asdoriente.it CNAME .
 *.asdoriente.it CNAME .
 bbcolors.it CNAME .
@@ -10087,8 +10075,6 @@ vero-mode.nl CNAME .
 *.vero-mode.nl CNAME .
 alongsideert.online CNAME .
 *.alongsideert.online CNAME .
-autocryptooptions.online CNAME .
-*.autocryptooptions.online CNAME .
 awfulert.online CNAME .
 *.awfulert.online CNAME .
 cialis-online20mg.online CNAME .
@@ -10579,12 +10565,8 @@ watch-fakes.to CNAME .
 *.watch-fakes.to CNAME .
 wellreplicas.to CNAME .
 *.wellreplicas.to CNAME .
-andasukak.top CNAME .
-*.andasukak.top CNAME .
 beautifulcity365.top CNAME .
 *.beautifulcity365.top CNAME .
-bfqlehf.top CNAME .
-*.bfqlehf.top CNAME .
 bufnkce.top CNAME .
 *.bufnkce.top CNAME .
 cambuyg.top CNAME .
