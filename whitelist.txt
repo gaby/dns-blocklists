@@ -173,6 +173,14 @@ www.semanticlocation-pa.googleapis.com
 # Not used for tracking, metrics, analytics
 *.metric.gstatic.com
 
+# Hue Bridge
+# https://github.com/hagezi/dns-blocklists/issues/208
+diagnostics.meethue.com
+discovery.meethue.com
+dp.dc1.philips.com
+ws.meethue.com
+www.ecdinterface.philips.com
+
 # Microsoft
 # https://docs.microsoft.com/en-us/windows/privacy/manage-windows-11-endpoints
 # https://docs.microsoft.com/en-us/microsoft-365/enterprise/microsoft-365-endpoints?view=o365-worldwide
@@ -251,7 +259,14 @@ activation.gfe.nvidia.com
 events.gfe.nvidia.com
 gfwsl.geforce.com
 images.nvidiagrid.net
+img.nvidiagrid.net
 services.gfe.nvidia.com
+
+# SmartTV
+# https://github.com/Perflyst/PiHoleBlocklist/issues/117
+us.lgtvsdp.com
+# NPO Start app on lg webOS televisions / blocks thumbnails from loading in the LG Content Store
+ngfts.lge.com
 
 # Twitter
 ads.twitter.com
@@ -2359,4 +2374,17 @@ benefithub.com
 
 # https://github.com/hagezi/dns-blocklists/issues/308
 url.rw
+
+# Images Pluto.tv
+images.pluto.tv
+
+# Images
+images.redbox.com
+i.ibb.co
+
+# Movie Covers
+canvas.tubitv.com
+
+# CDN for utomik.com Gaming on various platforms
+cdn77.utomik.com
 
