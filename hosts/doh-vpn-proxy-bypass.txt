@@ -4,10 +4,10 @@
 # Homepage: https://github.com/hagezi/dns-blocklists
 # Issues: https://github.com/hagezi/dns-blocklists/issues
 # Expires: Updated regularly
-# Last modified: 07 Feb 2023 10:37 UTC
-# Version: 2023.0207.1037.35
+# Last modified: 07 Feb 2023 23:06 UTC
+# Version: 2023.0207.2306.01
 # Syntax: Hosts
-# Domains: 1428
+# Domains: 1431
 #
 0.0.0.0 0000a-fast-proxy.de
 0.0.0.0 012proxy.ga
@@ -364,6 +364,9 @@
 0.0.0.0 tls-dns-u.odvr.dns-oarc.net
 0.0.0.0 dns-over-https.com
 0.0.0.0 dns.dns-over-https.com
+0.0.0.0 dns0.eu
+0.0.0.0 kids.dns0.eu
+0.0.0.0 zero.dns0.eu
 0.0.0.0 ns1.recursive.dnsbycomodo.com
 0.0.0.0 ns2.recursive.dnsbycomodo.com
 0.0.0.0 2.dnscrypt-cert.shield-2.dnsbycomodo.com

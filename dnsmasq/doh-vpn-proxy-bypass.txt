@@ -4,10 +4,10 @@
 # Homepage: https://github.com/hagezi/dns-blocklists
 # Issues: https://github.com/hagezi/dns-blocklists/issues
 # Expires: Updated regularly
-# Last modified: 07 Feb 2023 10:37 UTC
-# Version: 2023.0207.1037.35
+# Last modified: 07 Feb 2023 23:06 UTC
+# Version: 2023.0207.2306.01
 # Syntax: DNSMasq
-# Domains: 1312
+# Domains: 1313
 #
 address=/0000a-fast-proxy.de/#
 address=/012proxy.ga/#
@@ -296,6 +296,7 @@ address=/dns.sb/#
 address=/dns.watch/#
 address=/tls-dns-u.odvr.dns-oarc.net/#
 address=/dns-over-https.com/#
+address=/dns0.eu/#
 address=/ns1.recursive.dnsbycomodo.com/#
 address=/ns2.recursive.dnsbycomodo.com/#
 address=/2.dnscrypt-cert.shield-2.dnsbycomodo.com/#
