@@ -4,10 +4,10 @@
 # Issues: https://github.com/hagezi/dns-blocklists/issues
 # License: https://github.com/hagezi/dns-blocklists/blob/main/LICENSE.md
 # Expires: Updated regularly
-# Last modified: 22 Jan 2023 13:24 UTC
-# Version: 2023.0122.1324.05
+# Last modified: 07 Feb 2023 10:47 UTC
+# Version: 2023.0207.1047.45
 # Syntax: DNSMasq
-# Domains: 255
+# Domains: 254
 #
 address=/cdnlog-va-useast2a.byteoversea.com/#
 address=/frontier.byteoversea.com/#
@@ -92,7 +92,6 @@ address=/lf19-geckocdn-sg.tiktokcdn.com/#
 address=/lf21-gecko-source.tiktokcdn.com/#
 address=/lf77-gecko-source.tiktokcdn.com/#
 address=/lf9-geckocdn.tiktokcdn.com/#
-address=/applog.tiktokv.com/#
 address=/blogs.tiktokv.com/#
 address=/frontier.tiktokv.com/#
 address=/frontier-i18n.tiktokv.com/#
