@@ -158,6 +158,7 @@
 @@||track.customer.io^
 @@||track.effiliation.com^
 @@||track.goshippo.com^
+@@||track.dhlparcel.co.uk^
 ! Tracking application status of https://ceac.state.gov/ceac/
 @@||track.moyu.ac.cn^
 ! Breaks nzz.ch
@@ -552,8 +553,8 @@
 ! Issues: https://github.com/hagezi/dns-blocklists/issues
 ! License: https://github.com/hagezi/dns-blocklists/blob/main/LICENSE.md
 ! Expires: Updated regularly
-! Last modified: 07 Feb 2023 17:40 UTC
-! Version: 2023.0207.1740.39
+! Last modified: 07 Feb 2023 18:22 UTC
+! Version: 2023.0207.1822.38
 ! Syntax: AdBlock
 ! Domains: 33633
 !
@@ -42232,6 +42233,9 @@
 ! Cookiebanner trigema.de and other sites
 @@|consent.cookiebot.eu^
 @@|consentcdn.cookiebot.eu^
+
+! https://github.com/hagezi/dns-blocklists/issues/311
+@@|track.dhlparcel.co.uk^
 
 
 ! Title: HaGeZi's White-/Allowlist Referral for Black & White list
