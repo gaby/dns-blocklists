@@ -1,5 +1,5 @@
 $TTL 30
-@ SOA rpz.hagezi.native.tiktok. hostmaster.hagezi.native.tiktok. 1675724400 86400 3600 604800 30
+@ SOA rpz.hagezi.native.tiktok. hostmaster.hagezi.native.tiktok. 1675810800 86400 3600 604800 30
  NS localhost.
 ;
 ; Title: HaGeZi's TikTok Fingerprinting DNS Blocklist
@@ -8,10 +8,10 @@ $TTL 30
 ; Issues: https://github.com/hagezi/dns-blocklists/issues
 ; License: https://github.com/hagezi/dns-blocklists/blob/main/LICENSE.md
 ; Expires: Updated regularly
-; Last modified: 07 Feb 2023 10:47 UTC
-; Version: 2023.0207.1047.45
+; Last modified: 07 Feb 2023 23:15 UTC
+; Version: 2023.0207.2315.54
 ; Syntax: RPZ
-; Domains: 254
+; Domains: 252
 ;
 cdnlog-va-useast2a.byteoversea.com CNAME .
 *.cdnlog-va-useast2a.byteoversea.com CNAME .
@@ -145,8 +145,6 @@ analytics-sg.tiktok.com CNAME .
 *.analytics-sg.tiktok.com CNAME .
 analytics-test.tiktok.com CNAME .
 *.analytics-test.tiktok.com CNAME .
-blogs.tiktok.com CNAME .
-*.blogs.tiktok.com CNAME .
 mcs-i18n.tiktok.com CNAME .
 *.mcs-i18n.tiktok.com CNAME .
 mcs-sg.tiktok.com CNAME .
@@ -179,8 +177,6 @@ lf77-gecko-source.tiktokcdn.com CNAME .
 *.lf77-gecko-source.tiktokcdn.com CNAME .
 lf9-geckocdn.tiktokcdn.com CNAME .
 *.lf9-geckocdn.tiktokcdn.com CNAME .
-blogs.tiktokv.com CNAME .
-*.blogs.tiktokv.com CNAME .
 frontier.tiktokv.com CNAME .
 *.frontier.tiktokv.com CNAME .
 frontier-i18n.tiktokv.com CNAME .
