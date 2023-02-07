@@ -548,10 +548,10 @@
 ! Issues: https://github.com/hagezi/dns-blocklists/issues
 ! License: https://github.com/hagezi/dns-blocklists/blob/main/LICENSE.md
 ! Expires: Updated regularly
-! Last modified: 07 Feb 2023 00:04 UTC
-! Version: 2023.0207.0004.23
+! Last modified: 07 Feb 2023 05:08 UTC
+! Version: 2023.0207.0508.12
 ! Syntax: AdBlock
-! Domains: 27761
+! Domains: 27760
 !
 ||003store.com^
 ||007vww.com^
@@ -25731,7 +25731,6 @@
 ||uri6.com^
 ||urimnugocfr.com^
 ||urjautsav.com^
-||url.rw^
 ||url-q.com^
 ||url-x.it^
 ||urlcash.net^
@@ -36343,6 +36342,10 @@
 ! https://github.com/hagezi/dns-blocklists/issues/307
 @@|benefithub.com^
 @@|www.benefithub.com^
+
+! https://github.com/hagezi/dns-blocklists/issues/308
+@@|url.rw^
+@@|www.url.rw^
 
 
 ! Title: HaGeZi's White-/Allowlist Referral for Black & White list
