@@ -265,9 +265,12 @@
 
 ! SmartTV
 ! https://github.com/Perflyst/PiHoleBlocklist/issues/117
+! LG: latest date and time sync (resets to December 31st 2019)
 @@|us.lgtvsdp.com^
-! NPO Start app on lg webOS televisions / blocks thumbnails from loading in the LG Content Store
+! NPO Start app on LG webOS televisions / blocks thumbnails from loading in the LG Content Store
 @@|ngfts.lge.com^
+! LG Store: prevent some cover art from displaying properly
+@@|aic-ngfts.lge.com^
 
 ! Twitter
 @@|ads.twitter.com^
