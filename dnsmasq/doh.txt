@@ -5,10 +5,10 @@
 # Issues: https://github.com/hagezi/dns-blocklists/issues
 # License: https://github.com/hagezi/dns-blocklists/blob/main/LICENSE.md
 # Expires: Updated regularly
-# Last modified: 08 Feb 2023 23:05 UTC
-# Version: 2023.0208.2305.30
+# Last modified: 09 Feb 2023 23:14 UTC
+# Version: 2023.0209.2314.57
 # Syntax: DNSMasq
-# Domains: 277
+# Domains: 276
 #
 address=/1and1-dns.de/#
 address=/233py.com/#
@@ -210,7 +210,6 @@ address=/resolver4.dns.openinternet.io/#
 address=/dns.oszx.co/#
 address=/2.dnscrypt-cert.oszx.co/#
 address=/dns.paesa.es/#
-address=/i.passcloud.xyz/#
 address=/rpz-public-resolver1.rrdns.pch.net/#
 address=/doh.centraleu.pi-dns.com/#
 address=/dot.centraleu.pi-dns.com/#
