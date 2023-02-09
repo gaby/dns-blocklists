@@ -4,10 +4,10 @@
 # Issues: https://github.com/hagezi/dns-blocklists/issues
 # License: https://github.com/hagezi/dns-blocklists/blob/main/LICENSE.md
 # Expires: Updated regularly
-# Last modified: 08 Feb 2023 07:23 UTC
-# Version: 2023.0208.0723.25
+# Last modified: 08 Feb 2023 23:16 UTC
+# Version: 2023.0208.2316.32
 # Syntax: Hosts
-# Domains: 10297
+# Domains: 10279
 #
 0.0.0.0 willhaben.at.04300.id
 0.0.0.0 11trikots.com
@@ -367,6 +367,8 @@
 0.0.0.0 www.alphasupplyco.com
 0.0.0.0 alpincenterbelalp.ch
 0.0.0.0 www.alpincenterbelalp.ch
+0.0.0.0 alpinex-outdoor.de
+0.0.0.0 www.alpinex-outdoor.de
 0.0.0.0 alro-stahlbau.de
 0.0.0.0 www.alro-stahlbau.de
 0.0.0.0 altaselektro.com
@@ -2388,8 +2390,6 @@
 0.0.0.0 www.dohahotel24.com
 0.0.0.0 doktor-potenzmittel.com
 0.0.0.0 www.doktor-potenzmittel.com
-0.0.0.0 doktorpotenzmittel.ch
-0.0.0.0 www.doktorpotenzmittel.ch
 0.0.0.0 domako.de
 0.0.0.0 www.domako.de
 0.0.0.0 domel-us.de
@@ -2612,8 +2612,6 @@
 0.0.0.0 www.edithannabeck.de
 0.0.0.0 editorialrobot.com
 0.0.0.0 www.editorialrobot.com
-0.0.0.0 edituragenius.com
-0.0.0.0 www.edituragenius.com
 0.0.0.0 eeewwe.top
 0.0.0.0 www.eeewwe.top
 0.0.0.0 eekaav.com
@@ -2650,7 +2648,6 @@
 0.0.0.0 www.eklcma.com
 0.0.0.0 eko-immo.com
 0.0.0.0 www.eko-immo.com
-0.0.0.0 ekomfort.de
 0.0.0.0 ekt-wohnhof.de
 0.0.0.0 www.ekt-wohnhof.de
 0.0.0.0 elalfs.com
@@ -2795,13 +2792,10 @@
 0.0.0.0 www.emma-matraze.com
 0.0.0.0 emmagowns.com
 0.0.0.0 www.emmagowns.com
-0.0.0.0 emmaheute.de
-0.0.0.0 www.emmaheute.de
 0.0.0.0 emmalison.com
 0.0.0.0 www.emmalison.com
 0.0.0.0 emmas-f.shop
 0.0.0.0 www.emmas-f.shop
-0.0.0.0 emmaschneider.de
 0.0.0.0 emmay.de
 0.0.0.0 www.emmay.de
 0.0.0.0 emmerthal-tierarzt.de
@@ -3097,7 +3091,6 @@
 0.0.0.0 www.fashincs.com
 0.0.0.0 fashion-kuhlmann.de
 0.0.0.0 www.fashion-kuhlmann.de
-0.0.0.0 fashion-s.shop
 0.0.0.0 fashion-traum.com
 0.0.0.0 www.fashion-traum.com
 0.0.0.0 fashionders.com
@@ -3124,13 +3117,7 @@
 0.0.0.0 www.fastyslim.de
 0.0.0.0 fatburner-1.com
 0.0.0.0 www.fatburner-1.com
-0.0.0.0 fautoizer.top
-0.0.0.0 www.fautoizer.top
 0.0.0.0 favornote.com
-0.0.0.0 favrice.com
-0.0.0.0 www.favrice.com
-0.0.0.0 fbuys.shop
-0.0.0.0 www.fbuys.shop
 0.0.0.0 fcirlich.de
 0.0.0.0 www.fcirlich.de
 0.0.0.0 fdachdeck.com
@@ -3150,8 +3137,6 @@
 0.0.0.0 www.feetpuzzle.com
 0.0.0.0 feher-buch.de
 0.0.0.0 www.feher-buch.de
-0.0.0.0 feilerelektro.com
-0.0.0.0 www.feilerelektro.com
 0.0.0.0 feililon.com
 0.0.0.0 www.feililon.com
 0.0.0.0 feixunseo.com
@@ -3167,8 +3152,6 @@
 0.0.0.0 www.felums.com
 0.0.0.0 fenriskleinpoechlarn.at
 0.0.0.0 www.fenriskleinpoechlarn.at
-0.0.0.0 ferienhaeuser-porec.de
-0.0.0.0 www.ferienhaeuser-porec.de
 0.0.0.0 ferienhaus-gertrud.at
 0.0.0.0 www.ferienhaus-gertrud.at
 0.0.0.0 ferienhausexperten.co
@@ -3292,8 +3275,6 @@
 0.0.0.0 flaguette.de
 0.0.0.0 flamingo-de.com
 0.0.0.0 www.flamingo-de.com
-0.0.0.0 flash24tradefx.com
-0.0.0.0 www.flash24tradefx.com
 0.0.0.0 flaviorossi.de
 0.0.0.0 www.flaviorossi.de
 0.0.0.0 fleezie.de
@@ -3504,15 +3485,12 @@
 0.0.0.0 www.furnidays.de
 0.0.0.0 furpol-global.com
 0.0.0.0 www.furpol-global.com
-0.0.0.0 fur.furpouch.com
 0.0.0.0 fussballfanparty.de
 0.0.0.0 www.fussballfanparty.de
 0.0.0.0 fussballm2c.com
 0.0.0.0 www.fussballm2c.com
 0.0.0.0 fussballschuhede.com
 0.0.0.0 www.fussballschuhede.com
-0.0.0.0 fusselkatzen.de
-0.0.0.0 www.fusselkatzen.de
 0.0.0.0 futu-rama.de
 0.0.0.0 www.futu-rama.de
 0.0.0.0 future-nord.de
@@ -3550,8 +3528,6 @@
 0.0.0.0 gamebasic-de.com
 0.0.0.0 www.gamebasic-de.com
 0.0.0.0 gamer-nieder-olm.de
-0.0.0.0 gamer-zone.store
-0.0.0.0 www.gamer-zone.store
 0.0.0.0 gamerzone24.de
 0.0.0.0 www.gamerzone24.de
 0.0.0.0 gamesalor.de
@@ -3625,8 +3601,6 @@
 0.0.0.0 www.gbachtgmbh.com
 0.0.0.0 gc-reality.com
 0.0.0.0 www.gc-reality.com
-0.0.0.0 gcsagrov.top
-0.0.0.0 www.gcsagrov.top
 0.0.0.0 gdetivtope.com
 0.0.0.0 www.gdetivtope.com
 0.0.0.0 gebaeudevorsorge.de
@@ -5662,6 +5636,8 @@
 0.0.0.0 www.mafiatekno.com
 0.0.0.0 magicmixte.com
 0.0.0.0 www.magicmixte.com
+0.0.0.0 magischepfoten.de
+0.0.0.0 www.magischepfoten.de
 0.0.0.0 magliecalciocn.net
 0.0.0.0 www.magliecalciocn.net
 0.0.0.0 magnitshop.com
@@ -6104,6 +6080,8 @@
 0.0.0.0 www.mitbellashop.de
 0.0.0.0 mitte-sued-ka.de
 0.0.0.0 www.mitte-sued-ka.de
+0.0.0.0 mixenruhren.de
+0.0.0.0 www.mixenruhren.de
 0.0.0.0 mixerie.de
 0.0.0.0 www.mixerie.de
 0.0.0.0 mixfilms.de
@@ -6640,6 +6618,8 @@
 0.0.0.0 www.nohrak.com
 0.0.0.0 nolimitsound.de
 0.0.0.0 www.nolimitsound.de
+0.0.0.0 nomaw.de
+0.0.0.0 www.nomaw.de
 0.0.0.0 nootica.de
 0.0.0.0 www.nootica.de
 0.0.0.0 shop.nordic-electronics.de
@@ -7521,6 +7501,8 @@
 0.0.0.0 www.redflix.de
 0.0.0.0 redzacgame.com
 0.0.0.0 www.redzacgame.com
+0.0.0.0 redzacservice.com
+0.0.0.0 www.redzacservice.com
 0.0.0.0 reebokaustria.at
 0.0.0.0 www.reebokaustria.at
 0.0.0.0 reeboknanonz.com

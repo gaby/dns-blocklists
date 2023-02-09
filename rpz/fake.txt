@@ -1,5 +1,5 @@
 $TTL 30
-@ SOA rpz.hagezi.fake. hostmaster.hagezi.fake. 1675810800 86400 3600 604800 30
+@ SOA rpz.hagezi.fake. hostmaster.hagezi.fake. 1675897200 86400 3600 604800 30
  NS localhost.
 ;
 ; Title: HaGeZi's Fake DNS Blocklist
@@ -8,10 +8,10 @@ $TTL 30
 ; Issues: https://github.com/hagezi/dns-blocklists/issues
 ; License: https://github.com/hagezi/dns-blocklists/blob/main/LICENSE.md
 ; Expires: Updated regularly
-; Last modified: 08 Feb 2023 07:23 UTC
-; Version: 2023.0208.0723.25
+; Last modified: 08 Feb 2023 23:16 UTC
+; Version: 2023.0208.2316.32
 ; Syntax: RPZ
-; Domains: 5379
+; Domains: 5368
 ;
 1euro.at CNAME .
 *.1euro.at CNAME .
@@ -831,8 +831,6 @@ datingdeluxe.ch CNAME .
 *.datingdeluxe.ch CNAME .
 deluxeaffaire.ch CNAME .
 *.deluxeaffaire.ch CNAME .
-doktorpotenzmittel.ch CNAME .
-*.doktorpotenzmittel.ch CNAME .
 ejoy.ch CNAME .
 *.ejoy.ch CNAME .
 expressfinanz.ch CNAME .
@@ -2207,8 +2205,6 @@ edhardyshop.com CNAME .
 *.edhardyshop.com CNAME .
 editorialrobot.com CNAME .
 *.editorialrobot.com CNAME .
-edituragenius.com CNAME .
-*.edituragenius.com CNAME .
 eekaav.com CNAME .
 *.eekaav.com CNAME .
 shop.eibos3d.com CNAME .
@@ -2459,16 +2455,12 @@ fatburner-1.com CNAME .
 *.fatburner-1.com CNAME .
 favornote.com CNAME .
 *.favornote.com CNAME .
-favrice.com CNAME .
-*.favrice.com CNAME .
 fdachdeck.com CNAME .
 *.fdachdeck.com CNAME .
 febsale.com CNAME .
 *.febsale.com CNAME .
 feetpuzzle.com CNAME .
 *.feetpuzzle.com CNAME .
-feilerelektro.com CNAME .
-*.feilerelektro.com CNAME .
 feililon.com CNAME .
 *.feililon.com CNAME .
 feixunseo.com CNAME .
@@ -2511,8 +2503,6 @@ flagshipmodels.com CNAME .
 *.flagshipmodels.com CNAME .
 flamingo-de.com CNAME .
 *.flamingo-de.com CNAME .
-flash24tradefx.com CNAME .
-*.flash24tradefx.com CNAME .
 fleiming.com CNAME .
 *.fleiming.com CNAME .
 fleshjacket.com CNAME .
@@ -2591,8 +2581,6 @@ funkenlb.com CNAME .
 *.funkenlb.com CNAME .
 furpol-global.com CNAME .
 *.furpol-global.com CNAME .
-fur.furpouch.com CNAME .
-*.fur.furpouch.com CNAME .
 fussballm2c.com CNAME .
 *.fussballm2c.com CNAME .
 fussballschuhede.com CNAME .
@@ -4477,6 +4465,8 @@ red-estate.com CNAME .
 *.red-estate.com CNAME .
 redzacgame.com CNAME .
 *.redzacgame.com CNAME .
+redzacservice.com CNAME .
+*.redzacservice.com CNAME .
 reeboknanonz.com CNAME .
 *.reeboknanonz.com CNAME .
 de.reeboktriluxrun.com CNAME .
@@ -5809,6 +5799,8 @@ alpakafreunde.de CNAME .
 *.alpakafreunde.de CNAME .
 alphaskin.de CNAME .
 *.alphaskin.de CNAME .
+alpinex-outdoor.de CNAME .
+*.alpinex-outdoor.de CNAME .
 alro-stahlbau.de CNAME .
 *.alro-stahlbau.de CNAME .
 alternative-worlds.de CNAME .
@@ -6619,8 +6611,6 @@ einfachknorke.de CNAME .
 *.einfachknorke.de CNAME .
 eis-henning.de CNAME .
 *.eis-henning.de CNAME .
-ekomfort.de CNAME .
-*.ekomfort.de CNAME .
 ekt-wohnhof.de CNAME .
 *.ekt-wohnhof.de CNAME .
 electrodeal24.de CNAME .
@@ -6689,10 +6679,6 @@ emilia-muller.de CNAME .
 *.emilia-muller.de CNAME .
 emiliameyer.de CNAME .
 *.emiliameyer.de CNAME .
-emmaheute.de CNAME .
-*.emmaheute.de CNAME .
-emmaschneider.de CNAME .
-*.emmaschneider.de CNAME .
 emmay.de CNAME .
 *.emmay.de CNAME .
 emmerthal-tierarzt.de CNAME .
@@ -6837,8 +6823,6 @@ felivoo.de CNAME .
 *.felivoo.de CNAME .
 fellowship-clan.de CNAME .
 *.fellowship-clan.de CNAME .
-ferienhaeuser-porec.de CNAME .
-*.ferienhaeuser-porec.de CNAME .
 ferienvilla-mv.de CNAME .
 *.ferienvilla-mv.de CNAME .
 ferienwohnung-gudow.de CNAME .
@@ -6997,8 +6981,6 @@ furnidays.de CNAME .
 *.furnidays.de CNAME .
 fussballfanparty.de CNAME .
 *.fussballfanparty.de CNAME .
-fusselkatzen.de CNAME .
-*.fusselkatzen.de CNAME .
 futu-rama.de CNAME .
 *.futu-rama.de CNAME .
 future-nord.de CNAME .
@@ -7877,6 +7859,8 @@ mad-max-vd-brunnengaerten.de CNAME .
 *.mad-max-vd-brunnengaerten.de CNAME .
 maehercenter.de CNAME .
 *.maehercenter.de CNAME .
+magischepfoten.de CNAME .
+*.magischepfoten.de CNAME .
 magros-welt.de CNAME .
 *.magros-welt.de CNAME .
 magtechnik.de CNAME .
@@ -8049,6 +8033,8 @@ mitbellashop.de CNAME .
 *.mitbellashop.de CNAME .
 mitte-sued-ka.de CNAME .
 *.mitte-sued-ka.de CNAME .
+mixenruhren.de CNAME .
+*.mixenruhren.de CNAME .
 mixerie.de CNAME .
 *.mixerie.de CNAME .
 mixfilms.de CNAME .
@@ -8207,6 +8193,8 @@ nke.de CNAME .
 *.nke.de CNAME .
 nolimitsound.de CNAME .
 *.nolimitsound.de CNAME .
+nomaw.de CNAME .
+*.nomaw.de CNAME .
 nootica.de CNAME .
 *.nootica.de CNAME .
 shop.nordic-electronics.de CNAME .
@@ -10285,10 +10273,6 @@ exclusivekicks.shop CNAME .
 *.exclusivekicks.shop CNAME .
 fash-brand.shop CNAME .
 *.fash-brand.shop CNAME .
-fashion-s.shop CNAME .
-*.fashion-s.shop CNAME .
-fbuys.shop CNAME .
-*.fbuys.shop CNAME .
 fillinger.shop CNAME .
 *.fillinger.shop CNAME .
 flexumgel-official.shop CNAME .
@@ -10433,8 +10417,6 @@ fashionfan.store CNAME .
 *.fashionfan.store CNAME .
 gadgetgeek.store CNAME .
 *.gadgetgeek.store CNAME .
-gamer-zone.store CNAME .
-*.gamer-zone.store CNAME .
 givoza.store CNAME .
 *.givoza.store CNAME .
 h-birds.store CNAME .
@@ -10537,12 +10519,8 @@ ejrjx.top CNAME .
 *.ejrjx.top CNAME .
 faooefs.top CNAME .
 *.faooefs.top CNAME .
-fautoizer.top CNAME .
-*.fautoizer.top CNAME .
 fugitive.top CNAME .
 *.fugitive.top CNAME .
-gcsagrov.top CNAME .
-*.gcsagrov.top CNAME .
 giftmarket.top CNAME .
 *.giftmarket.top CNAME .
 ginsengrai.top CNAME .
