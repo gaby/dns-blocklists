@@ -266,7 +266,7 @@
 @@|services.gfe.nvidia.com^
 
 ! SmartTV
-! https://github.com/Perflyst/PiHoleBlocklist/issues/117
+! https://github.com/hagezi/dns-blocklists/issues/309
 @@|aic-ngfts.lge.com^
 @@|aic-op-lss.lgthinq.com ^
 @@|aic.cdpsvc.lgtvcommon.com^
@@ -278,6 +278,10 @@
 @@|us.lgeapi.com^
 @@|us.lgtvsdp.com^
 @@|us.rdx2.lgtvsdp.com^
+
+! Smart Home
+! IKEA Tradfri
+@@|webhook.logentries.com^
 
 ! Twitter
 @@|ads.twitter.com^
@@ -2662,4 +2666,7 @@
 
 ! Contact form (https://auroraredlight.de/kontakt/) didn't work when hitting the send button
 @@|vr331.infusionsoft.com^
+
+! Site layout on techtarget.com
+@@|cdn.ttgtmedia.com^
 
