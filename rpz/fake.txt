@@ -1,5 +1,5 @@
 $TTL 30
-@ SOA rpz.hagezi.fake. hostmaster.hagezi.fake. 1675897200 86400 3600 604800 30
+@ SOA rpz.hagezi.fake. hostmaster.hagezi.fake. 1675983600 86400 3600 604800 30
  NS localhost.
 ;
 ; Title: HaGeZi's Fake DNS Blocklist
@@ -8,10 +8,10 @@ $TTL 30
 ; Issues: https://github.com/hagezi/dns-blocklists/issues
 ; License: https://github.com/hagezi/dns-blocklists/blob/main/LICENSE.md
 ; Expires: Updated regularly
-; Last modified: 09 Feb 2023 06:21 UTC
-; Version: 2023.0209.0621.17
+; Last modified: 09 Feb 2023 23:20 UTC
+; Version: 2023.0209.2320.02
 ; Syntax: RPZ
-; Domains: 5358
+; Domains: 5332
 ;
 1euro.at CNAME .
 *.1euro.at CNAME .
@@ -789,8 +789,6 @@ urbetter.ca CNAME .
 *.urbetter.ca CNAME .
 berghausoutlet.cc CNAME .
 *.berghausoutlet.cc CNAME .
-juechuang.cc CNAME .
-*.juechuang.cc CNAME .
 monicasneaker.cc CNAME .
 *.monicasneaker.cc CNAME .
 pg99.cc CNAME .
@@ -2991,8 +2989,6 @@ ilborgocasavacanze.com CNAME .
 *.ilborgocasavacanze.com CNAME .
 ilysne.com CNAME .
 *.ilysne.com CNAME .
-imaxcine.com CNAME .
-*.imaxcine.com CNAME .
 imaxdome.com CNAME .
 *.imaxdome.com CNAME .
 imaxtime.com CNAME .
@@ -3049,8 +3045,6 @@ intoleranztest.com CNAME .
 *.intoleranztest.com CNAME .
 invest-club-de.com CNAME .
 *.invest-club-de.com CNAME .
-investcryptotap.com CNAME .
-*.investcryptotap.com CNAME .
 investfw.com CNAME .
 *.investfw.com CNAME .
 investing-digital.com CNAME .
@@ -3077,8 +3071,6 @@ flash.iubqx.com CNAME .
 *.flash.iubqx.com CNAME .
 shop.iubqx.com CNAME .
 *.shop.iubqx.com CNAME .
-izecarts.com CNAME .
-*.izecarts.com CNAME .
 izibrennholz.com CNAME .
 *.izibrennholz.com CNAME .
 jackenwellensteyn.com CNAME .
@@ -3115,8 +3107,6 @@ joeldkuhn.com CNAME .
 *.joeldkuhn.com CNAME .
 joeygo.com CNAME .
 *.joeygo.com CNAME .
-joglia.com CNAME .
-*.joglia.com CNAME .
 joinyous.com CNAME .
 *.joinyous.com CNAME .
 jojolikes.com CNAME .
@@ -3133,12 +3123,8 @@ joyeeshop.com CNAME .
 *.joyeeshop.com CNAME .
 joyshoetique.com CNAME .
 *.joyshoetique.com CNAME .
-jp-cases.com CNAME .
-*.jp-cases.com CNAME .
 jpurbalaud.com CNAME .
 *.jpurbalaud.com CNAME .
-jshaustechnik.com CNAME .
-*.jshaustechnik.com CNAME .
 jsi-sale.com CNAME .
 *.jsi-sale.com CNAME .
 julireh.com CNAME .
@@ -3237,8 +3223,6 @@ kilokits.com CNAME .
 *.kilokits.com CNAME .
 kimberlybisger.com CNAME .
 *.kimberlybisger.com CNAME .
-kimtisor.com CNAME .
-*.kimtisor.com CNAME .
 kindduckling.com CNAME .
 *.kindduckling.com CNAME .
 king7seven.com CNAME .
@@ -3335,14 +3319,10 @@ lappjantan.com CNAME .
 *.lappjantan.com CNAME .
 laptop-akku-shop.com CNAME .
 *.laptop-akku-shop.com CNAME .
-lasharlay.com CNAME .
-*.lasharlay.com CNAME .
 lastresortshipping.com CNAME .
 *.lastresortshipping.com CNAME .
 lasuperhousse.com CNAME .
 *.lasuperhousse.com CNAME .
-latestinvestmentopportunity.com CNAME .
-*.latestinvestmentopportunity.com CNAME .
 lavitaroquetas.com CNAME .
 *.lavitaroquetas.com CNAME .
 lawncaremall.com CNAME .
@@ -3429,8 +3409,6 @@ livelearningzone.com CNAME .
 *.livelearningzone.com CNAME .
 liveliky.com CNAME .
 *.liveliky.com CNAME .
-ljiankun.com CNAME .
-*.ljiankun.com CNAME .
 lkenshop.com CNAME .
 *.lkenshop.com CNAME .
 llizzyeeo.com CNAME .
@@ -7405,8 +7383,6 @@ infinite-electronic.de CNAME .
 *.infinite-electronic.de CNAME .
 inflix.de CNAME .
 *.inflix.de CNAME .
-infodux.de CNAME .
-*.infodux.de CNAME .
 ingayoga.de CNAME .
 *.ingayoga.de CNAME .
 ingbert-unruh.de CNAME .
@@ -7425,14 +7401,10 @@ instametall.de CNAME .
 *.instametall.de CNAME .
 internationalerumzug.de CNAME .
 *.internationalerumzug.de CNAME .
-internetwork-ag.de CNAME .
-*.internetwork-ag.de CNAME .
 interseroh-brandneu.de CNAME .
 *.interseroh-brandneu.de CNAME .
 ipairs.de CNAME .
 *.ipairs.de CNAME .
-iqfleet.de CNAME .
-*.iqfleet.de CNAME .
 ique-robot.de CNAME .
 *.ique-robot.de CNAME .
 irenekleider.de CNAME .
@@ -7463,8 +7435,6 @@ jamunto.de CNAME .
 *.jamunto.de CNAME .
 je-marketing.de CNAME .
 *.je-marketing.de CNAME .
-jeanninemay.de CNAME .
-*.jeanninemay.de CNAME .
 jeansdeutschland.de CNAME .
 *.jeansdeutschland.de CNAME .
 jeffora.de CNAME .
@@ -7533,8 +7503,6 @@ kauful.de CNAME .
 *.kauful.de CNAME .
 kaufyshop.de CNAME .
 *.kaufyshop.de CNAME .
-kawawo.de CNAME .
-*.kawawo.de CNAME .
 kayklingbeil.de CNAME .
 *.kayklingbeil.de CNAME .
 ked-rad.de CNAME .
@@ -7613,8 +7581,6 @@ kolorfun.de CNAME .
 *.kolorfun.de CNAME .
 kompens.de CNAME .
 *.kompens.de CNAME .
-konsoleguru.de CNAME .
-*.konsoleguru.de CNAME .
 konsolenparadies.de CNAME .
 *.konsolenparadies.de CNAME .
 konzept-raum.de CNAME .
@@ -7695,8 +7661,6 @@ laufschule-janson.de CNAME .
 *.laufschule-janson.de CNAME .
 lava-muc.de CNAME .
 *.lava-muc.de CNAME .
-lavinchi.de CNAME .
-*.lavinchi.de CNAME .
 lavonde.de CNAME .
 *.lavonde.de CNAME .
 lcc-allgaeu.de CNAME .
@@ -7721,16 +7685,12 @@ lesehunde.de CNAME .
 *.lesehunde.de CNAME .
 leselounge-berlin.de CNAME .
 *.leselounge-berlin.de CNAME .
-letsgoshop.de CNAME .
-*.letsgoshop.de CNAME .
 levelbikes.de CNAME .
 *.levelbikes.de CNAME .
 levoda.de CNAME .
 *.levoda.de CNAME .
 lewitznetzwerk.de CNAME .
 *.lewitznetzwerk.de CNAME .
-lexero.de CNAME .
-*.lexero.de CNAME .
 lexflix.de CNAME .
 *.lexflix.de CNAME .
 lgcberlin.de CNAME .
@@ -10413,8 +10373,6 @@ hotcheapswear.store CNAME .
 *.hotcheapswear.store CNAME .
 hovko.store CNAME .
 *.hovko.store CNAME .
-likesell.store CNAME .
-*.likesell.store CNAME .
 media-world.store CNAME .
 *.media-world.store CNAME .
 medimaxdeutschland.store CNAME .
@@ -10507,20 +10465,12 @@ giftmarket.top CNAME .
 *.giftmarket.top CNAME .
 guika.top CNAME .
 *.guika.top CNAME .
-hrqeepy.top CNAME .
-*.hrqeepy.top CNAME .
-hunius.top CNAME .
-*.hunius.top CNAME .
 ichols.top CNAME .
 *.ichols.top CNAME .
 imedilove.top CNAME .
 *.imedilove.top CNAME .
-ipicplian.top CNAME .
-*.ipicplian.top CNAME .
 iylsor.top CNAME .
 *.iylsor.top CNAME .
-jppkshop.top CNAME .
-*.jppkshop.top CNAME .
 jzeeshades.top CNAME .
 *.jzeeshades.top CNAME .
 kaminj.top CNAME .
@@ -10529,8 +10479,6 @@ kedsschuhe.top CNAME .
 *.kedsschuhe.top CNAME .
 kickersdeutschland.top CNAME .
 *.kickersdeutschland.top CNAME .
-kofitnessd.top CNAME .
-*.kofitnessd.top CNAME .
 laurenz.top CNAME .
 *.laurenz.top CNAME .
 lcirv.top CNAME .
