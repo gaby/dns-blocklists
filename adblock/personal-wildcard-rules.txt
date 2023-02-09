@@ -70,6 +70,7 @@
 ||ad*.ettoday.net^
 ||adition.com^
 ||adswizz.com^
+||dns-*.iij.ad.jp^
 
 ! Amazon AWS
 ||*-adserver-*.amazonaws.com^
@@ -223,7 +224,9 @@
 ||kameleoon.com^
 ||*.t.keepitpumpin.io^
 ||indexww.com^
-||logentries.com^$important
+||logentries.com^
+# IKEA Tradfri
+@@||webhook.logentries.com^
 ||api*.mixpanel.com^
 ||newrelic.com^
 ||log*.optimizely.com^
@@ -295,6 +298,20 @@
 ||t.eloqua.com^
 ||fwmrm.net^
 ||serving-sys.com^
+||2o7.net^
+! 2o7.net exceptions
+@@||appleglobal.102.112.2o7.net^
+@@||mediacorp.112.2o7.net^
+@@||oracle.112.2o7.net^
+@@||prisacom.112.2o7.net^
+@@||viarnd.112.2o7.net^
+@@||subarumysubaruappproduction.112.2o7.net^
+@@||cdn.gigya.commes.122.2o7.net^
+@@||webmdglobal.122.2o7.net^
+||tracking*.adsafety.net^
+||rubiconproject.com^
+! Ask.com search
+@@||micro.rubiconproject.com^
 
 ! Apple
 ||*analytics-events.apple.com^
@@ -458,9 +475,10 @@
 ||tvtelemetrie.de^
 ||usage*.myhomescreen.tv^
 # LG
-||aic-ngfts.lge.com^
 ||cdpbeacon.lgtvcommon.com^
 ||lgsmartad.com^
+! Needed for TV Service Location Area
+@@||us.info.lgsmartad.com^
 
 ! TikTok Fingerprinting
 ||*-ad.byteoversea.com^
